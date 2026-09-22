@@ -1,7 +1,14 @@
 ---
+id: 12-relacoes-morte-e-eternidade
+tipo: relacao
+schema_version: 1.1
+aliases:
+  - "Morte e Eternidade"
+tags:
+  - hdma/relacao
+moc: "[[MOC - Personagens]]"
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: relacao
 versao: 1.0
 ---
 
