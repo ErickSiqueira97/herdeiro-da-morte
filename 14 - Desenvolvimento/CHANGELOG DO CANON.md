@@ -101,3 +101,11 @@ Primeira consolidação do Vault.
 - A via não voluntária para romper Eternidade passa a ser quantitativa: concentração progressiva de frações através de Execuções, e não coleta de traços predeterminados.
 - Mantida a segunda via: a própria Eternidade pode aceitar voluntariamente um Fim.
 - Quantidade exata necessária e forma técnica do ato final permanecem abertas para o desenvolvimento do clímax.
+
+## 22/09/2026 — Irreversibilidade do acúmulo após Execução
+- Depois que o Herdeiro produz uma morte verdadeira de Eterno por Execução, a fração de Eternidade liberada converge inevitavelmente para o Herdeiro/Livro.
+- O Herdeiro pode rejeitar conscientemente o acúmulo, afastar ou fechar o Livro, mas não pode recusar a consequência depois que o Fim já ocorreu.
+- Execução não mata por ele: a condição fatal continua exigindo participação causal válida do Herdeiro. A inevitabilidade começa somente após o Fim.
+- A única forma de impedir novo acúmulo é não produzir uma nova morte verdadeira de Eterno por Execução.
+- A recusa posterior poderá ser dramatizada em cena, transformando o Registro/acúmulo de recompensa inicial em consequência temida.
+- O destino das frações caso o Herdeiro morra permanece em aberto e será resolvido com a terceira morte.
