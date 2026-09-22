@@ -18,7 +18,7 @@ relacoes:
     tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-versao: 1.1
+versao: 1.2
 ---
 
 # Livro dos Fins
@@ -32,6 +32,8 @@ Relíquia original da [[Morte]]; o livro negro do [[Protagonista]] é seu [[Reli
 - Quando a morte registrada é a de um Eterno através de [[Execucao]], o Livro também participa da retenção/concentração da fração de [[Eternidade]] liberada pelo Fim verdadeiro.
 
 O acúmulo de Eternidade é distinto do Registro de Autoridades: não precisa aparecer como nova Autoridade, porcentagem ou lista de componentes. Seus sinais podem permanecer enigmáticos e progressivos.
+
+Quando uma Execução já produziu o Fim verdadeiro de um Eterno, o Herdeiro **não pode recusar posteriormente a fração liberada**. Fechar, afastar ou rejeitar o Livro não interrompe a concentração: o Livro/Herdeiro funciona como destino metafísico da ruptura que ele próprio causou. A escolha capaz de evitar esse resultado precisa ocorrer antes do Fim, recusando-se a produzir a morte verdadeira.
 
 No primeiro assassinato de um Sucessor, a mensagem planejada é **REGISTRO CONCLUÍDO**, não “Execução”.
 
