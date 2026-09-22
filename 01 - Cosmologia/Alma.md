@@ -1,7 +1,23 @@
 ---
+id: 01-cosmologia-alma
+tipo: cosmologia
+schema_version: 1.1
+aliases:
+  - "Alma"
+tags:
+  - hdma/cosmologia
+moc: "[[MOC - Cosmologia]]"
+relacoes:
+  - alvo: "[[Marca]]"
+    tipo: referencia
+  - alvo: "[[Autoridade]]"
+    tipo: referencia
+  - alvo: "[[Protagonista]]"
+    tipo: referencia
+  - alvo: "[[Cicatriz da Alma]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: conceito
 versao: 1.0
 ---
 
