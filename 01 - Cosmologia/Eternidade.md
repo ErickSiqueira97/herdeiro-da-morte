@@ -16,7 +16,7 @@ relacoes:
     tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-versao: 1.2
+versao: 1.3
 ---
 
 # Eternidade
@@ -33,17 +33,19 @@ Não é vilã por definição. Pode atuar como antagonista ao defender a continu
 Relacionada: [[Morte]], [[Eternos]], [[Execucao]].
 
 ## Frações da Eternidade
-Cada Eterno verdadeiro sustenta em sua existência uma **fração da condição primordial da Eternidade**. Essa fração não é uma Autoridade separada, não possui domínio próprio e não precisa receber nome, classe ou especialização.
+Cada **deus**, e somente a categoria divina dos deuses, sustenta em sua existência uma **fração da condição primordial da Eternidade**. Na ontologia atual, todo deus é Eterno. Essa fração não é uma Autoridade separada, não possui domínio próprio e não precisa receber nome, classe ou especialização.
 
-Enquanto o Eterno continua existindo, sua fração permanece incorporada à condição que rejeita um Fim verdadeiro.
+Enquanto o deus continua existindo, sua fração permanece incorporada à condição que rejeita um Fim verdadeiro.
 
-Quando [[Execucao]] transforma uma condição fatal em um Fim válido e um Eterno realmente morre, ocorre uma ruptura inédita: a fração de Eternidade que sustentava aquela existência deixa de permanecer naquele ser. O Herdeiro/Livro é capaz de **reter e concentrar progressivamente** essa fração.
+Quando [[Execucao]] transforma uma condição fatal em um Fim válido e um deus realmente morre, ocorre uma ruptura inédita: a fração de Eternidade que sustentava aquela existência deixa de permanecer naquele ser. O Herdeiro/Livro é capaz de **reter e concentrar progressivamente** essa fração.
 
-Assim, mortes sucessivas de Eternos produzem dois acúmulos diferentes no Herdeiro:
+Assim, mortes sucessivas de deuses produzem dois acúmulos diferentes no Herdeiro:
 - as Autoridades dos deuses mortos, registradas pelo [[Livro dos Fins]];
 - frações da própria condição de Eternidade liberadas por Execuções válidas.
 
 Essas frações não precisam ser apresentadas como porcentagem, contador ou coleção de componentes distintos. O acúmulo pode permanecer incompreendido por grande parte da saga e manifestar-se por sinais progressivos no Livro e no próprio Herdeiro.
+
+A fração de Eternidade é transmitida/propagada entre gerações divinas sem funcionar como uma reserva finita que diminui nos progenitores. A [[Sucessao]] humana não transmite essa fração.
 
 Uma vez produzido um Fim por Execução, a fração liberada converge inevitavelmente para o Herdeiro/Livro; uma recusa posterior não desfaz nem impede esse acúmulo. A única maneira de evitar nova concentração é não produzir outro Fim verdadeiro de Eterno.
 
@@ -53,7 +55,7 @@ O Herdeiro não se torna automaticamente Eterno ao acumulá-las. Sua existência
 Existem duas vias capazes de romper a própria condição de Eternidade:
 
 1. **Livre escolha da Eternidade** — a própria Eternidade aceita/consente com um Fim ou com o encerramento da condição que sustenta.
-2. **Acúmulo por Execução** — mortes verdadeiras de Eternos retiram e concentram progressivamente no Herdeiro frações da condição primordial. A concentração suficiente dessas frações torna possível alcançar e romper a própria estrutura da Eternidade.
+2. **Acúmulo por Execução** — mortes verdadeiras de deuses retiram e concentram progressivamente no Herdeiro frações da condição primordial. A concentração suficiente dessas frações torna possível alcançar e romper a própria estrutura da Eternidade.
 
 Não existem traços específicos que precisem ser colecionados nem uma lista predeterminada de Autoridades obrigatórias. O princípio é **acúmulo**, não combinação de peças.
 
