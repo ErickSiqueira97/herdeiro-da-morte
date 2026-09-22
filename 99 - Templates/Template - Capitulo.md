@@ -1,9 +1,16 @@
 ---
-projeto: O Herdeiro da Morte
-status: TEMPLATE
+id: 99-templates-template-capitulo
 tipo: template
-versao: 1.0
+schema_version: 1.1
+aliases:
+  - "Template - Capitulo"
+tags:
+  - hdma/template
+status: TEMPLATE
+projeto: O Herdeiro da Morte
+versao: 1.1
 ---
+
 # Capítulo {{n}}
 ## POV
 ## Data/local
