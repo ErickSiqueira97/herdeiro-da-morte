@@ -19,9 +19,9 @@ versao: 1.1
 4. Competição divina por influência, território, culto e prestígio.
 5. [[Primeira Guerra]]: humanos tornam-se proxies.
 6. [[Diluvio]] integra a grande catástrofe final; deuses divergem entre destruir/salvar humanos.
-7. Paz divina; mortais pagam o preço; Morte radicaliza sua visão.
+7. Paz divina; mortais pagam o preço; Morte radicaliza sua visão. A devastação também desencadeia uma crise de legitimidade: grupos humanos começam a questionar culto, obediência e dependência dos deuses.
 8. Morte tenta compreender/aplicar Fim a um Eterno e encontra o limite de [[Eternidade]].
-9. [[Primeiro Pacto]] separa a presença divina plena do mundo mortal; deuses permanecem em seus próprios domínios.
+9. [[Primeiro Pacto]] separa a presença divina plena do mundo mortal. O acordo nasce tanto da necessidade de evitar nova catástrofe quanto do medo de perder culto, legitimidade e influência sobre uma humanidade cada vez mais crítica; os deuses permanecem em seus próprios domínios.
 10. Gilgamesh busca [[Shamash]] para salvar [[Enkidu]]; a primeira concessão funcional de Autoridade a um humano é realizada.
 11. Um pequeno grupo de deuses, temendo as consequências da descoberta, assassina Enkidu.
 12. A Autoridade retorna a Shamash; Morte observa o **Primeiro Retorno**.
