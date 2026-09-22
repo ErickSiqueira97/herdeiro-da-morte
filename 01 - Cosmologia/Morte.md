@@ -1,7 +1,33 @@
 ---
+id: 01-cosmologia-morte
+tipo: cosmologia
+schema_version: 1.1
+aliases:
+  - "Morte"
+tags:
+  - hdma/cosmologia
+moc: "[[MOC - Cosmologia]]"
+relacoes:
+  - alvo: "[[Execucao]]"
+    tipo: referencia
+  - alvo: "[[Livro dos Fins]]"
+    tipo: referencia
+  - alvo: "[[Protagonista]]"
+    tipo: referencia
+  - alvo: "[[Cicatriz da Alma]]"
+    tipo: referencia
+  - alvo: "[[Primeira Guerra]]"
+    tipo: referencia
+  - alvo: "[[Diluvio]]"
+    tipo: referencia
+  - alvo: "[[Eternidade]]"
+    tipo: referencia
+  - alvo: "[[Seshat]]"
+    tipo: referencia
+  - alvo: "[[Sobreposicao]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: entidade
 versao: 1.0
 ---
 
