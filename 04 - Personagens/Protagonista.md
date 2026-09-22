@@ -1,7 +1,33 @@
 ---
+id: 04-personagens-protagonista
+tipo: personagem
+schema_version: 1.1
+aliases:
+  - "Protagonista"
+tags:
+  - hdma/personagem
+moc: "[[MOC - Personagens]]"
+relacoes:
+  - alvo: "[[EM ABERTO]]"
+    tipo: referencia
+  - alvo: "[[Cicatriz da Alma]]"
+    tipo: referencia
+  - alvo: "[[Morte]]"
+    tipo: referencia
+  - alvo: "[[Seshat]]"
+    tipo: referencia
+  - alvo: "[[Herdeiro da Morte]]"
+    tipo: referencia
+  - alvo: "[[Livro dos Fins]]"
+    tipo: referencia
+  - alvo: "[[Execucao]]"
+    tipo: referencia
+  - alvo: "[[Assassinato da Familia]]"
+    tipo: referencia
+  - alvo: "[[Callback - Demorou]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: personagem
 versao: 1.0
 ---
 
