@@ -34,9 +34,8 @@ Morte opera principalmente por sonhos, visões, informação e influência indir
 ### A05 — Retorno infantil [RESOLVIDO]
 O protagonista morre afogado na infância e sua alma atravessa o Fim. A reanimação física ocorre depois de a morte já ter sido metafisicamente reconhecida, forçando o retorno de uma alma cujo Fim já estava registrado e produzindo a Cicatriz da Alma. Morte testemunha, mas não causa o retorno.
 
-### A06 — Pacto x ataque ao Santuário [ALTO]
-Livro 2 exige intervenção divina relevante; Santuário reconhece que compatibilidade com Primeiro Pacto não está formalizada.
-Impacto: clímax Livro 2 e coerência histórica.
+### A06 — Pacto x ataque ao Santuário [RESOLVIDO NO NÚCLEO]
+Ruptura aberta do Primeiro Pacto produz três efeitos: manifestação plena expõe mais da essência divina fora da proteção do domínio; a ruptura quebra a reciprocidade e abre direito de resposta aos signatários ameaçados; e o próprio Pacto deixa uma assinatura metafísica detectável. Isso não cria um Fim em um Eterno e não substitui Execução. O ataque do Livro 2 pode começar por meios indiretos e escalar para a primeira ruptura aberta relevante da era atual.
 
 ### A07 — Detector de Marca [MÉDIO]
 A Sobreposição explica por que lê Seshat, mas não por que leitura mais profunda de Ma'at falha sem denunciar imediatamente “duas Marcas”. Definir resolução, limites e interpretação institucional.
@@ -101,7 +100,7 @@ Macro final está mais definido que o caminho. Faltam facções, campanha da gue
 ### P0 — Travar antes de detalhar livros
 1. ~~Ontologia da Autoridade: deus ↔ Sucessor ↔ morte do deus.~~ Núcleo resolvido.
 2. ~~Regra de causalidade do Registro.~~ Resolvida.
-3. Primeiro Pacto completo.
+3. ~~Primeiro Pacto completo.~~ Núcleo resolvido; signatários e jurisprudência histórica podem ser detalhados depois.
 4. Desenvolver os traços/Autoridades que compõem a via não voluntária para romper Eternidade.
 5. ~~Limites operacionais da Morte.~~ Núcleo resolvido.
 6. ~~Retorno infantil/Cicatriz.~~ Resolvido.

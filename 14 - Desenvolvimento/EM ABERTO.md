@@ -31,7 +31,6 @@ versao: 1.0
 ---
 
 # Em Aberto
-- Consequência exata e mecanismo metafísico de vinculação para uma violação aberta do [[Primeiro Pacto]].
 - Identidade do pequeno grupo de deuses que assassinou [[Enkidu]] e suas motivações individuais.
 - Detalhes das [[Guerras dos Sucessores]].
 - Estrutura política/operacional do [[Santuario]].
