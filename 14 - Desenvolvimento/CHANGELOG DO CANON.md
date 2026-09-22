@@ -81,3 +81,12 @@ Primeira consolidação do Vault.
 - Adoração não sustenta metafisicamente a existência dos deuses; sua perda reduz influência social, política, religiosa e cultural no mundo mortal.
 - O Primeiro Pacto nasce de motivações diversas entre os deuses: culpa, pragmatismo, medo de perder culto/influência, preservação da ordem e equilíbrio entre rivais.
 - O Pacto não é tratado como presente puramente altruísta, mas como concessão diante do risco de nova catástrofe e de ruptura entre humanidade e deuses.
+
+## 21/09/2026 — Consequências da ruptura do Primeiro Pacto
+- O Pacto não é barreira absoluta nem mata automaticamente o violador.
+- Manifestar presença e Autoridade plenas na Terra expõe uma parcela maior da essência divina fora da proteção de seu domínio, aumentando vulnerabilidade a ferimento, contenção e confronto.
+- Essa exposição não cria um Fim em um Eterno e não substitui Execução.
+- Uma ruptura quebra a reciprocidade do acordo e concede direito de resposta aos signatários diretamente ameaçados, criando risco de reação em cadeia e nova guerra divina.
+- Violações abertas deixam uma assinatura metafísica reconhecível; o Santuário pode observá-la, mas não é a fonte da sanção.
+- Antes do Herdeiro, o principal risco era exposição e escalada. Depois da primeira morte verdadeira de um Eterno, atravessar passa também a significar tornar-se acessível a alguém capaz de impor um Fim.
+- O princípio histórico fica fixado: **o Pacto não impede um deus de atravessar; ele garante que atravessar tenha consequências.**
