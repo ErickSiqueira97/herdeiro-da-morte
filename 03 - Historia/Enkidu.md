@@ -7,28 +7,30 @@ aliases:
 tags:
   - hdma/evento_historico
 moc: "[[MOC - História]]"
-relacoes:
-  - alvo: "[[Gilgamesh]]"
-    tipo: referencia
-  - alvo: "[[Shamash]]"
-    tipo: referencia
-  - alvo: "[[Morte]]"
-    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-versao: 1.0
+versao: 1.1
 ---
 
 # Enkidu
-Durante sua morte, [[Gilgamesh]] busca ajuda divina. Com [[Shamash]], tenta-se fixar Autoridade divina permanentemente em uma alma humana para salvá-lo.
+Diante da morte de [[Enkidu]], [[Gilgamesh]] busca ajuda divina. Com [[Shamash]], tenta-se fixar Autoridade divina em uma alma humana para salvá-lo.
 
-A Marca começa a se formar; possivelmente um Eco surge brevemente. **Enkidu ainda morre.**
+## A verdade
+**O experimento funciona.**
 
-O experimento prova duas coisas:
-- Autoridade pode aderir a um humano.
-- Autoridade **não é Eternidade**.
+Enkidu recebe uma forma pioneira de Sucessão: a Autoridade adere à alma humana, uma Marca se estabelece e a intervenção consegue impedir sua morte naquele momento.
 
-Ao morrer, a Autoridade nascente retorna a Shamash. [[Morte]] observa o fenômeno — o **Primeiro Retorno**.
+A existência de um humano carregando Autoridade divina, porém, cria medo e dúvida entre determinadas divindades. Um pequeno grupo decide eliminar Enkidu antes que a descoberta desconhecida se espalhe ou altere a relação de poder entre deuses e mortais.
 
-Registro histórico potencial:
-> PRIMEIRO PORTADOR: ENKIDU — ESTADO: INCOMPLETO
+Enkidu é assassinado.
+
+Sua morte faz a Autoridade retornar a [[Shamash]]. [[Morte]] presencia esse trânsito e observa aquilo que posteriormente será entendido como o **Primeiro Retorno**.
+
+## Consequências
+- prova que Autoridade pode aderir de forma funcional a um humano;
+- prova que Sucessão não torna automaticamente alguém [[Eternidade|Eterno]];
+- fornece à Morte a primeira observação decisiva do retorno de uma Autoridade à fonte;
+- transforma a descoberta de Gilgamesh em trauma e conflito político, não em simples experimento fracassado;
+- estabelece um segredo histórico: a versão conhecida pode tratar a tentativa como incapaz de salvar Enkidu, enquanto a verdade é que ela funcionou e ele foi morto depois.
+
+A identidade do grupo divino responsável pelo assassinato permanece em aberto e deve preservar a regra de que nem todos os deuses participaram ou concordaram.
