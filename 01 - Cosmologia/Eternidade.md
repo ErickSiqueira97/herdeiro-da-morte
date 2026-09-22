@@ -31,3 +31,12 @@ A primeira morte verdadeira de um Eterno produz a primeira experiência de **aus
 Não é vilã por definição. Pode atuar como antagonista ao defender a continuidade dos Eternos.
 
 Relacionada: [[Morte]], [[Eternos]], [[Execucao]].
+
+## Ruptura da condição
+A condição de Eternidade não pode ser simplesmente removida pela Morte, pelo Herdeiro ou por uma única Autoridade.
+
+Existem duas vias capazes de romper a própria condição:
+1. **livre escolha da Eternidade** — a própria Eternidade consente em encerrar/alterar a condição que sustenta;
+2. **totalidade dos traços da Eternidade** — reunir todas as Autoridades/traços que, em conjunto, compõem ou ancoram a Eternidade permite atuar sobre a condição completa.
+
+A distribuição, identidade e forma exata desses traços ainda precisam ser desenvolvidas. O princípio, porém, é canônico: o clímax não pode romper Eternidade com uma habilidade isolada criada no momento final.

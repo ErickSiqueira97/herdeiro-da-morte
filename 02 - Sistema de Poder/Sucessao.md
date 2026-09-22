@@ -42,3 +42,12 @@ versao: 1.0
 - Morte pelo Herdeiro: o retorno pode ser interceptado e registrado no [[Livro dos Fins]].
 
 Origem histórica: [[Enkidu]] → [[Primeira Sucessao]] → [[Gilgamesh]] → [[Guerras dos Sucessores]].
+
+## Morte da fonte divina
+A Autoridade de um Sucessor depende da existência de sua fonte divina. Se o deus morre, o vínculo é rompido e o Sucessor perde aquela Autoridade.
+
+O rompimento também encerra qualquer sustentação de vida/longevidade que dependesse especificamente daquela Autoridade:
+- se o Sucessor ainda está dentro de uma condição humana viável, volta a estar plenamente sujeito à mortalidade e à passagem do tempo;
+- se sua continuidade já dependia da Autoridade como pilar para mantê-lo vivo, a perda desse pilar pode causar sua morte.
+
+Isso não transforma toda Sucessão em Eternidade: [[Eternidade]] continua sendo uma condição metafísica distinta de longevidade, preservação ou sustentação produzida por uma Autoridade.
