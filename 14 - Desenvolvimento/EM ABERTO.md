@@ -1,7 +1,32 @@
 ---
+id: 14-desenvolvimento-em-aberto
+tipo: desenvolvimento
+schema_version: 1.1
+aliases:
+  - "EM ABERTO"
+tags:
+  - hdma/desenvolvimento
+relacoes:
+  - alvo: "[[Primeiro Pacto]]"
+    tipo: referencia
+  - alvo: "[[Guerras dos Sucessores]]"
+    tipo: referencia
+  - alvo: "[[Santuario]]"
+    tipo: referencia
+  - alvo: "[[Protagonista]]"
+    tipo: referencia
+  - alvo: "[[Melhor Amigo]]"
+    tipo: referencia
+  - alvo: "[[Sun Wukong]]"
+    tipo: referencia
+  - alvo: "[[Investigadora de Thoth]]"
+    tipo: referencia
+  - alvo: "[[Diretor do Santuario]]"
+    tipo: referencia
+  - alvo: "[[Sucessora de Idunn]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: EM ABERTO
-tipo: backlog
 versao: 1.0
 ---
 
