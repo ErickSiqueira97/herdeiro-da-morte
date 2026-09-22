@@ -19,17 +19,14 @@ O maior risco atual não é uma contradição fatal, mas o vazio entre a cosmolo
 
 ## Alertas de continuidade
 
-### A01 — “Morte pelo Herdeiro” ainda é ambíguo [CRÍTICO]
-Sucessão diz que morte pelo Herdeiro pode ser interceptada; Livro diz “mortes válidas causadas pelo Herdeiro”. Falta definir causalidade: golpe final, intenção, participação indireta, armadilha, ordem a terceiro, acidente, suicídio provocado, morte horas depois etc.
-Impacto: todas as aquisições de Autoridade.
+### A01 — Causalidade do Registro [RESOLVIDO]
+O Herdeiro precisa participar diretamente da morte, mas não precisa aplicar o golpe final. Presença passiva não basta. A regra foi consolidada em [[Livro dos Fins]]. Casos-limite de causalidade indireta permanecem para jurisprudência futura, sem alterar o núcleo.
 
-### A02 — Que Autoridade é registrada quando um Eterno morre? [CRÍTICO]
-A regra “um deus = uma Autoridade = um Sucessor ativo” convive com o Livro 2 dizendo que a primeira Autoridade divina entra no Livro. É preciso definir o estado do Sucessor ativo desse deus e se a Autoridade concedida é parcela, vínculo, expressão ou a mesma entidade metafísica.
-Impacto: sistema inteiro e guerras divinas.
+### A02 — Morte do deus e vínculo do Sucessor [RESOLVIDO NO NÚCLEO]
+A morte da fonte divina rompe a Autoridade do Sucessor. Sustentação/longevidade dependente dela também termina: o vivo volta à mortalidade normal; quem já dependia desse pilar para continuar vivo pode morrer. Ainda falta detalhar manifestações específicas por Autoridade.
 
-### A03 — Destruir Eternidade precisa de mecanismo preparado [CRÍTICO]
-O final canônico exige destruir a condição de Eternidade. Ainda não existe cadeia de regras mostrando como Autoridades acumuladas + Livro + Execução podem atuar sobre uma condição primordial sem transformar o clímax em poder novo.
-Impacto: payoff final.
+### A03 — Ruptura da Eternidade [RESOLVIDO NO PRINCÍPIO]
+A condição só pode ser rompida por livre escolha da própria Eternidade ou pela reunião da totalidade de suas Autoridades/traços. Falta definir quais são esses traços, onde estão e como sua reunião funciona; isso agora é desenvolvimento/foreshadowing, não ausência de regra fundamental.
 
 ### A04 — Limite “Morte não mata” precisa de jurisprudência [ALTO]
 Manipular circunstâncias é permitido, mas falta fronteira entre permitir risco e causar morte. Sem regra clara, qualquer ação da Morte pode parecer arbitrariamente permitida/proibida.
@@ -104,10 +101,10 @@ Macro final está mais definido que o caminho. Faltam facções, campanha da gue
 ## Priorização de desenvolvimento
 
 ### P0 — Travar antes de detalhar livros
-1. Ontologia da Autoridade: deus ↔ Sucessor ↔ morte do deus.
-2. Regra de causalidade do Registro.
+1. ~~Ontologia da Autoridade: deus ↔ Sucessor ↔ morte do deus.~~ Núcleo resolvido.
+2. ~~Regra de causalidade do Registro.~~ Resolvida.
 3. Primeiro Pacto completo.
-4. Mecânica potencial do fim da Eternidade.
+4. Desenvolver os traços/Autoridades que compõem a via não voluntária para romper Eternidade.
 5. Limites operacionais da Morte.
 6. Retorno infantil/Cicatriz.
 
