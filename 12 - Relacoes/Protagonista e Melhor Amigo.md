@@ -1,7 +1,14 @@
 ---
+id: 12-relacoes-protagonista-e-melhor-amigo
+tipo: relacao
+schema_version: 1.1
+aliases:
+  - "Protagonista e Melhor Amigo"
+tags:
+  - hdma/relacao
+moc: "[[MOC - Personagens]]"
 projeto: O Herdeiro da Morte
 status: PROVISÓRIO
-tipo: relacao
 versao: 1.0
 ---
 
