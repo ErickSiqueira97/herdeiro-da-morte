@@ -28,9 +28,8 @@ A morte da fonte divina rompe a Autoridade do Sucessor. Sustentação/longevidad
 ### A03 — Ruptura da Eternidade [RESOLVIDO NO PRINCÍPIO]
 A condição só pode ser rompida por livre escolha da própria Eternidade ou pela reunião da totalidade de suas Autoridades/traços. Falta definir quais são esses traços, onde estão e como sua reunião funciona; isso agora é desenvolvimento/foreshadowing, não ausência de regra fundamental.
 
-### A04 — Limite “Morte não mata” precisa de jurisprudência [ALTO]
-Manipular circunstâncias é permitido, mas falta fronteira entre permitir risco e causar morte. Sem regra clara, qualquer ação da Morte pode parecer arbitrariamente permitida/proibida.
-Impacto: responsabilidade moral e revelação da família.
+### A04 — Limites operacionais da Morte [RESOLVIDO NO NÚCLEO]
+Morte opera principalmente por sonhos, visões, informação e influência indireta. Como força primordial, não depende de Autoridade concedida. Não controla a vontade alheia nem pode causar diretamente uma morte. Mantém sua identidade verdadeira oculta e usa nomes/títulos falsos quando precisa se identificar. Casos extremos de causalidade podem ser refinados em cena sem alterar esse núcleo.
 
 ### A05 — Retorno infantil [ALTO]
 A Cicatriz depende de morte real + retorno, mas mecanismo permanece aberto. Precisa explicar por que retorno foi possível sem ressurreição comum e sem violar “Morte recolhe”.
@@ -105,7 +104,7 @@ Macro final está mais definido que o caminho. Faltam facções, campanha da gue
 2. ~~Regra de causalidade do Registro.~~ Resolvida.
 3. Primeiro Pacto completo.
 4. Desenvolver os traços/Autoridades que compõem a via não voluntária para romper Eternidade.
-5. Limites operacionais da Morte.
+5. ~~Limites operacionais da Morte.~~ Núcleo resolvido.
 6. Retorno infantil/Cicatriz.
 
 ### P1 — Sustentar Livro 1
