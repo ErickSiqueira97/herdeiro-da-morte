@@ -46,6 +46,6 @@ versao: 1.0
 - Momento e mecanismo exatos da morte da [[Sucessora de Idunn]].
 - Gilgamesh vivo no presente? Direção favorita: sim, longevidade/imortalidade imperfeita.
 - Relação exata entre Livro original da Morte e Eco do protagonista.
-- Mecanismo exato e caráter definitivo ou não da terceira morte/destino final do protagonista.
+- Mecanismo exato e caráter definitivo ou não da terceira morte/destino final do protagonista, incluindo o destino das frações de Eternidade acumuladas caso ele morra.
 - Títulos definitivos dos volumes.
 - Nome definitivo, estrutura e membros da [[Facção de Ares]]; demais facções, cenários e bestiário.
