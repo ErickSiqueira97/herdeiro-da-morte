@@ -16,7 +16,7 @@ relacoes:
     tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-versao: 1.1
+versao: 1.2
 ---
 
 # Eternidade
@@ -44,6 +44,8 @@ Assim, mortes sucessivas de Eternos produzem dois acúmulos diferentes no Herdei
 - frações da própria condição de Eternidade liberadas por Execuções válidas.
 
 Essas frações não precisam ser apresentadas como porcentagem, contador ou coleção de componentes distintos. O acúmulo pode permanecer incompreendido por grande parte da saga e manifestar-se por sinais progressivos no Livro e no próprio Herdeiro.
+
+Uma vez produzido um Fim por Execução, a fração liberada converge inevitavelmente para o Herdeiro/Livro; uma recusa posterior não desfaz nem impede esse acúmulo. A única maneira de evitar nova concentração é não produzir outro Fim verdadeiro de Eterno.
 
 O Herdeiro não se torna automaticamente Eterno ao acumulá-las. Sua existência permanece marcada por um Fim através da [[Cicatriz da Alma]] e por sua ligação com [[Morte]], criando o paradoxo de um ser finito capaz de carregar quantidades crescentes daquilo que nega o Fim.
 
