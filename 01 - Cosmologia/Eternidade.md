@@ -16,7 +16,7 @@ relacoes:
     tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-versao: 1.0
+versao: 1.1
 ---
 
 # Eternidade
@@ -32,11 +32,27 @@ Não é vilã por definição. Pode atuar como antagonista ao defender a continu
 
 Relacionada: [[Morte]], [[Eternos]], [[Execucao]].
 
+## Frações da Eternidade
+Cada Eterno verdadeiro sustenta em sua existência uma **fração da condição primordial da Eternidade**. Essa fração não é uma Autoridade separada, não possui domínio próprio e não precisa receber nome, classe ou especialização.
+
+Enquanto o Eterno continua existindo, sua fração permanece incorporada à condição que rejeita um Fim verdadeiro.
+
+Quando [[Execucao]] transforma uma condição fatal em um Fim válido e um Eterno realmente morre, ocorre uma ruptura inédita: a fração de Eternidade que sustentava aquela existência deixa de permanecer naquele ser. O Herdeiro/Livro é capaz de **reter e concentrar progressivamente** essa fração.
+
+Assim, mortes sucessivas de Eternos produzem dois acúmulos diferentes no Herdeiro:
+- as Autoridades dos deuses mortos, registradas pelo [[Livro dos Fins]];
+- frações da própria condição de Eternidade liberadas por Execuções válidas.
+
+Essas frações não precisam ser apresentadas como porcentagem, contador ou coleção de componentes distintos. O acúmulo pode permanecer incompreendido por grande parte da saga e manifestar-se por sinais progressivos no Livro e no próprio Herdeiro.
+
+O Herdeiro não se torna automaticamente Eterno ao acumulá-las. Sua existência permanece marcada por um Fim através da [[Cicatriz da Alma]] e por sua ligação com [[Morte]], criando o paradoxo de um ser finito capaz de carregar quantidades crescentes daquilo que nega o Fim.
+
 ## Ruptura da condição
-A condição de Eternidade não pode ser simplesmente removida pela Morte, pelo Herdeiro ou por uma única Autoridade.
+Existem duas vias capazes de romper a própria condição de Eternidade:
 
-Existem duas vias capazes de romper a própria condição:
-1. **livre escolha da Eternidade** — a própria Eternidade consente em encerrar/alterar a condição que sustenta;
-2. **totalidade dos traços da Eternidade** — reunir todas as Autoridades/traços que, em conjunto, compõem ou ancoram a Eternidade permite atuar sobre a condição completa.
+1. **Livre escolha da Eternidade** — a própria Eternidade aceita/consente com um Fim ou com o encerramento da condição que sustenta.
+2. **Acúmulo por Execução** — mortes verdadeiras de Eternos retiram e concentram progressivamente no Herdeiro frações da condição primordial. A concentração suficiente dessas frações torna possível alcançar e romper a própria estrutura da Eternidade.
 
-A distribuição, identidade e forma exata desses traços ainda precisam ser desenvolvidas. O princípio, porém, é canônico: o clímax não pode romper Eternidade com uma habilidade isolada criada no momento final.
+Não existem traços específicos que precisem ser colecionados nem uma lista predeterminada de Autoridades obrigatórias. O princípio é **acúmulo**, não combinação de peças.
+
+A quantidade exata necessária e a forma técnica do rompimento final podem permanecer desconhecidas até o desenvolvimento do clímax, mas a solução não poderá surgir de uma habilidade isolada criada no momento final.

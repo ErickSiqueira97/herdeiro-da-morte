@@ -37,7 +37,7 @@ Primeira consolidação do Vault.
 - Registro exige participação causal direta do Herdeiro; golpe final não é obrigatório e presença passiva não basta.
 - Morte da fonte divina rompe a Autoridade do Sucessor e qualquer sustentação de vida dependente dela.
 - Sucessor sobrevivente volta à condição mortal normal; dependência vital extrema do vínculo pode tornar o rompimento fatal.
-- Eternidade só pode ser rompida por livre escolha da própria Eternidade ou pela reunião da totalidade de suas Autoridades/traços.
+- Regra anterior de totalidade de Autoridades/traços da Eternidade foi posteriormente substituída pelo modelo canônico de acúmulo de frações por Execução (ver entrada específica abaixo).
 - Reforçada a regra de elenco: personagens centrais devem possuir história, objetivos, conflitos e desenvolvimento próprios para que empatia/apego sejam conquistados narrativamente.
 
 ## 21/09/2026 — Primeiro Pacto e Enkidu
@@ -90,3 +90,14 @@ Primeira consolidação do Vault.
 - Violações abertas deixam uma assinatura metafísica reconhecível; o Santuário pode observá-la, mas não é a fonte da sanção.
 - Antes do Herdeiro, o principal risco era exposição e escalada. Depois da primeira morte verdadeira de um Eterno, atravessar passa também a significar tornar-se acessível a alguém capaz de impor um Fim.
 - O princípio histórico fica fixado: **o Pacto não impede um deus de atravessar; ele garante que atravessar tenha consequências.**
+
+## 21/09/2026 — Frações e acúmulo da Eternidade
+- Substituída a regra anterior de “traços/Autoridades da Eternidade”.
+- Cada Eterno verdadeiro sustenta uma fração da condição primordial da Eternidade; ela não é uma Autoridade separada nem possui especialização própria.
+- Quando Execução produz a morte verdadeira de um Eterno, essa fração é liberada e pode ser retida/concentrada pelo Herdeiro/Livro.
+- O Herdeiro passa a acumular duas coisas distintas: Autoridades dos deuses mortos e frações de Eternidade dos Eternos executados.
+- O acúmulo não precisa ser exibido como porcentagem, contador ou coleção de peças específicas.
+- O Herdeiro não se torna automaticamente Eterno; permanece um ser com Fim carregando quantidades crescentes da condição que nega o Fim.
+- A via não voluntária para romper Eternidade passa a ser quantitativa: concentração progressiva de frações através de Execuções, e não coleta de traços predeterminados.
+- Mantida a segunda via: a própria Eternidade pode aceitar voluntariamente um Fim.
+- Quantidade exata necessária e forma técnica do ato final permanecem abertas para o desenvolvimento do clímax.
