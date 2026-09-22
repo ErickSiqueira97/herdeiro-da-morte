@@ -1,7 +1,21 @@
 ---
+id: 09-misterios-assassinato-da-familia
+tipo: misterio
+schema_version: 1.1
+aliases:
+  - "Assassinato da Familia"
+tags:
+  - hdma/misterio
+moc: "[[MOC - Mistérios]]"
+relacoes:
+  - alvo: "[[Protagonista]]"
+    tipo: referencia
+  - alvo: "[[Morte]]"
+    tipo: referencia
+  - alvo: "[[Cicatriz da Alma]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: misterio
 versao: 1.0
 ---
 
