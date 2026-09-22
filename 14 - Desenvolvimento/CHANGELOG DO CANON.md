@@ -121,3 +121,13 @@ Primeira consolidação do Vault.
 - Morte divina válida pode produzir dois resultados distintos: Registro da Autoridade e concentração da fração de Eternidade.
 - Morte de Sucessor humano não libera fração de Eternidade.
 - Após a ruptura final da condição de Eternidade, deuses sobreviventes continuam deuses e mantêm suas Autoridades, mas passam a possuir a possibilidade real de morrer.
+
+## 22/09/2026 — Leitura da Marca, Sobreposição e Cicatriz
+- A Sobreposição não cria duas Marcas independentes lado a lado; a estrutura reproduzida de Seshat ocupa o mesmo eixo espiritual da verdadeira Marca do Herdeiro.
+- A leitura comum do Santuário identifica corretamente a assinatura superior de Seshat e encerra a classificação pela premissa histórica de uma alma = uma Marca.
+- Uma leitura profunda não retorna “duas Marcas”, mas uma incompatibilidade entre assinatura aparente, Autoridade e arquitetura espiritual.
+- A Cicatriz da Alma, anterior à falsa Sucessão, já registra a contradição de uma alma que concluiu um Fim e continuou viva.
+- Essa anomalia preexistente confunde a interpretação profunda: o Santuário pode atribuir inicialmente a inconsistência ao retorno da infância, sem descobrir Morte ou uma segunda estrutura.
+- A Cicatriz não falsifica Marcas; a falsificação estrutural continua pertencendo exclusivamente à Sobreposição criada pela Morte.
+- Resultado institucional inicial: Seshat validada na superfície; arquitetura espiritual incompatível/indeterminada em profundidade; protagonista mantido sob observação.
+- A07 da auditoria passa a RESOLVIDO NO NÚCLEO.
