@@ -9,11 +9,11 @@ tags:
 moc: "[[MOC - História]]"
 projeto: O Herdeiro da Morte
 status: CANON
-versao: 1.1
+versao: 1.2
 ---
 
 # Linha do Tempo Real
-1. Criação: [[Morte]], [[Eternidade]] e primeiros deuses surgem; alguns são [[Eternos]].
+1. Princípio conhecido: [[Morte]], [[Eternidade]] e os deuses já pertencem à estrutura primordial do mundo. A origem/nascimento dos deuses permanece um mistério. Todo deus possui Autoridade própria e fração da Eternidade; portanto, todo deus é [[Eternos|Eterno]].
 2. Humanidade surge por/através dos deuses, ao menos parcialmente ligada a culto/adoração.
 3. Era de Presença: deuses e humanos interagem diretamente.
 4. Competição divina por influência, território, culto e prestígio.
@@ -32,5 +32,7 @@ versao: 1.1
 17. Gilgamesh participa da fundação do [[Santuario]], que posteriormente assume função de fiscalização humana e proteção de Sucessores.
 18. Antigo Sucessor de [[Seshat]] morre; Morte registra o padrão da Marca.
 19. [[Protagonista]] morre quando criança, retorna e ganha [[Cicatriz da Alma]].
-20. Morte o observa e manipula eventos ligados ao [[Assassinato da Familia]].
-21. Início do Livro 1: segunda morte, encontro consciente com Morte, retorno e falsa identidade de Seshat.
+20. Morte o observa e manipula informações/circunstâncias ao redor da anomalia.
+21. A [[Facção de Ares]] obtém informação sobre a anomalia e procura o protagonista para localizá-lo, compreendê-lo e potencialmente recrutá-lo.
+22. Durante essa busca, um agente da facção decide matar a família do protagonista; a morte não era a ordem original de Ares.
+23. Início do Livro 1: segunda morte, encontro consciente com Morte, retorno e falsa identidade de Seshat.

@@ -131,3 +131,14 @@ Primeira consolidação do Vault.
 - A Cicatriz não falsifica Marcas; a falsificação estrutural continua pertencendo exclusivamente à Sobreposição criada pela Morte.
 - Resultado institucional inicial: Seshat validada na superfície; arquitetura espiritual incompatível/indeterminada em profundidade; protagonista mantido sob observação.
 - A07 da auditoria passa a RESOLVIDO NO NÚCLEO.
+
+## 22/09/2026 — Consolidação P0: origem divina e Autoridades
+- A origem/nascimento dos deuses passa a ser um mistério canônico. Eles existem desde o princípio conhecido e a narrativa não precisa explicar uma causa anterior.
+- Autoridades não são atribuídas aos deuses nem recebidas de uma fonte externa: cada Autoridade faz parte da essência do próprio deus.
+- A origem última das Autoridades permanece vinculada ao mistério da origem divina.
+- Mantida a regra de Sucessão: o deus concede a um humano uma expressão/vínculo de sua Autoridade sem deixar de possuí-la.
+- Todo deus continua possuindo uma fração de Eternidade; essa condição não é transferida pela Sucessão humana.
+- A terceira morte do protagonista permanece deliberadamente em aberto para ser decidida durante o desenvolvimento do Livro 3.
+- Corrigidas Bíblia Canônica e Linha do Tempo Real para remover a antiga formulação de que apenas alguns deuses seriam Eternos.
+- Linha do Tempo Real passa a registrar explicitamente a busca da Facção de Ares pela anomalia e a decisão autônoma do agente que assassina a família.
+- Com A07 resolvido e essas consolidações documentais, o P0 é considerado **CONCLUÍDO NO NÚCLEO**.

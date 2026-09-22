@@ -96,6 +96,9 @@ Macro final está mais definido que o caminho. Faltam facções, campanha da gue
 
 ## Priorização de desenvolvimento
 
+### P0 — CONCLUÍDO NO NÚCLEO
+A auditoria posterior consolidou ontologia divina, frações de Eternidade e leitura profunda da Marca. Não permanece alerta crítico que impeça avanço ao P1. A origem dos deuses/Autoridades é um **mistério canônico**, não uma lacuna a ser solucionada agora. A terceira morte é deliberadamente reservada ao desenvolvimento do Livro 3.
+
 ### P0 — Travar antes de detalhar livros
 1. ~~Ontologia da Autoridade: deus ↔ Sucessor ↔ morte do deus.~~ Núcleo resolvido.
 2. ~~Regra de causalidade do Registro.~~ Resolvida.
