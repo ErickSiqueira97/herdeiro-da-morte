@@ -36,7 +36,6 @@ versao: 1.0
 - Detalhes das [[Guerras dos Sucessores]].
 - Estrutura política/operacional do [[Santuario]].
 - Nome/idade/aparência/vida civil do [[Protagonista]].
-- Causa e mecanismo exato do retorno da morte infantil.
 - Identidade do Sucessor/agente da [[Facção de Ares]] que mata a família e circunstâncias exatas da operação.
 - Fonte divina do [[Melhor Amigo]]; pesquisar [[Sun Wukong]].
 - Confirmar [[Investigadora de Thoth]].
@@ -48,6 +47,6 @@ versao: 1.0
 - Momento e mecanismo exatos da morte da [[Sucessora de Idunn]].
 - Gilgamesh vivo no presente? Direção favorita: sim, longevidade/imortalidade imperfeita.
 - Relação exata entre Livro original da Morte e Eco do protagonista.
-- Destino final do protagonista.
+- Mecanismo exato e caráter definitivo ou não da terceira morte/destino final do protagonista.
 - Títulos definitivos dos volumes.
 - Nome definitivo, estrutura e membros da [[Facção de Ares]]; demais facções, cenários e bestiário.
