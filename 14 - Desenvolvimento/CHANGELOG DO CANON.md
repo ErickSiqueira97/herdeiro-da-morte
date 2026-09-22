@@ -59,3 +59,10 @@ Primeira consolidação do Vault.
 - O assassinato da família não é a ordem original de Ares: o agente enviado decide matar durante a operação.
 - Morte pode ter colocado a informação sobre a anomalia em circulação, preservando seu papel indireto e a agência dos demais.
 - A facção funciona como espelho ideológico inicial da futura acumulação de poder e guerra do protagonista.
+
+## 21/09/2026 — Operação da Morte
+- Morte atua no mundo mortal principalmente por sonhos, visões e influência indireta sobre acontecimentos.
+- Por ser força primordial consciente, não depende de Autoridade concedida para existir ou exercer sua natureza.
+- Execução passa a ser tratada como expressão da natureza primordial do Fim, não como Autoridade recebida.
+- Morte não controla vontade alheia e continua incapaz de causar diretamente uma morte.
+- Morte oculta sistematicamente sua identidade verdadeira e usa nomes, títulos ou identidades falsas quando pressionada a se apresentar.
