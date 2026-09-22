@@ -1,7 +1,27 @@
 ---
+id: 01-cosmologia-cicatriz-da-alma
+tipo: cosmologia
+schema_version: 1.1
+aliases:
+  - "Cicatriz da Alma"
+tags:
+  - hdma/cosmologia
+moc: "[[MOC - Cosmologia]]"
+relacoes:
+  - alvo: "[[Protagonista]]"
+    tipo: referencia
+  - alvo: "[[Morte]]"
+    tipo: referencia
+  - alvo: "[[Autoridade]]"
+    tipo: referencia
+  - alvo: "[[Livro dos Fins]]"
+    tipo: referencia
+  - alvo: "[[Callback - Demorou]]"
+    tipo: referencia
+  - alvo: "[[Anubis reconhece o protagonista]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: anomalia
 versao: 1.0
 ---
 
