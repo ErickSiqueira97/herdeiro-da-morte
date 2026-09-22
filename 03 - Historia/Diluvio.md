@@ -22,4 +22,4 @@ Parte/fase final da catástrofe associada à [[Primeira Guerra]]. Uma facção d
 
 As diversas tradições humanas de dilúvio podem ser memórias culturais fragmentadas do mesmo período, sem exigir que versões mitológicas contraditórias sejam literalmente idênticas.
 
-O evento ajuda a produzir o afastamento divino e o [[Primeiro Pacto]].
+O evento ajuda a produzir o afastamento divino e o [[Primeiro Pacto]]. Depois da catástrofe, o questionamento humano deixa de ser apenas reação à guerra e passa a ameaçar a própria legitimidade dos deuses no mundo mortal. Diferentes divindades respondem por culpa, medo, pragmatismo ou desejo de preservar sua influência.

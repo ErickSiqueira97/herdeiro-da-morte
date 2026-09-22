@@ -74,3 +74,10 @@ Primeira consolidação do Vault.
 - O desejo infantil de voltar para a família é emocional, não a causa sobrenatural do retorno.
 - A trajetória passa a ser estruturada por três mortes: infância/Cicatriz; morte no início da saga/nascimento do Herdeiro; terceira morte ligada ao desfecho e à escolha sobre o Fim.
 - O mecanismo e a definitividade da terceira morte permanecem em aberto.
+
+## 21/09/2026 — Origem política e religiosa do Primeiro Pacto
+- A Primeira Guerra e o Dilúvio provocam uma crise crescente de legitimidade divina entre os humanos.
+- Parte da humanidade passa a questionar por que deve venerar seres cujas disputas usam mortais como instrumentos e vítimas.
+- Adoração não sustenta metafisicamente a existência dos deuses; sua perda reduz influência social, política, religiosa e cultural no mundo mortal.
+- O Primeiro Pacto nasce de motivações diversas entre os deuses: culpa, pragmatismo, medo de perder culto/influência, preservação da ordem e equilíbrio entre rivais.
+- O Pacto não é tratado como presente puramente altruísta, mas como concessão diante do risco de nova catástrofe e de ruptura entre humanidade e deuses.
