@@ -7,34 +7,30 @@ aliases:
 tags:
   - hdma/evento_historico
 moc: "[[MOC - História]]"
-relacoes:
-  - alvo: "[[Primeira Guerra]]"
-    tipo: referencia
-  - alvo: "[[Diluvio]]"
-    tipo: referencia
-  - alvo: "[[Eternidade]]"
-    tipo: referencia
-  - alvo: "[[Sucessao]]"
-    tipo: referencia
-  - alvo: "[[Santuario]]"
-    tipo: referencia
 projeto: O Herdeiro da Morte
-status: PROVISÓRIO
-versao: 1.0
+status: CANON
+versao: 1.1
 ---
 
 # Primeiro Pacto
-## Núcleo já aceito
-Após [[Primeira Guerra]] e [[Diluvio]], a intervenção direta dos deuses sobre a humanidade é restringida e inicia-se o afastamento divino.
+Após [[Primeira Guerra]] e [[Diluvio]], os deuses estabelecem o Primeiro Pacto para impedir que a humanidade volte a ser campo direto das guerras divinas.
 
-## Direção recomendada ainda a formalizar
-- Nome histórico: **Primeiro Pacto**.
-- Consequência popular/metafísica: **Véu**.
-- Criado coletivamente pelos próprios deuses, não imposto por [[Eternidade]].
-- Deve ser vinculante sem usar “quebrou = morreu”.
-- Limita manifestação de Autoridade divina plena no mundo mortal.
-- Sonhos, oráculos, comunicação, avatares/efeitos limitados podem permanecer.
-- [[Sucessao]] torna-se loophole: o deus não age diretamente; o humano age com Autoridade concedida.
+## Separação
+Os deuses permanecem em seus próprios lares/domínios conforme suas tradições — Olimpo, domínios nórdicos, Duat e equivalentes. O Pacto encerra a Era de Presença aberta no mundo mortal.
 
-## Precisa resolver
-Quem o forjou; mecanismo de vinculação; violações; punições; fiscalização; como ataques ao [[Santuario]] são possíveis; limites geográficos/metafísicos; relação com mitos pós-afastamento.
+## Regras
+- Um deus não pode manifestar sua presença e Autoridade completas diretamente no mundo mortal.
+- Um deus não pode usar seu domínio para conquistar território mortal ou travar diretamente na Terra uma guerra entre panteões.
+- Permanecem possíveis formas limitadas de contato: sonhos, presságios, comunicação com Sucessores e manifestações reduzidas compatíveis com o Pacto.
+- Um deus pode aconselhar, pressionar, manipular ou negociar com seu Sucessor, mas não controla sua escolha. A ação continua pertencendo ao humano.
+- [[Sucessao]] torna-se uma brecha do Pacto: a Autoridade é concedida a um humano, e é o humano quem a exerce no mundo mortal.
+
+## Violação
+Usar Sucessores, agentes humanos, criaturas ou outras forças permitidas pode contornar o espírito do Pacto sem constituir automaticamente uma violação formal. Manifestação divina plena e exercício direto de Autoridade no mundo mortal constituem ruptura aberta.
+
+A consequência exata de uma violação aberta e o mecanismo metafísico de vinculação ainda serão desenvolvidos; **quebrar o Pacto não implica morte automática**.
+
+## Fiscalização
+O [[Santuario]] torna-se posteriormente o principal fiscal humano das violações e abusos ligados ao Pacto e às Sucessões. O [[Diretor do Santuario]], na direção atual ligado a [[Ma'at]], atua como guardião contemporâneo dessa função, não como criador original do Pacto.
+
+Isso permite que o conflito do Livro 2 comece por meios indiretos. Depois da primeira morte verdadeira de um Eterno, o medo pode levar uma divindade a cometer uma violação aberta, transformando a crise do Herdeiro também em crise do próprio Pacto.
