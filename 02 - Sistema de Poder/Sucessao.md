@@ -26,7 +26,7 @@ relacoes:
     tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-versao: 1.0
+versao: 1.1
 ---
 
 # Sucessão
@@ -38,6 +38,7 @@ versao: 1.0
 - Uma Sucessão normal impede uma segunda Autoridade divina.
 - O vínculo permanece até a morte.
 - O deus mantém sua própria Autoridade/Relíquia original e pode sentir/comunicar-se com o Sucessor.
+- A Sucessão transmite Autoridade, **nunca a fração de Eternidade do deus**. O Sucessor permanece humano e mortal.
 - Morte normal: Autoridade retorna ao deus.
 - Morte pelo Herdeiro: o retorno pode ser interceptado e registrado no [[Livro dos Fins]].
 
@@ -50,4 +51,4 @@ O rompimento também encerra qualquer sustentação de vida/longevidade que depe
 - se o Sucessor ainda está dentro de uma condição humana viável, volta a estar plenamente sujeito à mortalidade e à passagem do tempo;
 - se sua continuidade já dependia da Autoridade como pilar para mantê-lo vivo, a perda desse pilar pode causar sua morte.
 
-Isso não transforma toda Sucessão em Eternidade: [[Eternidade]] continua sendo uma condição metafísica distinta de longevidade, preservação ou sustentação produzida por uma Autoridade.
+Todo deus possui uma fração de [[Eternidade]], mas essa herança pertence à condição divina e não atravessa a Sucessão. Assim, Sucessão continua distinta de Eternidade, longevidade, preservação ou sustentação produzida por uma Autoridade.

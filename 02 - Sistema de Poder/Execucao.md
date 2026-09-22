@@ -20,11 +20,11 @@ relacoes:
     tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-versao: 1.2
+versao: 1.3
 ---
 
 # Execução
-Expressão da natureza primordial do Fim pertencente à [[Morte]], transmitida ao Herdeiro, que torna possível um verdadeiro Fim contra [[Eternos]]. **Não é uma Autoridade recebida de outra entidade.**
+Expressão da natureza primordial do Fim pertencente à [[Morte]], transmitida ao Herdeiro, que torna possível um verdadeiro Fim contra deuses [[Eternos]]. **Não é uma Autoridade recebida de outra entidade.**
 
 ## Não é
 - insta-kill;
@@ -35,9 +35,9 @@ Expressão da natureza primordial do Fim pertencente à [[Morte]], transmitida a
 1. O Herdeiro realmente derrota/produz uma condição fatal.
 2. Normalmente, [[Eternidade]] imporia Continuidade.
 3. Execução faz aquele fatal ser reconhecido como **Fim**.
-4. O Eterno morre.
+4. O deus morre.
 5. Só então sua [[Autoridade]] pode entrar no [[Livro dos Fins]].
-6. Por se tratar da morte verdadeira de um Eterno, uma fração da condição de [[Eternidade]] que sustentava aquela existência é liberada e pode ser retida/concentrada pelo Herdeiro/Livro.
+6. Por se tratar da morte verdadeira de um deus, uma fração da condição de [[Eternidade]] que sustentava aquela existência é liberada e pode ser retida/concentrada pelo Herdeiro/Livro.
 
 A fração de Eternidade não é uma Autoridade adicional nem precisa possuir nome ou domínio próprio. Execuções sucessivas produzem acúmulo progressivo dessa condição.
 
@@ -48,7 +48,7 @@ A fração de Eternidade liberada converge inevitavelmente para o Herdeiro/Livro
 
 Assim, a recusa posterior não transfere a responsabilidade da morte para Morte, Livro ou Execução. Execução jamais mata no lugar dele: primeiro precisa existir uma condição fatal causada diretamente por sua ação causal válida. A inevitabilidade começa **depois** que o Fim foi produzido.
 
-A única forma de impedir novo acúmulo é não produzir uma nova morte verdadeira de Eterno por Execução.
+A única forma de impedir novo acúmulo é não produzir uma nova morte verdadeira de deus por Execução.
 
 O destino das frações acumuladas caso o Herdeiro morra permanece em aberto e deve ser resolvido junto da terceira morte.
 

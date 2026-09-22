@@ -12,12 +12,38 @@ relacoes:
     tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-versao: 1.0
+versao: 1.1
 ---
 
 # Eternos
-Condição metafísica de seres que surgiram sem um Fim incorporado. **Deus ≠ Eterno**: divindade é categoria; Eternidade é condição.
+Na cosmologia da saga, **divino é uma categoria metafísica reservada exclusivamente aos deuses**. Criaturas mitológicas, espíritos, monstros, humanos cultuados, semideuses ou outros seres sobrenaturais não são automaticamente divinos; somente um deus pertence à categoria divina.
 
-Eternidade não significa invulnerabilidade. Um Eterno pode ser derrotado e mutilado; o problema é chegar ao estado final de morte. [[Execucao]] permite reconhecer um fatal verdadeiro como Fim.
+## Deus e Eternidade
+Todo deus possui, por natureza:
+- uma [[Autoridade]], que expressa seu domínio divino;
+- uma **fração da [[Eternidade]]**, que sustenta sua ausência de um Fim natural.
 
-O Livro 3 termina com a destruição dessa condição, não necessariamente com a destruição dos deuses.
+Consequentemente, **todo deus é Eterno**. Não existe, dentro da categoria divina, um deus naturalmente mortal ou desprovido de fração de Eternidade.
+
+A fração não torna o deus invulnerável. Ele pode sofrer, sangrar, ser derrotado, mutilado, aprisionado ou ter sua presença destruída; a condição de Eternidade impede que isso normalmente se consolide como morte final.
+
+## Herança divina
+Autoridade e fração de Eternidade pertencem à continuidade das gerações divinas. Quando surgem novas gerações de deuses, a condição divina transmite/propaga essa herança.
+
+Essa transmissão não funciona como divisão matemática de uma reserva finita: um deus não se torna “menos Eterno” ao gerar outro. A fração é uma continuidade metafísica capaz de se propagar de geração em geração.
+
+## Limite da Sucessão
+A [[Sucessao]] transmite a um humano a expressão da Autoridade de um deus, mas **não transmite sua fração de Eternidade**. Por isso um Sucessor continua humano e mortal mesmo portando poder divino.
+
+[[Enkidu]] demonstrou historicamente que um humano pode portar Autoridade sem adquirir a condição divina/Eterna.
+
+## Morte divina
+Todo deus exige [[Execucao]] para que uma condição fatal seja reconhecida como Fim verdadeiro.
+
+Quando um deus morre por uma Execução válida:
+- sua Autoridade pode ser registrada no [[Livro dos Fins]];
+- sua fração de Eternidade é liberada e converge para o Herdeiro/Livro.
+
+Quando um Sucessor humano morre, não há fração de Eternidade a liberar. Apenas a Autoridade entra na dinâmica de retorno ao deus ou Registro pelo Livro.
+
+O Livro 3 termina com a ruptura da condição de Eternidade, não necessariamente com a destruição dos deuses. Os deuses sobreviventes podem continuar deuses e conservar suas Autoridades, mas passam a possuir a possibilidade real de um Fim.
