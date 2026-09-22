@@ -27,3 +27,6 @@ No [[Protagonista]], acumular Autoridades aumenta poder e reduz estabilidade/ide
 > “Elas podem ter colocado a raiva aí. Quem decidiu o que fazer com ela foi você.”
 
 Ver [[Corrupcao pelas Autoridades]].
+
+## Entidades primordiais
+[[Morte]] e outras forças primordiais não dependem do sistema de concessão de Autoridade para existir ou exercer sua própria natureza. “Autoridade”, no sistema de Sucessão, descreve a expressão divina concedida por um deus a um humano; capacidades primordiais podem existir por natureza própria.
