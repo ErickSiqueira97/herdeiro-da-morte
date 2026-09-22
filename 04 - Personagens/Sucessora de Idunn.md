@@ -1,7 +1,19 @@
 ---
+id: 04-personagens-sucessora-de-idunn
+tipo: personagem
+schema_version: 1.1
+aliases:
+  - "Sucessora de Idunn"
+tags:
+  - hdma/personagem
+moc: "[[MOC - Personagens]]"
+relacoes:
+  - alvo: "[[Protagonista]]"
+    tipo: referencia
+  - alvo: "[[Iðunn]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: personagem
 versao: 1.0
 ---
 
