@@ -25,8 +25,8 @@ O Herdeiro precisa participar diretamente da morte, mas não precisa aplicar o g
 ### A02 — Morte do deus e vínculo do Sucessor [RESOLVIDO NO NÚCLEO]
 A morte da fonte divina rompe a Autoridade do Sucessor. Sustentação/longevidade dependente dela também termina: o vivo volta à mortalidade normal; quem já dependia desse pilar para continuar vivo pode morrer. Ainda falta detalhar manifestações específicas por Autoridade.
 
-### A03 — Ruptura da Eternidade [RESOLVIDO NO PRINCÍPIO]
-A condição só pode ser rompida por livre escolha da própria Eternidade ou pela reunião da totalidade de suas Autoridades/traços. Falta definir quais são esses traços, onde estão e como sua reunião funciona; isso agora é desenvolvimento/foreshadowing, não ausência de regra fundamental.
+### A03 — Ruptura da Eternidade [RESOLVIDO NO NÚCLEO]
+A condição pode ser rompida por livre escolha da própria Eternidade ou pelo acúmulo progressivo, no Herdeiro/Livro, das frações de Eternidade liberadas quando Execução produz a morte verdadeira de Eternos. Não existem traços específicos ou Autoridades predeterminadas a colecionar. Quantidade exata e forma do ato final permanecem matéria de clímax/foreshadowing, sem alterar a regra fundamental.
 
 ### A04 — Limites operacionais da Morte [RESOLVIDO NO NÚCLEO]
 Morte opera principalmente por sonhos, visões, informação e influência indireta. Como força primordial, não depende de Autoridade concedida. Não controla a vontade alheia nem pode causar diretamente uma morte. Mantém sua identidade verdadeira oculta e usa nomes/títulos falsos quando precisa se identificar. Casos extremos de causalidade podem ser refinados em cena sem alterar esse núcleo.
@@ -101,7 +101,7 @@ Macro final está mais definido que o caminho. Faltam facções, campanha da gue
 1. ~~Ontologia da Autoridade: deus ↔ Sucessor ↔ morte do deus.~~ Núcleo resolvido.
 2. ~~Regra de causalidade do Registro.~~ Resolvida.
 3. ~~Primeiro Pacto completo.~~ Núcleo resolvido; signatários e jurisprudência histórica podem ser detalhados depois.
-4. Desenvolver os traços/Autoridades que compõem a via não voluntária para romper Eternidade.
+4. ~~Definir a via não voluntária para romper Eternidade.~~ Resolvida como acúmulo de frações liberadas por Execuções.
 5. ~~Limites operacionais da Morte.~~ Núcleo resolvido.
 6. ~~Retorno infantil/Cicatriz.~~ Resolvido.
 
