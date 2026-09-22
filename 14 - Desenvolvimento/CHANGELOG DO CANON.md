@@ -50,3 +50,12 @@ Primeira consolidação do Vault.
 - A tentativa de salvar Enkidu funcionou. Enkidu tornou-se o primeiro portador funcional de Autoridade e foi posteriormente assassinado por um pequeno grupo de deuses temerosos da descoberta.
 - A morte de Enkidu produz o Primeiro Retorno observado pela Morte.
 - Gilgamesh posteriormente estabiliza/sistematiza a Sucessão e torna-se o primeiro Sucessor estável duradouro.
+
+## 21/09/2026 — Ares e primeira facção
+- Ares torna-se patrono/origem ideológica da primeira grande facção antagonista.
+- A facção busca ampliar poder e influência no mundo mortal, recrutando Sucessores e procurando anomalias/fontes excepcionais de poder.
+- O protagonista é procurado antes da falsa Sucessão de Seshat com intenção inicial de localização, compreensão e possível recrutamento.
+- Ares não conhece inicialmente a verdadeira identidade do Herdeiro da Morte.
+- O assassinato da família não é a ordem original de Ares: o agente enviado decide matar durante a operação.
+- Morte pode ter colocado a informação sobre a anomalia em circulação, preservando seu papel indireto e a agência dos demais.
+- A facção funciona como espelho ideológico inicial da futura acumulação de poder e guerra do protagonista.
