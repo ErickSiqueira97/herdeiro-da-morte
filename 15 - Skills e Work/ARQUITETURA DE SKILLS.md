@@ -1,8 +1,14 @@
 ---
-projeto: O Herdeiro da Morte
-status: PROVISÓRIO
+id: 15-skills-e-work-arquitetura-de-skills
 tipo: workflow
-versao: 1.0
+schema_version: 1.1
+aliases:
+  - "ARQUITETURA DE SKILLS"
+tags:
+  - hdma/workflow
+status: PROVISÓRIO
+projeto: O Herdeiro da Morte
+versao: 1.1
 ---
 
 # Arquitetura de Skills para Work
