@@ -35,3 +35,13 @@ Fantasia urbana mitológica sombria com descoberta gradual do mundo oculto, conf
 
 ## Pipeline
 Pesquisa → Worldbuilding → Personagens → Criaturas → Poderes → Mistérios → Macroestrutura → Outline → Cena/Capítulo → Continuidade → Revisão de prosa.
+
+## Protocolo estrutural v1.1
+1. Começar pelo MOC do domínio relevante antes de varrer notas isoladas.
+2. Usar `id`, `tipo`, `moc` e `relacoes` para navegação; nunca tratá-los como autorização para inventar fatos.
+3. `tipo: referencia` significa somente que existe um WikiLink no conteúdo; não implica causalidade, aliança, parentesco ou equivalência.
+4. Tipos semânticos de relação só podem ser adicionados quando o texto existente os sustentar ou após aprovação explícita.
+5. O campo `status` continua soberano: PROVISÓRIO e EM ABERTO não podem ser promovidos automaticamente.
+6. Antes de escrever cena/capítulo, consultar MOCs de Personagens, Sistema de Poder, História e Mistérios quando forem pertinentes.
+7. Depois de alterar cânone aprovado, atualizar notas afetadas e [[CHANGELOG DO CANON]].
+
