@@ -31,9 +31,8 @@ A condição só pode ser rompida por livre escolha da própria Eternidade ou pe
 ### A04 — Limites operacionais da Morte [RESOLVIDO NO NÚCLEO]
 Morte opera principalmente por sonhos, visões, informação e influência indireta. Como força primordial, não depende de Autoridade concedida. Não controla a vontade alheia nem pode causar diretamente uma morte. Mantém sua identidade verdadeira oculta e usa nomes/títulos falsos quando precisa se identificar. Casos extremos de causalidade podem ser refinados em cena sem alterar esse núcleo.
 
-### A05 — Retorno infantil [ALTO]
-A Cicatriz depende de morte real + retorno, mas mecanismo permanece aberto. Precisa explicar por que retorno foi possível sem ressurreição comum e sem violar “Morte recolhe”.
-Impacto: origem do protagonista.
+### A05 — Retorno infantil [RESOLVIDO]
+O protagonista morre afogado na infância e sua alma atravessa o Fim. A reanimação física ocorre depois de a morte já ter sido metafisicamente reconhecida, forçando o retorno de uma alma cujo Fim já estava registrado e produzindo a Cicatriz da Alma. Morte testemunha, mas não causa o retorno.
 
 ### A06 — Pacto x ataque ao Santuário [ALTO]
 Livro 2 exige intervenção divina relevante; Santuário reconhece que compatibilidade com Primeiro Pacto não está formalizada.
@@ -105,7 +104,7 @@ Macro final está mais definido que o caminho. Faltam facções, campanha da gue
 3. Primeiro Pacto completo.
 4. Desenvolver os traços/Autoridades que compõem a via não voluntária para romper Eternidade.
 5. ~~Limites operacionais da Morte.~~ Núcleo resolvido.
-6. Retorno infantil/Cicatriz.
+6. ~~Retorno infantil/Cicatriz.~~ Resolvido.
 
 ### P1 — Sustentar Livro 1
 7. Protagonista como pessoa pré-trama.

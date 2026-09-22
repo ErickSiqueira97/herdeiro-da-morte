@@ -20,3 +20,6 @@ Ela o observa desde a [[Cicatriz da Alma]], prepara sua falsa identidade e manip
 
 Acusação-chave:
 > **“Você fez exatamente o que eles fizeram.”**
+
+## Três encontros
+Na primeira morte, Morte apenas o recolhe e testemunha o retorno impossível produzido pela reanimação tardia do corpo. Na segunda, após anos observando a Cicatriz, transforma-o em Herdeiro. A terceira deve fechar a relação entre ambos no desfecho, quando o protagonista já compreende o peso de escolher um Fim.
