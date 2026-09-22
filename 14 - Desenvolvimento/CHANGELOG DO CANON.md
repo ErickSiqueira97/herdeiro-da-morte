@@ -66,3 +66,11 @@ Primeira consolidação do Vault.
 - Execução passa a ser tratada como expressão da natureza primordial do Fim, não como Autoridade recebida.
 - Morte não controla vontade alheia e continua incapaz de causar diretamente uma morte.
 - Morte oculta sistematicamente sua identidade verdadeira e usa nomes, títulos ou identidades falsas quando pressionada a se apresentar.
+
+## 21/09/2026 — Cicatriz e três mortes
+- A primeira morte ocorre por afogamento na infância.
+- A alma atravessa o Fim e é reconhecida como morta; a reanimação física acontece depois, criando uma contradição metafísica e forçando o retorno da alma.
+- A contradição deixa a Cicatriz da Alma; Morte testemunha o fenômeno, mas não o causa.
+- O desejo infantil de voltar para a família é emocional, não a causa sobrenatural do retorno.
+- A trajetória passa a ser estruturada por três mortes: infância/Cicatriz; morte no início da saga/nascimento do Herdeiro; terceira morte ligada ao desfecho e à escolha sobre o Fim.
+- O mecanismo e a definitividade da terceira morte permanecem em aberto.
