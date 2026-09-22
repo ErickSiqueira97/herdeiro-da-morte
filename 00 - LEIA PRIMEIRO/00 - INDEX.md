@@ -1,7 +1,54 @@
 ---
+id: 00-leia-primeiro-00-index
+tipo: governanca
+schema_version: 1.1
+aliases:
+  - "00 - INDEX"
+tags:
+  - hdma/governanca
+relacoes:
+  - alvo: "[[BÍBLIA CANÔNICA]]"
+    tipo: referencia
+  - alvo: "[[REGRAS DE CANON]]"
+    tipo: referencia
+  - alvo: "[[INSTRUÇÕES PARA IA]]"
+    tipo: referencia
+  - alvo: "[[ESTADO DO PROJETO]]"
+    tipo: referencia
+  - alvo: "[[Linha do Tempo Real]]"
+    tipo: referencia
+  - alvo: "[[Mapa de Revelacoes]]"
+    tipo: referencia
+  - alvo: "[[EM ABERTO]]"
+    tipo: referencia
+  - alvo: "[[CHANGELOG DO CANON]]"
+    tipo: referencia
+  - alvo: "[[Morte]]"
+    tipo: referencia
+  - alvo: "[[Eternidade]]"
+    tipo: referencia
+  - alvo: "[[Eternos]]"
+    tipo: referencia
+  - alvo: "[[Sucessao]]"
+    tipo: referencia
+  - alvo: "[[Autoridade]]"
+    tipo: referencia
+  - alvo: "[[Marca]]"
+    tipo: referencia
+  - alvo: "[[Reliquias-Eco]]"
+    tipo: referencia
+  - alvo: "[[Livro dos Fins]]"
+    tipo: referencia
+  - alvo: "[[Execucao]]"
+    tipo: referencia
+  - alvo: "[[Sobreposicao]]"
+    tipo: referencia
+  - alvo: "[[Protagonista]]"
+    tipo: referencia
+  - alvo: "[[Primeira Guerra]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: indice
 versao: 1.0
 ---
 
