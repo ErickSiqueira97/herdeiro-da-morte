@@ -1,7 +1,23 @@
 ---
+id: 02-sistema-de-poder-marca
+tipo: sistema_poder
+schema_version: 1.1
+aliases:
+  - "Marca"
+tags:
+  - hdma/sistema_poder
+moc: "[[MOC - Sistema de Poder]]"
+relacoes:
+  - alvo: "[[Autoridade]]"
+    tipo: referencia
+  - alvo: "[[Santuario]]"
+    tipo: referencia
+  - alvo: "[[Protagonista]]"
+    tipo: referencia
+  - alvo: "[[Sobreposicao]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: sistema
 versao: 1.0
 ---
 
