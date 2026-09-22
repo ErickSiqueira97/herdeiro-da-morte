@@ -1,7 +1,23 @@
 ---
+id: 02-sistema-de-poder-livro-dos-fins
+tipo: sistema_poder
+schema_version: 1.1
+aliases:
+  - "Livro dos Fins"
+tags:
+  - hdma/sistema_poder
+moc: "[[MOC - Sistema de Poder]]"
+relacoes:
+  - alvo: "[[Morte]]"
+    tipo: referencia
+  - alvo: "[[Protagonista]]"
+    tipo: referencia
+  - alvo: "[[Reliquias-Eco]]"
+    tipo: referencia
+  - alvo: "[[EM ABERTO]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: reliquia
 versao: 1.0
 ---
 
