@@ -1,7 +1,24 @@
 ---
+id: 00-leia-primeiro-estado-do-projeto
+tipo: governanca
+schema_version: 1.1
+aliases:
+  - "ESTADO DO PROJETO"
+tags:
+  - hdma/governanca
+relacoes:
+  - alvo: "[[Primeiro Pacto]]"
+    tipo: referencia
+  - alvo: "[[Guerras dos Sucessores]]"
+    tipo: referencia
+  - alvo: "[[Santuario]]"
+    tipo: referencia
+  - alvo: "[[Assassinato da Familia]]"
+    tipo: referencia
+  - alvo: "[[EM ABERTO]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: status
 versao: 1.0
 ---
 
