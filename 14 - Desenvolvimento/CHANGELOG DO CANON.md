@@ -39,3 +39,14 @@ Primeira consolidação do Vault.
 - Sucessor sobrevivente volta à condição mortal normal; dependência vital extrema do vínculo pode tornar o rompimento fatal.
 - Eternidade só pode ser rompida por livre escolha da própria Eternidade ou pela reunião da totalidade de suas Autoridades/traços.
 - Reforçada a regra de elenco: personagens centrais devem possuir história, objetivos, conflitos e desenvolvimento próprios para que empatia/apego sejam conquistados narrativamente.
+
+## 21/09/2026 — Primeiro Pacto e Enkidu
+- Primeiro Pacto consolidado como separação pós-Primeira Guerra/Dilúvio; não é o experimento de Enkidu.
+- Deuses permanecem em seus lares/domínios mitológicos e não podem manifestar presença/Autoridade plenas diretamente no mundo mortal.
+- Contatos e manifestações limitadas permanecem possíveis.
+- Sucessão é uma brecha formal: o deus concede Autoridade, mas a escolha e a ação pertencem ao humano.
+- Santuário assume posteriormente o papel de principal fiscal humano; o diretor atual é guardião, não criador do Pacto.
+- Ataques indiretos por Sucessores/agentes podem contornar o espírito do Pacto; manifestação divina plena constitui ruptura aberta.
+- A tentativa de salvar Enkidu funcionou. Enkidu tornou-se o primeiro portador funcional de Autoridade e foi posteriormente assassinado por um pequeno grupo de deuses temerosos da descoberta.
+- A morte de Enkidu produz o Primeiro Retorno observado pela Morte.
+- Gilgamesh posteriormente estabiliza/sistematiza a Sucessão e torna-se o primeiro Sucessor estável duradouro.
