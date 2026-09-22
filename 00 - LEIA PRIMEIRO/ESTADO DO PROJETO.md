@@ -40,3 +40,7 @@ Cosmologia-base; regras principais da Sucessão; Marca; Relíquias-Eco; falsa id
 10. Prosa.
 
 Ver [[EM ABERTO]].
+
+## Infraestrutura — v1.1
+O Vault possui agora uma camada estrutural para IA com IDs estáveis, tipos de nota, tags técnicas, MOCs e relações extraídas de WikiLinks. A migração é estrutural e não promoveu nem rebaixou nenhum status canônico. Consultar [[ESQUEMA DE METADADOS v1.1]].
+
