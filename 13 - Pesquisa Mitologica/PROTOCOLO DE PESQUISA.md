@@ -1,7 +1,30 @@
 ---
+id: 13-pesquisa-mitologica-protocolo-de-pesquisa
+tipo: pesquisa
+schema_version: 1.1
+aliases:
+  - "PROTOCOLO DE PESQUISA"
+tags:
+  - hdma/pesquisa
+relacoes:
+  - alvo: "[[Shamash]]"
+    tipo: referencia
+  - alvo: "[[Seshat]]"
+    tipo: referencia
+  - alvo: "[[Thoth]]"
+    tipo: referencia
+  - alvo: "[[Ma'at]]"
+    tipo: referencia
+  - alvo: "[[Anubis]]"
+    tipo: referencia
+  - alvo: "[[Iðunn]]"
+    tipo: referencia
+  - alvo: "[[Sun Wukong]]"
+    tipo: referencia
+  - alvo: "[[Gilgamesh]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: metodo
 versao: 1.0
 ---
 
