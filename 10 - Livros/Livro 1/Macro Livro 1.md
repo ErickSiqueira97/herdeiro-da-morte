@@ -1,7 +1,23 @@
 ---
+id: 10-livros-livro-1-macro-livro-1
+tipo: livro
+schema_version: 1.1
+aliases:
+  - "Macro Livro 1"
+tags:
+  - hdma/livro
+moc: "[[MOC - Livros]]"
+relacoes:
+  - alvo: "[[Morte]]"
+    tipo: referencia
+  - alvo: "[[Seshat]]"
+    tipo: referencia
+  - alvo: "[[Santuario]]"
+    tipo: referencia
+  - alvo: "[[Livro dos Fins]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: PROVISÓRIO
-tipo: macroestrutura
 versao: 1.0
 ---
 
