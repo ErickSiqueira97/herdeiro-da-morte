@@ -109,3 +109,15 @@ Primeira consolidação do Vault.
 - A única forma de impedir novo acúmulo é não produzir uma nova morte verdadeira de Eterno por Execução.
 - A recusa posterior poderá ser dramatizada em cena, transformando o Registro/acúmulo de recompensa inicial em consequência temida.
 - O destino das frações caso o Herdeiro morra permanece em aberto e será resolvido com a terceira morte.
+
+## 22/09/2026 — Divindade, Autoridade e herança da Eternidade
+- “Divino” passa a ser categoria metafísica exclusiva dos deuses.
+- Criaturas, espíritos, monstros, humanos cultuados, semideuses e outros seres sobrenaturais não são automaticamente divinos.
+- Todo deus possui uma Autoridade e uma fração da Eternidade; portanto, todo deus é Eterno na ontologia da saga.
+- Autoridade e fração de Eternidade pertencem à continuidade das gerações divinas.
+- A fração se propaga entre gerações sem ser uma reserva matemática finita: gerar um novo deus não reduz a Eternidade do progenitor.
+- Sucessão humana transmite Autoridade, mas nunca a fração de Eternidade; Sucessores continuam humanos e mortais.
+- Todo deus exige Execução para que uma condição fatal se torne um Fim verdadeiro.
+- Morte divina válida pode produzir dois resultados distintos: Registro da Autoridade e concentração da fração de Eternidade.
+- Morte de Sucessor humano não libera fração de Eternidade.
+- Após a ruptura final da condição de Eternidade, deuses sobreviventes continuam deuses e mantêm suas Autoridades, mas passam a possuir a possibilidade real de morrer.
