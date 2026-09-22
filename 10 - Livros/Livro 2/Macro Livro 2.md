@@ -1,7 +1,31 @@
 ---
+id: 10-livros-livro-2-macro-livro-2
+tipo: livro
+schema_version: 1.1
+aliases:
+  - "Macro Livro 2"
+tags:
+  - hdma/livro
+moc: "[[MOC - Livros]]"
+relacoes:
+  - alvo: "[[Seshat]]"
+    tipo: referencia
+  - alvo: "[[Reliquias-Eco]]"
+    tipo: referencia
+  - alvo: "[[Sobreposicao]]"
+    tipo: referencia
+  - alvo: "[[Execucao]]"
+    tipo: referencia
+  - alvo: "[[Eternidade]]"
+    tipo: referencia
+  - alvo: "[[Sucessora de Idunn]]"
+    tipo: referencia
+  - alvo: "[[Santuario]]"
+    tipo: referencia
+  - alvo: "[[Gilgamesh]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: PROVISÓRIO
-tipo: macroestrutura
 versao: 1.0
 ---
 
