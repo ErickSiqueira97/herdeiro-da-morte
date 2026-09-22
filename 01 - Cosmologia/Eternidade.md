@@ -1,7 +1,21 @@
 ---
+id: 01-cosmologia-eternidade
+tipo: cosmologia
+schema_version: 1.1
+aliases:
+  - "Eternidade"
+tags:
+  - hdma/cosmologia
+moc: "[[MOC - Cosmologia]]"
+relacoes:
+  - alvo: "[[Morte]]"
+    tipo: referencia
+  - alvo: "[[Eternos]]"
+    tipo: referencia
+  - alvo: "[[Execucao]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: entidade
 versao: 1.0
 ---
 
