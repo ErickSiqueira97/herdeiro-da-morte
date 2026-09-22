@@ -22,7 +22,7 @@ relacoes:
     tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-versao: 1.0
+versao: 1.1
 ---
 
 # Sobreposição
@@ -35,9 +35,13 @@ No [[Protagonista]]:
 2. por cima, existe uma réplica genuína da estrutura da Marca de Seshat;
 3. a camada de Seshat não contém a Autoridade de Seshat.
 
-O detector do [[Santuario]] lê corretamente a camada superior e não procura outra porque historicamente uma alma nunca deveria ter duas Marcas.
+As duas estruturas não se apresentam como Marcas independentes lado a lado: a Sobreposição ocupa o mesmo eixo espiritual da Marca verdadeira. O detector comum do [[Santuario]] lê corretamente a assinatura superior de Seshat e encerra a identificação porque historicamente uma alma nunca deveria conter outra estrutura abaixo dela.
+
+Uma leitura profunda não retorna simplesmente “duas Marcas”. Ela encontra incompatibilidade entre assinatura aparente, Autoridade e arquitetura da alma. A [[Cicatriz da Alma]], criada quando o protagonista morreu e retornou na infância, já torna sua alma metafisicamente contraditória e oferece uma explicação plausível para parte da anomalia. Isso confunde a interpretação institucional sem produzir uma falsificação adicional.
+
+Resultado conceitual da leitura profunda: **Seshat validada na superfície; estrutura espiritual incompatível/indeterminada em profundidade.**
 
 Possíveis pistas:
-- leitura de Ma'at: um humano + uma Autoridade + duas Marcas;
+- leitura de Ma'at: assinatura de Seshat válida, mas arquitetura espiritual que não fecha;
 - a Marca aparente parece “crescer”, mas na verdade algo abaixo está aparecendo;
 - Seshat: **“A Marca é minha. Você não.”**

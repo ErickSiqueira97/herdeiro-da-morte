@@ -37,9 +37,8 @@ O protagonista morre afogado na infância e sua alma atravessa o Fim. A reanima�
 ### A06 — Pacto x ataque ao Santuário [RESOLVIDO NO NÚCLEO]
 Ruptura aberta do Primeiro Pacto produz três efeitos: manifestação plena expõe mais da essência divina fora da proteção do domínio; a ruptura quebra a reciprocidade e abre direito de resposta aos signatários ameaçados; e o próprio Pacto deixa uma assinatura metafísica detectável. Isso não cria um Fim em um Eterno e não substitui Execução. O ataque do Livro 2 pode começar por meios indiretos e escalar para a primeira ruptura aberta relevante da era atual.
 
-### A07 — Detector de Marca [MÉDIO]
-A Sobreposição explica por que lê Seshat, mas não por que leitura mais profunda de Ma'at falha sem denunciar imediatamente “duas Marcas”. Definir resolução, limites e interpretação institucional.
-Impacto: mistério Livro 1.
+### A07 — Detector de Marca [RESOLVIDO NO NÚCLEO]
+A Sobreposição ocupa o mesmo eixo espiritual da Marca verdadeira, portanto a leitura comum identifica corretamente a assinatura superior de Seshat e encerra a classificação. Uma leitura profunda encontra incompatibilidade entre assinatura, Autoridade e arquitetura da alma, mas não “duas Marcas” separadas. A Cicatriz da Alma, anterior à falsa Sucessão e já metafisicamente contraditória por registrar morte e continuidade, confunde a interpretação e permite atribuir inicialmente a anomalia ao retorno da infância. Seshat permanece validada na superfície enquanto a profundidade é classificada como incompatível/indeterminada.
 
 ## Buracos de worldbuilding
 1. Primeiro Pacto: signatários, domínio, proibições, permissões, fiscalização, sanções e loophole.

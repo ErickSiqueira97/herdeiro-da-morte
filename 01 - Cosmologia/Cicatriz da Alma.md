@@ -22,7 +22,7 @@ relacoes:
     tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-versao: 1.1
+versao: 1.2
 ---
 
 # Cicatriz da Alma
@@ -40,7 +40,7 @@ Durante a experiência, a criança deseja voltar para sua família. Esse desejo 
 A alma passou a carregar simultaneamente a memória metafísica de ter terminado e a continuidade de ainda existir. Essa estrutura anômala permite que posteriormente comporte múltiplas [[Autoridade|Autoridades]] registradas no [[Livro dos Fins]] sem se romper imediatamente.
 
 ## Limite
-A Cicatriz não é poder, profecia, linhagem, imortalidade ou proteção psicológica. O recipiente aguenta mais do que uma alma humana normal; a consciência continua humana e sofre a influência acumulada das Autoridades.
+A Cicatriz não é poder, profecia, linhagem, imortalidade ou proteção psicológica. Ela também não cria nem falsifica Marcas. Porém, por já tornar a arquitetura espiritual do protagonista contraditória, pode confundir leituras profundas de [[Marca]]: uma incompatibilidade causada pela [[Sobreposicao]] pode ser inicialmente atribuída ao fato conhecido de sua alma ter atravessado o Fim e retornado. O recipiente aguenta mais do que uma alma humana normal; a consciência continua humana e sofre a influência acumulada das Autoridades.
 
 ## As três mortes
 A trajetória do protagonista é estruturada por **três encontros com a Morte**:
