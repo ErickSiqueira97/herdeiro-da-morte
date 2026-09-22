@@ -52,3 +52,8 @@ Livro 3: heroísmo → carrasco → calamidade; “alguns deuses” vira “todo
 
 ## Callback
 No reencontro consciente com Morte, ela diz: [[Callback - Demorou|“Demorou.”]]
+
+## Regra de construção do elenco
+O arco do protagonista não deve absorver a existência dos demais personagens. Cada personagem central precisa de história, desejo, conflito, relações e desenvolvimento próprios, capazes de gerar empatia e apego independentemente de sua função no arco do Herdeiro.
+
+Isso é especialmente importante para que perdas, rupturas e oposições futuras tenham peso conquistado em cena, e não apenas função estrutural.
