@@ -33,3 +33,9 @@ Primeira consolidação do Vault.
 - Nenhuma decisão narrativa foi promovida a CANON por esta migração.
 - Nenhum lore novo foi introduzido como fato canônico.
 
+## 21/09/2026 — Regras pós-auditoria
+- Registro exige participação causal direta do Herdeiro; golpe final não é obrigatório e presença passiva não basta.
+- Morte da fonte divina rompe a Autoridade do Sucessor e qualquer sustentação de vida dependente dela.
+- Sucessor sobrevivente volta à condição mortal normal; dependência vital extrema do vínculo pode tornar o rompimento fatal.
+- Eternidade só pode ser rompida por livre escolha da própria Eternidade ou pela reunião da totalidade de suas Autoridades/traços.
+- Reforçada a regra de elenco: personagens centrais devem possuir história, objetivos, conflitos e desenvolvimento próprios para que empatia/apego sejam conquistados narrativamente.
