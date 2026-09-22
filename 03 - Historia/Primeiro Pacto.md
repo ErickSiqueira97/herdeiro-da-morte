@@ -9,11 +9,25 @@ tags:
 moc: "[[MOC - História]]"
 projeto: O Herdeiro da Morte
 status: CANON
-versao: 1.1
+versao: 1.2
 ---
 
 # Primeiro Pacto
-Após [[Primeira Guerra]] e [[Diluvio]], os deuses estabelecem o Primeiro Pacto para impedir que a humanidade volte a ser campo direto das guerras divinas.
+Após [[Primeira Guerra]] e [[Diluvio]], os deuses estabelecem o Primeiro Pacto para impedir que a humanidade volte a ser campo direto das guerras divinas **e para responder a uma crise crescente na relação entre humanidade e divindade**.
+
+## Origem
+A devastação causada pelas disputas divinas começa a alterar a percepção humana sobre os próprios deuses. Povos, governantes e comunidades passam a questionar por que deveriam continuar venerando seres cujas rivalidades transformaram mortais em instrumentos e vítimas.
+
+A adoração **não é uma bateria metafísica**: um deus não deixa de existir nem perde automaticamente sua natureza porque humanos deixam de venerá-lo. Entretanto, culto produz influência no mundo mortal — templos, sacerdotes, legitimidade, agentes, alianças políticas, memória cultural e capacidade de orientar sociedades. Uma ruptura ampla com a humanidade significaria perder essa presença e influência.
+
+O Pacto nasce, portanto, de uma coalizão de motivações diferentes:
+- alguns deuses reconhecem genuinamente o dano causado aos humanos;
+- alguns temem que a humanidade deixe de adorá-los;
+- alguns querem preservar ordem, cultos e influência;
+- alguns aceitam porque rivais também serão limitados;
+- outros consideram a retirada um erro, mas cedem ao novo equilíbrio.
+
+O Primeiro Pacto não é um presente puramente altruísta à humanidade. É uma concessão resultante de **culpa, pragmatismo, medo, autopreservação e necessidade de impedir nova catástrofe**.
 
 ## Separação
 Os deuses permanecem em seus próprios lares/domínios conforme suas tradições — Olimpo, domínios nórdicos, Duat e equivalentes. O Pacto encerra a Era de Presença aberta no mundo mortal.
