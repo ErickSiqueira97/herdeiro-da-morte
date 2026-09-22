@@ -1,7 +1,16 @@
 ---
+id: 00-leia-primeiro-instrucoes-para-ia
+tipo: governanca
+schema_version: 1.1
+aliases:
+  - "INSTRUÇÕES PARA IA"
+tags:
+  - hdma/governanca
+relacoes:
+  - alvo: "[[REGRAS DE CANON]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: instrucoes
 versao: 1.0
 ---
 
