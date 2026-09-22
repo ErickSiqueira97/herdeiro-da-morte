@@ -1,7 +1,23 @@
 ---
+id: 09-misterios-por-que-a-morte-escolheu-o-protagonista
+tipo: misterio
+schema_version: 1.1
+aliases:
+  - "Por que a Morte escolheu o protagonista"
+tags:
+  - hdma/misterio
+moc: "[[MOC - Mistérios]]"
+relacoes:
+  - alvo: "[[Cicatriz da Alma]]"
+    tipo: referencia
+  - alvo: "[[Morte]]"
+    tipo: referencia
+  - alvo: "[[Assassinato da Familia]]"
+    tipo: referencia
+  - alvo: "[[Callback - Demorou]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: misterio
 versao: 1.0
 ---
 

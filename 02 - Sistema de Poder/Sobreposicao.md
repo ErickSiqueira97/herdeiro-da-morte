@@ -1,7 +1,27 @@
 ---
+id: 02-sistema-de-poder-sobreposicao
+tipo: sistema_poder
+schema_version: 1.1
+aliases:
+  - "Sobreposicao"
+tags:
+  - hdma/sistema_poder
+moc: "[[MOC - Sistema de Poder]]"
+relacoes:
+  - alvo: "[[Morte]]"
+    tipo: referencia
+  - alvo: "[[Autoridade]]"
+    tipo: referencia
+  - alvo: "[[Marca]]"
+    tipo: referencia
+  - alvo: "[[Seshat]]"
+    tipo: referencia
+  - alvo: "[[Protagonista]]"
+    tipo: referencia
+  - alvo: "[[Santuario]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: tecnica
 versao: 1.0
 ---
 

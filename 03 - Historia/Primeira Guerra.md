@@ -1,7 +1,21 @@
 ---
+id: 03-historia-primeira-guerra
+tipo: evento_historico
+schema_version: 1.1
+aliases:
+  - "Primeira Guerra"
+tags:
+  - hdma/evento_historico
+moc: "[[MOC - História]]"
+relacoes:
+  - alvo: "[[Morte]]"
+    tipo: referencia
+  - alvo: "[[Primeiro Pacto]]"
+    tipo: referencia
+  - alvo: "[[Diluvio]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: evento
 versao: 1.0
 ---
 

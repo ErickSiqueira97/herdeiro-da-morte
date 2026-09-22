@@ -1,7 +1,29 @@
 ---
+id: 03-historia-guerras-dos-sucessores
+tipo: evento_historico
+schema_version: 1.1
+aliases:
+  - "Guerras dos Sucessores"
+tags:
+  - hdma/evento_historico
+moc: "[[MOC - História]]"
+relacoes:
+  - alvo: "[[Gilgamesh]]"
+    tipo: referencia
+  - alvo: "[[Sucessao]]"
+    tipo: referencia
+  - alvo: "[[Primeiro Pacto]]"
+    tipo: referencia
+  - alvo: "[[Morte]]"
+    tipo: referencia
+  - alvo: "[[Sobreposicao]]"
+    tipo: referencia
+  - alvo: "[[Execucao]]"
+    tipo: referencia
+  - alvo: "[[Santuario]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: PROVISÓRIO
-tipo: periodo
 versao: 1.0
 ---
 

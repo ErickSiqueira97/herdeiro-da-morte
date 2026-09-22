@@ -1,9 +1,16 @@
 ---
-projeto: O Herdeiro da Morte
-status: TEMPLATE
+id: 99-templates-template-local
 tipo: template
-versao: 1.0
+schema_version: 1.1
+aliases:
+  - "Template - Local"
+tags:
+  - hdma/template
+status: TEMPLATE
+projeto: O Herdeiro da Morte
+versao: 1.1
 ---
+
 # {{nome}}
 ## Função narrativa
 ## História

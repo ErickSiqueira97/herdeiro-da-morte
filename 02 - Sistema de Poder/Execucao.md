@@ -1,7 +1,25 @@
 ---
+id: 02-sistema-de-poder-execucao
+tipo: sistema_poder
+schema_version: 1.1
+aliases:
+  - "Execucao"
+tags:
+  - hdma/sistema_poder
+moc: "[[MOC - Sistema de Poder]]"
+relacoes:
+  - alvo: "[[Morte]]"
+    tipo: referencia
+  - alvo: "[[Eternos]]"
+    tipo: referencia
+  - alvo: "[[Eternidade]]"
+    tipo: referencia
+  - alvo: "[[Autoridade]]"
+    tipo: referencia
+  - alvo: "[[Livro dos Fins]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: autoridade
 versao: 1.0
 ---
 

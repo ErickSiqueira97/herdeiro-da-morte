@@ -1,7 +1,19 @@
 ---
+id: 03-historia-diluvio
+tipo: evento_historico
+schema_version: 1.1
+aliases:
+  - "Diluvio"
+tags:
+  - hdma/evento_historico
+moc: "[[MOC - História]]"
+relacoes:
+  - alvo: "[[Primeira Guerra]]"
+    tipo: referencia
+  - alvo: "[[Primeiro Pacto]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: evento
 versao: 1.0
 ---
 

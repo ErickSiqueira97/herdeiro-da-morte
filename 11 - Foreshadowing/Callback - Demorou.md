@@ -1,7 +1,21 @@
 ---
+id: 11-foreshadowing-callback-demorou
+tipo: foreshadowing
+schema_version: 1.1
+aliases:
+  - "Callback - Demorou"
+tags:
+  - hdma/foreshadowing
+moc: "[[MOC - Mistérios]]"
+relacoes:
+  - alvo: "[[Morte]]"
+    tipo: referencia
+  - alvo: "[[Cicatriz da Alma]]"
+    tipo: referencia
+  - alvo: "[[Por que a Morte escolheu o protagonista]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: callback
 versao: 1.0
 ---
 

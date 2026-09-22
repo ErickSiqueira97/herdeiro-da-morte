@@ -1,7 +1,51 @@
 ---
+id: 03-historia-linha-do-tempo-real
+tipo: evento_historico
+schema_version: 1.1
+aliases:
+  - "Linha do Tempo Real"
+tags:
+  - hdma/evento_historico
+moc: "[[MOC - História]]"
+relacoes:
+  - alvo: "[[Morte]]"
+    tipo: referencia
+  - alvo: "[[Eternidade]]"
+    tipo: referencia
+  - alvo: "[[Eternos]]"
+    tipo: referencia
+  - alvo: "[[Primeira Guerra]]"
+    tipo: referencia
+  - alvo: "[[Diluvio]]"
+    tipo: referencia
+  - alvo: "[[Primeiro Pacto]]"
+    tipo: referencia
+  - alvo: "[[Enkidu]]"
+    tipo: referencia
+  - alvo: "[[Shamash]]"
+    tipo: referencia
+  - alvo: "[[Gilgamesh]]"
+    tipo: referencia
+  - alvo: "[[Primeira Sucessao]]"
+    tipo: referencia
+  - alvo: "[[Guerras dos Sucessores]]"
+    tipo: referencia
+  - alvo: "[[Sobreposicao]]"
+    tipo: referencia
+  - alvo: "[[Execucao]]"
+    tipo: referencia
+  - alvo: "[[Santuario]]"
+    tipo: referencia
+  - alvo: "[[Seshat]]"
+    tipo: referencia
+  - alvo: "[[Protagonista]]"
+    tipo: referencia
+  - alvo: "[[Cicatriz da Alma]]"
+    tipo: referencia
+  - alvo: "[[Assassinato da Familia]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: cronologia
 versao: 1.0
 ---
 

@@ -1,7 +1,25 @@
 ---
+id: 09-misterios-falsa-sucessao-de-seshat
+tipo: misterio
+schema_version: 1.1
+aliases:
+  - "Falsa Sucessao de Seshat"
+tags:
+  - hdma/misterio
+moc: "[[MOC - Mistérios]]"
+relacoes:
+  - alvo: "[[Protagonista]]"
+    tipo: referencia
+  - alvo: "[[Seshat]]"
+    tipo: referencia
+  - alvo: "[[Morte]]"
+    tipo: referencia
+  - alvo: "[[Sobreposicao]]"
+    tipo: referencia
+  - alvo: "[[Livro dos Fins]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: misterio
 versao: 1.0
 ---
 

@@ -1,7 +1,14 @@
 ---
+id: 12-relacoes-protagonista-e-sucessora-de-idunn
+tipo: relacao
+schema_version: 1.1
+aliases:
+  - "Protagonista e Sucessora de Idunn"
+tags:
+  - hdma/relacao
+moc: "[[MOC - Personagens]]"
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: relacao
 versao: 1.0
 ---
 

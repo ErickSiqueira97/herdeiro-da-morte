@@ -1,7 +1,14 @@
 ---
+id: 02-sistema-de-poder-reliquias-eco
+tipo: sistema_poder
+schema_version: 1.1
+aliases:
+  - "Reliquias-Eco"
+tags:
+  - hdma/sistema_poder
+moc: "[[MOC - Sistema de Poder]]"
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: sistema
 versao: 1.0
 ---
 

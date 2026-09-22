@@ -1,7 +1,27 @@
 ---
+id: 06-organizacoes-santuario
+tipo: organizacao
+schema_version: 1.1
+aliases:
+  - "Santuario"
+tags:
+  - hdma/organizacao
+moc: "[[MOC - Mundo e Organizações]]"
+relacoes:
+  - alvo: "[[Gilgamesh]]"
+    tipo: referencia
+  - alvo: "[[Guerras dos Sucessores]]"
+    tipo: referencia
+  - alvo: "[[Marca]]"
+    tipo: referencia
+  - alvo: "[[Seshat]]"
+    tipo: referencia
+  - alvo: "[[Ma'at]]"
+    tipo: referencia
+  - alvo: "[[Primeiro Pacto]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: PROVISÓRIO
-tipo: organizacao
 versao: 1.0
 ---
 

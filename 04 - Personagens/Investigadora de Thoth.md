@@ -1,7 +1,21 @@
 ---
+id: 04-personagens-investigadora-de-thoth
+tipo: personagem
+schema_version: 1.1
+aliases:
+  - "Investigadora de Thoth"
+tags:
+  - hdma/personagem
+moc: "[[MOC - Personagens]]"
+relacoes:
+  - alvo: "[[Thoth]]"
+    tipo: referencia
+  - alvo: "[[Seshat]]"
+    tipo: referencia
+  - alvo: "[[Marca]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: PROVISÓRIO
-tipo: personagem
 versao: 1.0
 ---
 

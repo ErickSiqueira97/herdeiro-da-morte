@@ -1,8 +1,14 @@
 ---
-projeto: O Herdeiro da Morte
-status: PROVISÓRIO
+id: 14-desenvolvimento-ideias-nao-canonicas
 tipo: ideias
-versao: 1.0
+schema_version: 1.1
+aliases:
+  - "IDEIAS NÃO CANÔNICAS"
+tags:
+  - hdma/ideias
+status: PROVISÓRIO
+projeto: O Herdeiro da Morte
+versao: 1.1
 ---
 
 # Ideias não canônicas / candidatas

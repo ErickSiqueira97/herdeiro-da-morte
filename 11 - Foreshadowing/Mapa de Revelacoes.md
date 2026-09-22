@@ -1,7 +1,27 @@
 ---
+id: 11-foreshadowing-mapa-de-revelacoes
+tipo: foreshadowing
+schema_version: 1.1
+aliases:
+  - "Mapa de Revelacoes"
+tags:
+  - hdma/foreshadowing
+moc: "[[MOC - Mistérios]]"
+relacoes:
+  - alvo: "[[Sobreposicao]]"
+    tipo: referencia
+  - alvo: "[[Callback - Demorou]]"
+    tipo: referencia
+  - alvo: "[[Anubis reconhece o protagonista]]"
+    tipo: referencia
+  - alvo: "[[Morte]]"
+    tipo: referencia
+  - alvo: "[[Reliquias-Eco]]"
+    tipo: referencia
+  - alvo: "[[Eternos]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: matriz
 versao: 1.0
 ---
 

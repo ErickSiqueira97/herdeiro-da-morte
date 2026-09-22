@@ -1,9 +1,16 @@
 ---
-projeto: O Herdeiro da Morte
-status: TEMPLATE
+id: 99-templates-template-criatura
 tipo: template
-versao: 1.0
+schema_version: 1.1
+aliases:
+  - "Template - Criatura"
+tags:
+  - hdma/template
+status: TEMPLATE
+projeto: O Herdeiro da Morte
+versao: 1.1
 ---
+
 # {{nome}}
 ## Origem
 ## Classificação

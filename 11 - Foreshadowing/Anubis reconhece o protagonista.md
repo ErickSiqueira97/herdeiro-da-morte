@@ -1,7 +1,14 @@
 ---
+id: 11-foreshadowing-anubis-reconhece-o-protagonista
+tipo: foreshadowing
+schema_version: 1.1
+aliases:
+  - "Anubis reconhece o protagonista"
+tags:
+  - hdma/foreshadowing
+moc: "[[MOC - Mistérios]]"
 projeto: O Herdeiro da Morte
 status: PROVISÓRIO
-tipo: pista
 versao: 1.0
 ---
 

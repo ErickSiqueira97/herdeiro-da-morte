@@ -1,7 +1,19 @@
 ---
+id: 04-personagens-melhor-amigo
+tipo: personagem
+schema_version: 1.1
+aliases:
+  - "Melhor Amigo"
+tags:
+  - hdma/personagem
+moc: "[[MOC - Personagens]]"
+relacoes:
+  - alvo: "[[Protagonista]]"
+    tipo: referencia
+  - alvo: "[[Sun Wukong]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: EM ABERTO
-tipo: personagem
 versao: 1.0
 ---
 

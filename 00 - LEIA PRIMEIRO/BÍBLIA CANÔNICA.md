@@ -1,8 +1,14 @@
 ---
-projeto: O Herdeiro da Morte
-status: CANON
+id: 00-leia-primeiro-biblia-canonica
 tipo: biblia
-versao: 1.0
+schema_version: 1.1
+aliases:
+  - "BÍBLIA CANÔNICA"
+tags:
+  - hdma/biblia
+status: CANON
+projeto: O Herdeiro da Morte
+versao: 1.1
 ---
 
 # Bíblia Canônica v1.0

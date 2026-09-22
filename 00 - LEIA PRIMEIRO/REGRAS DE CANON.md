@@ -1,8 +1,14 @@
 ---
-projeto: O Herdeiro da Morte
-status: CANON
+id: 00-leia-primeiro-regras-de-canon
 tipo: governanca
-versao: 1.0
+schema_version: 1.1
+aliases:
+  - "REGRAS DE CANON"
+tags:
+  - hdma/governanca
+status: CANON
+projeto: O Herdeiro da Morte
+versao: 1.1
 ---
 
 # Regras de Cânone

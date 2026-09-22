@@ -1,7 +1,25 @@
 ---
+id: 03-historia-primeiro-pacto
+tipo: evento_historico
+schema_version: 1.1
+aliases:
+  - "Primeiro Pacto"
+tags:
+  - hdma/evento_historico
+moc: "[[MOC - História]]"
+relacoes:
+  - alvo: "[[Primeira Guerra]]"
+    tipo: referencia
+  - alvo: "[[Diluvio]]"
+    tipo: referencia
+  - alvo: "[[Eternidade]]"
+    tipo: referencia
+  - alvo: "[[Sucessao]]"
+    tipo: referencia
+  - alvo: "[[Santuario]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: PROVISÓRIO
-tipo: evento
 versao: 1.0
 ---
 

@@ -1,7 +1,21 @@
 ---
+id: 03-historia-enkidu
+tipo: evento_historico
+schema_version: 1.1
+aliases:
+  - "Enkidu"
+tags:
+  - hdma/evento_historico
+moc: "[[MOC - História]]"
+relacoes:
+  - alvo: "[[Gilgamesh]]"
+    tipo: referencia
+  - alvo: "[[Shamash]]"
+    tipo: referencia
+  - alvo: "[[Morte]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: personagem-historico
 versao: 1.0
 ---
 

@@ -1,7 +1,19 @@
 ---
+id: 04-personagens-diretor-do-santuario
+tipo: personagem
+schema_version: 1.1
+aliases:
+  - "Diretor do Santuario"
+tags:
+  - hdma/personagem
+moc: "[[MOC - Personagens]]"
+relacoes:
+  - alvo: "[[Ma'at]]"
+    tipo: referencia
+  - alvo: "[[Protagonista]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: PROVISÓRIO
-tipo: personagem
 versao: 1.0
 ---
 

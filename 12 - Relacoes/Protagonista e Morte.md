@@ -1,7 +1,17 @@
 ---
+id: 12-relacoes-protagonista-e-morte
+tipo: relacao
+schema_version: 1.1
+aliases:
+  - "Protagonista e Morte"
+tags:
+  - hdma/relacao
+moc: "[[MOC - Personagens]]"
+relacoes:
+  - alvo: "[[Cicatriz da Alma]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: relacao
 versao: 1.0
 ---
 

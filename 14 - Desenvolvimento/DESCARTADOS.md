@@ -1,7 +1,22 @@
 ---
+id: 14-desenvolvimento-descartados
+tipo: desenvolvimento
+schema_version: 1.1
+aliases:
+  - "DESCARTADOS"
+tags:
+  - hdma/desenvolvimento
+relacoes:
+  - alvo: "[[Execucao]]"
+    tipo: referencia
+  - alvo: "[[Reliquias-Eco]]"
+    tipo: referencia
+  - alvo: "[[Sobreposicao]]"
+    tipo: referencia
+  - alvo: "[[Thoth]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: DESCARTADO
-tipo: arquivo
 versao: 1.0
 ---
 
