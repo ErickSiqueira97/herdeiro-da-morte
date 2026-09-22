@@ -1,7 +1,13 @@
 ---
+id: 14-desenvolvimento-changelog-do-canon
+tipo: desenvolvimento
+schema_version: 1.1
+aliases:
+  - "CHANGELOG DO CANON"
+tags:
+  - hdma/desenvolvimento
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: changelog
 versao: 1.0
 ---
 
