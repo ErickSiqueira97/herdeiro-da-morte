@@ -28,7 +28,7 @@ relacoes:
     tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-versao: 1.0
+versao: 1.1
 ---
 
 # Morte
@@ -39,8 +39,11 @@ Entidade primordial ligada ao **Fim**. Não é equivalente a Anubis, Hades ou ou
 ## Regras
 - Não pode causar diretamente uma morte.
 - Pode observar/recolher mortos e estudar a transição das Autoridades.
-- Pode manipular informação, escolhas e circunstâncias sem controlar totalmente a vontade alheia.
-- Sua Autoridade inclui [[Execucao]].
+- Opera no mundo mortal de modo semelhante às formas limitadas de contato permitidas aos deuses: principalmente por **sonhos, visões e influência indireta sobre acontecimentos**.
+- Não precisa receber ou possuir uma Autoridade como um deus/Sucessor: Morte é uma **força primordial consciente**, e sua natureza existe por si.
+- [[Execucao]] é uma expressão/capacidade de sua natureza primordial ligada ao Fim, não uma Autoridade recebida de outra entidade.
+- Pode transmitir informação, omiti-la, direcionar interpretações e influenciar decisões/circunstâncias, mas não controla a vontade alheia nem causa diretamente uma morte.
+- **Nunca revela voluntariamente sua identidade verdadeira.** Quando uma interação exige nome ou identidade, utiliza nomes falsos, títulos ou identidades de cobertura.
 - Sua Relíquia original é o [[Livro dos Fins]].
 - Escolheu o [[Protagonista]] após reconhecer a [[Cicatriz da Alma]].
 
