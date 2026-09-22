@@ -7,50 +7,12 @@ aliases:
 tags:
   - hdma/evento_historico
 moc: "[[MOC - História]]"
-relacoes:
-  - alvo: "[[Morte]]"
-    tipo: referencia
-  - alvo: "[[Eternidade]]"
-    tipo: referencia
-  - alvo: "[[Eternos]]"
-    tipo: referencia
-  - alvo: "[[Primeira Guerra]]"
-    tipo: referencia
-  - alvo: "[[Diluvio]]"
-    tipo: referencia
-  - alvo: "[[Primeiro Pacto]]"
-    tipo: referencia
-  - alvo: "[[Enkidu]]"
-    tipo: referencia
-  - alvo: "[[Shamash]]"
-    tipo: referencia
-  - alvo: "[[Gilgamesh]]"
-    tipo: referencia
-  - alvo: "[[Primeira Sucessao]]"
-    tipo: referencia
-  - alvo: "[[Guerras dos Sucessores]]"
-    tipo: referencia
-  - alvo: "[[Sobreposicao]]"
-    tipo: referencia
-  - alvo: "[[Execucao]]"
-    tipo: referencia
-  - alvo: "[[Santuario]]"
-    tipo: referencia
-  - alvo: "[[Seshat]]"
-    tipo: referencia
-  - alvo: "[[Protagonista]]"
-    tipo: referencia
-  - alvo: "[[Cicatriz da Alma]]"
-    tipo: referencia
-  - alvo: "[[Assassinato da Familia]]"
-    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-versao: 1.0
+versao: 1.1
 ---
 
 # Linha do Tempo Real
-
 1. Criação: [[Morte]], [[Eternidade]] e primeiros deuses surgem; alguns são [[Eternos]].
 2. Humanidade surge por/através dos deuses, ao menos parcialmente ligada a culto/adoração.
 3. Era de Presença: deuses e humanos interagem diretamente.
@@ -59,15 +21,16 @@ versao: 1.0
 6. [[Diluvio]] integra a grande catástrofe final; deuses divergem entre destruir/salvar humanos.
 7. Paz divina; mortais pagam o preço; Morte radicaliza sua visão.
 8. Morte tenta compreender/aplicar Fim a um Eterno e encontra o limite de [[Eternidade]].
-9. [[Primeiro Pacto]] / afastamento divino.
-10. [[Enkidu]] morre durante experimento com [[Shamash]]; vínculo incompleto prova que Autoridade pode aderir a humano.
-11. Morte observa o primeiro retorno de Autoridade à fonte.
-12. [[Gilgamesh]] aperfeiçoa a [[Primeira Sucessao]] estável.
-13. Outros deuses copiam o sistema; Sucessores tornam-se loophole/proxies.
-14. [[Guerras dos Sucessores]].
-15. Morte estuda retornos, Marcas e desenvolve [[Sobreposicao]] e depois [[Execucao]].
-16. Gilgamesh participa da fundação do [[Santuario]].
-17. Antigo Sucessor de [[Seshat]] morre; Morte registra o padrão da Marca.
-18. [[Protagonista]] morre quando criança, retorna e ganha [[Cicatriz da Alma]].
-19. Morte o observa e manipula eventos ligados ao [[Assassinato da Familia]].
-20. Início do Livro 1: segunda morte, encontro consciente com Morte, retorno e falsa identidade de Seshat.
+9. [[Primeiro Pacto]] separa a presença divina plena do mundo mortal; deuses permanecem em seus próprios domínios.
+10. Gilgamesh busca [[Shamash]] para salvar [[Enkidu]]; a primeira concessão funcional de Autoridade a um humano é realizada.
+11. Um pequeno grupo de deuses, temendo as consequências da descoberta, assassina Enkidu.
+12. A Autoridade retorna a Shamash; Morte observa o **Primeiro Retorno**.
+13. [[Gilgamesh]] estabiliza e sistematiza a [[Primeira Sucessao]], tornando-se o primeiro Sucessor estável duradouro.
+14. Outros deuses copiam o sistema; Sucessores tornam-se loophole/proxies do Pacto.
+15. [[Guerras dos Sucessores]].
+16. Morte estuda retornos, Marcas e desenvolve [[Sobreposicao]] e depois [[Execucao]].
+17. Gilgamesh participa da fundação do [[Santuario]], que posteriormente assume função de fiscalização humana e proteção de Sucessores.
+18. Antigo Sucessor de [[Seshat]] morre; Morte registra o padrão da Marca.
+19. [[Protagonista]] morre quando criança, retorna e ganha [[Cicatriz da Alma]].
+20. Morte o observa e manipula eventos ligados ao [[Assassinato da Familia]].
+21. Início do Livro 1: segunda morte, encontro consciente com Morte, retorno e falsa identidade de Seshat.
