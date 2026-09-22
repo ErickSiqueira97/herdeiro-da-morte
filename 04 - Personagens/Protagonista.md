@@ -35,7 +35,7 @@ versao: 1.0
 Nome ainda [[EM ABERTO]]. Humano comum, sem profecia ou linhagem divina.
 
 ## Verdade
-- Morreu quando criança e retornou: [[Cicatriz da Alma]].
+- Morreu afogado quando criança; o corpo foi reanimado depois de a alma já ter atravessado o Fim, originando a [[Cicatriz da Alma]].
 - [[Morte]] o observou por anos.
 - Aparente Sucessor de [[Seshat]]; verdadeiro [[Herdeiro da Morte]].
 - Porta [[Livro dos Fins]] e [[Execucao]].
@@ -49,6 +49,9 @@ Nome ainda [[EM ABERTO]]. Humano comum, sem profecia ou linhagem divina.
 Livro 1: descoberta, vingança específica, fascínio pelo poder.  
 Livro 2: verdade divina, primeira morte de Eterno, radicalização.  
 Livro 3: heroísmo → carrasco → calamidade; “alguns deuses” vira “todos”; amigos se opõem; última escolha quebra a condição de Eternidade em vez de concluir o extermínio.
+
+## As três mortes
+Sua trajetória é marcada por três mortes estruturais: infância/retorno e Cicatriz; segunda morte no início da saga e nascimento do Herdeiro; terceira morte ligada ao desfecho e à aceitação ou redefinição do Fim. O destino definitivo da terceira permanece em aberto.
 
 ## Callback
 No reencontro consciente com Morte, ela diz: [[Callback - Demorou|“Demorou.”]]
