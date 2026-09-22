@@ -99,3 +99,15 @@ versao: 1.0
 
 ## Regra de leitura
 Cada nota informa seu `status`: CANON, PROVISÓRIO, EM ABERTO, PESQUISA ou DESCARTADO.
+
+## Navegação estrutural v1.1
+- [[MOC - Cosmologia]]
+- [[MOC - Sistema de Poder]]
+- [[MOC - História]]
+- [[MOC - Personagens]]
+- [[MOC - Divindades]]
+- [[MOC - Mundo e Organizações]]
+- [[MOC - Mistérios]]
+- [[MOC - Livros]]
+- [[ESQUEMA DE METADADOS v1.1]]
+
