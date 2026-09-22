@@ -1,7 +1,29 @@
 ---
+id: 10-livros-livro-3-macro-livro-3
+tipo: livro
+schema_version: 1.1
+aliases:
+  - "Macro Livro 3"
+tags:
+  - hdma/livro
+moc: "[[MOC - Livros]]"
+relacoes:
+  - alvo: "[[Primeira Guerra]]"
+    tipo: referencia
+  - alvo: "[[Diluvio]]"
+    tipo: referencia
+  - alvo: "[[Primeiro Pacto]]"
+    tipo: referencia
+  - alvo: "[[Enkidu]]"
+    tipo: referencia
+  - alvo: "[[Primeira Sucessao]]"
+    tipo: referencia
+  - alvo: "[[Assassinato da Familia]]"
+    tipo: referencia
+  - alvo: "[[Corrupcao pelas Autoridades]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: macroestrutura
 versao: 1.0
 ---
 
