@@ -29,3 +29,8 @@ versao: 1.1
 
 ## Regra de autoridade
 Pesquisa gera PESQUISA; especialistas propõem PROVISÓRIO; auditoria abre alertas; somente aprovação humana transforma proposta em CANON.
+
+## Implementação operacional
+As especificações estão em [[MOC - Skills]] e seguem [[PROTOCOLO DE ORQUESTRAÇÃO]]. Foram adicionadas skills além do conjunto inicial para capítulos, cenas, diálogo, pacing, antagonismo/conflito, payoff emocional, foreshadowing e manutenção do lore.
+
+> Estas notas são protocolos executáveis por uma IA que tenha acesso ao Vault. Elas não são, por si só, plugins globais instalados no produto ChatGPT.
