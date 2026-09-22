@@ -1,7 +1,23 @@
 ---
+id: 03-historia-primeira-sucessao
+tipo: evento_historico
+schema_version: 1.1
+aliases:
+  - "Primeira Sucessao"
+tags:
+  - hdma/evento_historico
+moc: "[[MOC - História]]"
+relacoes:
+  - alvo: "[[Enkidu]]"
+    tipo: referencia
+  - alvo: "[[Gilgamesh]]"
+    tipo: referencia
+  - alvo: "[[Shamash]]"
+    tipo: referencia
+  - alvo: "[[Guerras dos Sucessores]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: evento
 versao: 1.0
 ---
 
