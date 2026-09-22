@@ -1,7 +1,19 @@
 ---
+id: 02-sistema-de-poder-autoridade
+tipo: sistema_poder
+schema_version: 1.1
+aliases:
+  - "Autoridade"
+tags:
+  - hdma/sistema_poder
+moc: "[[MOC - Sistema de Poder]]"
+relacoes:
+  - alvo: "[[Protagonista]]"
+    tipo: referencia
+  - alvo: "[[Corrupcao pelas Autoridades]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-tipo: sistema
 versao: 1.0
 ---
 
