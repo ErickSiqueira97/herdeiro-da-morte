@@ -24,7 +24,7 @@ versao: 1.0
 ## Contexto
 A [[Facção de Ares]] procura o [[Protagonista]] antes de sua falsa Sucessão de Seshat. A intenção original é localizar, compreender e potencialmente recrutar a anomalia, não exterminar sua família.
 
-A segunda morte do protagonista ocorre durante uma aproximação romântica usada como operação de investigação. A agente/Successora encarregada da aproximação começa fingindo interesse, mas desenvolve alguma afeição genuína e hesita diante da escalada da missão.
+A segunda morte do protagonista ocorre durante uma aproximação romântica usada como operação de investigação. A agente encarregada da aproximação é uma **Sucessora de Ártemis**. Ela começa fingindo interesse, mas desenvolve alguma afeição genuína e hesita diante da escalada da missão.
 
 O protagonista morre de verdade durante os acontecimentos e retorna posteriormente com a aparente Marca de Seshat e o Livro. Para a facção, o caso muda de natureza: um humano que já era investigado como anomalia morreu diante de testemunhas e reapareceu ligado, aparentemente, a uma divindade.
 
@@ -70,15 +70,29 @@ Essa inconsistência é uma pista para a [[Cicatriz da Alma]], para a manipulaç
 A cadeia causal possui responsabilidades distintas:
 - Ares/facção cria e conduz a investigação da anomalia.
 - O agente invasor escolhe escalar a violência e mata o pai.
-- A agente da aproximação romântica participa da operação inicial, mas não é automaticamente a assassina da família.
+- A Sucessora de Ártemis participa da operação inicial, mas não é a assassina da família.
 - Morte pode ter permitido que informações sobre a anomalia chegassem à facção, sem ordenar ou causar diretamente as mortes.
 - Nenhuma dessas camadas elimina a agência individual de quem escolhe matar.
 
 ## Em aberto
-- identidade e Autoridade da agente da aproximação romântica;
+- nome da agente da aproximação romântica e detalhes de sua relação com Ártemis;
 - identidade e Autoridade do agente que mata o pai;
 - causa física exata da segunda morte;
 - composição final da cena da invasão;
 - detalhes adicionais do que a mãe lembra do afogamento além da existência dos desenhos de uma mulher;
 - destino posterior da mãe e da irmã;
 - momento em que o protagonista descobre que elas sobreviveram.
+
+
+## Sucessora de Ártemis — CANON
+A mulher usada na aproximação romântica de Caio é uma **Sucessora de Ártemis**. É morena, bonita e próxima da idade de Caio; nome e detalhes visuais finos permanecem em aberto.
+
+Sua Autoridade é interpretada no sistema como **Perseguição**, expressão fundamental da caça de Ártemis. A função central não é fornecer localização absoluta de qualquer pessoa: primeiro é necessário identificar/encontrar um rastro ou estabelecer o alvo. Depois disso, torna-se excepcionalmente difícil perder a presa, permitindo perceber sinais de passagem, proximidade, mudanças de rota e padrões relevantes à perseguição. Limites técnicos ainda serão refinados.
+
+Sua Relíquia-Eco é um **arco**, ligado à iconografia de caça e arquearia de Ártemis. A Perseguição pode melhorar sua capacidade de atingir um alvo à medida que ela o conhece e acompanha, sem transformar flechas em projéteis infalíveis ou simplesmente teleguiados.
+
+Ártemis não integra automaticamente a Facção de Ares e não precisa concordar com o uso que sua Successora faz da Autoridade. A participação na facção é escolha da humana, preservando o princípio: **o Legado pertence ao deus; a escolha pertence ao homem.**
+
+A facção a utiliza porque sua Autoridade é especialmente adequada para localizar e acompanhar anomalias. Ela é enviada para caçar Caio, aproxima-se dele como missão e, ao conhecê-lo como pessoa, passa a hesitar. A direção canônica é que ela tente permitir que Caio escape quando a operação escala, contribuindo para o colapso do plano sem apagar sua responsabilidade pela aproximação inicial.
+
+Ela deve sobreviver à segunda morte de Caio e permanecer disponível para reencontros posteriores.
