@@ -142,3 +142,15 @@ Primeira consolidação do Vault.
 - Corrigidas Bíblia Canônica e Linha do Tempo Real para remover a antiga formulação de que apenas alguns deuses seriam Eternos.
 - Linha do Tempo Real passa a registrar explicitamente a busca da Facção de Ares pela anomalia e a decisão autônoma do agente que assassina a família.
 - Com A07 resolvido e essas consolidações documentais, o P0 é considerado **CONCLUÍDO NO NÚCLEO**.
+
+## 22/09/2026 — Segunda morte e invasão da família
+- A segunda morte passa a ser precedida por uma aproximação romântica inspirada estruturalmente na ideia de confiança convertida em perigo: uma agente/Successora da Facção de Ares se aproxima do protagonista para investigá-lo e potencialmente recrutá-lo.
+- A aproximação começa como missão, mas desenvolve alguma afeição genuína; a personagem não é automaticamente a assassina da família.
+- A facção já procura o protagonista antes da falsa Sucessão de Seshat, preservando a pista cronológica central.
+- Depois da segunda morte e do retorno com a aparente Marca de Seshat, a operação escala.
+- O pai do protagonista é ex-militar, desconhece o mundo mitológico, percebe a invasão e reage para proteger a família.
+- O pai demonstra competência e consegue atingir um invasor, mas é morto por um Successor durante o confronto.
+- A morte do pai não é uma ordem original de Ares; o agente responsável escolhe escalar a violência.
+- Mãe e irmã não têm morte mostrada nem corpos confirmados. Elas escapam da cena imediata graças ao tempo comprado pelo pai, são posteriormente interceptadas pela facção e permanecem desaparecidas para o protagonista.
+- Na arquitetura real, mãe e irmã sobreviveram inicialmente. Seus destinos posteriores permanecem em aberto.
+- A mãe pode guardar lembranças relevantes do afogamento infantil; o conteúdo exato dessas lembranças permanece aberto.
