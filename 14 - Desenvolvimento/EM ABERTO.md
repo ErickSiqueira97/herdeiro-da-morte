@@ -36,7 +36,7 @@ versao: 1.0
 - Identidade do pequeno grupo de deuses que assassinou [[Enkidu]] e suas motivações individuais.
 - Detalhes das [[Guerras dos Sucessores]].
 - Estrutura política/operacional do [[Santuario]].
-- Aparência, situação financeira detalhada e objetivos cotidianos de longo prazo do [[Protagonista]].
+- Situação financeira detalhada e objetivos cotidianos de longo prazo do [[Protagonista]].
 - Identidade/Autoridade do agente da [[Facção de Ares]] que mata o pai e detalhes finos da operação.
 - Identidade/Autoridade da agente da aproximação romântica ligada à segunda morte; causa física exata da segunda morte.
 - Detalhes adicionais das lembranças da mãe além dos desenhos de uma mulher; destino posterior de mãe/irmã e quando o protagonista descobre que sobreviveram.
