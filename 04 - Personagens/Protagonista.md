@@ -114,3 +114,18 @@ Caio possui aparência deliberadamente comum:
 - não se destaca muito visualmente em ambientes comuns.
 
 Ele não deve começar a história com características visuais que anunciem excepcionalidade. A transformação de sua presença ao longo da saga deve vir das experiências, cicatrizes, postura, expressão e efeitos do acúmulo de Autoridades, criando contraste com o jovem comum do início.
+
+
+## Sonhos antes da tragédia — CANON
+Antes de entrar no mundo dos Sucessores, Caio possui objetivos deliberadamente comuns. Ele quer:
+- concluir Ciência da Computação e conseguir um trabalho melhor na área de programação;
+- conquistar independência financeira e ajudar a família;
+- comprar uma **moto**, para a qual pode guardar parte do salário;
+- dar um **upgrade no computador**, desejo que frequentemente compete com a economia para a moto;
+- conhecer **alguém legal com quem possa dividir a vida**.
+
+Caio não começa a saga desejando grandeza, poder ou um destino excepcional. A perda desses projetos cotidianos deve funcionar como contraste com a escala que sua existência assume posteriormente.
+
+O desejo genuíno de viver um relacionamento também torna a aproximação romântica ligada à segunda morte emocionalmente eficaz: ele não cai apenas em uma armadilha, mas acredita que uma parte simples do futuro que desejava talvez esteja finalmente começando.
+
+A experiência pode repercutir posteriormente em sua dificuldade de confiar romanticamente, inclusive na relação com a Sucessora de Iðunn, sem eliminar sua capacidade de voltar a amar.
