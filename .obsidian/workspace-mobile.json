@@ -11,10 +11,14 @@
             "id": "3dfc0078dbd2a6a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 - Personagens/Protagonista.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Protagonista"
             }
           }
         ]
@@ -167,5 +171,7 @@
     }
   },
   "active": "3dfc0078dbd2a6a3",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "03 - Historia/Assassinato da Familia.md"
+  ]
 }
