@@ -39,7 +39,7 @@ versao: 1.0
 - Nome/idade/aparência/vida civil do [[Protagonista]].
 - Identidade/Autoridade do agente da [[Facção de Ares]] que mata o pai e detalhes finos da operação.
 - Identidade/Autoridade da agente da aproximação romântica ligada à segunda morte; causa física exata da segunda morte.
-- O que exatamente a mãe lembra do afogamento, destino posterior de mãe/irmã e quando o protagonista descobre que sobreviveram.
+- Detalhes adicionais das lembranças da mãe além dos desenhos de uma mulher; destino posterior de mãe/irmã e quando o protagonista descobre que sobreviveram.
 - Fonte divina do [[Melhor Amigo]]; pesquisar [[Sun Wukong]].
 - Confirmar [[Investigadora de Thoth]].
 - Nome do [[Diretor do Santuario]].
