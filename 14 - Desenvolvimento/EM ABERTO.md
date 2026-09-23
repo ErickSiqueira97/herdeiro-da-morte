@@ -38,7 +38,7 @@ versao: 1.0
 - Estrutura política/operacional do [[Santuario]].
 - Situação financeira detalhada do [[Protagonista]] e detalhes concretos de suas economias para a moto/PC, se necessários em cena.
 - Identidade/Autoridade do agente da [[Facção de Ares]] que mata o pai e detalhes finos da operação.
-- Identidade/Autoridade da agente da aproximação romântica ligada à segunda morte; causa física exata da segunda morte.
+- Nome, personalidade, detalhes visuais e relação com Ártemis da Sucessora de Ártemis ligada à segunda morte; limites técnicos finais da Autoridade de Perseguição e causa física exata da segunda morte.
 - Detalhes adicionais das lembranças da mãe além dos desenhos de uma mulher; destino posterior de mãe/irmã e quando o protagonista descobre que sobreviveram.
 - Fonte divina do [[Melhor Amigo]]; pesquisar [[Sun Wukong]].
 - Confirmar [[Investigadora de Thoth]].
