@@ -242,3 +242,10 @@ Primeira consolidação do Vault.
 - Aos 21, Maya aceita voluntariamente o pingente de Ares para continuar buscando respostas sobre Daniel; Ártemis respeita sua autonomia.
 - Aos 22, Maya recebe Caio como alvo de localização/observação, prepara deliberadamente a aproximação romântica, desenvolve sentimento genuíno e tenta deixá-lo escapar quando a operação escala.
 - Eixo temático fechado: Maya precisa aprender não a encontrar pessoas, mas quando uma perseguição deve terminar.
+
+## 23/09/2026 — Marca de Ártemis
+- Aprovada a direção visual da Marca de Maya: tatuagem sobrenatural orgânica e fluida integrada ao corpo.
+- Composição-base: lua crescente, flecha e linhas/rastros de perseguição.
+- Localização definida na lateral das costelas.
+- Em uso da Autoridade, a Marca pode emergir visualmente de forma progressiva, sem efeito de neon.
+- A concept art gerada foi aprovada como referência, mas o PNG ficará para uma etapa posterior de anexos e **ainda não foi enviado ao repositório**.
