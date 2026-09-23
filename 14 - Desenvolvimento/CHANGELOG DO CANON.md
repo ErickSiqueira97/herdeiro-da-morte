@@ -193,3 +193,11 @@ Primeira consolidação do Vault.
 - Caio mede aproximadamente **1,80 m**, é magro, tem cabelos escuros e ondulados e olhos castanhos.
 - Sua aparência inicial é deliberadamente comum e não se destaca muito.
 - Características visuais extraordinárias não fazem parte de seu design inicial; mudanças marcantes devem surgir como consequência da trajetória e do acúmulo de Autoridades.
+
+## 22/09/2026 — Sonhos de Caio antes da tragédia
+- Caio quer concluir Ciência da Computação, entrar profissionalmente na área de programação, conquistar independência financeira e ajudar a família.
+- Entre suas metas concretas estão comprar uma **moto** e dar um **upgrade no PC**.
+- Ele também deseja conhecer alguém legal com quem possa construir e dividir a vida.
+- Esses desejos permanecem deliberadamente comuns e contrastam com a escala divina que sua existência assume.
+- O desejo romântico torna a aproximação ligada à segunda morte mais dolorosa: Caio acredita que uma parte do futuro que desejava pode estar começando.
+- A experiência deixa espaço para dificuldade posterior de confiança amorosa e para o desenvolvimento gradual da relação com a Sucessora de Iðunn.
