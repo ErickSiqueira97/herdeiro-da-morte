@@ -38,7 +38,7 @@ versao: 1.0
 - Estrutura política/operacional do [[Santuario]].
 - Situação financeira detalhada do [[Protagonista]] e detalhes concretos de suas economias para a moto/PC, se necessários em cena.
 - Identidade/Autoridade do agente da [[Facção de Ares]] que mata o pai e detalhes finos da operação.
-- Maya Ferraz: cidade de origem, detalhes visuais finais, pista sobre Daniel, relação com Ártemis dos 18 aos 22, entrada e relações na Elite de Ares, limites técnicos finais da Autoridade de Perseguição e causa física exata da segunda morte.
+- Maya Ferraz: cidade de origem, visual final, natureza das pistas sobre Daniel, regras técnicas completas de Perseguição, motivo de Daniel não poder ser encontrado, relações individuais com os outros sete, primeiro encontro exato com Caio, causa física da segunda morte, arco dos Livros 2–3 e resolução de Daniel.
 - Detalhes adicionais das lembranças da mãe além dos desenhos de uma mulher; destino posterior de mãe/irmã e quando o protagonista descobre que sobreviveram.
 - Fonte divina do [[Melhor Amigo]]; pesquisar [[Sun Wukong]].
 - Confirmar [[Investigadora de Thoth]].
