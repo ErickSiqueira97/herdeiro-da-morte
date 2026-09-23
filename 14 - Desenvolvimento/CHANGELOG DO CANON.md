@@ -211,3 +211,12 @@ Primeira consolidação do Vault.
 - Ela é escolhida para a missão por sua aptidão para localizar e acompanhar a anomalia que é Caio.
 - A aproximação começa como missão, mas ela desenvolve afeição genuína e, diante da escalada, tenta permitir que Caio escape.
 - Ela não é a assassina da família e deve sobreviver à segunda morte de Caio, permanecendo disponível para reencontros futuros.
+
+## 23/09/2026 — Os oito da elite de Ares
+- A Facção de Ares passa a ter como núcleo uma elite de **oito Sucessores**.
+- Formação canônica: Ares/Conflito, Ártemis/Perseguição, Susanoo/Tempestade, Sekhmet/Fúria, Hermes/Travessia, Hel/Declínio, Hefesto/Forja e Themis/Julgamento.
+- Os integrantes não possuem ranking oficial de força e podem ter motivações independentes.
+- Os deuses de origem não precisam apoiar Ares; a participação é escolha do Successor.
+- Todos usam um **pingente com o símbolo de Ares**, sem poder próprio, como insígnia de pertencimento.
+- Sekhmet permanece apenas candidata ao papel do Successor que mata Marcelo; identidade do assassino ainda não foi fechada.
+- Limites e técnicas específicas das Autoridades permanecem para desenvolvimento individual.
