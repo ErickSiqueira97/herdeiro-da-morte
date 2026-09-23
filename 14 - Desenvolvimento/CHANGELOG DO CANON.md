@@ -188,3 +188,8 @@ Primeira consolidação do Vault.
 - Caio pode procrastinar e escolher lazer quando deveria estudar; sua dedicação não o transforma em uma máquina de produtividade.
 - Mangás, animes e jogos podem gerar humor ou referências ocasionais diante do sobrenatural, sem se tornar metalinguagem constante ou fonte confiável de conhecimento mitológico.
 - A rotina mundana deve servir de contraste deliberado com a transformação posterior em Herdeiro da Morte.
+
+## 22/09/2026 — Aparência de Caio
+- Caio mede aproximadamente **1,80 m**, é magro, tem cabelos escuros e ondulados e olhos castanhos.
+- Sua aparência inicial é deliberadamente comum e não se destaca muito.
+- Características visuais extraordinárias não fazem parte de seu design inicial; mudanças marcantes devem surgir como consequência da trajetória e do acúmulo de Autoridades.
