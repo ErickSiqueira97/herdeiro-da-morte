@@ -28,7 +28,7 @@ relacoes:
     tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-versao: 1.0
+versao: 1.1
 ---
 
 # Protagonista
@@ -43,7 +43,11 @@ Nome ainda [[EM ABERTO]]. Humano comum, sem profecia ou linhagem divina.
 - Cada nova Autoridade corrói sua estabilidade.
 
 ## Ferida inicial
-[[Assassinato da Familia]] por um Sucessor que procurava por ele.
+A [[Facção de Ares]] já o procura antes da falsa Sucessão de Seshat. Sua segunda morte ocorre no contexto de uma aproximação romântica usada como operação de investigação: uma agente/Successora se aproxima dele para localizar, compreender e potencialmente recrutar a anomalia. A aproximação começa como missão, mas desenvolve alguma afeição genuína.
+
+Depois de sua morte e retorno com a aparente Marca de Seshat, a operação escala. O [[Assassinato da Familia]] acontece em uma invasão à casa: seu pai, ex-militar e completamente alheio ao mundo mitológico, percebe a invasão e reage para proteger a família. Ele acerta um dos invasores, mas descobre que enfrenta um Successor e é morto diante do protagonista.
+
+A mãe e a irmã conseguem fugir da cena imediata graças ao tempo comprado pelo pai, mas desaparecem. **O protagonista não vê a morte delas e não existem corpos confirmados.** Para ele, permanecem desaparecidas/presumivelmente mortas; na arquitetura real, sobreviveram inicialmente e foram interceptadas pela facção.
 
 ## Arco
 Livro 1: descoberta, vingança específica, fascínio pelo poder.  
