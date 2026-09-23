@@ -103,3 +103,14 @@ Caio pode procrastinar, jogar ou assistir algo quando deveria estudar. O objetiv
 Seu conhecimento de mangás, animes e jogos pode permitir referências ocasionais e humor diante das primeiras situações sobrenaturais, mas não deve transformar a narrativa em metalinguagem constante nem fornecer conhecimento confiável sobre o funcionamento real do mundo mitológico.
 
 O contraste é estrutural: antes de ser o Herdeiro, Caio é um jovem que trabalha atendendo pessoas, estuda à noite, programa, joga, lê mangás, assiste anime e convive com a família.
+
+
+## Aparência — CANON
+Caio possui aparência deliberadamente comum:
+- aproximadamente **1,80 m**;
+- corpo **magro**;
+- cabelos **escuros e ondulados**;
+- olhos **castanhos**;
+- não se destaca muito visualmente em ambientes comuns.
+
+Ele não deve começar a história com características visuais que anunciem excepcionalidade. A transformação de sua presença ao longo da saga deve vir das experiências, cicatrizes, postura, expressão e efeitos do acúmulo de Autoridades, criando contraste com o jovem comum do início.
