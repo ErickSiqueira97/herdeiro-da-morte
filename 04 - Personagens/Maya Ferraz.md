@@ -98,16 +98,116 @@ A ideia temática é literal e emocional: Maya sabe para onde está indo fisicam
 
 A futura Autoridade de **Perseguição** pressiona características preexistentes, em vez de explicar retroativamente quem Maya sempre foi.
 
+## Mapa cronológico — 18 aos 22 anos
+
+### 18 anos — a garota que olhou para trás
+- Maya encontra a primeira pista realmente convincente de que Daniel esteve vivo depois do desaparecimento.
+- Segue deliberadamente a pista até uma região de mata; **Maya não está perdida**.
+- Encontra uma criança perdida e escolhe abandonar a melhor oportunidade que teve em anos para conduzi-la em segurança.
+- No retorno, encontra Ártemis. A deusa não concede a Autoridade imediatamente: observa Maya novamente durante as semanas seguintes.
+- Maya percebe que está sendo seguida e confronta a desconhecida.
+- Em um segundo acontecimento sobrenatural, Maya escolhe atrair uma criatura para longe de outra pessoa, transformando-se deliberadamente na presa.
+- Ártemis decide escolhê-la. A Marca surge, **Perseguição** desperta e o arco manifesta-se como Relíquia-Eco.
+- O fundamento da escolha não é uma compatibilidade metafísica: Ártemis admira que Maya compreenda, por suas decisões, que caça e proteção podem ocupar lados diferentes da mesma ação.
+- Ártemis pode ensinar Maya a perseguir, mas não promete que ela encontrará Daniel.
+
+### 18–19 anos — vida dupla
+- A vida civil continua depois da Sucessão: faculdade, mãe, amizades, compromissos e rotina coexistem com o sobrenatural.
+- Renata percebe ausências, ferimentos e mentiras e teme que Maya tenha retomado obsessivamente a busca por Daniel.
+- Ártemis não funciona como treinadora constante. Ela transmite princípios; Maya precisa descobrir aplicações da Autoridade por experiência.
+- Maya tenta usar Perseguição para encontrar Daniel e falha. A Autoridade funciona com outros alvos, tornando a impossibilidade especialmente perturbadora.
+- **Ártemis também não sabe explicar plenamente por que Daniel não pode ser encontrado.**
+
+### 19 anos — Santuário e primeiros fracassos
+- Maya entra em contato com o **Santuário** e conhece uma sociedade mais ampla de Successores.
+- Descobre que as relações entre deuses e Successores variam profundamente: devoção, ressentimento, proximidade, distância e conflito podem coexistir no sistema.
+- Maya é uma rastreadora excepcional, mas ainda não é uma combatente perfeita. Erra, perde confrontos e precisa desenvolver técnica com o arco e experiência de campo.
+- Em uma missão, localiza corretamente um alvo, mas insiste na perseguição além do que deveria. Alguém se machuca.
+- Aprende uma lição central: **encontrar alguém e saber o que fazer depois são coisas diferentes**.
+
+### 20 anos — Ares
+- A competência de Maya como rastreadora começa a gerar reputação.
+- Ares se aproxima e apresenta informação verdadeira que demonstra que Daniel teve contato com o mundo sobrenatural antes ou durante seu desaparecimento.
+- A natureza exata dessa evidência permanece em aberto.
+- A primeira informação é entregue sem cobrança imediata. Ares estabelece uma relação de interesse e dívida potencial sem exigir adesão naquele momento.
+- Maya percebe que Ares conseguiu descobrir sobre Daniel algo que nem ela nem Ártemis haviam conseguido.
+
+### 20–21 anos — formação dos futuros Oito
+- Maya conhece gradualmente alguns dos Successores que futuramente formarão a Elite de Ares.
+- Eles **não são apresentados todos de uma vez**. Relações de amizade, rivalidade, dívida, salvamento e desconfiança surgem antes da formação oficial do grupo.
+- Ares está construindo algo, mas Maya inicialmente não conhece toda a extensão do projeto.
+- Ártemis descobre a aproximação com Ares, mas não ordena que Maya se afaste.
+- Princípio da relação: Maya é **Successora de Ártemis, não serva de Ártemis**. A deusa respeita a autonomia humana mesmo quando discorda das escolhas dela.
+
+### Custo de Perseguição
+- A Autoridade não funciona por “mana”.
+- Quanto mais profundamente Maya estabelece uma perseguição, maior é a pressão para manter atenção, interpretar rastros e concluir a busca.
+- Isso **não elimina seu livre-arbítrio**, mas intensifica uma característica que já existia: sua dificuldade em abandonar aquilo que considera importante.
+- Depois de perseguições longas, desligar-se mentalmente do alvo pode se tornar difícil.
+- Princípio de Ártemis: **“A caça termina antes da caçadora. Aprenda a diferença.”**
+- As regras técnicas completas de aquisição de alvo, alcance, quebra de perseguição e demais limites continuam em desenvolvimento.
+
+### 21 anos — o pingente de Ares
+- Ares reúne os oito Successores e apresenta sua proposta de grupo.
+- Os pingentes com o símbolo de Ares são oferecidos como **escolha**, não impostos.
+- Maya não aceita imediatamente.
+- A investigação de Ares sobre Daniel demonstra que participar dos Oito também pode aproximá-la das respostas que procura.
+- Maya escolhe pegar o pingente. Não por devoção a Ares, desejo de guerra ou ódio ao Santuário, mas porque acredita que aquele caminho pode levá-la a Daniel.
+- O gesto ecoa sua ferida original: **Maya ainda está olhando para trás**.
+- Ártemis vê o pingente e não rompe com Maya. Reconhece que Ares está usando a busca por Daniel e também que Maya está usando os recursos de Ares. O conflito está em qual lado perceberá primeiro quando o preço dessa relação mudar.
+
+### 21–22 anos — uma dos Oito
+- Maya participa de missões, perseguições e operações e se torna uma Successora muito mais experiente.
+- Aprende a trabalhar sozinha e em dupla e entra em contato com Successores independentes e conflitos com o Santuário.
+- O arco passa a ser usado com naturalidade construída por anos de experiência.
+- A vida civil não desaparece: Maya ainda mantém vínculos, faculdade, amizades e contato com Renata, embora cada vez mais difíceis de conciliar.
+- A relação com Renata sofre porque Maya começa a desaparecer e omitir partes da própria vida. Existe uma ironia dolorosa: na busca pelo pai desaparecido, Maya começa a reproduzir na mãe a experiência de ter alguém que parte sem explicar.
+
+### 22 anos — Caio Valença
+- Ares entrega **Caio Valença, 20 anos**, como novo alvo.
+- A ordem inicial **não é matá-lo**: Maya deve encontrá-lo, observá-lo e descobrir o que ele é.
+- O interesse da Elite em Caio precede a falsa Sucessão de Seshat.
+- Maya investiga a rotina de Caio antes de abordá-lo e conhece trabalho, faculdade, família, hábitos, interesses e objetivos.
+- O primeiro encontro é deliberadamente preparado para parecer plausível; não é uma coincidência.
+- A aproximação começa como operação e manipulação.
+- Em algum momento, Maya permanece com Caio além do necessário para a missão e os sentimentos deixam de ser inteiramente fabricados.
+- Quando a operação escala, Maya decide **deixar o alvo escapar**, repetindo de maneira transformada a escolha que chamou a atenção de Ártemis aos 18.
+- Mesmo assim, Caio morre em sua segunda morte.
+- Maya sobrevive e permanece responsável por ter participado da cadeia de acontecimentos, embora não seja a assassina de Marcelo.
+
+## Eixo temático dos quatro anos
+A trajetória é estruturada por três decisões relacionadas a perseguição:
+
+1. **18 anos — Daniel:** Maya abandona uma perseguição para salvar uma criança; Ártemis a escolhe.
+2. **21 anos — Daniel:** Maya escolhe continuar procurando respostas e aceita o pingente de Ares.
+3. **22 anos — Caio:** Maya abandona a perseguição para tentar salvar o próprio alvo, mas não consegue impedir sua morte.
+
+O arco de Maya não é aprender a encontrar pessoas. É aprender **quando uma perseguição deve terminar**.
+
+A resolução futura do desaparecimento de Daniel deve testar esse aprendizado. A importância da resposta é прежде de tudo pessoal para Maya; Daniel não precisa ser transformado em peça central da cosmologia apenas para justificar o mistério.
+
+## Relação Maya ↔ Ártemis — princípios canônicos
+- Ártemis não é apenas distribuidora de poder nem treinadora cotidiana.
+- A relação das duas é baseada em autonomia, observação, respeito, discordância e aprendizado.
+- Ártemis escolheu Maya por decisão própria, não por destino, sangue ou compatibilidade obrigatória.
+- A deusa admira a capacidade de Maya de proteger, mas reconhece como perigosa sua dificuldade em abandonar uma busca.
+- Ártemis não controla as decisões de Maya e não exige obediência.
+- Maya pode discordar de sua deusa e manter a Sucessão.
+- O vínculo deve continuar existindo como relação dramática própria, independentemente de Ares e Caio.
+
 ## Em aberto
 - cidade/região de origem;
 - detalhes visuais definitivos;
 - situação atual de Renata;
 - detalhes e destino de Lucas;
-- natureza exata da pista sobre Daniel e quem Maya estava tentando alcançar na mata;
+- natureza exata da pista sobre Daniel aos 18 e da evidência apresentada por Ares aos 20;
 - identidade da criança e se ela terá relevância futura;
-- cena completa do encontro com Ártemis e concessão da Autoridade;
-- relação de Maya com Ártemis dos 18 aos 22;
-- razão mecânica pela qual Perseguição não resolve imediatamente o desaparecimento de Daniel;
-- circunstâncias exatas da entrada na Elite de Ares;
-- relações com os outros sete integrantes;
-- arco completo nos três livros e destino final.
+- identidade/natureza da criatura ligada à segunda observação de Ártemis;
+- encenação final da concessão da Autoridade;
+- regras técnicas completas de Perseguição;
+- motivo exato pelo qual Daniel não pode ser encontrado;
+- relações individuais de Maya com os outros sete integrantes;
+- primeiro encontro exato com Caio;
+- causa física exata da segunda morte de Caio;
+- arco de Maya nos Livros 2 e 3 e destino final;
+- resolução do mistério de Daniel.
