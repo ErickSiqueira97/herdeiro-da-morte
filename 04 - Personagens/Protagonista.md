@@ -32,7 +32,7 @@ versao: 1.1
 ---
 
 # Protagonista
-**Caio Valença**. Humano comum, sem profecia ou linhagem divina.
+**Caio Valença**, 20 anos. Humano comum, sem profecia ou linhagem divina.
 
 ## Verdade
 - Morreu afogado quando criança; o corpo foi reanimado depois de a alma já ter atravessado o Fim, originando a [[Cicatriz da Alma]].
@@ -75,3 +75,15 @@ Isso é especialmente importante para que perdas, rupturas e oposições futuras
 Lívia é uma das pessoas diante de quem Caio consegue continuar infantil, bobo e desarmado. Ela não o idealiza: conhece sua teimosia, sua tendência a tentar resolver os problemas dos outros e seus sinais particulares de raiva ou desconforto.
 
 Desde pequena, chama o irmão de **“Cacá”**, apelido que ele detesta. Depois do desaparecimento dela, ninguém mais o chama assim. O apelido pode funcionar futuramente como reconhecimento emocional imediato em um reencontro, mas o momento e a forma desse reencontro permanecem em aberto.
+
+
+## Vida civil e formação — CANON
+Antes da tragédia, Caio é estudante de **Ciência da Computação**. Estuda muito e tende a insistir em um problema até compreender sua causa e encontrar uma solução.
+
+Ele não deve ser retratado como gênio infalível ou hacker cinematográfico: é um estudante dedicado, ainda em formação. Sua força está na persistência, na pesquisa e na tendência de decompor problemas complexos em partes menores.
+
+Essa característica antecede o mundo sobrenatural. Quando algo não faz sentido, Caio procura regras, testa hipóteses, compara informações e insiste em entender o mecanismo em vez de aceitar apenas uma conclusão de autoridade.
+
+Narrativamente, isso deve ecoar sua falha central: aquilo que começa como uma qualidade — a convicção de que problemas podem ser compreendidos e solucionados — pode evoluir para a dificuldade de aceitar o irreversível. Ao longo da saga, Caio corre o risco de passar de “descobrir o que está errado” para acreditar que também possui o direito de **corrigir o sistema**.
+
+A programação não concede vantagem sobrenatural nem se converte em poder. Ela informa seu modo de pensar e sua relação posterior com o Livro, as Autoridades e as explicações incompletas do Santuário.
