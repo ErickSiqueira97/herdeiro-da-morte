@@ -87,3 +87,19 @@ Essa característica antecede o mundo sobrenatural. Quando algo não faz sentido
 Narrativamente, isso deve ecoar sua falha central: aquilo que começa como uma qualidade — a convicção de que problemas podem ser compreendidos e solucionados — pode evoluir para a dificuldade de aceitar o irreversível. Ao longo da saga, Caio corre o risco de passar de “descobrir o que está errado” para acreditar que também possui o direito de **corrigir o sistema**.
 
 A programação não concede vantagem sobrenatural nem se converte em poder. Ela informa seu modo de pensar e sua relação posterior com o Livro, as Autoridades e as explicações incompletas do Santuário.
+
+
+## Rotina antes da tragédia — CANON
+Caio trabalha **meio período em um escritório de suporte técnico/telemarketing** enquanto cursa Ciência da Computação à noite. O trabalho ajuda a sustentar suas despesas e lhe dá contato cotidiano com clientes, colegas e resolução de problemas; ele não deve ser caracterizado como um estudante de tecnologia socialmente isolado.
+
+Fora do trabalho e da faculdade, Caio costuma estudar, programar e pesquisar, mas sua vida não gira exclusivamente em torno de produtividade. Em seu tempo livre ele:
+- joga videogames;
+- lê mangás;
+- assiste animes;
+- passa tempo com a família.
+
+Caio pode procrastinar, jogar ou assistir algo quando deveria estudar. O objetivo é preservar uma rotina humana e reconhecível antes do sobrenatural, evitando retratá-lo como uma máquina de estudo.
+
+Seu conhecimento de mangás, animes e jogos pode permitir referências ocasionais e humor diante das primeiras situações sobrenaturais, mas não deve transformar a narrativa em metalinguagem constante nem fornecer conhecimento confiável sobre o funcionamento real do mundo mitológico.
+
+O contraste é estrutural: antes de ser o Herdeiro, Caio é um jovem que trabalha atendendo pessoas, estuda à noite, programa, joga, lê mangás, assiste anime e convive com a família.
