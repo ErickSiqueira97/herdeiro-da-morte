@@ -55,7 +55,7 @@ Cada integrante deve funcionar como personagem independente, com razões própri
 
 ## Relação com Caio
 
-A Sucessora de Ártemis é uma das oito. Portanto, sua aproximação de Caio não é executada por uma agente descartável, mas por uma integrante da elite pessoal reunida por Ares.
+**Maya Ferraz**, Sucessora de Ártemis, é uma das oito. Portanto, sua aproximação de Caio não é executada por uma agente descartável, mas por uma integrante da elite pessoal reunida por Ares.
 
 O integrante responsável pela morte de Marcelo ainda não está definitivamente identificado. **Sekhmet é a candidata principal**, mas isso permanece em aberto até aprovação específica.
 
