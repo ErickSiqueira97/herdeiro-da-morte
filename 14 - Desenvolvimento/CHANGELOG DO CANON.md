@@ -201,3 +201,13 @@ Primeira consolidação do Vault.
 - Esses desejos permanecem deliberadamente comuns e contrastam com a escala divina que sua existência assume.
 - O desejo romântico torna a aproximação ligada à segunda morte mais dolorosa: Caio acredita que uma parte do futuro que desejava pode estar começando.
 - A experiência deixa espaço para dificuldade posterior de confiança amorosa e para o desenvolvimento gradual da relação com a Sucessora de Iðunn.
+
+## 22/09/2026 — Sucessora de Ártemis e Perseguição
+- A agente da aproximação romântica ligada à segunda morte de Caio é uma **Sucessora de Ártemis**.
+- Ela é morena, bonita e próxima da idade de Caio; nome e detalhes visuais permanecem abertos.
+- Sua Autoridade é adaptada como **Perseguição**, expressão da caça: após identificar/rastrear um alvo, torna-se excepcionalmente difícil perdê-lo. Não funciona como localização absoluta e seus limites técnicos ainda serão refinados.
+- Sua Relíquia-Eco é um **arco**. A Autoridade pode favorecer a precisão conforme ela conhece e acompanha a presa, sem produzir flechas automaticamente infalíveis.
+- Ártemis não integra automaticamente a Facção de Ares; a filiação e as decisões pertencem à Successora humana.
+- Ela é escolhida para a missão por sua aptidão para localizar e acompanhar a anomalia que é Caio.
+- A aproximação começa como missão, mas ela desenvolve afeição genuína e, diante da escalada, tenta permitir que Caio escape.
+- Ela não é a assassina da família e deve sobreviver à segunda morte de Caio, permanecendo disponível para reencontros futuros.
