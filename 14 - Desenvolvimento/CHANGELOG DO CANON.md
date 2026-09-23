@@ -163,3 +163,11 @@ Primeira consolidação do Vault.
 - Com o tempo, o protagonista esquece os detalhes da experiência; a mãe continua lembrando que ele desenhava uma mulher.
 - A mãe posteriormente se arrepende de ter jogado os desenhos fora.
 - Os desenhos descartados não devem reaparecer convenientemente como prova sem revisão explícita do cânone.
+
+## 22/09/2026 — Família Valença
+- O protagonista passa a se chamar **Caio Valença**.
+- Seu pai é **Marcelo Valença**, cerca de 48 anos, ex-militar; profissão civil atual permanece aberta.
+- Sua mãe é **Helena Valença**, cerca de 45–47 anos, observadora e responsável por ter acompanhado os relatos/desenhos após o afogamento.
+- Sua irmã é **Lívia Valença**, cerca de 16–17 anos, com relação íntima, provocadora e cotidiana com Caio.
+- Lívia chama Caio de **“Cacá”** desde a infância; ele detesta o apelido.
+- Depois do desaparecimento de Lívia, ninguém mais o chama de Cacá. O apelido fica disponível como callback emocional de reconhecimento em um reencontro futuro, cujo momento permanece aberto.
