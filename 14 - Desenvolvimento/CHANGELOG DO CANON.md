@@ -171,3 +171,12 @@ Primeira consolidação do Vault.
 - Sua irmã é **Lívia Valença**, cerca de 16–17 anos, com relação íntima, provocadora e cotidiana com Caio.
 - Lívia chama Caio de **“Cacá”** desde a infância; ele detesta o apelido.
 - Depois do desaparecimento de Lívia, ninguém mais o chama de Cacá. O apelido fica disponível como callback emocional de reconhecimento em um reencontro futuro, cujo momento permanece aberto.
+
+## 22/09/2026 — Caio antes da tragédia
+- Caio Valença tem **20 anos** no início da saga.
+- É estudante de **Ciência da Computação** e estuda intensamente.
+- Não é um gênio infalível nem hacker cinematográfico; é dedicado, persistente e ainda está em formação.
+- Sua tendência natural é decompor problemas, pesquisar, testar hipóteses e insistir até compreender a causa.
+- Essa característica existe antes do sobrenatural e sustenta sua postura questionadora diante do Santuário, do Livro e das regras da Sucessão.
+- A programação não se converte em poder; funciona como base de seu modo de pensar.
+- A qualidade de buscar solução para tudo se conecta à falha futura de não aceitar o irreversível e à tentação de acreditar que pode “corrigir o sistema” do próprio mundo.
