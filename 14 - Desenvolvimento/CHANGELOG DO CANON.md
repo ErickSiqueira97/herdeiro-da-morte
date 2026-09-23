@@ -230,3 +230,15 @@ Primeira consolidação do Vault.
 - Essa escolha chama a atenção de Ártemis: Maya demonstra que consegue colocar a proteção de alguém vulnerável acima daquilo que passou anos perseguindo.
 - O encontro com Ártemis ocorre no retorno com a criança; a direção de diálogo “Porque você ainda está olhando para trás” fica associada à cena.
 - A personalidade de Maya precede a Autoridade; Perseguição pressiona características que já existiam.
+
+## 23/09/2026 — Maya Ferraz: cronologia dos 18 aos 22 anos
+- Fechado o mapa entre a escolha de Maya por Ártemis e a missão de Caio.
+- Ártemis observa Maya mais de uma vez antes da Sucessão; a concessão ocorre após Maya novamente escolher proteção acima da própria segurança.
+- Vida civil e sobrenatural coexistem; Renata percebe mudanças sem conhecer a verdade.
+- Maya entra em contato com o Santuário aos 19 e aprende por fracasso que localizar um alvo não determina o que deve ser feito depois.
+- Ares aproxima-se aos 20 com informação verdadeira sobre Daniel e não cobra adesão imediata.
+- Os futuros Oito são conhecidos gradualmente; a Elite não nasce como reunião de desconhecidos.
+- Perseguição passa a ter custo psicológico de pressão por continuidade/conclusão, sem remover livre-arbítrio.
+- Aos 21, Maya aceita voluntariamente o pingente de Ares para continuar buscando respostas sobre Daniel; Ártemis respeita sua autonomia.
+- Aos 22, Maya recebe Caio como alvo de localização/observação, prepara deliberadamente a aproximação romântica, desenvolve sentimento genuíno e tenta deixá-lo escapar quando a operação escala.
+- Eixo temático fechado: Maya precisa aprender não a encontrar pessoas, mas quando uma perseguição deve terminar.
