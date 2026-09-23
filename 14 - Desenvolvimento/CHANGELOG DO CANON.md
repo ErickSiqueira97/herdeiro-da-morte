@@ -180,3 +180,11 @@ Primeira consolidação do Vault.
 - Essa característica existe antes do sobrenatural e sustenta sua postura questionadora diante do Santuário, do Livro e das regras da Sucessão.
 - A programação não se converte em poder; funciona como base de seu modo de pensar.
 - A qualidade de buscar solução para tudo se conecta à falha futura de não aceitar o irreversível e à tentação de acreditar que pode “corrigir o sistema” do próprio mundo.
+
+## 22/09/2026 — Trabalho, rotina e hobbies de Caio
+- Caio trabalha meio período em um escritório de suporte técnico/telemarketing enquanto cursa Ciência da Computação à noite.
+- O trabalho o mantém em contato cotidiano com clientes e colegas; ele não é caracterizado como estudante de tecnologia socialmente isolado.
+- Nos períodos livres, estuda e programa, mas também joga videogames, lê mangás e assiste animes.
+- Caio pode procrastinar e escolher lazer quando deveria estudar; sua dedicação não o transforma em uma máquina de produtividade.
+- Mangás, animes e jogos podem gerar humor ou referências ocasionais diante do sobrenatural, sem se tornar metalinguagem constante ou fonte confiável de conhecimento mitológico.
+- A rotina mundana deve servir de contraste deliberado com a transformação posterior em Herdeiro da Morte.
