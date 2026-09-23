@@ -220,3 +220,13 @@ Primeira consolidação do Vault.
 - Todos usam um **pingente com o símbolo de Ares**, sem poder próprio, como insígnia de pertencimento.
 - Sekhmet permanece apenas candidata ao papel do Successor que mata Marcelo; identidade do assassino ainda não foi fechada.
 - Limites e técnicas específicas das Autoridades permanecem para desenvolvimento individual.
+
+## 23/09/2026 — Maya Ferraz antes de Ártemis
+- A Sucessora de Ártemis passa a se chamar **Maya Ferraz**, com 22 anos quando conhece Caio.
+- Foram definidos família, infância, personalidade civil, relacionamento anterior e direção de formação em Jornalismo.
+- Daniel Ferraz desaparece quando Maya tem aproximadamente 11 anos, sem corpo ou explicação conclusiva.
+- Aos 18, Maya segue deliberadamente uma pista convincente sobre Daniel até uma região de mata; **ela não está perdida**.
+- Maya encontra uma criança perdida e escolhe abandonar a melhor pista que teve em anos para conduzi-la em segurança.
+- Essa escolha chama a atenção de Ártemis: Maya demonstra que consegue colocar a proteção de alguém vulnerável acima daquilo que passou anos perseguindo.
+- O encontro com Ártemis ocorre no retorno com a criança; a direção de diálogo “Porque você ainda está olhando para trás” fica associada à cena.
+- A personalidade de Maya precede a Autoridade; Perseguição pressiona características que já existiam.
