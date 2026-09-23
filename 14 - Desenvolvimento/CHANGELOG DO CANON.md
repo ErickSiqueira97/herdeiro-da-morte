@@ -154,3 +154,12 @@ Primeira consolidação do Vault.
 - Mãe e irmã não têm morte mostrada nem corpos confirmados. Elas escapam da cena imediata graças ao tempo comprado pelo pai, são posteriormente interceptadas pela facção e permanecem desaparecidas para o protagonista.
 - Na arquitetura real, mãe e irmã sobreviveram inicialmente. Seus destinos posteriores permanecem em aberto.
 - A mãe pode guardar lembranças relevantes do afogamento infantil; o conteúdo exato dessas lembranças permanece aberto.
+
+## 22/09/2026 — Desenhos após a primeira morte
+- Depois do afogamento e retorno na infância, o protagonista passa um período desenhando repetidamente uma **mulher**.
+- A aparência e o conteúdo exato dos desenhos permanecem deliberadamente indefinidos; “mulher” é o limite da informação canônica para preservar a possibilidade de o leitor interpretar a figura como Seshat, Morte ou outra presença.
+- A mãe guarda inicialmente os desenhos, mas os descarta algum tempo depois por acreditar que ajudar o filho a deixar o trauma para trás seria melhor do que preservar aquelas imagens.
+- O descarte não é encobrimento sobrenatural nem resultado de conhecimento secreto da mãe.
+- Com o tempo, o protagonista esquece os detalhes da experiência; a mãe continua lembrando que ele desenhava uma mulher.
+- A mãe posteriormente se arrepende de ter jogado os desenhos fora.
+- Os desenhos descartados não devem reaparecer convenientemente como prova sem revisão explícita do cânone.
