@@ -186,6 +186,16 @@ O arco de Maya não é aprender a encontrar pessoas. É aprender **quando uma pe
 
 A resolução futura do desaparecimento de Daniel deve testar esse aprendizado. A importância da resposta é прежде de tudo pessoal para Maya; Daniel não precisa ser transformado em peça central da cosmologia apenas para justificar o mistério.
 
+## Marca de Ártemis — direção visual canônica
+- A Marca de Maya segue uma linguagem de **tatuagem orgânica e fluida**, com linhas que percorrem a pele em vez de funcionar como um pequeno emblema isolado.
+- A referência estética aprovada é semelhante, em conceito, às tatuagens corporais fluidas de *Avatar*: desenho integrado ao corpo, elegante, contínuo e reconhecível à distância, sem copiar símbolos específicos da obra.
+- A composição de Ártemis combina **lua crescente, flecha e rastros/linhas de perseguição** em um único desenho vertical e harmonioso.
+- A lua identifica visualmente Ártemis; a flecha remete à caça e direção; as linhas fluidas representam rastro, movimento e persistência.
+- A Marca deve parecer parte sobrenatural do corpo, e não uma tatuagem aplicada posteriormente.
+- Em repouso, permanece discreta. Sob uso da Autoridade, o desenho pode tornar-se progressivamente mais evidente, como se estivesse emergindo de dentro da pele, evitando aparência de neon.
+- A localização aprovada para Maya é a **lateral das costelas**, normalmente escondida pelas roupas.
+- A arte conceitual gerada nesta etapa foi aprovada como referência visual. O arquivo de imagem será anexado ao Vault posteriormente; por enquanto, **não há anexo binário registrado no GitHub**.
+
 ## Relação Maya ↔ Ártemis — princípios canônicos
 - Ártemis não é apenas distribuidora de poder nem treinadora cotidiana.
 - A relação das duas é baseada em autonomia, observação, respeito, discordância e aprendizado.
