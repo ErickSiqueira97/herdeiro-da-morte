@@ -10,7 +10,7 @@ tags:
   - humanos
   - sucessores
 moc: "[[MOC - Mundo e Organizacoes]]"
-status: PROVISÓRIO
+status: CANON
 relacoes:
   - tipo: referencia
     alvo: "[[Sucessao]]"
@@ -28,8 +28,8 @@ relacoes:
 
 # Hereges
 
-> [!status] PROVISÓRIO
-> Segunda facção antagonista em desenvolvimento. O conceito abaixo foi aprovado para estruturação, mas seus mecanismos, personagens, história e poderes/ferramentas ainda precisam ser fechados individualmente antes de promoção integral a CANON.
+> [!status] CANON
+> A tese dos Hereges e o sistema-base de Vestígios → Ecos Artificiais estão fechados. Personagens, engenharia fina, catálogo de equipamentos e história institucional permanecem em desenvolvimento.
 
 ## Tese central
 
@@ -114,38 +114,119 @@ Ao longo de gerações, os Hereges podem construir uma ciência clandestina da S
 
 Eles não devem saber tudo. O Santuário conhece informações que os Hereges desconhecem; Ares pode conhecer outras; deuses possuem perspectivas próprias; Morte conhece estruturas inacessíveis aos demais.
 
-## Vestígios — hipótese de sistema
+## Vestígios e Ecos Artificiais — CANON
 
-> [!warning] NÃO CANÔNICO AINDA
-> “Vestígios” é a principal proposta atual para permitir tecnologia/ferramentas sobrenaturais dos Hereges sem transformá-los em Successores.
+Os Hereges aprenderam a explorar uma consequência da passagem prolongada de uma Autoridade por uma alma humana.
 
-### Conceito
-Uso intenso de uma Autoridade poderia deixar **resíduos metafísicos temporários** em matéria, lugares ou objetos afetados.
+Quando um [[Sucessao|Successor]] morre normalmente, a **Autoridade retorna ao deus**. Essa regra não muda. Entretanto, anos de vínculo, uso da Autoridade, manifestação da Marca e criação da Relíquia-Eco deixam no antigo portador uma **impressão metafísica residual**.
 
-Os Hereges teriam desenvolvido métodos para identificar, preservar e manipular parte desses resíduos.
+Essa impressão é chamada provisoriamente de **Vestígio**.
 
-Um Vestígio:
-- não é uma Autoridade;
-- não transforma seu usuário em deus ou Successor;
-- não contém uma fração de Eternidade;
-- não concede domínio completo associado ao deus;
-- possui efeito limitado, condicionado e normalmente consumível ou degradável;
-- deve derivar de uma manifestação real anterior.
+O Vestígio não é a Autoridade, não contém fração de [[Eternidade]], não preserva a alma do morto e não pode criar uma nova Sucessão.
 
-A ideia permite que os Hereges transformem consequências de antigas batalhas divinas em instrumentos contra novos portadores de Autoridade.
+Os Hereges desenvolveram técnicas para extrair, estabilizar e incorporar Vestígios em equipamentos. O resultado é chamado de **Eco Artificial**.
 
-### Funções possíveis
-Nomes abaixo são funcionais/provisórios, não técnicas canônicas:
+### Relíquia-Eco × Eco Artificial
 
-**Âncora** — dispositivo/arranjo capaz de dificultar uma manifestação específica de Relíquia-Eco em condições preparadas.
+**Relíquia-Eco verdadeira**
+- nasce do vínculo vivo entre deus, Autoridade e Successor;
+- manifesta a memória/expressão da Autoridade;
+- pertence à arquitetura espiritual do Successor;
+- não é fabricada.
 
-**Ruído** — interfere temporariamente em determinados processos de leitura/rastreamento de Marca sem apagar a Marca.
+**Eco Artificial**
+- é construção humana;
+- deriva do Vestígio deixado por um antigo Successor;
+- não concede Autoridade;
+- não cria Marca;
+- não torna o usuário divino ou Successor;
+- não contém Eternidade;
+- reproduz apenas manifestações/propriedades limitadas preservadas no Vestígio.
 
-**Jaula** — ambiente preparado com múltiplos Vestígios para prejudicar o exercício de uma Autoridade específica.
+Princípio fundamental:
 
-**Ferida** — ferramenta ou munição construída para explorar vulnerabilidade conhecida de um Successor, sem possuir propriedade universal de “matar deuses”.
+> **Uma Autoridade é a linguagem. Um Eco Artificial é uma frase que humanos aprenderam a repetir sem dominar o idioma.**
 
-Nenhum desses efeitos deve funcionar contra todas as Autoridades.
+### O antigo Successor importa
+
+Um Eco Artificial não é simplesmente uma cópia reduzida do deus.
+
+O Vestígio carrega a forma pela qual **aquele Successor específico** viveu e expressou a Autoridade. Décadas de uso, técnicas desenvolvidas e adaptação da alma influenciam o que pode ser preservado.
+
+Consequentemente, dois Ecos Artificiais derivados de Successores diferentes do mesmo deus podem apresentar propriedades diferentes.
+
+Isso permite que Ecos relevantes tenham história própria: cada grande equipamento remete a uma pessoa que existiu antes do usuário atual.
+
+### Formas
+
+O Eco Artificial não precisa assumir a forma da Relíquia-Eco original.
+
+Os Hereges podem converter Vestígios em equipamentos adequados à manifestação preservada: armas, armaduras, máscaras, correntes, próteses, ferramentas de mobilidade, dispositivos de contenção ou outras formas.
+
+A forma é engenharia humana; a propriedade sobrenatural vem do Vestígio.
+
+### Extração e desempenho
+
+Humanos comuns podem utilizar Ecos Artificiais sem serem escolhidos por deuses, mas o corpo e a mente possuem limites para sustentar a impressão metafísica.
+
+Os Hereges podem medir internamente o grau de desempenho/sincronização entre usuário e equipamento. Essa medição existe como ferramenta técnica da organização e **não deve transformar a narrativa em sistema constante de porcentagens de poder**.
+
+Maior extração permite manifestações mais intensas, mas aumenta instabilidade e risco.
+
+### Custos e limites fundamentais
+
+Todo Eco Artificial obedece a quatro restrições:
+
+1. **Incompletude** — nunca reproduz uma Autoridade inteira.
+2. **Especificidade** — preserva manifestações particulares, não um poder genérico capaz de responder a qualquer situação.
+3. **Degradação** — Vestígio e equipamento podem perder estabilidade com uso, tempo ou dano.
+4. **Risco ao usuário** — forçar desempenho além da capacidade humana pode produzir dano físico e/ou pressão psíquica.
+
+Não existe Eco Artificial capaz de cancelar universalmente todas as Autoridades.
+
+### Pressão residual
+
+A alma do antigo Successor **não permanece dentro do equipamento**.
+
+Entretanto, o Vestígio conserva a forma deixada pela convivência entre aquela alma e a Autoridade. Em níveis elevados de uso, essa impressão pode exercer pressão sobre o usuário atual.
+
+Isso não cria fantasmas, possessão ou personalidades completas. Funciona como paralelo artificial da pressão que Autoridades exercem sobre Caio: natureza e padrões residuais podem influenciar impulsos sem remover responsabilidade.
+
+### Origem histórica
+
+A tecnologia nasce das consequências das [[Guerras dos Sucessores]].
+
+A direção histórica é que humanos cercados por conflitos entre portadores de Autoridades descobriram que algo permanecia nos mortos depois que a Autoridade retornava ao deus. Os primeiros experimentos surgiram como tentativa de sobreviver ao próximo confronto, não como projeto inicial de supremacia.
+
+A transformação desse conhecimento em arsenal organizado dos Hereges ocorre posteriormente e ainda precisa de cronologia detalhada.
+
+### Fratura moral
+
+A origem dos primeiros Ecos pode estar ligada ao aproveitamento de Successores que já haviam morrido.
+
+O desenvolvimento posterior cria uma questão moral central dentro da facção:
+
+> **Se o Vestígio de um morto pode proteger humanos de futuros Successores, até onde é legítimo ir para obtê-lo?**
+
+A existência de correntes que aguardam morte natural, utilizam corpos recuperados, caçam deliberadamente Successores ou realizam experimentos em portadores vivos permanece para desenvolvimento individual. A divisão deve produzir personagens e decisões, não uma resposta moral única para toda a facção.
+
+### Relação com o Livro dos Fins
+
+Um Eco Artificial **não pode ser registrado pelo [[Livro dos Fins]] como Autoridade**.
+
+O Livro pode reagir narrativamente à presença de algo ligado à morte de um antigo portador, mas não existe Autoridade a ser adquirida: ela já retornou ao deus quando o Successor morreu.
+
+Isso preserva a distinção ontológica entre poder divino e engenharia Herege.
+
+### Consequência política
+
+Ecos Artificiais criam um problema maior que a própria facção.
+
+Eles demonstram que humanos podem reproduzir manifestações limitadas de poderes divinos **sem serem escolhidos por um deus**.
+
+Se o método alcançar Estados, forças militares, organizações criminosas ou interesses comerciais, a disputa deixa de envolver apenas quem recebe uma Sucessão e passa a envolver quem consegue fabricar, armazenar e controlar Ecos.
+
+O [[Santuario]] possui motivos legítimos para considerar a proliferação dessa tecnologia um risco sistêmico, sem que isso torne automaticamente todo uso de Eco Artificial moralmente ilegítimo.
 
 ## Relação com Maya Ferraz
 
@@ -217,7 +298,9 @@ Para preservar a qualidade da facção:
 - não permitir que preparação substitua causalidade plausível;
 - não dar conhecimento onisciente sobre cosmologia;
 - não fazer toda vítima de Successor aderir automaticamente à facção;
-- não transformar Vestígios em segundo sistema de magia irrestrito;
+- não transformar Vestígios/Ecos Artificiais em segundo sistema de magia irrestrito;
+- nunca permitir que um Eco reproduza uma Autoridade completa ou contenha a alma integral do morto;
+- preservar a regra de que a Autoridade retorna ao deus quando o Successor morre;
 - manter diferenças reais entre crítica legítima à Sucessão e perseguição de pessoas por aquilo que carregam.
 
 ## Em aberto
@@ -230,8 +313,10 @@ Para preservar a qualidade da facção:
 - relação histórica com o Santuário;
 - relação com governos e sociedade civil;
 - código moral e critérios para escolher alvos;
-- existência e funcionamento dos Vestígios;
-- custos, armazenamento e riscos dos Vestígios;
+- processo técnico exato de extração/estabilização dos Vestígios;
+- escala de degradação, armazenamento e riscos dos Ecos Artificiais;
+- terminologia definitiva para desempenho/sincronização;
+- catálogo inicial de Ecos Nomeados e identidade dos antigos Successores de origem;
 - possibilidade real ou impossível de romper uma Sucessão sem matar;
 - destino de um deus caso uma ruptura artificial seja descoberta;
 - primeira aparição na trilogia;
