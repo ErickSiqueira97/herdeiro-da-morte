@@ -25,6 +25,8 @@ relacoes:
     tipo: referencia
   - alvo: "[[Sucessora de Idunn]]"
     tipo: referencia
+  - alvo: "[[Hereges]]"
+    tipo: referencia
 projeto: O Herdeiro da Morte
 status: EM ABERTO
 versao: 1.0
@@ -52,4 +54,8 @@ versao: 1.0
 - Relação exata entre Livro original da Morte e Eco do protagonista.
 - Mecanismo exato e caráter definitivo ou não da terceira morte/destino final do protagonista, incluindo o destino das frações de Eternidade acumuladas caso ele morra. **Deliberadamente reservado para desenvolvimento no Livro 3.**
 - Títulos definitivos dos volumes.
-- Nome definitivo, estrutura e membros da [[Facção de Ares]]; demais facções, cenários e bestiário.
+- Nome definitivo, estrutura e membros da [[Facção de Ares]].
+- [[Hereges]]: origem, líder, estrutura, primeira aparição, código moral, relação com o Santuário, personagens centrais e papel nos três livros.
+- Validar ou descartar a hipótese dos **Vestígios** e, se aprovada, fechar custos/limites antes de qualquer uso em combate.
+- Determinar se é realmente possível romper uma Sucessão sem matar o Successor; a busca dos Hereges por esse mecanismo não prova que ele exista.
+- Demais facções, cenários e bestiário.
