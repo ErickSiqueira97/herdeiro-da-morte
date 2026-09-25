@@ -249,3 +249,20 @@ Primeira consolidação do Vault.
 - Localização definida na lateral das costelas.
 - Em uso da Autoridade, a Marca pode emergir visualmente de forma progressiva, sem efeito de neon.
 - A concept art gerada foi aprovada como referência, mas o PNG ficará para uma etapa posterior de anexos e **ainda não foi enviado ao repositório**.
+
+
+## 25/09/2026 — Relação Maya Ferraz ↔ Ártemis
+- Fechada a dinâmica entre Maya e Ártemis como relação de autonomia, observação, respeito, divergência e confiança testada.
+- Ártemis escolhe Maya por decisões humanas anteriores à Sucessão, especialmente sua capacidade de interromper uma perseguição para proteger alguém vulnerável.
+- Ártemis não funciona como treinadora cotidiana nem exige obediência; Maya pode discordar da deusa sem perder sua autonomia ou transformar o vínculo em servidão.
+- Daniel constitui a principal tensão entre as duas: Ártemis não promete encontrá-lo e não possui resposta conveniente para a falha de Perseguição.
+- A adesão de Maya à Elite de Ares produz divergência real, mas não rompimento automático com Ártemis.
+- A decisão de tentar liberar Caio da operação ecoa, sem apagar sua responsabilidade anterior, o princípio que levou Ártemis a escolhê-la.
+- A relação deve existir dramaticamente para além de Ares e Caio e ajuda a preservar diversidade moral entre os deuses durante a futura radicalização do Herdeiro.
+
+## 25/09/2026 — Auditoria do Universo v1.2
+- Criada [[AUDITORIA DO UNIVERSO v1.2]] como diagnóstico operacional; suas propostas não promovem cânone automaticamente.
+- Nenhum alerta crítico ativo foi identificado na cosmologia central.
+- Principal risco atual: assimetria de profundidade entre Caio/Maya e o restante do elenco.
+- Atualizados Estado do Projeto e Mapa de Revelações para refletir o estágio atual.
+- Bíblia Canônica refinada para evitar atribuir à Morte causalidade direta sobre a morte de Marcelo: a cadeia preserva influência indireta, investigação da Elite e escolha individual do agente.
