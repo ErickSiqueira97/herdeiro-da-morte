@@ -205,6 +205,31 @@ A resolução futura do desaparecimento de Daniel deve testar esse aprendizado. 
 - Maya pode discordar de sua deusa e manter a Sucessão.
 - O vínculo deve continuar existindo como relação dramática própria, independentemente de Ares e Caio.
 
+## Relação Maya ↔ Ártemis — dinâmica canônica
+A relação entre Maya e Ártemis não é de devoção automática, maternidade substituta nem comando militar. É uma relação entre duas vontades fortes que se reconhecem pela forma como entendem caça, proteção, liberdade e limite.
+
+Ártemis escolhe Maya depois de vê-la **interromper a própria perseguição para proteger alguém vulnerável** e, posteriormente, aceitar tornar-se presa para afastar uma criatura de outra pessoa. Para a deusa, o valor de Maya nunca esteve em simplesmente encontrar o alvo: esteve em compreender, antes mesmo de possuir uma Autoridade, que perseguir e proteger podem exigir decisões opostas.
+
+Depois da Sucessão, Ártemis não permanece ao lado de Maya como treinadora constante. Ela aparece de modo seletivo, transmite princípios, observa escolhas e permite que Maya erre. Isso preserva a autonomia que a própria deusa valoriza. Maya aprende técnica por experiência, pelo Santuário e por fracassos; de Ártemis recebe sobretudo perguntas e limites que nem sempre quer ouvir.
+
+A principal tensão entre as duas é Daniel. Ártemis não promete encontrar o pai de Maya e não consegue explicar por que Perseguição falha especificamente com ele. Ela percebe que a busca pode consumir sua Successora, mas se recusa a transformar preocupação em ordem. Quando Ares oferece informações que ela própria não possui, Ártemis compreende por que Maya se aproxima dele mesmo discordando do risco.
+
+O pingente de Ares inaugura uma divergência adulta entre elas. Ártemis reconhece que Ares está usando a necessidade de respostas de Maya; Maya responde, em essência, que também está usando os recursos de Ares. Ártemis não rompe a Sucessão, não ameaça retirar poder e não exige obediência. O conflito passa a ser se Maya conseguirá perceber quando uma troca deixa de ser escolha e se transforma em prisão.
+
+Caio leva essa relação ao seu primeiro grande teste. Maya recebeu um alvo; quanto mais o conhece, menos consegue reduzi-lo à categoria de presa. Quando decide deixá-lo escapar, ela repete conscientemente o princípio que fez Ártemis escolhê-la: **existem momentos em que abandonar a caça é a decisão correta**. O fato de Caio morrer mesmo assim impede que a escolha vire recompensa moral simples.
+
+Ártemis não absolve Maya depois disso. Também não a condena por ter falhado em controlar um resultado que envolvia escolhas de várias pessoas. A relação deve preservar responsabilidade sem transformar culpa em servidão. Maya continua responsável por ter localizado Caio e participado da operação; sua tentativa de salvá-lo não apaga o que veio antes.
+
+A longo prazo, essa relação deve funcionar independentemente de Caio. Maya precisa ser capaz de escolher contra Ares sem que isso signifique simplesmente escolher Caio, e precisa ser capaz de discordar de Ártemis sem que isso signifique rejeitar a deusa. No Livro 3, a existência de vínculos como Maya ↔ Ártemis também ajuda a impedir que “os deuses” se tornem uma categoria moral homogênea quando Caio radicaliza sua guerra.
+
+### Linguagem da relação
+Ártemis tende a ensinar por frases curtas, observações e perguntas, não por longas exposições. Maya pode provocá-la, contestá-la e exigir respostas. O silêncio de Ártemis não deve ser usado convenientemente para esconder informação que ela possui; quando não responde, a narrativa precisa distinguir se ela **não sabe**, **não pode responder** ou **escolhe não responder**.
+
+Princípio associado:
+> **“A caça termina antes da caçadora. Aprenda a diferença.”**
+
+A relação deve evoluir de **observação → respeito → divergência → confiança testada → escolha mútua**, sem transformar nenhuma das duas em extensão da outra.
+
 ## Em aberto
 - cidade/região de origem;
 - detalhes visuais definitivos;
