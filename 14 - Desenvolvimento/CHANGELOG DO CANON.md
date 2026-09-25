@@ -266,3 +266,12 @@ Primeira consolidação do Vault.
 - Principal risco atual: assimetria de profundidade entre Caio/Maya e o restante do elenco.
 - Atualizados Estado do Projeto e Mapa de Revelações para refletir o estágio atual.
 - Bíblia Canônica refinada para evitar atribuir à Morte causalidade direta sobre a morte de Marcelo: a cadeia preserva influência indireta, investigação da Elite e escolha individual do agente.
+
+
+## 25/09/2026 — Estrutura provisória dos Hereges
+- Criada a nota [[Hereges]] como segunda facção antagonista em desenvolvimento.
+- Direção aprovada para exploração: facção humana que interpreta a Sucessão como continuidade da interferência divina no mundo mortal e persegue a retirada das Autoridades da esfera humana.
+- O objetivo ideal proposto é descobrir se existe uma forma de romper uma Sucessão sem matar o humano, permitindo correntes internas mais moderadas e mais radicais.
+- A facção foi diferenciada da Elite de Ares: sua ameaça deve vir principalmente de conhecimento, preparação e exploração dos limites de Successores, e não de formar outra equipe equivalente de portadores de Autoridade.
+- Registrada como hipótese **não canônica** a mecânica dos “Vestígios”, resíduos de manifestações de Autoridade que poderiam alimentar ferramentas limitadas e específicas.
+- Nenhum mecanismo de anti-Autoridade, ruptura artificial de Sucessão, liderança ou personagem dos Hereges foi promovido a cânone nesta etapa.
