@@ -275,3 +275,19 @@ Primeira consolidação do Vault.
 - A facção foi diferenciada da Elite de Ares: sua ameaça deve vir principalmente de conhecimento, preparação e exploração dos limites de Successores, e não de formar outra equipe equivalente de portadores de Autoridade.
 - Registrada como hipótese **não canônica** a mecânica dos “Vestígios”, resíduos de manifestações de Autoridade que poderiam alimentar ferramentas limitadas e específicas.
 - Nenhum mecanismo de anti-Autoridade, ruptura artificial de Sucessão, liderança ou personagem dos Hereges foi promovido a cânone nesta etapa.
+
+
+## 25/09/2026 — Hereges: Vestígios e Ecos Artificiais
+- Fechado o sistema-base de **Vestígios → Ecos Artificiais** como tecnologia característica dos Hereges.
+- Quando um Successor morre normalmente, sua Autoridade continua retornando integralmente ao deus; anos de vínculo podem deixar no antigo portador uma impressão metafísica residual chamada Vestígio.
+- Vestígio não é Autoridade, alma, Marca ou fração de Eternidade.
+- Hereges aprenderam a extrair/estabilizar Vestígios e incorporá-los em equipamentos chamados **Ecos Artificiais**.
+- Um Eco Artificial reproduz somente propriedades/manifestações limitadas preservadas pelo antigo Successor; nunca concede a Autoridade inteira, não cria Sucessão e não torna o usuário divino.
+- O Successor de origem importa: dois antigos portadores da mesma Autoridade podem originar Ecos diferentes em razão das formas distintas pelas quais viveram e expressaram o vínculo.
+- Ecos podem assumir armas, armaduras, máscaras, próteses, dispositivos e outras formas de engenharia humana; não precisam copiar a Relíquia-Eco original.
+- Estabelecidos como limites fundamentais incompletude, especificidade, degradação e risco ao usuário.
+- Uso intenso pode produzir pressão residual da forma impressa pela Autoridade no antigo portador, sem preservar alma, fantasma ou personalidade completa.
+- O desempenho entre humano e Eco pode ser medido tecnicamente pelos Hereges, mas não será tratado narrativamente como ranking constante de porcentagens.
+- O Livro dos Fins não registra Ecos Artificiais como Autoridades.
+- Origem histórica ligada às Guerras dos Sucessores: os primeiros experimentos surgem da necessidade humana de sobreviver a novos confrontos entre portadores de Autoridade.
+- A tecnologia cria fratura moral sobre obtenção de Vestígios e risco político caso Ecos sejam apropriados por Estados, forças militares, organizações criminosas ou interesses comerciais.
