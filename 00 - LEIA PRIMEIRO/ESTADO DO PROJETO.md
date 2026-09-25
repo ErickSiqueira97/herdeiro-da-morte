@@ -19,25 +19,32 @@ relacoes:
     tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-versao: 1.0
+versao: 1.2
 ---
 
 # Estado do Projeto
 
 ## Já consolidado
-Cosmologia-base; regras principais da Sucessão; Marca; Relíquias-Eco; falsa identidade de Seshat; Sobreposição; Livro; Execução; corrupção por Autoridades; Primeira Guerra/Dilúvio; Enkidu/Gilgamesh/Shamash; origem do protagonista; direção macro dos três livros e final da Era dos Eternos.
+P0 cosmológico concluído no núcleo: Sucessão, Autoridade, Marca, Relíquias-Eco, falsa Seshat, Sobreposição, Livro, Execução, Cicatriz da Alma, Eternidade/frações, Primeira Guerra/Dilúvio e núcleo do Primeiro Pacto.
+
+Caio Valença já possui família, vida civil, formação, rotina, aparência e sonhos pré-trama. O Assassinato da Família possui arquitetura causal central. A Elite de Ares possui núcleo canônico de oito Sucessores. Maya Ferraz é o primeiro integrante da Elite desenvolvido em profundidade, incluindo vida anterior, cronologia 18–22, Marca e relação com Ártemis.
+
+A direção macro dos três livros e o fim da Era dos Eternos permanecem estabelecidos.
+
+## Estado editorial
+A [[AUDITORIA DO UNIVERSO v1.2]] não encontrou falha cosmológica crítica ativa. O principal risco atual é assimetria de desenvolvimento entre Caio/Maya e o restante do elenco, seguido pela falta de causalidade detalhada do Livro 1 e pelo Santuário ainda pouco operacional.
 
 ## Próximos blocos
-1. Formalizar [[Primeiro Pacto]].
-2. Desenvolver [[Guerras dos Sucessores]].
-3. Consolidar fundação e funcionamento de [[Santuario]].
-4. Construir o quarteto.
-5. Atlas mitológico.
-6. Resolver integralmente [[Assassinato da Familia]].
-7. Macroestrutura detalhada dos três livros.
-8. Matriz completa de foreshadowing.
-9. Outline de capítulos.
-10. Prosa.
+1. Desenvolver quarteto e personagens centrais restantes no padrão de profundidade de Maya, sem repetir sua estrutura.
+2. Fechar o objetivo ideológico/operacional de Ares e da [[Elite de Ares]].
+3. Consolidar funcionamento mínimo do [[Santuario]].
+4. Desenvolver os sete integrantes restantes da Elite e suas relações.
+5. Fechar poderes/limites necessários ao Livro 1, começando por Perseguição.
+6. Construir a cadeia causal completa do Livro 1.
+7. Expandir a matriz trilógica de foreshadowing.
+8. Desenvolver [[Guerras dos Sucessores]] na medida necessária para sustentar presente e instituições.
+9. Depois: outline de capítulos.
+10. Prosa longa somente após auditoria de prontidão.
 
 Ver [[EM ABERTO]].
 
