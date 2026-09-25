@@ -75,7 +75,6 @@ A cadeia causal possui responsabilidades distintas:
 - Nenhuma dessas camadas elimina a agência individual de quem escolhe matar.
 
 ## Em aberto
-- nome da agente da aproximação romântica e detalhes de sua relação com Ártemis;
 - identidade e Autoridade do agente que mata o pai;
 - causa física exata da segunda morte;
 - composição final da cena da invasão;
@@ -85,7 +84,7 @@ A cadeia causal possui responsabilidades distintas:
 
 
 ## Sucessora de Ártemis — CANON
-A mulher usada na aproximação romântica de Caio é uma **Sucessora de Ártemis**. É morena, bonita e próxima da idade de Caio; nome e detalhes visuais finos permanecem em aberto.
+A mulher usada na aproximação romântica de Caio é **Maya Ferraz**, Sucessora de Ártemis e integrante da [[Elite de Ares]]. É morena, bonita, tem 22 anos quando conhece Caio e possui uma relação própria de autonomia, respeito e divergência com Ártemis.
 
 Sua Autoridade é interpretada no sistema como **Perseguição**, expressão fundamental da caça de Ártemis. A função central não é fornecer localização absoluta de qualquer pessoa: primeiro é necessário identificar/encontrar um rastro ou estabelecer o alvo. Depois disso, torna-se excepcionalmente difícil perder a presa, permitindo perceber sinais de passagem, proximidade, mudanças de rota e padrões relevantes à perseguição. Limites técnicos ainda serão refinados.
 
