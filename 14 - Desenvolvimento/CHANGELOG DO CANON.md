@@ -804,3 +804,10 @@ Primeira consolidação do Vault.
 - Fatos concretizados promovidos ao [[Livro 1 - Log de Continuidade]]: rotina profissional, Bia/Marta/Sérgio/Renan, atendimento e custo nas pausas, logística do mesmo dia do Capítulo 1, estudo por tentativa e correção conceitual de Renan, objetos, conhecimento, decisões, relações e estado de saída.
 - Percepção no reflexo registrada como experiência de Caio, sem confirmar sua causa. Faixa continua explicação ordinária plausível; não se confirma o que a garota viu, sua intenção ou o conteúdo da fotografia. Identidade editorial não se torna conhecimento de Caio.
 - Estado do Projeto: **CAPÍTULOS 1 E 2 FECHADOS; CAPÍTULO 3 NÃO INICIADO**. Produção encerrada neste marco por instrução expressa do autor.
+
+## 26/09/2026 — Fechamento do Capítulo 3 — Maya v1.1
+- Aprovação humana explícita; manuscrito promovido a **CANON**, sem alteração do corpo narrativo aprovado no commit `2f36eb9` (2.041 palavras de prosa).
+- Auditoria encerrada: P0 = 0 e P1 = 0. Calibragem das réplicas sobre fotografias aceita como preferência editorial não bloqueadora; nenhuma revisão feita por esse motivo.
+- Fatos concretizados promovidos ao [[Livro 1 - Log de Continuidade]]: encontro universitário, ensaio e colaboração, contatos trocados, convivência na cantina, observação de Helena, entrevista e café combinados, conhecimento de cada personagem e consulta final ao arquivo sobre CAIO VALENÇA.
+- Preservados os limites de informação: encontro futuro ainda não realizado; motivos ocultos não declarados; nenhuma confirmação da anomalia anterior ou explicação operacional. Caio ignora a consulta da coda.
+- Estado do Projeto: **CAPÍTULOS 1, 2 E 3 FECHADOS; CAPÍTULO 4 NÃO INICIADO**. Produção encerrada neste marco por instrução do autor.

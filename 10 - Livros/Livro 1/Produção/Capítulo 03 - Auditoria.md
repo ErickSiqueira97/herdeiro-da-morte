@@ -2,7 +2,7 @@
 id: livro1-cap03-auditoria
 tipo: auditoria
 schema_version: 1.1
-status: PROVISÓRIO
+status: CANON
 tags: [livro-1, capitulo-03, auditoria]
 ---
 
@@ -10,7 +10,7 @@ tags: [livro-1, capitulo-03, auditoria]
 
 ## Escopo e preparação
 
-[[03 - Maya]], versão 1.1, PROVISÓRIO. Auditoria da própria redação, sujeita à aprovação humana. Base canônica `bf43038b21b1957f7be4c684a6485e5f9a765c72`. Capítulos 1 e 2 v1.2 e Log de Continuidade relidos integralmente antes do cartão. Consultados Outline 3 e fronteiras 4–5, política de POV da Arquitetura, ficha de Maya, Regras Invioláveis, Mapa e Protocolo. Bíblia Canônica, Bíblia de Produção e prompt completo do autor permanecem vigentes conforme leituras desta conversa. Fontes commitadas usadas; alterações locais alheias preservadas.
+[[03 - Maya]], versão 1.1, CANON / FECHADO. Auditoria da própria redação; aprovação humana explícita recebida em 26/09/2026. Base canônica `bf43038b21b1957f7be4c684a6485e5f9a765c72`. Capítulos 1 e 2 v1.2 e Log de Continuidade relidos integralmente antes do cartão. Consultados Outline 3 e fronteiras 4–5, política de POV da Arquitetura, ficha de Maya, Regras Invioláveis, Mapa e Protocolo. Bíblia Canônica, Bíblia de Produção e prompt completo do autor permanecem vigentes conforme leituras desta conversa. Fontes commitadas usadas; alterações locais alheias preservadas.
 
 Cartão criado antes da prosa, commit `68299ca`. **Gate pré-escrita: PASSA.** Nenhuma contradição P0/P1 impeditiva. Coda externa delimitada atende à saída expressa do Outline e à autorização de blocos externos raros na Arquitetura, sem transferir informação privada ao conhecimento de Caio.
 
@@ -49,11 +49,11 @@ Cartão criado antes da prosa, commit `68299ca`. **Gate pré-escrita: PASSA.** N
 - **P1 identificados e restantes: 0.**
 - **P2 corrigido:** Maya fechava o arquivo antes de apontar a fotografia. Agora diminui a ampliação, mantendo a imagem disponível.
 - **P2 corrigido:** olhar de Maya durante a escolha tornado observável para sustentar o relato posterior a Helena.
-- **P2 restante de gosto/refino:** possível calibragem da quantidade de réplicas durante a comparação das fotos. A extensão atual permite diferenças de critérios e química; eventual corte deve preservar essa função.
+- **Preferência editorial não bloqueadora aceita pelo autor:** possível calibragem da quantidade de réplicas durante a comparação das fotos. Não constitui revisão pendente; a versão 1.1 foi aprovada integralmente, sem nova alteração por esse motivo.
 
-## Fatos novos candidatos à continuidade — NÃO CANONIZADOS
+## Fatos aprovados — consolidados no Log de Continuidade
 
-| Campo | Proposta concretizada |
+| Campo | Fato concretizado aprovado |
 |---|---|
 | Tempo | Mesmo dia dos capítulos 1–2: intervalo, fim da aula, cantina, ônibus, casa e mensagens antes do banho. Coda posterior. Entrevista combinada para o dia seguinte antes da aula; café depois dela. Sem horário exato. |
 | Geografia | Cantina com tomada, balcão e visão de entrada/portas do corredor; caminho para outro bloco. Entrada lateral da biblioteca encurta caminho desde o ponto. Sem cidade ou endereço definidos. |
@@ -73,6 +73,6 @@ Cartão criado antes da prosa, commit `68299ca`. **Gate pré-escrita: PASSA.** N
 
 ## Gate pós-escrita
 
-Função, causalidade, agência, emoção, exposição, mistério, poder, continuidade, ritmo, prosa e experiência verificados. P0/P1 = 0. Manuscrito PROVISÓRIO; fatos separados para aprovação. Capítulos anteriores e registros aprovados preservados. Capítulo 4 não iniciado.
+Função, causalidade, agência, emoção, exposição, mistério, poder, continuidade, ritmo, prosa e experiência verificados. P0/P1 = 0. Manuscrito CANON; fatos concretizados promovidos ao Log de Continuidade após aprovação humana. Corpo narrativo preservado integralmente. Capítulos anteriores e registros aprovados preservados. Capítulo 4 não iniciado.
 
-**AGUARDANDO APROVAÇÃO DO CAPÍTULO.**
+**CAPÍTULO 3 v1.1 APROVADO E FECHADO — 26/09/2026.** Capítulo 4 não iniciado; execução encerrada neste marco.

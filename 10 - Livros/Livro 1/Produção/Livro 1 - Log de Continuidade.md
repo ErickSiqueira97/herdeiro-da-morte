@@ -89,6 +89,30 @@ Os fatos abaixo pertencem à prosa aprovada. A percepção da anomalia é canôn
 | Pista | Movimento escuro sobe pela coluna refletida na percepção de Caio. Faixa ao vento é hipótese plausível, não explicação comprovada. Garota morena olha a base da coluna e depois fotografa o mural. Sem imagem apresentada ao leitor. |
 | Estado de saída | Atendimento resolvido no nível do envio; correção leve recebida; exercício compreendido; Caio na faculdade com garrafa vazia, atenção na garota e sem conclusão sobrenatural. Não há conversa, apresentação ou início do Capítulo 3. |
 
+### Capítulo 03 — Maya — v1.1
+
+**CANON / FECHADO em 26/09/2026**, por aprovação humana explícita. Fonte: [[03 - Maya]], versão aprovada no commit `2f36eb9`, promovida sem alteração do corpo narrativo. Auditoria: [[Capítulo 03 - Auditoria]], P0 = 0, P1 = 0. Calibragem das réplicas sobre fotografias aceita como preferência editorial não bloqueadora, sem nova revisão.
+
+Os fatos abaixo conservam os limites de conhecimento do texto: falas de Maya sobre seu projeto não certificam sua motivação exclusiva; Caio não conhece o arquivo da coda. Entrevista e café estão combinados, ainda não aconteceram.
+
+| Campo | Fato concretizado aprovado |
+|---|---|
+| Tempo | Mesmo dia dos capítulos 1–2: intervalo, fim da aula, cantina, ônibus, casa e mensagens antes do banho. Coda posterior. Entrevista combinada para o dia seguinte antes da aula; café depois dela. Sem horário exato. |
+| Geografia | Cantina com tomada, balcão e visão de entrada/portas do corredor; caminho para outro bloco. Entrada lateral da biblioteca encurta caminho desde o ponto. Sem cidade ou endereço definidos. |
+| Presentes | Caio, Maya, Renan, Helena; aluna conhecida de Maya e funcionária anônimas. Pessoas das fotos sem nome. |
+| Corpo e roupas | Garrafa preenchida, esquecida e recuperada; nenhum ferimento novo. Caio tira tênis em casa e vai tomar banho; roupa de Maya não fixada. |
+| Objetos | Câmera, bolsa, biscoitos, telefone, carregador e caderno manchado de café de Maya; garrafa, mochila, pendrive e vasilha de Caio. Xícara vazia na cantina. Link e contatos trocados. |
+| Projeto | Ensaio sobre tempo entre emprego e aula; apresentação/PDF e página pronta tentados. Fotos: homem apoiado na mochila, fila de balcão em dois ângulos, mochila com caderno e sapato. Maya afirma autorização com restrição ao crachá e áudio para conferir legenda; não certificar toda fala como motivo único ou fato externo verificado. |
+| Trabalho técnico | Teste conjunto de apresentação móvel por blocos; Maya reorganiza sequência, põe foto do sapato no final. Nenhum site programado do zero ou contratação. |
+| Dinheiro/comida | Nenhum gasto novo confirmado; café futuro é convite, não consumo. Caio lava vasilha; pia permanece funcionando. SSD, reembolso e reposição do pão não resolvidos. |
+| Conhecimento de Caio | Aprende nome Maya, Jornalismo e projeto; percebe escolhas espaciais e critérios. Ignora arquivo final e operação; reflexo permanece sem resposta. |
+| Conhecimento de Maya | Recebe em diálogo contato, disponibilidade, espera na biblioteca e entrada habitual. Consulta nome completo, curso e turno na coda; não se estabelece quando ou por quem os obteve. |
+| Conhecimento de Helena | Ouve sobre exercício, Renan e Maya; interpreta atenção à resposta do filho. Não conhece arquivo ou sobrenatural. |
+| Decisões e promessas | Consulta aceita e realizada; Maya aceita não fotografar Caio dormindo; entrevista combinada. Caio propõe café adicional, Maya aceita. Sem declaração ou romance resolvido. |
+| Relações e mentiras | Aproximação planejada permanece bastidor. Narração não declara a justificativa civil como motivo único, nem reduz afeto a encenação. Divergência sobre foto do balcão permanece. |
+| Pistas/callbacks | Atenção espacial e escuta de Maya; fotos de ambiente/rotina; disputa das fotos retomada nas mensagens. Sem obrigação de reaproveitar cada detalhe. |
+| Estado final | Contato voluntariamente mantido por Caio; Maya consulta arquivo salvo com CAIO VALENÇA e Ciência da Computação — noturno, apaga a tela. Sem remetente, símbolo, comando ou diagnóstico. |
+
 ## Estado do ciclo
 
-Capítulos 1 e 2 fechados e canonizados, ambos na versão 1.2. Capítulo 3 produzido como **PROVISÓRIO**, versão 1.1, e aguardando aprovação. Fatos candidatos exclusivamente em [[Capítulo 03 - Auditoria]], sem promoção neste log. **Capítulo 4 não iniciado.**
+Capítulos 1 e 2 v1.2 e Capítulo 3 v1.1 canonizados e fechados. Nenhum capítulo pendente de aprovação. **Capítulo 4 não iniciado**; produção parada neste fechamento por instrução expressa do autor.
