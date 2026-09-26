@@ -63,6 +63,32 @@ tags: [livro-1, producao, continuidade]
 - Pia funcionando, sem gotas na assadeira; Helena retoma seu uso. Lívia saiu para a aula. Caio sai atrasado para o trabalho, sem resolver o atrito com Marcelo, com o SSD adiado.
 - Helena entrega a Caio o pão esquecido por Lívia. Já fora de casa, ele pergunta à irmã por mensagem se o pão entrava nos planos da apresentação. Ela responde **“Se comer, compra outro.”** Ele come andando para o ponto. Compra de reposição não aconteceu neste capítulo.
 
+### Capítulo 02 — O que ele não larga — v1.2
+
+**CANON / FECHADO em 26/09/2026**, por aprovação humana explícita. Fonte: [[02 - O que ele não larga]], versão aprovada no commit `b44a259`, promovida sem alteração do corpo narrativo. Auditoria: [[Capítulo 02 - Auditoria]], P0 = 0, P1 = 0, nenhum P2 restante identificado.
+
+Os fatos abaixo pertencem à prosa aprovada. A percepção da anomalia é canônica enquanto experiência de Caio; sua causa e a percepção da garota continuam não confirmadas. O nome Maya é identificação editorial oriunda do Outline, não conhecimento adquirido por Caio neste capítulo.
+
+| Campo | Fato concretizado na versão aprovada |
+|---|---|
+| Tempo | Mesmo dia do Capítulo 1: chegada atrasada, turno parcial, almoço na pausa, biblioteca nas horas anteriores à aula noturna e intervalo no laboratório. Sem data, jornada exata ou idade acadêmica fixados. |
+| Geografia profissional | Escritório com entrada por crachá, mesas próximas, corredor entre elas, copa, micro-ondas e filtro; banheiro no térreo. Nome da empresa, prédio e cidade não definidos. |
+| Nomes menores | Bia, colega de atendimento; Marta, supervisora; Sérgio, cliente ligado a oficina; Renan, colega de faculdade. Monitor, professor e demais clientes/alunos sem nome. Não confundir Renan com Renata, mãe de Maya. |
+| Estado físico e roupas | Caio dormiu encostado à janela no ônibus, trocou a camiseta no banheiro do térreo e chega com cabelo amassado; barra da calça seca com marca; língua ainda sensível ao café. Bate o ombro na porta sem ferimento estabelecido. |
+| Trabalho e objetos | Usa crachá, fone, roteiro, histórico e ambiente de treinamento. Suporte de portal para solicitações de assistência/documentos. Não se fixa setor jurídico ou ramo exato do contratante. |
+| Atendimento | Cliente adicionou três cópias de orçamento sem concluir envio; botão fica fora da área visível da janela interna. Teste de altura da janela permite orientar a rolagem. Cliente remove duplicatas, confirma e anota protocolo; análise/aprovação do pedido continua pendente. |
+| Dinheiro e desejos | SSD continua adiado. Caio avalia vaga de estágio com bolsa menor que sua remuneração atual; calcula transporte, pensa em independência, ajuda à família e moto. Nenhum valor novo, candidatura, compra ou mudança de emprego concretizados. |
+| Pausas e responsabilidades | Caio sinaliza dois minutos e consome nove; Bia precisa telefonar à creche para confirmar quem busca. Não se fixa parentesco, nome ou idade da criança. Marta troca a ordem das pausas e cobra aviso; Caio reconhece falha. Ajuste dos minutos de atraso é discutido, sem mecanismo salarial ou punição formal definido. |
+| Comida e objetos pessoais | Almoça arroz na vasilha com elástico; carrega celular na biblioteca, recolhe carregador; pendrive leva o exercício. Garrafa está vazia no final. Nenhuma reposição do pão de Lívia estabelecida. |
+| Faculdade | Biblioteca e laboratório; acesso ao computador liberado pelo monitor. Exercício de médias exige tratar ausência de dados; Renan percebe que imprimir zero não resolve o caso. Ambos testam em papel; professor pede explicação. Não fixados linguagem de programação, semestre, nota ou nome da disciplina. |
+| Geografia final | Corredor com bebedouro após portas de vidro junto ao pátio; coluna do outro lado, faixa solta, banco à esquerda de Caio, mural ao lado das portas. Sem planta integral. |
+| Conhecimento | Marta recebeu a mensagem de atraso; Bia conhece o custo da chamada; Sérgio sabe que enviou, não que foi aprovado. Caio não conhece a identidade da garota nem sabe se ela percebeu o mesmo movimento. Não atribuir conhecimento novo aos familiares ausentes. |
+| Decisões e relações | Caio insiste, reconhece a falha de coordenação e aceita esperar a pausa; Bia esclarece sua cobrança sem admirar ou condenar o colega por inteiro. Renan oferece correção e recebe ajuda. Atrito com Marcelo permanece sem resolução em cena. |
+| Promessas e mentiras | Sinal de dois minutos é estimativa descumprida, não mentira deliberada estabelecida. Nenhuma promessa de aprovação do orçamento. Nenhuma declaração de Maya; intenção de seu enquadramento não é narrada. |
+| Hábitos e vida | Caio intercala estudo e parte de um episódio, desenhou guidão na margem do caderno. Sérgio prefere anotar no próprio orçamento para não perder papel separado. Não criar características universais a partir de gestos únicos. |
+| Pista | Movimento escuro sobe pela coluna refletida na percepção de Caio. Faixa ao vento é hipótese plausível, não explicação comprovada. Garota morena olha a base da coluna e depois fotografa o mural. Sem imagem apresentada ao leitor. |
+| Estado de saída | Atendimento resolvido no nível do envio; correção leve recebida; exercício compreendido; Caio na faculdade com garrafa vazia, atenção na garota e sem conclusão sobrenatural. Não há conversa, apresentação ou início do Capítulo 3. |
+
 ## Estado do ciclo
 
-Capítulo 1 fechado. Após nova autorização expressa do autor, o Capítulo 2 foi produzido e revisado como **PROVISÓRIO**, versão 1.2, e aguarda aprovação. Seus fatos propostos estão exclusivamente em [[Capítulo 02 - Auditoria]]; nenhuma entrada narrativa do Capítulo 2 foi canonizada neste log. **Capítulo 3 não iniciado.**
+Capítulos 1 e 2 fechados e canonizados, ambos na versão 1.2. Nenhum capítulo pendente de aprovação. **Capítulo 3 não iniciado**; produção parada neste fechamento por instrução expressa do autor.

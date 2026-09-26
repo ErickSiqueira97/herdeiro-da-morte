@@ -2,7 +2,7 @@
 id: livro1-cap02-auditoria
 tipo: auditoria
 schema_version: 1.1
-status: PROVISÓRIO
+status: CANON
 tags: [livro-1, capitulo-02, auditoria]
 ---
 
@@ -10,7 +10,7 @@ tags: [livro-1, capitulo-02, auditoria]
 
 ## Escopo e fontes
 
-Manuscrito: [[02 - O que ele não larga]], versão 1.2, **PROVISÓRIO**. Revisão cirúrgica de ritmo comparada à v1.1 do commit `9cdacf1`. Auditoria editorial da própria redação, não leitura independente ou aprovação humana.
+Manuscrito: [[02 - O que ele não larga]], versão 1.2, **CANON / FECHADO**. Revisão cirúrgica de ritmo comparada à v1.1 do commit `9cdacf1`. Auditoria editorial da própria redação; aprovação humana explícita recebida em 26/09/2026 para fechamento sem alteração narrativa.
 
 Fontes canônicas na `main`, base `1f5cbb28911aa13bb6d6256c3b981437fb2c773b`: Bíblia Canônica; Arquitetura Definitiva v2; Outline Definitivo v1, Capítulo 2 e fronteira do 3; Bíblia de Produção; Regras Invioláveis; Mapa de Revelações e Payoffs; Protocolo; Prompt Mestre de Redação; ficha Protagonista e ficha Maya Ferraz; Véu e Ecologia Sobrenatural. O prompt completo do autor na conversa rege o ciclo. Capítulo 1 v1.2 CANON e Log de Continuidade lidos integralmente antes do cartão e da prosa.
 
@@ -29,7 +29,7 @@ O [[Capítulo 02 - Cartão Editorial]] foi criado e commitado antes da redação
 | G. Mistério | PASSA após precisão de POV. Um único movimento percebido no reflexo; faixa solta fornece alternativa plausível, sem confirmação causal. O nome Maya não aparece na prosa; missão, vínculo e poder ficam ocultos. Não há leitura da foto ou prova tecnológica. |
 | H. Foreshadowing | PASSA. Persistência e percepção prévia são mostradas em ação. Não há presságio de morte, infância, marca, livro ou narrador anunciando importância futura. A garota olha o mesmo local e fotografa outro alvo, sem explicação. |
 | I. Poder | PASSA / nenhum uso. Caio continua humano sem capacidade nova. A impressão visual respeita os estímulos incompletos possíveis no Véu, sem nomeá-lo ou determinar espécie. A câmera funciona normalmente; nenhuma interferência inventada. |
-| J. Continuidade | PASSA. Mesmo dia; atraso doméstico, roupa, fome, língua sensível, almoço com elástico, pendrive e compra de SSD adiada continuam coerentes. Sem reembolso, reposição de pão ou reconciliação presumidos. Turno termina antes da aula noturna. Nenhum fato proposto foi promovido ao log canônico. |
+| J. Continuidade | PASSA. Mesmo dia; atraso doméstico, roupa, fome, língua sensível, almoço com elástico, pendrive e compra de SSD adiada continuam coerentes. Sem reembolso, reposição de pão ou reconciliação presumidos. Turno termina antes da aula noturna. Fatos concretizados promovidos ao log após aprovação explícita. |
 | K. Ritmo | PASSA após redução de 5,43%. Microetapas do atendimento condensadas sem suprimir tentativa, erro, teste, solução ou custo. Consequência, almoço e cena acadêmica mantêm a redação da v1.1. |
 | L. Prosa | PASSA após revisão cirúrgica. Descrição do portal, instruções intermediárias e teste da janela mais concisos; parte da orientação oral passa ao discurso indireto. Mantidas as vozes e as falas protegidas. |
 | M. Experiência | PASSA na avaliação editorial. Rotina profissional tem gente e necessidades próprias. Tempo livre inclui cansaço e episódio interrompido, além de estudo. O capítulo funciona antes de se conhecer a trama sobrenatural. |
@@ -43,7 +43,7 @@ O [[Capítulo 02 - Cartão Editorial]] foi criado e commitado antes da redação
 - **P2 corrigido — comentário explicativo:** removida a frase que defendia explicitamente Marta de estar mandando desligar na cara do homem. Equipe, prazo, procedimento e conduta já demonstram a legitimidade do encaminhamento.
 - **P2 corrigido — precisão do mistério:** a impressão de uma pessoa atrás do ombro é atribuída expressamente à percepção de Caio. Não se confirma presença humana, criatura, alucinação ou causa ordinária.
 - **P2 tratado na v1.2:** extensão das microetapas técnicas do atendimento. Condensação dentro da faixa solicitada, preservando a cadeia essencial e os fatos.
-- **P2 restantes identificados: 0.** A avaliação do ritmo e do refinamento final permanece sujeita à aprovação humana.
+- **P2 restantes identificados: 0.** O autor aprovou explicitamente o ritmo e o refinamento final da v1.2.
 
 ## Comparação objetiva — v1.1 → v1.2
 
@@ -65,11 +65,11 @@ Contagem apenas da prosa após o título, sem YAML nem sinais isolados: sequênc
 - Fecho: acréscimo exclusivo de **“Perguntar pelo mural seria mais fácil.”** Retoma a pergunta não feita, ligando o alvo aparente da fotografia à hesitação de Caio. Não acrescenta percepção, prova, reciprocidade, diálogo ou intenção atribuída à garota.
 - Permanecem movimento no reflexo, faixa ao vento como hipótese, olhar da garota à base da coluna e fotografia do mural. Nome e condição sobrenatural da garota continuam ausentes da prosa.
 
-Todos os eixos A–N reavaliados contra a v1.2 e o inventário abaixo. Nenhum P0/P1 identificado; fatos do Capítulo 1 e prosa canonizada não alterados. Nenhum fato do Capítulo 2 promovido ao cânone.
+Todos os eixos A–N reavaliados contra a v1.2 e o inventário abaixo. Nenhum P0/P1 identificado; fatos do Capítulo 1 e prosa canonizada não alterados. Após aprovação humana, os fatos concretizados do Capítulo 2 foram promovidos ao Log de Continuidade.
 
-## Fatos novos propostos — NÃO CANONIZADOS
+## Fatos aprovados — consolidados no Log de Continuidade
 
-| Campo | Concretização provisória |
+| Campo | Concretização aprovada |
 |---|---|
 | Tempo | Mesmo dia do Capítulo 1: chegada atrasada, turno parcial, almoço na pausa, biblioteca nas horas anteriores à aula noturna e intervalo no laboratório. Sem data, jornada exata ou idade acadêmica fixados. |
 | Geografia profissional | Escritório com entrada por crachá, mesas próximas, corredor entre elas, copa, micro-ondas e filtro; banheiro no térreo. Nome da empresa, prédio e cidade não definidos. |
@@ -91,6 +91,6 @@ Todos os eixos A–N reavaliados contra a v1.2 e o inventário abaixo. Nenhum P0
 
 ## Gate pós-escrita
 
-Função, causalidade, agência, emoção, exposição, mistério, poder, continuidade, ritmo, prosa, experiência e impulso de leitura verificados. P0/P1 = 0 após releitura e revisão. Cartão e auditoria salvos. Candidatos à continuidade separados acima, sem promoção. Capítulo 1 e seu log de fatos aprovados preservados; nenhuma nova canonização.
+Função, causalidade, agência, emoção, exposição, mistério, poder, continuidade, ritmo, prosa, experiência e impulso de leitura verificados. P0/P1 = 0 após releitura e revisão. Cartão e auditoria salvos. Fatos concretizados aprovados e consolidados no Log de Continuidade. Capítulo 1 e seu registro preservados. Corpo narrativo da v1.2 mantido sem alteração.
 
-**AGUARDANDO APROVAÇÃO DO CAPÍTULO.**
+**CAPÍTULO 2 v1.2 APROVADO E FECHADO — 26/09/2026.** Capítulo 3 não iniciado; execução encerrada neste marco por instrução do autor.

@@ -797,3 +797,10 @@ Primeira consolidação do Vault.
 - Preservados “Cacá”, a advertência de Marcelo, “Eu também moro aqui” e a mensagem final de Lívia. Nenhuma informação sobrenatural acrescentada.
 - Estado do Projeto atualizado: **CAPÍTULO 1 FECHADO; CAPÍTULO 2 NÃO INICIADO**. Produção parada neste marco por instrução expressa do autor; sem avanço para o capítulo seguinte.
 - A data desta entrada corresponde à sessão de aprovação; datas históricas anteriores do documento foram preservadas.
+
+## 26/09/2026 — Fechamento do Capítulo 2 — O que ele não larga v1.2
+- Versão 1.2 aprovada explicitamente e promovida a **CANON**, sem alteração do corpo narrativo aprovado no commit `b44a259`; mantidas 2.057 palavras de prosa.
+- Auditoria fechada: P0 = 0, P1 = 0 e nenhum P2 restante identificado.
+- Fatos concretizados promovidos ao [[Livro 1 - Log de Continuidade]]: rotina profissional, Bia/Marta/Sérgio/Renan, atendimento e custo nas pausas, logística do mesmo dia do Capítulo 1, estudo por tentativa e correção conceitual de Renan, objetos, conhecimento, decisões, relações e estado de saída.
+- Percepção no reflexo registrada como experiência de Caio, sem confirmar sua causa. Faixa continua explicação ordinária plausível; não se confirma o que a garota viu, sua intenção ou o conteúdo da fotografia. Identidade editorial não se torna conhecimento de Caio.
+- Estado do Projeto: **CAPÍTULOS 1 E 2 FECHADOS; CAPÍTULO 3 NÃO INICIADO**. Produção encerrada neste marco por instrução expressa do autor.
