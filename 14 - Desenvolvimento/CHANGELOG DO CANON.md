@@ -305,3 +305,19 @@ Primeira consolidação do Vault.
 - O fundador não era originalmente inimigo dos deuses. Sua perda e investigação posterior o levam à tese de que a Sucessão mantém a intervenção divina na Terra.
 - Sua direção radical passa a ser eliminar Successores e impedir novas Sucessões, ao mesmo tempo que a organização busca uma possível forma de romper o vínculo sem matar o humano.
 - Estabelecido o espelho temático com Caio: ambos têm dificuldade em aceitar o irreversível; Caio acumula aquilo que perde, enquanto o fundador transforma aquilo que perdeu em arma.
+
+
+## 26/09/2026 — Liga de contenção, escala Herege e origem estratégica da Elite
+- Fechado que o medalhão do fundador parecia ser de ouro, mas continha uma **liga rara à base de ouro** cujo componente especial consegue reter e conduzir Vestígios.
+- Ouro comum isoladamente não preserva Vestígios.
+- A propriedade do metal explica a preservação acidental do Vestígio Primário e é descoberta posteriormente através dos testes do fundador e de seus colaboradores.
+- A tecnologia Herege passa a utilizar pequenas quantidades dessa liga em núcleos, canais, encaixes e componentes de Ecos Artificiais.
+- A escassez impede equipamentos inteiros feitos da liga; detalhes metálicos dourados e a luz percorrendo seus canais tornam-se identidade visual reconhecível da tecnologia Herege.
+- Nome, composição exata, origem e cadeia de suprimento da liga permanecem em aberto.
+- Hereges passam a ser canonicamente uma organização de escala muito superior à Elite de Ares, com infraestrutura histórica de pesquisa, inteligência, recuperação, engenharia, logística e caça. Usuários de Ecos capazes de enfrentar Successores são uma parcela especializada, não a totalidade da organização.
+- Os Hereges antecedem a atual Elite de Ares.
+- A capacidade Herege de matar Successores por preparação, tecnologia e caça coordenada torna-se uma das razões fundadoras para Ares reunir os Oito.
+- Ares não odeia humanos em geral. Sua oposição concentra-se na apropriação humana dos Vestígios, nos Ecos Artificiais e no projeto de exterminar Successores.
+- Para Ares, o crescimento Herege é sintoma de que o Primeiro Pacto apenas transformou a guerra e pode contribuir para sua ruptura.
+- A Elite não existe apenas para exterminar Hereges: Ares a concebe como força capaz de responder à ameaça imediata e sobreviver ao conflito maior que acredita inevitável.
+- Fica estabelecido o contraste de escala: **Hereges = organização extensa e distribuída; Elite de Ares = oito Successores excepcionalmente complementares.**
