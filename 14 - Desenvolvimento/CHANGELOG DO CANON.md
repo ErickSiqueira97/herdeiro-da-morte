@@ -361,3 +361,25 @@ Primeira consolidação do Vault.
 - O Primeiro Eco não cura: **adia temporariamente o agravamento de uma condição física**, sem apagar o dano nem seu preço posterior.
 - Princípio do Primeiro Eco: **“O Primeiro Eco não cura. Ele adia.”**
 - Permanecem abertos a lesão física exata, participantes do conflito, destino dos quatro, Marca de Eir e forma/engenharia final do Primeiro Eco.
+
+
+## 26/09/2026 — Elisa Noronha, Iðunn e Florescer
+- A Successora de Iðunn passa a se chamar **Elisa Noronha**, 21 anos, estudante de Fisioterapia e Successora há aproximadamente dois anos quando Caio chega ao Santuário.
+- Elisa sonha criar um centro de reabilitação acessível.
+- Seu eixo é enxergar potencial no que ainda pode continuar; sua falha é ter dificuldade em aceitar quando outra pessoa escolhe não continuar.
+- Família: Eduardo Noronha, professor; Patrícia Noronha, dona de floricultura/viveiro; Gabriel Noronha, irmão mais velho que passou por reabilitação após acidente de moto e vive com limitação discreta.
+- Rafael é relacionamento anterior sem vilão; o término ajuda Elisa a aprender que outra pessoa possui direito de não continuar uma relação.
+- Iðunn observa Elisa no contexto de reabilitação, quando ela começa a compreender que preservar uma vida não significa transformar cada instante em tentativa de melhora.
+- A Autoridade de Iðunn é **Florescer**, ligada à vitalidade disponível e ao potencial de desenvolvimento de organismos vivos.
+- Florescer não ressuscita, não recupera alma após o End e não cria vitalidade extraordinária ilimitada do nada.
+- Distinção: **Restauro/Eir** trabalha com dano e reparação possível; **Florescer/Iðunn** impulsiona aquilo que ainda vive.
+- Uso extremo faz Elisa “murchar” fisiologicamente.
+- Elisa descobre por conta própria a aplicação de **drenagem de vitalidade**; Iðunn não a ensina inicialmente.
+- A Relíquia-Eco é a **Semente de Iðunn**, núcleo dourado/âmbar que ancora e distribui vitalidade.
+- Elisa não será apenas curadora: Florescer permite controle vegetal, sustentação, reforço corporal e aplicações ofensivas/defensivas dentro de limites futuros.
+- A relação Elisa–Iðunn é afetuosa, autônoma e capaz de divergência.
+- Relação com Caio: fricção/rivalidade → respeito → amizade → confiança → atração → amor.
+- O conflito central é a diferença entre permanecer ao lado de alguém e tentar salvá-lo contra a própria agência.
+- A vida cotidiana de Elisa e seu projeto de centro de reabilitação permanecem importantes independentemente de Caio.
+- **A morte de Elisa não foi canonizada.** A possibilidade de Caio herdar Florescer continua apenas como direção futura.
+- O PROCESSO passa a registrar aproximadamente **64% do planejamento trilógico** e **21% do projeto completo/publicável**.
