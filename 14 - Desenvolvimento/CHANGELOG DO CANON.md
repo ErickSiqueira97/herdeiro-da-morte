@@ -455,3 +455,14 @@ Primeira consolidação do Vault.
 - Missões do Livro 1 devem desenvolver personagem, mundo e mistério; não funcionar como “monstro da semana”.
 - Sede principal será fisicamente real e historicamente acumulada; localização e arquitetura final abertas.
 - Arquivo/Vigília/Campo/Custódia/Pacto permanecem como direção de arquitetura, não nomes/departamentos canonizados.
+
+
+## 26/09/2026 — Primeira leva do bestiário
+- Fechada a regra de que criatura importante deve cumprir pelo menos duas funções narrativas/ecológicas e não existir apenas para combate.
+- **Rasga-Véu** canonizado como Gerado predador de presenças sobrenaturais e demonstração prática de Aderência.
+- **Sem-Rosto** canonizado como Mitogênico contemporâneo; viralização isolada não basta para Mitogênese.
+- Cérbero reservado como indivíduo singular quando utilizado; detalhes dependem de pesquisa mitológica.
+- Errante fechado como direção de Gerado ligado a locais de desaparecimento, sem usar almas das vítimas; detalhes abertos.
+- Fechada a necessidade de predadores ecológicos, criaturas inteligentes e integração pesquisada do folclore brasileiro.
+- Fechada uma grande ocorrência no Livro 1 em que uma criatura aparentemente ameaçadora está fugindo/reagindo a instabilidade maior, funcionando como foreshadowing da deterioração do Véu.
+- Proibido estruturar o bestiário como simples sequência de “monstros da semana”.
