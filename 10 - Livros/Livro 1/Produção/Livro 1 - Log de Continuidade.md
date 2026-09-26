@@ -183,6 +183,34 @@ A manifestação visual do arco segue integralmente o Outline canônico e não c
 | Presença | Volume quadrúpede grande e instável responde a Caio, ignora homem e avança à rampa. Apoio definido toca cimento com som; boca visível. Sem nome/origem/ataque/identidade anterior confirmada. |
 | Decisões e saída | Maya põe água junto ao muro, afasta Caio do confronto, manifesta arco na mão esquerda e ergue-o. Caio vivo, ileso, perto do caminho livre; resposta a “Corre, Caio” ainda não narrada. |
 
+### Capítulo 07 — Você ficou — v1.1
+
+**CANON / FECHADO em 26/09/2026**, por aprovação humana explícita. Fonte: [[07 - Você ficou]], versão aprovada no commit e1596b4, promovida sem alteração do corpo narrativo. Auditoria: [[Capítulo 07 - Auditoria]], P0 = 0, P1 = 0; cinco gates especiais PASSA. Calibragem do detalhamento mecânico do portão aceita como preferência editorial não bloqueadora, sem nova revisão.
+
+#### Proteções explícitas de continuidade
+
+- Caio teve uma oportunidade real de fuga: caminho livre, distância conquistada e ponto acessível. Ele efetivamente correu antes de escolher retornar.
+- Voltou porque Maya permaneceu retida no confronto. Não voltou por chamado, destino, incapacidade de fugir ou poder. Seu retorno inicialmente complicou a linha de tiro dela.
+- Descobriu contato variável apenas pela experiência: tentativa sem resistência suficiente, seguida de interação material da criatura com o portão e contato real. Não conhecia o termo, a explicação ou uma teoria universal.
+- Maya permaneceu a combatente; Caio usou ambiente e esforço humano para criar abertura limitada, sem competência marcial adquirida.
+- Caio sofreu trauma torácico fatal e morreu humano, sem manifestação de poder, regeneração, despertar, Marca ou Livro. Último estado do capítulo: morto, não apenas inconsciente. Nenhuma experiência pós-morte narrada.
+
+| Campo | Fato concretizado aprovado |
+|---|---|
+| Tempo | Continuação imediata do final do 6, mesma noite. Ação e deterioração breves, sem cronometragem clínica ou horário fixado. |
+| Fuga/retorno | Caio corre até cerca de trinta passadas, com ponto acessível; só depois constata Maya retida. Volta deliberadamente e larga mochila junto à garagem intermediária. |
+| Maya | Disparos, esquivas, controle de distância e abertura de rota; retorno de Caio cancela linha de tiro. Unha corta manga e braço acima do cotovelo; sem incapacidade permanente estabelecida. Expulsa presença e chega até ele. |
+| Portão | Folha de pedestres com maçaneta, inicialmente trancada. Interfone no muro. Impacto rompe fecho e permite giro externo; mordida dobra chapa. Caio usa folha como alavanca e barreira, sem abrir acesso por chave ou força extraordinária. |
+| Contato | Primeiro empurrão atravessa contorno difuso; mordida seguinte prende metal e fornece resistência. Segundo esforço desloca cabeça e permite Maya sair pelo intervalo. Não é teoria cosmológica conhecida por Caio. |
+| Ferimentos de Caio | Cotovelo bate no cimento; dedos comprimidos antes do trauma principal. Pata comprime tórax contra quina e unhas abrem lado esquerdo. Colapso, respiração progressivamente ineficaz, sangue e tosse; nenhuma luta após trauma. |
+| Criatura | Ferida por flecha acima de pata e outros disparos; retirada observada entre carros após Maya atirar. Não declarada morta, capturada ou espécie conhecida pelo POV. Dano ao portão não se apaga. |
+| Objetos | Mochila fora do recuo; arco utilizado e depois fora do campo visual de Caio, destino não estabelecido; garrafa do 6 não recolhida em cena. Tecido da blusa de Maya aplicado ao ferimento; telefone usado para pedir ajuda. |
+| Terceiros | Pessoa no abrigo, carro que freia e voz que grita. Percepção completa deles não fixada; nenhum resgate chega antes do fim. |
+| Conhecimento | Caio experiencia contato variável, arma de Maya e gravidade do próprio ferimento; ignora mecanismo, investigação, causa da atração e futuro. Maya vê retorno e lesão, tenta socorro; não sabe nem espera ressurreição. |
+| Diálogo e relação | “Eu mandei você correr!” / “Você ficou.” Sem declaração de amor, promessa nova ou perdão. Preocupação final de Caio com ferimento de Maya permanece sem pergunta articulada. |
+| Socorro | Maya pressiona tecido, chama ajuda, usa telefone e fornece nome da rua não transcrito; não se confirma chegada de equipe ou interlocutor específico. |
+| Estado de saída | Caio morto humano junto ao portão; Maya viva junto dele, tentando ajudar. Percepção encerra; nenhuma experiência pós-morte, Livro, Marca ou poder. |
+
 ## Estado do ciclo
 
-Capítulos 1–6 canonizados e fechados. **Capítulo 7 — Você ficou, v1.1, PROVISÓRIO / AGUARDANDO APROVAÇÃO DO CAPÍTULO.** Fatos novos apenas em [[Capítulo 07 - Auditoria]], sem promoção ao cânone. Capítulo 8 não iniciado; produção parada para aprovação humana.
+Capítulos 1 e 2 v1.2 e Capítulos 3–7 v1.1 canonizados e fechados. Nenhum capítulo pendente de aprovação. Auditoria acumulada 1–5 encerrada. **Capítulo 8 não iniciado**; produção parada neste fechamento por instrução expressa do autor.

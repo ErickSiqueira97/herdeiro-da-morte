@@ -2,7 +2,7 @@
 id: livro1-cap07-auditoria
 tipo: auditoria
 schema_version: 1.1
-status: PROVISÓRIO
+status: CANON
 tags: [livro-1, capitulo-07, auditoria]
 ---
 
@@ -10,7 +10,7 @@ tags: [livro-1, capitulo-07, auditoria]
 
 ## Escopo
 
-[[07 - Você ficou]], v1.1 PROVISÓRIA. Autoauditoria editorial, sujeita à aprovação humana. Base canônica `4eb792e`. Capítulos 1–6, Log, Outline 7–9, fichas Caio/Maya e regras de criatura/percepção consultados antes da escrita. Cartão e gate PASSA registrados em `2f4af55`; primeira versão em `bb0ae37`. Prompt Ultra Mestre e Protocolo aplicados. Fontes aprovadas e alterações preexistentes preservadas.
+[[07 - Você ficou]], v1.1 CANON / FECHADO em 26/09/2026 por aprovação humana explícita. Corpo narrativo aprovado no commit e1596b4 preservado integralmente (1.674 palavras). Base canônica `4eb792e`. Capítulos 1–6, Log, Outline 7–9, fichas Caio/Maya e regras de criatura/percepção consultados antes da escrita. Cartão e gate PASSA registrados em `2f4af55`; primeira versão em `bb0ae37`. Prompt Ultra Mestre e Protocolo aplicados. Fontes aprovadas e alterações preexistentes preservadas.
 
 ## Cinco gates obrigatórios
 
@@ -46,15 +46,15 @@ tags: [livro-1, capitulo-07, auditoria]
 - **P0: 0 identificados; 0 restantes.**
 - **P1: 2 identificados; 2 corrigidos; 0 restantes.** (1) Sangue no tórax tinha origem externa insuficientemente estabelecida após impacto: explicitada penetração das unhas junto ao esmagamento. (2) Ferimento no braço de Maya aparecia sem golpe anterior: inserido rasgo de manga por unha quando pata ganha nitidez. Sua atuação posterior permanece possível, sem ferimento incapacitante declarado.
 - **P2 corrigido:** retirada da criatura explicitada atravessando rua e perdendo-se entre carros, permitindo Maya ajoelhar-se sem abandonar ameaça ainda sobre Caio.
-- **P2 de gosto, não bloqueador:** grau de detalhe da sequência folha/mandíbula/alavanca. Mantido por tornar verificável o gate empírico; não ampliar coreografia ou formular regra em diálogo.
+- **P2 de gosto, não bloqueador:** grau de detalhe da sequência folha/mandíbula/alavanca. Calibragem aceita pelo autor como preferência editorial não bloqueadora; nenhuma nova revisão realizada por esse motivo.
 
 ## Geografia e objetos para continuidade
 
 Rampa recuada sob poste, portão com folha de pedestres e muro lateral; ponto acessível pela calçada, entrada de garagem intermediária. Caio foge cerca de trinta passadas, larga mochila na volta junto à garagem e chega ao recuo pelo muro. Pequena porta inicialmente trancada tem fecho rompido por impacto. Dobra e barras tortas persistem. Caio acaba junto à quina do portão, Maya ao seu lado; ameaça afasta-se pela rua. Não se define cidade, número de imóvel ou planta integral. Nenhum terceiro convenientemente resolve o confronto.
 
-## Fatos propostos — NÃO CANONIZADOS
+## Fatos concretizados aprovados — promovidos ao Log de Continuidade
 
-| Campo | Concretização provisória |
+| Campo | Fato concretizado aprovado |
 |---|---|
 | Tempo | Continuação imediata do final do 6, mesma noite. Ação e deterioração breves, sem cronometragem clínica ou horário fixado. |
 | Fuga/retorno | Caio corre até cerca de trinta passadas, com ponto acessível; só depois constata Maya retida. Volta deliberadamente e larga mochila junto à garagem intermediária. |
@@ -72,6 +72,6 @@ Rampa recuada sob poste, portão com folha de pedestres e muro lateral; ponto ac
 
 ## Gate pós-escrita — PASSA
 
-Cinco gates obrigatórios e auditoria A–N concluídos; P0/P1 restantes zero. Manuscrito PROVISÓRIO, fatos apenas propostos. Capítulos 1–6 e cânone preservados. Capítulo 8 não iniciado.
+Cinco gates obrigatórios e auditoria A–N concluídos; P0/P1 restantes zero. Manuscrito CANON; fatos concretizados promovidos ao Log após aprovação humana, sem alteração narrativa. Capítulos 1–6 e cânone preservados. Capítulo 8 não iniciado.
 
-**AGUARDANDO APROVAÇÃO DO CAPÍTULO.**
+**CAPÍTULO 7 v1.1 APROVADO E FECHADO — 26/09/2026.** Capítulo 8 não iniciado; produção encerrada neste marco.

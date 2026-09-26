@@ -832,3 +832,11 @@ Primeira consolidação do Vault.
 - Fatos concretizados promovidos ao [[Livro 1 - Log de Continuidade]]: rotina familiar/escolar/profissional, atrito preservado, convivência de Caio e Maya, percurso alterado, ameaça responsiva, posições finais e manifestação visual do arco.
 - A manifestação segue o Outline canônico e não constitui exceção. Caio ignora mecanismo e origem da arma, investigação e ordem operacional. Combate decisivo, descoberta empírica, retorno e morte permanecem fora deste capítulo.
 - Estado do Projeto: **CAPÍTULOS 1–6 FECHADOS; CAPÍTULO 7 NÃO INICIADO**. Produção encerrada neste marco por instrução expressa do autor.
+
+
+## 26/09/2026 — Fechamento do Capítulo 7 — Você ficou v1.1
+- Aprovação humana explícita; manuscrito promovido a **CANON**, sem alteração do corpo narrativo aprovado no commit e1596b4 (1.674 palavras).
+- Auditoria A–N e cinco gates especiais encerrados: P0 = 0 e P1 = 0. Calibragem do detalhamento mecânico do portão aceita como preferência editorial não bloqueadora, sem nova revisão.
+- Fatos concretizados promovidos ao [[Livro 1 - Log de Continuidade]]: fuga, retorno, combate, portão danificado, ferimentos, retirada da criatura, tentativa de socorro e morte.
+- Proteções explícitas: Caio teve saída real, correu antes de escolher retornar e voltou porque Maya permaneceu. Contato variável descoberto apenas por experiência; contribuição mundana limitada. Maya continua a combatente. Caio morreu humano, sem manifestação de poder ou experiência pós-morte narrada.
+- Estado do Projeto: **CAPÍTULOS 1–7 FECHADOS; CAPÍTULO 8 NÃO INICIADO**. Produção encerrada neste marco por instrução expressa do autor.
