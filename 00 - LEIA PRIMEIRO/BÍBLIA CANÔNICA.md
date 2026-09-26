@@ -8,10 +8,10 @@ tags:
   - hdma/biblia
 status: CANON
 projeto: O Herdeiro da Morte
-versao: 1.2
+versao: 1.3
 ---
 
-# Bíblia Canônica v1.2
+# Bíblia Canônica v1.3
 
 ## Premissa
 Um humano aparentemente escolhido por [[Seshat]] morre, encontra [[Morte]], retorna ao mesmo mundo e entra na sociedade oculta dos [[Sucessao|Sucessores]]. Sua Relíquia é um livro negro aparentemente ligado à escrita. A verdade: ele é o [[Protagonista|Herdeiro da Morte]], preparado para tornar possível o fim de seres que nunca puderam morrer.
@@ -23,7 +23,7 @@ A saga explora mortalidade, responsabilidade, poder, justiça e o perigo de tran
 [[Morte]] e [[Eternidade]] surgem praticamente junto da criação e dos primeiros deuses. Morte governa o que possui Fim; Eternidade governa a continuidade daquilo que nasceu sem um Fim. **Divino** é uma categoria metafísica exclusiva dos deuses. Os deuses existem desde o princípio conhecido da criação; sua origem/nascimento permanece um mistério. Todo deus possui, em sua própria essência, uma [[Autoridade]] e uma fração da [[Eternidade]], sendo portanto Eterno. Autoridade não é atribuída ao deus por uma fonte externa: ela é parte constitutiva de sua essência.
 
 ## Sistema
-Um deus possui em sua essência uma [[Autoridade]] e uma fração da Eternidade, além de poder manter um Sucessor ativo. A concessão produz [[Marca]] e [[Reliquias-Eco|Relíquia-Eco]]. Quando um Sucessor morre normalmente, a Autoridade retorna ao deus. Mortes causadas pelo Herdeiro podem ser interceptadas pelo [[Livro dos Fins]].
+Um deus possui em sua essência uma [[Autoridade]] e uma fração da Eternidade, além de poder manter um Sucessor ativo. A concessão produz [[Marca]] e [[Reliquias-Eco|Relíquia-Eco]]. Quando um Successor morre normalmente, sua **Expressão Sucessória retorna à Fonte**. Em uma morte causalmente válida para o Herdeiro, o [[Livro dos Fins]] pode interceptar essa Expressão e convertê-la em **Registro**. O deus permanece Fonte de sua Autoridade e continua capaz de manifestá-la, mas, enquanto o Registro permanecer retido no Herdeiro/Livro, não consegue estabelecer uma nova Sucessão dessa Autoridade. Uma tentativa futura de escolher outro Successor pode demonstrar essa impossibilidade em cena.
 
 A [[Sucessao]] concede a expressão da Autoridade a um humano, mas não transfere a fração de Eternidade nem torna o humano divino.
 
@@ -36,7 +36,7 @@ A Marca visível do protagonista é uma [[Sobreposicao]] real da estrutura da Ma
 Uma leitura comum da Marca identifica corretamente a assinatura sobreposta de Seshat. Uma leitura profunda encontra incompatibilidade espiritual, mas a [[Cicatriz da Alma]] preexistente confunde a interpretação e impede que o exame simplesmente revele “duas Marcas”.
 
 ## Origem do Herdeiro
-O protagonista nasceu humano comum. Morreu quando criança, atravessou o domínio da Morte e retornou. Isso deixou uma [[Cicatriz da Alma]] capaz de suportar múltiplas Autoridades, mas não protege sua mente das naturezas divinas. Morte o observa desde então e manipula circunstâncias que culminam no [[Assassinato da Familia]].
+O protagonista nasceu humano comum. Morreu quando criança, atravessou o domínio da Morte e retornou. Isso deixou uma [[Cicatriz da Alma]] capaz de suportar múltiplas Autoridades, mas não protege sua mente das naturezas divinas. Morte o observa desde então e influencia informações e circunstâncias ao redor da anomalia. A investigação pertence à Elite de Ares; a violência contra Marcelo decorre da escolha do agente que escala a operação.
 
 ## História antiga
 A [[Primeira Guerra]] faz de humanos proxies de conflitos divinos. O [[Diluvio]] integra a fase catastrófica final. Depois ocorre a separação dos deuses. Mais tarde, a tentativa de salvar [[Enkidu]] com [[Shamash]] demonstra que uma Autoridade pode aderir a um humano, mas não concede Eternidade. [[Gilgamesh]] aperfeiçoa a primeira Sucessão estável.

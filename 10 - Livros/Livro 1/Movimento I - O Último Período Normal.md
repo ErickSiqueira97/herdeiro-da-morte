@@ -1,0 +1,613 @@
+---
+id: livro1-movimento1-ultimo-periodo-normal
+tipo: arquitetura-livro
+schema_version: 1.1
+aliases: ["Movimento I", "O Último Período Normal"]
+tags: [hdma/livro1, hdma/causalidade]
+moc: "[[MOC - Livros]]"
+status: CANON
+projeto: O Herdeiro da Morte
+versao: 2.0
+---
+
+# Movimento I — O Último Período Normal
+
+## Função
+Ocupa aproximadamente 15–20% do Livro 1. Apresenta a vida que [[Caio Valença]] perderá enquanto uma investigação invisível se fecha ao redor dele.
+
+Para Caio, este movimento é sobre a vida. Para [[Maya Ferraz]], é uma investigação. Para o leitor, as duas coisas começam gradualmente a se misturar.
+
+O movimento termina com Caio escolhendo não abandonar alguém e morrendo por causa dessa decisão. O encontro com [[Morte]] abre o Movimento II.
+
+## Diretriz literária definitiva
+
+A função profunda deste movimento não é apenas apresentar a normalidade de Caio, mas fazer o leitor **desejar que aquela vida continue antes de destruí-la**.
+
+O Movimento I já deve funcionar como uma história completa, e não como espera pela “história verdadeira”. A fantasia entra por experiência antes de terminologia: até Maya revelar abertamente o impossível, Caio e o leitor não recebem explicações técnicas capazes de resolver o que estão vendo.
+
+Curva emocional pretendida:
+
+**Pertencimento → Curiosidade → Diversão → Estranheza → Suspeita → Intimidade nascente → Perigo → Revelação impossível → Fuga → Escolha → Morte.**
+
+## Abertura e primeira impressão de Caio
+
+O livro abre na vida dos Valença, por meio de um problema humano pequeno e concreto, e não por profecia, combate sobrenatural ou exposição cosmológica.
+
+A primeira sequência deve mostrar simultaneamente:
+- a casa como lugar vivido;
+- a dinâmica imperfeita e afetuosa entre Marcelo, Helena, Lívia e Caio;
+- a pressão cotidiana entre trabalho, faculdade, dinheiro e tempo;
+- humor familiar sem sinalização artificial de tragédia;
+- uma manifestação pequena do defeito/virtude central de Caio.
+
+Antes de qualquer ato heroico, Caio deve **abrir mão de alguma conveniência própria para não deixar outra pessoa na mão**. A consequência é pequena — atraso, perda de tempo, problema no trabalho/faculdade ou equivalente —, mas planta sem explicação o padrão que mais tarde o fará voltar por Maya.
+
+A característica nunca deve ser anunciada ao leitor como virtude. Primeiro ela é hábito.
+
+## A família antes da perda
+
+### Marcelo
+Marcelo precisa existir como pai antes de existir como morto. O Movimento I terá pelo menos duas interações familiares relevantes com ele que não funcionem como presságio.
+
+Uma delas pode ser leve. Outra deve conter um conflito cotidiano ainda não totalmente resolvido. O eixo recomendado é Marcelo perceber que Caio tenta carregar problemas demais e Caio interpretar a preocupação como falta de confiança em sua capacidade.
+
+Evitar despedidas perfeitas, confissões convenientes ou falas que soem como “últimas palavras”. A morte posterior deve interromper uma relação viva e imperfeita.
+
+Uma formulação temática possível, sem obrigação de literalidade:
+
+> Você não precisa resolver tudo para todo mundo.
+
+Na primeira leitura é conselho de pai. Ao longo da saga pode adquirir significados progressivamente mais graves.
+
+### Helena
+Helena deve demonstrar sua capacidade de perceber padrões humanos antes que essa característica tenha importância sobrenatural. Ela pode perceber o interesse de Caio por Maya antes que ele admita isso.
+
+Isso prepara organicamente a mulher que, no futuro, também preservará lembranças da infância que Caio não compreende.
+
+### Lívia
+Lívia terá pelo menos uma memória deliberadamente “inútil” para a trama: provocação, brincadeira, invasão do espaço do irmão, mensagem, comida roubada ou equivalente.
+
+O apelido **Cacá** deve existir em contexto banal e afetivo. Caio pode reclamar dele. Isso prepara o futuro retorno do apelido sem transformar a cena inicial em foreshadowing ostensivo.
+
+## Trabalho e faculdade
+
+Casa, trabalho e faculdade não servem apenas para provar que Caio é normal.
+
+O trabalho deve revelar sua persistência: diante de um problema, Caio tende a continuar até compreender ou resolver, mesmo quando seria mais conveniente repassá-lo ou desistir. Humor e frustração cotidiana podem nascer disso.
+
+A faculdade representa futuro concreto, não decoração de personagem. Caio deve possuir obrigações, pequenas relações e planos que continuarão existindo depois que sua vida sobrenatural começar.
+
+A progressão temática é invisível nesta fase:
+
+**não larga um problema → não larga uma pessoa → não larga uma investigação → não larga uma vingança → não aceita um Fim.**
+
+## Entrada de Maya
+
+Maya não aparece imediatamente. O leitor primeiro conhece uma vida que já existia antes dela.
+
+Sua aproximação ocorre por situação universitária real compatível com Jornalismo/fotojornalismo/documentário e Ciência da Computação. Maya constrói a oportunidade de contato, mas a situação deve parecer suficientemente banal para que Caio possa acreditar que entrou nela por acaso.
+
+Evitar a entrada convencional de “garota misteriosa” seguida de fascínio instantâneo. Caio pode considerá-la curiosa demais, invasiva ou estranhamente observadora antes de gostar de sua companhia.
+
+A química nasce de curiosidade, provocação e diversão.
+
+## Dupla leitura de Maya
+
+As cenas de Maya no Movimento I devem funcionar de duas maneiras.
+
+Na primeira leitura, hábitos dela parecem personalidade ou profissão.
+
+Na releitura, tornam-se sinais de investigação.
+
+Exemplos de princípio, não falas obrigatórias:
+- escolher posição com boa visão de entradas e saídas sob justificativa fotográfica;
+- fotografar algo aparentemente banal que também registra uma ocorrência;
+- perguntar casualmente por trajetos e horários;
+- perceber detalhes que Caio não se lembra de ter contado;
+- observar ambientes enquanto mantém conversa normal.
+
+As pistas precisam ser justas, mas nunca numerosas a ponto de transformar Caio em ingênuo.
+
+## Progressão do vínculo Caio × Maya
+
+O vínculo possui três estágios no Movimento I:
+
+1. **Curiosidade:** ele a acha estranha; ela o estuda.
+2. **Diversão:** ambos passam a genuinamente gostar da companhia um do outro.
+3. **Escolha:** Maya permanece além do necessário para a missão e Caio também abre espaço real na rotina para ela.
+
+Não existe amor consolidado antes da segunda morte. Existe interesse, confiança parcial e afeto nascente suficiente para tornar a decisão final humana.
+
+Maya deve ter ao menos uma cena funcional sem Caio, mostrando sua vida como investigadora e a diferença entre sua postura profissional e sua postura crescente com ele.
+
+## Escada sobrenatural
+
+Antes do Rasga-Véu, a presença do sobrenatural cresce em três degraus.
+
+### Degrau 1 — pode não ter acontecido
+Animal reagindo ao vazio, reflexo, sensação periférica, ruído ou presença que desaparece quando observada. Nenhuma terminologia explica o episódio.
+
+### Degrau 2 — alguma coisa aconteceu
+Caio e outra pessoa percebem versões incompatíveis de um mesmo evento, ou um registro de câmera não corresponde à memória perceptiva de Caio. Maya observa a discrepância.
+
+### Degrau 3 — existe algo errado
+Caio percebe conscientemente fenômeno de baixa Aderência que um humano comum não deveria perceber. Maya confirma para si mesma que o fato ocorreu.
+
+Ela deveria registrar percepção sobrenatural espontânea como confirmada, mas escolhe classificá-la de maneira cautelosa/inconclusiva.
+
+## O primeiro grande segredo de Maya para o leitor
+
+A omissão deve ser dramatizada, não apenas relatada.
+
+Em cena curta, Maya registra ou transmite seu relatório sobre **CAIO VALENÇA**. Diante da questão equivalente a “percepção espontânea confirmada?”, ela deliberadamente registra resultado inconclusivo.
+
+Essa cena pode ser a primeira confirmação inequívoca ao leitor de que sua aproximação de Caio fazia parte de uma investigação.
+
+A motivação permanece a já estabelecida: não romance consolidado, mas receio de provocar resposta desproporcional antes de compreender o caso.
+
+## Presságio do Rasga-Véu
+
+O Rasga-Véu deixa sinais antes de ser visto de forma suficiente para identificação: comportamento animal, vestígio físico, padrão de deslocamento ou outra consequência concreta.
+
+Maya percebe progressivamente que ele não está simplesmente “caçando Caio”. Existe uma reação anômala ao estado espiritual dele.
+
+O Rasga-Véu não sabe conscientemente o que Caio é.
+
+## Primeiro erro de Ares
+
+Maya comunica risco crescente. Ares prefere observar a interação por mais tempo porque ela pode esclarecer a natureza da anomalia.
+
+A decisão é racional do ponto de vista investigativo e moralmente perigosa.
+
+Ares não quer Caio morto, mas sua escolha de privilegiar informação antes de intervenção integra a cadeia que permite a situação fatal. Isso estabelece responsabilidade sem transformá-lo em vilão simplista.
+
+## A noite da segunda morte
+
+A sequência fatal começa em aparente normalidade, preferencialmente após um momento em que Caio e Maya tenham genuinamente se divertido ou se aproximado.
+
+A transição para o perigo é marcada primeiro pela mudança de Maya. A personagem habitualmente segura/provocativa deixa de brincar e manda Caio ir embora.
+
+Maya revela o impossível por ação antes de explicação. Caio vê a Marca, Relíquia-Eco ou manifestação de Perseguição em funcionamento sem receber aula sobre Successores, Authorities, Véu ou Aderência.
+
+## A fuga
+
+Maya manda Caio correr.
+
+**Caio obedece.**
+
+Ele está assustado e realmente tenta sobreviver. A coragem só existe porque fugir era uma possibilidade desejada e concreta.
+
+Durante a fuga, ele percebe que Maya permaneceu em perigo. Ele para, olha para trás e decide voltar.
+
+Não há declaração heroica.
+
+## A escolha fatal e Aderência em ação
+
+Caio continua humano e não enfrenta o Rasga-Véu em igualdade.
+
+Ele observa empiricamente algo que Maya já explorava: para atacar fisicamente, a criatura precisa tornar-se suficientemente aderente ao mundo e, nesse instante, pode ser afetada.
+
+Caio não conhece o termo **Aderência**. Ele apenas compreende uma regra prática equivalente a:
+
+> quando ela ataca, dá para acertar.
+
+Usando ambiente, timing e ação mundana, Caio desvia a atenção ou força uma abertura que permite a Maya sobreviver/reagir.
+
+Preservar a essência:
+
+> — Eu mandei você correr!
+>
+> — **Você ficou.**
+
+O gesto funciona. Caio não morre inutilmente.
+
+## A morte
+
+O Rasga-Véu causa trauma físico fatal, preferencialmente torácico conforme já estabelecido.
+
+A morte deve ser rápida. Evitar monólogo final, retrospectiva de vida ou declaração amorosa.
+
+Maya consegue chegar até ele. Caio pode tentar confirmar apenas se sua ação funcionou; a formulação exata fica para a prosa.
+
+Ele morre ainda humano, depois de escolher retornar por outra pessoa.
+
+O Movimento I termina na morte.
+
+**“— Demorou.” pertence à abertura do Movimento II.**
+
+
+## Gatilho da investigação
+A [[Cicatriz da Alma]] existe desde a infância e permaneceu quase silenciosa por anos. Antes da segunda morte, pequenas ocorrências revelam um padrão objetivo: fenômenos/criaturas próximos de Caio apresentam alterações de comportamento ou Aderência.
+
+Caio não cria criaturas, não possui poder desperto e não controla o Véu. A leitura inicial é que existe um humano sem Marca associado repetidamente a anomalias metafísicas.
+
+A interpretação profunda, reservada para recontextualização posterior, é que o sobrenatural reage de maneira anômala a uma alma que já alcançou um Fim e retornou.
+
+## O que Ares sabe
+[[Ares]] não conhece a Morte infantil, Cicatriz da Alma, futuro Herdeiro, falsa Seshat, Sobreposição ou Livro.
+
+Ele sabe apenas que:
+- ocorrências repetidas apontam para o mesmo jovem;
+- Caio aparenta ser humano comum;
+- Caio não apresenta Marca conhecida;
+- algo no entorno sobrenatural reage de modo incompatível com o esperado.
+
+A resposta inicial de Ares não é execução.
+
+> **Descubram o que ele é.**
+
+## Por que Maya
+Maya recebe a investigação porque [[Perseguição]] é adequada para localizar, acompanhar, estabelecer padrões e reconstruir trajetos sem exigir confronto direto.
+
+A missão inicial é observar, identificar contatos, procurar origem sobrenatural e determinar risco. Não é uma ordem de morte.
+
+Ares também considera Maya capaz de seguir um alvo sem tratá-lo imediatamente como inimigo. A ironia é que essa mesma qualidade permitirá que ela proteja Caio posteriormente.
+
+## Aproximação
+Maya investiga primeiro à distância e aprende a rotina de Caio. Depois cria deliberadamente uma oportunidade de aproximação ligada ao ambiente universitário, preferencialmente através de atividade real compatível com Jornalismo/fotojornalismo/documentário e Ciência da Computação.
+
+Maya não inventa uma personalidade ou identidade. Ela mente sobre **por que se aproximou**, não sobre **quem é**.
+
+O primeiro contato deve ser cotidiano, sem ataque, profecia ou demonstração aberta de poder.
+
+## Vida civil
+Três núcleos devem permanecer recorrentes:
+- **casa:** pertencimento;
+- **faculdade:** futuro;
+- **trabalho:** presente/necessidade.
+
+A rotina inclui sonhos concretos de Caio, como melhorar profissionalmente, conquistar independência e ajudar a família.
+
+[[Marcelo Valença]], [[Helena Valença]] e [[Lívia Valença]] devem existir em cenas genuinamente comuns antes da tragédia. A função não é sinalizar que morrerão/desaparecerão, mas permitir que o leitor conheça uma família viva.
+
+## Primeiros sinais do Véu
+Os sinais são graduais e ambíguos:
+1. percepção periférica de algo que desaparece quando Caio tenta observar diretamente;
+2. animal reagindo a espaço aparentemente vazio enquanto Caio também sente que existe algo ali;
+3. pequena ocorrência em que a lembrança perceptiva de Caio não corresponde perfeitamente ao registro de câmera.
+
+Caio não cresce vendo monstros claramente.
+
+## Descoberta de Maya
+Perseguição funciona normalmente sobre Caio. O rastro humano dele não é magicamente ilegível.
+
+A anomalia está nos arredores: criaturas/fenômenos alteram comportamento ou rastros ao cruzarem sua presença. Maya começa a suspeitar que o alvo não esteja produzindo conscientemente o fenômeno — **o mundo sobrenatural está reagindo ao alvo**.
+
+## Primeira omissão de Maya
+Maya presencia evidência de que Caio percebeu conscientemente algo sobrenatural de baixa Aderência sem apresentar Marca ou usar poder.
+
+Ela deveria reportar a percepção sobrenatural espontânea como confirmada, mas registra o episódio de forma mais cautelosa/inconclusiva.
+
+A motivação ainda não é amor. Maya acredita que uma conclusão prematura pode provocar resposta desproporcional antes que ela compreenda o caso.
+
+Essa pequena escolha altera a informação recebida por Ares e prolonga a investigação.
+
+## Vínculo entre Maya e Caio
+Maya começa a gostar da companhia de Caio antes de existir amor. O sinal dramático é simples: ela passa a permanecer com ele além do tempo necessário para a missão.
+
+Caio, por sua vez, não deve ser passivamente enganado por semanas. Ele percebe inconsistências: Maya sabe detalhes que ele não lembra de contar, aparece em lugares convenientes, observa ambientes e demonstra hábitos incomuns. A suspeita pode ser tratada inicialmente como brincadeira/flerte.
+
+A relação pré-morte deve permanecer no estágio de interesse, curiosidade e afeto nascente. O romance profundo pertence ao desenvolvimento posterior.
+
+## Escalada
+Uma criatura/fenômeno que vinha reagindo à presença de Caio passa a acompanhá-lo mais de perto.
+
+Ares prefere observação antes de intervenção porque quer compreender a relação entre a anomalia e Caio. Isso é moralmente cinzento, mas não equivale a uma ordem para matá-lo.
+
+A situação degrada antes que Maya consiga encerrá-la e coloca uma terceira pessoa em perigo.
+
+## Escolha fatal
+Caio possui oportunidade real de fugir. Maya manda que ele fuja.
+
+Ele começa a fazê-lo.
+
+Então percebe que alguém ficou para trás.
+
+Caio volta.
+
+A segunda morte nasce diretamente de sua característica central:
+
+> **Caio não abandona pessoas.**
+
+Ele não morre por profecia, destino, acidente conveniente ou porque precisava encontrar a Morte. Morre porque escolhe retornar para ajudar alguém.
+
+Caio ainda é humano comum e não enfrenta a ameaça como herói sobrenatural. Sua ação permite salvar ou criar uma chance real de sobrevivência para a outra pessoa, mas ele sofre uma condição fatal.
+
+Maya chega tarde demais para impedir a morte.
+
+Para Maya, a investigação terminou em fracasso e culpa.
+
+Para Caio, a história verdadeira começa.
+
+## Encerramento
+O Movimento I termina com a morte de Caio. O encontro com Morte não deve ser anexado à mesma unidade emocional.
+
+O Movimento II pode abrir com:
+
+> **— Demorou.**
+
+## Cadeia causal
+Cicatriz da Alma
+→ sobrenatural reage anormalmente a Caio
+→ ocorrências repetidas formam padrão
+→ Ares detecta o padrão
+→ Maya é enviada
+→ Maya entra deliberadamente na vida de Caio
+→ Caio apresenta pequenas percepções do Véu
+→ Maya confirma uma anomalia
+→ suaviza uma informação no relatório
+→ Ares trabalha com informação incompleta
+→ investigação permanece aberta
+→ fenômeno/criatura se aproxima mais
+→ Ares prefere observar antes de intervir
+→ terceiro fica em perigo
+→ Caio tem chance de fugir
+→ Caio decide voltar
+→ ajuda/salva o terceiro
+→ Caio morre.
+
+A segunda morte resulta da combinação de **Cicatriz + decisão de Ares + omissão de Maya + natureza de Caio**, e não de coincidência estrutural.
+
+## Fechamentos posteriores incorporados
+A ameaça fatal é o **Rasga-Véu**; a pessoa por quem Caio retorna é **Maya**. A criatura precisa elevar Aderência para atacar materialmente, e Caio explora essa janela de forma empírica antes de sofrer trauma fatal. Esses elementos deixam de permanecer em aberto.
+
+
+## Ponte canônica — segunda morte, invasão e chegada ao Santuário
+
+A criatura/fenômeno responsável pelo fim do Movimento I causa a **segunda morte de Caio**. A morte de [[Marcelo Valença]] ocorre depois e possui causa distinta: ele é morto deliberadamente por um Successor ligado à Elite de [[Ares]] durante a operação posterior ao retorno de Caio.
+
+### Movimento II — retorno
+Após morrer ao voltar para ajudar alguém, Caio encontra [[Morte]], recebe a falsa explicação de sucessão de Seshat, a Sobreposição/Marca e o Livro, e retorna.
+
+[[Maya Ferraz]] reencontra Caio vivo depois de tê-lo visto morto ou confirmado sua morte. A anomalia muda de natureza: o humano aparentemente sem Marca agora retornou da morte apresentando uma assinatura que, superficialmente, corresponde a Seshat.
+
+A magnitude da mudança torna impossível para Maya simplesmente manter o caso oculto. Ares é informado.
+
+### Escalada de Ares
+A sequência conhecida por Ares passa a ser:
+
+> humano anômalo sem Marca → morte → retorno → aparente Marca de Seshat.
+
+A investigação deixa de ser mera observação. Ares ordena que Caio seja recolhido/localizado para identificação, contenção se necessária e esclarecimento do ocorrido.
+
+**A ordem original não é exterminar Caio nem sua família.**
+
+### Operação na casa dos Valença
+Caio retorna para casa ainda sem compreender adequadamente Sucessão, Santuário, Ares ou a dimensão do que ocorreu.
+
+A Elite chega até os Valença para obter Caio.
+
+Marcelo interpreta a situação pelo que consegue observar: pessoas perigosas invadiram/ameaçam sua casa e pretendem levar seu filho. Ele reage e protege Caio.
+
+Marcelo consegue oferecer resistência real e pode atingir o Successor, apesar da disparidade sobrenatural.
+
+O Successor responsável pela escalada possui oportunidade de não matar Marcelo e **escolhe usar força letal**. A morte não é acidente, golpe perdido ou simples consequência de Marcelo entrar na frente.
+
+Assim, as responsabilidades permanecem distintas:
+- Ares ordena uma operação perigosa;
+- o Successor escolhe escalá-la para força letal;
+- Marcelo escolhe defender o filho;
+- Maya participa da cadeia que levou a Elite até Caio;
+- Caio passa a carregar a culpa subjetiva de ter trazido aquilo para casa.
+
+### Paralelo pai–filho
+As mortes de Caio e Marcelo espelham o mesmo valor por ameaças diferentes.
+
+Caio morre porque volta para alguém que ficou em perigo.
+
+Marcelo morre porque permanece entre o perigo e o próprio filho.
+
+O paralelo reforça que **não abandonar pessoas** não é apenas uma característica declarada de Caio, mas um valor vivido dentro de sua família.
+
+### Ruptura de Maya
+A morte deliberada de Marcelo é o ponto em que Maya considera que a operação ultrapassou o que estava disposta a cumprir.
+
+Ela rompe com a execução prática da missão e cria a oportunidade para Caio escapar. Caio não derrota sozinho Successores experientes imediatamente após despertar.
+
+A ruptura de Maya progride organicamente:
+1. observa Caio;
+2. suaviza informação no relatório;
+3. tenta impedir que a investigação o destrua;
+4. após a escalada letal, escolhe permitir/provocar sua fuga.
+
+A decisão não exige amor consolidado; nasce de consciência, vínculo crescente e rejeição à escalada.
+
+### Helena e Lívia
+[[Helena Valença]] e [[Lívia Valença]] escapam do núcleo imediato do confronto, mas são posteriormente interceptadas pela facção de Ares. Caio não recebe confirmação de suas mortes e, emocionalmente, passa a lidar com o desaparecimento como perda potencial.
+
+### Ponte para o Santuário
+Maya é a causa direta da rota de fuga que leva Caio ao [[Santuário]].
+
+Ela não precisa explicar todo o mundo sobrenatural no local do confronto. Pode fornecer endereço, rota, contato ou outro meio concreto de chegar à instituição; a forma operacional exata permanece aberta.
+
+Maya conhece o Santuário como instituição relevante do mundo dos Successores e sabe que seu princípio de autonomia — **“O Legado pertence ao deus. A escolha pertence ao homem.”** — oferece a Caio uma proteção institucional que dificulta que Ares simplesmente o recolha sem consequências políticas e sobrenaturais maiores.
+
+Caio chega ao Santuário sem confiar plenamente em Maya.
+
+### Leitura da Marca no Santuário
+Caio acredita ser Successor de Seshat porque essa foi a explicação dada pela Morte.
+
+A leitura superficial confirma a assinatura de Seshat. A leitura profunda encontra arquitetura espiritual incompatível/indeterminada, conforme a regra já estabelecida de A07.
+
+A explicação institucional inicialmente mais plausível associa a anomalia ao fato de Caio ter morrido e retornado. O teste não falha: a causa é interpretada incorretamente.
+
+### Consequência estrutural
+A entrada de Caio no Santuário não acontece por coincidência nem porque a instituição funciona como uma escola obrigatória do gênero.
+
+Ela é consequência direta de:
+Ares escalar a investigação → Elite ir à casa → Marcelo resistir → Successor matar Marcelo → Maya romper com a operação → Caio fugir → Maya direcioná-lo ao Santuário.
+
+Isso conecta organicamente os Movimentos II e III ao início da vida sobrenatural institucional de Caio.
+
+
+## A promessa de Maya — CANON
+
+A fuga de Caio durante a operação na casa dos Valença só é coerente com sua personalidade se ele acreditar que [[Helena Valença]] e [[Lívia Valença]] não estão sendo abandonadas.
+
+Depois da morte de Marcelo, Caio se recusa a fugir enquanto mãe e irmã permanecem em risco. Maya explica que a presença de Caio mantém o foco da operação sobre a família: a Elite veio por ele. Afastá-lo é também uma forma de afastar parte do perigo.
+
+Caio ainda se recusa a partir sem Helena e Lívia. Maya então assume pessoalmente a responsabilidade de retirá-las do confronto e permanecer com elas até estarem seguras.
+
+O núcleo dramático da conversa deve preservar:
+
+> — Eu não vou deixar elas aqui.
+>
+> — Eles vieram por você, Caio.
+>
+> — Meu pai acabou de morrer por minha causa.
+>
+> — E se você ficar, sua mãe e sua irmã podem ser as próximas.
+>
+> — Então elas vêm comigo.
+>
+> — Não dá. Não por essa saída.
+>
+> — Então eu não vou.
+>
+> [...]
+>
+> — Eu tiro as duas daqui.
+>
+> — Você não pode garantir isso.
+>
+> — Posso garantir que vou ficar com elas até estarem seguras.
+>
+> — Por quê?
+>
+> — Porque você voltou por mim.
+>
+> [...]
+>
+> — Agora deixa eu voltar por você.
+>
+> [...]
+>
+> — Promete?
+>
+> — **Prometo.**
+
+A redação final poderá mudar durante a escrita, mas a **promessa e sua função causal são canônicas**.
+
+### Cumprimento parcial e ruptura
+Maya efetivamente consegue retirar Helena e Lívia do núcleo imediato da invasão. Portanto, ela não faz uma promessa vazia nem simplesmente abandona as duas durante a fuga.
+
+A interceptação ocorre **depois** da retirada da casa.
+
+Maya perde o acesso/rastro das duas por uma causa sobrenatural ou operacional legítima ainda a ser definida. [[Perseguição]] não pode simplesmente falhar por conveniência narrativa; o mecanismo responsável por romper, mascarar ou tornar o rastro inacessível permanece EM ABERTO e deverá respeitar os limites da Autoridade.
+
+Do ponto de vista de Caio, a distinção importa pouco: ele só deixou a família porque confiou na promessa de Maya.
+
+Quando descobre que Helena e Lívia desapareceram, a ferida entre os dois deve preservar a essência:
+
+> — Cadê elas?
+>
+> [...]
+>
+> — Elas saíram da casa.
+>
+> — Cadê elas?
+>
+> — Eu perdi o rastro.
+>
+> [...]
+>
+> — **Você prometeu.**
+
+### Espelho da segunda morte
+A promessa cria um espelho direto com a segunda morte de Caio.
+
+No primeiro incidente, Caio volta porque Maya ficou em perigo:
+
+> — Eu mandei você correr!
+>
+> — **Você ficou.**
+
+Na invasão, Maya assume a posição de quem permanece para que Caio consiga partir:
+
+> — Minha mãe e minha irmã ficaram.
+>
+> — **Eu fico com elas.**
+
+Assim, Caio não abandona incoerentemente a própria família. Ele aceita partir porque Maya transforma a fuga em uma divisão de responsabilidades: ele afasta de si o foco da Elite e ela assume Helena e Lívia.
+
+### Consequências para Maya
+O desaparecimento de Helena e Lívia torna-se também parte do arco pessoal de Maya. Encontrá-las deixa de ser apenas uma obrigação ligada a Caio e passa a ser uma promessa quebrada.
+
+Isso conversa diretamente com sua contradição central: Maya não sabe abandonar aquilo que decidiu que importa.
+
+A progressão temática deve preservar a diferença entre **não abandonar** e **não aceitar o irreversível**. A virtude de Caio pode se deformar ao longo da trilogia até ele confundir aceitar uma perda com abandonar uma pessoa.
+
+
+## Segunda morte de Caio — CANON
+
+A criatura responsável pela segunda morte de [[Caio Valença]] é o [[Rasga-Véu]].
+
+O Rasga-Véu não se aproxima originalmente para devorar Caio. Ele percebe uma incongruência na existência do jovem: Caio está vivo, mas sua alma carrega a consequência metafísica de já ter alcançado um Fim verdadeiro na infância. A criatura não compreende a Morte, a Cicatriz da Alma ou o significado cosmológico disso; reage instintivamente a uma presença impossível de classificar.
+
+Maya interpreta inicialmente a aproximação como caça.
+
+Quando [[Maya Ferraz]] interfere diretamente, sua Marca e Autoridade constituem uma presença sobrenatural muito mais legível para a criatura. O confronto escala e Maya fica em perigo.
+
+Maya manda Caio correr. Ele obedece inicialmente, olha para trás, percebe que ela ficou em risco e retorna. A essência do diálogo deve preservar:
+
+> — Eu mandei você correr!
+>
+> — **Você ficou.**
+
+Caio não desperta poder nem derrota a criatura. Usa o ambiente de maneira mundana para chamar sua atenção e criar uma oportunidade para Maya. Para atacar fisicamente, o Rasga-Véu aumenta sua Aderência e se torna tocável, demonstrando pela primeira vez em ação a regra: **para tocar o mundo, precisa aceitar ser tocado por ele**.
+
+Caio consegue alterar a trajetória do confronto e permitir a sobrevivência/reação de Maya, mas sofre trauma físico fatal, preferencialmente torácico. Maya afasta a criatura e chega até ele antes da morte.
+
+A redação definitiva permanece para o capítulo, mas a cena deve evitar discurso heroico prolongado. Caio morre ainda humano, tendo escolhido retornar por alguém.
+
+## Encontro com a Morte e falsa Sucessão — CANON
+
+Após a morte, Caio encontra uma mulher que lhe causa sensação inexplicável de familiaridade. Ele não recupera conscientemente a memória da infância.
+
+A primeira fala da Morte é:
+
+> **— Demorou.**
+
+No Livro 1, a frase pode ser entendida como comentário sobre sua chegada à morte/encontro com a suposta deusa. Posteriormente será recontextualizada: Morte o reconhece desde a morte infantil.
+
+Caio confirma que morreu e imediatamente pergunta por Maya e pela família. Ao saber que estão vivos, quer retornar. Sua reação já expressa a incapacidade de aceitar o irreversível.
+
+A Morte apresenta a Succession de forma parcialmente verdadeira: deuses podem escolher humanos para carregar expressão de sua natureza. Ela conduz Caio à crença de que é Seshat sem exigir que a narração minta.
+
+A formulação central deve preservar a ideia:
+
+> **O nome que importa para você é Seshat.**
+
+Morte pode mentir diretamente; a narração não. Sempre que possível, porém, a cena usa verdades incompletas, omissões e formulações de duplo sentido.
+
+A Morte apresenta o Livro como parte da possibilidade de retorno. Caio pergunta por que foi escolhido. A resposta aparente aponta para sua decisão de voltar por Maya; a verdade profunda remonta à morte infantil e à Cicatriz da Alma.
+
+A essência do diálogo inclui:
+
+> — Qual é o preço?
+>
+> — **Continuar.**
+>
+> — Isso não é preço.
+>
+> — **Ainda não.**
+
+Caio recebe escolha real. Se recusar, seu Fim permanece. A Morte não controla sua decisão.
+
+Ele aceita retornar.
+
+A verdadeira Marca da Morte é estabelecida primeiro e não é compreendida por Caio. Em seguida, a Sobreposição reproduz a estrutura da antiga Marca de Seshat. A narração deve descrever apenas a experiência perceptível de Caio e pode usar a formulação conceitual **“alguma coisa foi escrita sobre ele”**, nunca afirmar falsamente que Seshat o marcou.
+
+O Livro aparece negro e inicialmente vazio. A Morte não fornece manual completo sobre sua função.
+
+O encontro deve permitir que o leitor goste/confie parcialmente na suposta Seshat. O afeto da Morte por Caio pode ser genuíno e coexistir com sua instrumentalização dele.
+
+Antes do retorno, a essência do callback pode preservar:
+
+> — Da próxima vez que alguém mandar você correr...
+>
+> — Eu corro.
+>
+> — **Mentiroso.**
+
+As linhas intermediárias permanecem sujeitas à prosa final. São canônicos os fatos, perguntas, omissões, duplos sentidos e callbacks estruturais, não cada formulação provisória.

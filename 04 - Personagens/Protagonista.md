@@ -28,11 +28,11 @@ relacoes:
     tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-versao: 1.0
+versao: 1.1
 ---
 
 # Protagonista
-Nome ainda [[EM ABERTO]]. Humano comum, sem profecia ou linhagem divina.
+**Caio Valença**, 20 anos. Humano comum, sem profecia ou linhagem divina.
 
 ## Verdade
 - Morreu afogado quando criança; o corpo foi reanimado depois de a alma já ter atravessado o Fim, originando a [[Cicatriz da Alma]].
@@ -43,7 +43,11 @@ Nome ainda [[EM ABERTO]]. Humano comum, sem profecia ou linhagem divina.
 - Cada nova Autoridade corrói sua estabilidade.
 
 ## Ferida inicial
-[[Assassinato da Familia]] por um Sucessor que procurava por ele.
+A [[Facção de Ares]] já o procura antes da falsa Sucessão de Seshat. Sua segunda morte ocorre no contexto de uma aproximação romântica usada como operação de investigação: uma agente/Successora se aproxima dele para localizar, compreender e potencialmente recrutar a anomalia. A aproximação começa como missão, mas desenvolve alguma afeição genuína.
+
+Depois de sua morte e retorno com a aparente Marca de Seshat, a operação escala. O [[Assassinato da Familia]] acontece em uma invasão à casa: seu pai, ex-militar e completamente alheio ao mundo mitológico, percebe a invasão e reage para proteger a família. Ele acerta um dos invasores, mas descobre que enfrenta um Successor e é morto diante do protagonista.
+
+A mãe e a irmã conseguem fugir da cena imediata graças ao tempo comprado pelo pai, mas desaparecem. **O protagonista não vê a morte delas e não existem corpos confirmados.** Para ele, permanecem desaparecidas/presumivelmente mortas; na arquitetura real, sobreviveram inicialmente e foram interceptadas pela facção.
 
 ## Arco
 Livro 1: descoberta, vingança específica, fascínio pelo poder.  
@@ -60,3 +64,68 @@ No reencontro consciente com Morte, ela diz: [[Callback - Demorou|“Demorou.”
 O arco do protagonista não deve absorver a existência dos demais personagens. Cada personagem central precisa de história, desejo, conflito, relações e desenvolvimento próprios, capazes de gerar empatia e apego independentemente de sua função no arco do Herdeiro.
 
 Isso é especialmente importante para que perdas, rupturas e oposições futuras tenham peso conquistado em cena, e não apenas função estrutural.
+
+
+## Família — CANON
+- **Pai:** Marcelo Valença, aproximadamente 48 anos, ex-militar. Sua profissão civil atual permanece em aberto. É disciplinado e protetor, mas não deve ser reduzido ao estereótipo de pai severo. Durante a invasão, Caio vê pela primeira vez de forma plena o militar que existia antes da vida familiar.
+- **Mãe:** Helena Valença, aproximadamente 45–47 anos. Atenta às mudanças emocionais dos filhos. Depois do afogamento infantil de Caio, foi quem acompanhou mais de perto seus relatos e os desenhos recorrentes de uma mulher. Posteriormente descartou os desenhos tentando ajudá-lo a superar o trauma.
+- **Irmã:** Lívia Valença, aproximadamente 16–17 anos. Mantém com Caio uma relação íntima, provocadora e cotidiana: invade seu espaço, implica com ele, conhece suas vergonhas e percebe comportamentos que outras pessoas não reconhecem.
+
+### Caio e Lívia
+Lívia é uma das pessoas diante de quem Caio consegue continuar infantil, bobo e desarmado. Ela não o idealiza: conhece sua teimosia, sua tendência a tentar resolver os problemas dos outros e seus sinais particulares de raiva ou desconforto.
+
+Desde pequena, chama o irmão de **“Cacá”**, apelido que ele detesta. Depois do desaparecimento dela, ninguém mais o chama assim. O apelido pode funcionar futuramente como reconhecimento emocional imediato em um reencontro, mas o momento e a forma desse reencontro permanecem em aberto.
+
+
+## Vida civil e formação — CANON
+Antes da tragédia, Caio é estudante de **Ciência da Computação**. Estuda muito e tende a insistir em um problema até compreender sua causa e encontrar uma solução.
+
+Ele não deve ser retratado como gênio infalível ou hacker cinematográfico: é um estudante dedicado, ainda em formação. Sua força está na persistência, na pesquisa e na tendência de decompor problemas complexos em partes menores.
+
+Essa característica antecede o mundo sobrenatural. Quando algo não faz sentido, Caio procura regras, testa hipóteses, compara informações e insiste em entender o mecanismo em vez de aceitar apenas uma conclusão de autoridade.
+
+Narrativamente, isso deve ecoar sua falha central: aquilo que começa como uma qualidade — a convicção de que problemas podem ser compreendidos e solucionados — pode evoluir para a dificuldade de aceitar o irreversível. Ao longo da saga, Caio corre o risco de passar de “descobrir o que está errado” para acreditar que também possui o direito de **corrigir o sistema**.
+
+A programação não concede vantagem sobrenatural nem se converte em poder. Ela informa seu modo de pensar e sua relação posterior com o Livro, as Autoridades e as explicações incompletas do Santuário.
+
+
+## Rotina antes da tragédia — CANON
+Caio trabalha **meio período em um escritório de suporte técnico/telemarketing** enquanto cursa Ciência da Computação à noite. O trabalho ajuda a sustentar suas despesas e lhe dá contato cotidiano com clientes, colegas e resolução de problemas; ele não deve ser caracterizado como um estudante de tecnologia socialmente isolado.
+
+Fora do trabalho e da faculdade, Caio costuma estudar, programar e pesquisar, mas sua vida não gira exclusivamente em torno de produtividade. Em seu tempo livre ele:
+- joga videogames;
+- lê mangás;
+- assiste animes;
+- passa tempo com a família.
+
+Caio pode procrastinar, jogar ou assistir algo quando deveria estudar. O objetivo é preservar uma rotina humana e reconhecível antes do sobrenatural, evitando retratá-lo como uma máquina de estudo.
+
+Seu conhecimento de mangás, animes e jogos pode permitir referências ocasionais e humor diante das primeiras situações sobrenaturais, mas não deve transformar a narrativa em metalinguagem constante nem fornecer conhecimento confiável sobre o funcionamento real do mundo mitológico.
+
+O contraste é estrutural: antes de ser o Herdeiro, Caio é um jovem que trabalha atendendo pessoas, estuda à noite, programa, joga, lê mangás, assiste anime e convive com a família.
+
+
+## Aparência — CANON
+Caio possui aparência deliberadamente comum:
+- aproximadamente **1,80 m**;
+- corpo **magro**;
+- cabelos **escuros e ondulados**;
+- olhos **castanhos**;
+- não se destaca muito visualmente em ambientes comuns.
+
+Ele não deve começar a história com características visuais que anunciem excepcionalidade. A transformação de sua presença ao longo da saga deve vir das experiências, cicatrizes, postura, expressão e efeitos do acúmulo de Autoridades, criando contraste com o jovem comum do início.
+
+
+## Sonhos antes da tragédia — CANON
+Antes de entrar no mundo dos Sucessores, Caio possui objetivos deliberadamente comuns. Ele quer:
+- concluir Ciência da Computação e conseguir um trabalho melhor na área de programação;
+- conquistar independência financeira e ajudar a família;
+- comprar uma **moto**, para a qual pode guardar parte do salário;
+- dar um **upgrade no computador**, desejo que frequentemente compete com a economia para a moto;
+- conhecer **alguém legal com quem possa dividir a vida**.
+
+Caio não começa a saga desejando grandeza, poder ou um destino excepcional. A perda desses projetos cotidianos deve funcionar como contraste com a escala que sua existência assume posteriormente.
+
+O desejo genuíno de viver um relacionamento também torna a aproximação romântica ligada à segunda morte emocionalmente eficaz: ele não cai apenas em uma armadilha, mas acredita que uma parte simples do futuro que desejava talvez esteja finalmente começando.
+
+A experiência pode repercutir posteriormente em sua dificuldade de confiar romanticamente, inclusive na relação com a Sucessora de Iðunn, sem eliminar sua capacidade de voltar a amar.

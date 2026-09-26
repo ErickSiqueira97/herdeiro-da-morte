@@ -19,27 +19,39 @@ relacoes:
     tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-versao: 1.0
+versao: 1.2
 ---
 
 # Estado do Projeto
 
 ## Já consolidado
-Cosmologia-base; regras principais da Sucessão; Marca; Relíquias-Eco; falsa identidade de Seshat; Sobreposição; Livro; Execução; corrupção por Autoridades; Primeira Guerra/Dilúvio; Enkidu/Gilgamesh/Shamash; origem do protagonista; direção macro dos três livros e final da Era dos Eternos.
+P0 cosmológico concluído no núcleo: Sucessão, Autoridade, Marca, Relíquias-Eco, falsa Seshat, Sobreposição, Livro, Execução, Cicatriz da Alma, Eternidade/frações, Primeira Guerra/Dilúvio e núcleo do Primeiro Pacto.
+
+Caio Valença já possui família, vida civil, formação, rotina, aparência e sonhos pré-trama. O Assassinato da Família possui arquitetura causal central. A Elite de Ares possui núcleo canônico de oito Sucessores. Maya Ferraz é o primeiro integrante da Elite desenvolvido em profundidade, incluindo vida anterior, cronologia 18–22, Marca e relação com Ártemis.
+
+A direção macro dos três livros e o fim da Era dos Eternos permanecem estabelecidos.
+
+## Progresso auditado
+A medição operacional fica centralizada em [[PROCESSO]]. Na auditoria de **26/09/2026**:
+- **Planejamento da trilogia: 58% concluído / 42% restante.**
+- **Projeto completo/publicável: 18% concluído / 82% restante.**
+
+Os percentuais medem prontidão estrutural e editorial, não quantidade de notas produzidas.
+
+## Estado editorial
+A macroarquitetura e o outline capítulo por capítulo do Livro 1 estão congelados em CANON. O [[Livro 1 - Outline Definitivo v1]] possui 32 capítulos e passou por auditoria integral, correções e verificação pós-correções. Não há pendência estrutural ativa que impeça a preparação da redação.
+
+**Estado do Livro 1: PRONTO PARA PRODUÇÃO DO CAPÍTULO 1.** O pacote operacional foi criado e auditado: Bíblia de Produção, Regras Invioláveis, Mapa de Revelações e Payoffs, Protocolo de Produção, Prompt Mestre e Auditoria Final. Não há P0/P1 aberto que impeça a redação.
 
 ## Próximos blocos
-1. Formalizar [[Primeiro Pacto]].
-2. Desenvolver [[Guerras dos Sucessores]].
-3. Consolidar fundação e funcionamento de [[Santuario]].
-4. Construir o quarteto.
-5. Atlas mitológico.
-6. Resolver integralmente [[Assassinato da Familia]].
-7. Macroestrutura detalhada dos três livros.
-8. Matriz completa de foreshadowing.
-9. Outline de capítulos.
-10. Prosa.
+1. Iniciar o **Capítulo 1** pelo Protocolo de Produção.
+2. Auditar e revisar o capítulo antes de aprovação humana.
+3. Canonizar apenas os fatos concretizados na prosa aprovada.
+4. Atualizar o log de continuidade.
+5. Só então iniciar o Capítulo 2.
+6. Executar auditoria acumulada após o Capítulo 5.
 
-Ver [[EM ABERTO]].
+Ver [[EM ABERTO]] e [[PROCESSO]].
 
 ## Infraestrutura — v1.1
 O Vault possui agora uma camada estrutural para IA com IDs estáveis, tipos de nota, tags técnicas, MOCs e relações extraídas de WikiLinks. A migração é estrutural e não promoveu nem rebaixou nenhum status canônico. Consultar [[ESQUEMA DE METADADOS v1.1]].
