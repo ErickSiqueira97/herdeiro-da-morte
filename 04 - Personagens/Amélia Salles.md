@@ -16,7 +16,7 @@ relacoes:
 # Amélia Salles
 
 > [!status] CANON
-> Amélia existe como personagem independente antes de sua função na origem dos Hereges. Sua divindade, Autoridade e morte técnica permanecem em aberto.
+> Amélia existe como personagem independente antes de sua função na origem dos Hereges. Sua Sucessão por Eir, Autoridade de Restauro, Relíquia-Eco e núcleo causal da morte estão fechados; detalhes históricos finos permanecem em aberto.
 
 ## Identidade
 - **Nome:** Amélia Salles.
@@ -52,29 +52,90 @@ Os dois não formam um casal idealizado. Dante é metódico e tenta resolver pro
 O medalhão familiar de Amélia, aparentemente de ouro, é entregue a Dante durante o relacionamento/noivado. A peça contém fotografia ligada aos dois e futuramente preservará seu Vestígio.
 
 ## Sucessão
-Amélia torna-se Successora depois de já estar com Dante.
+Amélia torna-se **Successora de [[Eir]]** depois de já estar com Dante.
 
-A divindade ainda **não está fechada**. A direção é uma figura legitimamente associada a cura/preservação, a ser pesquisada antes da decisão canônica.
+Sua Autoridade é **Restauro**. Restauro não cria vida, não rejuvenesce, não ressuscita e não desfaz um Fim. Ele conduz um organismo ferido em direção ao estado funcional que ainda é biologicamente possível.
 
-A escolha divina decorre de uma decisão observada: diante de situação em que poderia se retirar, Amélia permanece para cuidar/proteger pessoas em risco. Isso não significa compatibilidade metafísica nem destino.
+A aplicação pode conter hemorragias, favorecer fechamento de ferimentos, estabilizar tecidos e auxiliar recuperação de lesões que ainda possuam possibilidade de reparo. Conhecimento humano de anatomia, ferimentos, plantas e cuidados não cria poder, mas melhora a maneira como Amélia decide aplicá-lo.
 
-A Sucessão não apaga sua vida civil nem transforma sua personalidade. Durante um período, Amélia e Dante continuam vivendo felicidade cotidiana real enquanto o sobrenatural gradualmente acrescenta riscos e divergências.
+Princípio:
+> **Restauro não desfaz um fim.**
+
+A escolha de Eir ocorre após Amélia permanecer para cuidar/proteger feridos quando poderia se retirar. A direção de encenação é um desastre/acidente humano, preferencialmente ferroviário, mas o evento histórico exato permanece aberto.
+
+Direção de diálogo:
+> — Por que ficou?
+>
+> — Porque ainda estavam vivos.
+
+Não existe compatibilidade metafísica ou destino. Eir escolhe Amélia por decisão própria diante do que observa.
+
+### Custo de Restauro
+Quanto mais grave e amplo o Restauro, maior a carga fisiológica sobre Amélia. Uso extremo pode causar exaustão, tremores, queda de temperatura, microlesões, colapso circulatório e perda de coordenação. Ela não recebe literalmente os ferimentos do paciente.
+
+Manter várias pessoas em estado crítico simultaneamente pode tornar impossível dedicar Restauro suficiente ao próprio corpo.
+
+### Relíquia-Eco — Agulha de Eir
+A Relíquia-Eco de Amélia é a **Agulha de Eir**, pequena agulha sobrenatural acompanhada por um fio luminoso extremamente fino.
+
+Ela permite estabelecer pontos de Restauro junto a lesões, produzindo a imagem de filamentos luminosos “costurando” aquilo que ainda pode ser salvo. É primariamente instrumento de cuidado, não arma, e exige proximidade suficiente para colocar Amélia dentro do perigo.
+
+### Eir e Amélia
+A relação evolui de mestra e aprendiz para uma relação mais próxima de duas curadoras capazes de discordar.
+
+Eir possui conhecimento divino de cura; Amélia insiste na dimensão humana do paciente. A deusa não é tratada como indiferente nem como dona da vontade da Successora.
+
+Direção de diálogo:
+> — Ele não sobreviverá.
+>
+> — Eu sei.
+>
+> — Então por que continua?
+>
+> — Porque ele ainda está aqui.
+
+A Sucessão não apaga a vida civil de Amélia. Sua permanência no mundo sobrenatural é escolha própria.
 
 ## Morte
-Amélia morre em conflito envolvendo Successores depois de escolher permanecer para proteger/ajudar outras pessoas.
+Amélia morre durante um conflito envolvendo Successores no qual civis ficam presos e feridos. Ela poderia abandonar a área, mas escolhe permanecer usando Restauro.
 
-Ela não é simplesmente assassinada para motivar Dante e não perde agência na própria história.
+Uma nova escalada do confronto a fere gravemente enquanto ela sustenta **quatro pessoas** em estado crítico.
 
-A tragédia possui responsabilidade distribuída. A causa física exata, participantes e circunstâncias permanecem em aberto.
+Amélia ainda poderia concentrar Restauro no próprio corpo, mas não consegue simultaneamente manter os quatro e salvar a si mesma naquele nível de desgaste.
 
-Sua Autoridade retorna integralmente à divindade. O que permanece é apenas o Vestígio residual que Dante preserva no medalhão.
+Eir compreende a situação e tenta fazê-la interromper o vínculo de Restauro com os demais.
 
-O Vestígio **não é Amélia**: não contém alma, memória, consciência ou personalidade.
+Direção de diálogo:
+> — Solte-os.
+>
+> — Quantos?
+>
+> — Quatro.
+>
+> — E se eu soltar?
+
+Amélia compreende a resposta e escolhe continuar sustentando os quatro.
+
+A morte preserva responsabilidade distribuída: outros participantes e a escalada do conflito criam a condição fatal; Amélia conserva agência na decisão final. A identidade do Successor responsável pela escalada e a lesão física exata permanecem abertas.
+
+Dante tenta salvá-la. A despedida mantém:
+> **“Você não precisa consertar tudo.”**
+
+Após sua morte, Restauro retorna integralmente a Eir e a Agulha de Eir se desfaz. O Vestígio residual luminoso é então preservado por Dante no medalhão.
+
+Eir não abandona Amélia e não escolhe sua morte. Ela tenta fazê-la se salvar; Amélia recusa para manter os quatro vivos.
 
 ## Legado
 O Vestígio de Amélia torna-se o Vestígio Primário e núcleo do primeiro Eco Artificial.
 
-A primeira manifestação artificial derivada dela possui direção **defensiva/preservadora**. A propriedade definitiva depende da divindade/Autoridade ainda a ser escolhida.
+A manifestação preservada no Vestígio Primário é **Estabilização**, uma expressão incompleta de Restauro.
+
+O Primeiro Eco **não cura**. Ele impede temporariamente que determinada condição física se agrave, comprando tempo sem eliminar o dano. Quando o efeito termina, a lesão continua existindo e suas consequências retornam.
+
+Princípio associado:
+> **“O Primeiro Eco não cura. Ele adia.”**
+
+Inicialmente, Dante utiliza essa propriedade para sobrevivência e proteção. Em combate, ela pode permitir que um usuário continue funcional por algum tempo apesar de lesões que normalmente o incapacitariam, sem remover o preço posterior.
 
 A ironia histórica é que uma impressão deixada por alguém ligada à preservação da vida acaba participando do nascimento de uma tecnologia posteriormente usada para caçar e matar Successores.
 
@@ -83,13 +144,10 @@ A ironia histórica é que uma impressão deixada por alguém ligada à preserva
 - família, amigos e relações independentes;
 - obstáculos e realizações na botânica/ilustração;
 - detalhes do noivado e fotografia do medalhão;
-- divindade;
-- Autoridade;
-- Marca;
-- Relíquia-Eco;
-- motivo e circunstância exatos da escolha divina;
-- duração da Sucessão;
-- relação com sua divindade;
-- atuação sobrenatural;
-- causa física e participantes de sua morte;
-- manifestação exata preservada no Vestígio Primário.
+- Marca de Eir;
+- duração exata da Sucessão;
+- detalhes históricos da primeira escolha/encontro com Eir;
+- atuação sobrenatural intermediária;
+- identidade dos participantes do conflito final;
+- lesão física exata que causa sua morte;
+- destino das quatro pessoas que ela sustenta.
