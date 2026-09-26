@@ -22,16 +22,16 @@ ultima_auditoria: 2026-09-26
 ## Dois indicadores
 
 ### Planejamento da trilogia
-**60% concluído · 40% restante**
+**61% concluído · 39% restante**
 
 Mede Bíblia, cosmologia, elenco, organizações, história, poderes, mistérios, causalidade, foreshadowing e arquitetura dos três livros.
 
 ### Projeto completo/publicável
-**19% concluído · 81% restante**
+**20% concluído · 80% restante**
 
 Inclui todo o planejamento acima + outline, redação integral dos três romances, revisões estruturais, continuidade, ritmo, prosa e revisão final.
 
-> O número principal para a fase atual é **60% do planejamento**. O projeto completo permanece em **19%** porque a prosa definitiva ainda não começou.
+> O número principal para a fase atual é **61% do planejamento**. O projeto completo permanece em **20%** porque a prosa definitiva ainda não começou.
 
 ---
 
@@ -46,15 +46,15 @@ Inclui todo o planejamento acima + outline, redação integral dos três romance
 | Maya | 6% | 82% | 4,9 |
 | Restante do quarteto | 8% | 25% | 2,0 |
 | Elite de Ares | 7% | 52% | 3,6 |
-| Hereges / Ecos Artificiais | 7% | 68% | 4,8 |
+| Hereges / Ecos Artificiais | 7% | 73% | 5,1 |
 | Santuário | 7% | 35% | 2,5 |
-| Deuses/personagens divinos centrais | 5% | 35% | 1,8 |
+| Deuses/personagens divinos centrais | 5% | 40% | 2,0 |
 | Mistérios e revelações | 7% | 75% | 5,3 |
 | Foreshadowing trilógico | 6% | 55% | 3,3 |
 | Arquitetura Livro 1 | 5% | 40% | 2,0 |
 | Arquitetura Livro 2 | 3% | 25% | 0,8 |
 | Arquitetura Livro 3 | 2% | 30% | 0,6 |
-| **TOTAL** | **100%** |  | **≈60%** |
+| **TOTAL** | **100%** |  | **≈61%** |
 
 Os pesos refletem impacto estrutural. Percentual alto em cosmologia não compensa quarteto ou causalidade incompletos.
 
