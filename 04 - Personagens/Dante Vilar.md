@@ -72,7 +72,7 @@ Após a morte, a Autoridade retorna normalmente à divindade. Dante presencia o 
 ## Da lembrança à investigação
 Dante inicialmente trata a luz como possível remanescente consciente de Amélia.
 
-Uma manifestação acidental e limitada do Vestígio o leva a investigar. A primeira aplicação do futuro Eco nasce com caráter **defensivo/preservador**, não como arma de caça.
+Uma manifestação acidental e limitada do Vestígio o leva a investigar. O Vestígio preserva **Estabilização**, expressão incompleta da Autoridade de **Restauro** de [[Eir]]. A primeira aplicação do futuro Eco nasce com caráter **defensivo/preservador**, não como arma de caça.
 
 A investigação segue:
 **acidente → observação → hipótese → teste → fracasso → repetição → engenharia.**
@@ -86,7 +86,7 @@ A descoberta de que o medalhão possui uma propriedade material reproduzível tr
 ## Primeiro Eco e Hereges
 O Vestígio de Amélia torna-se núcleo do primeiro Eco Artificial funcional, utilizado por Dante.
 
-O primeiro Eco não o torna equivalente natural a um Successor. Sua sobrevivência e capacidade de confronto dependem de manifestação limitada, preparação, estudo e técnica.
+O primeiro Eco não o torna equivalente natural a um Successor. Ele **não cura**: adia temporariamente o agravamento de uma condição física. Sua sobrevivência e capacidade de confronto dependem dessa manifestação limitada, preparação, estudo e técnica; quando a estabilização termina, o dano continua existindo.
 
 O movimento que dará origem aos Hereges começa orientado por proteção/resistência a conflitos envolvendo Successores. Ao longo do tempo, a direção se radicaliza:
 **proteção → resistência → neutralização → caça → extermínio.**
@@ -103,10 +103,9 @@ Dante e Caio compartilham dificuldade de aceitar o irreversível.
 - família e relações próprias além de Amélia;
 - detalhes adicionais da profissão;
 - data/local do relacionamento;
-- causa física exata da morte de Amélia;
+- lesão física exata da morte de Amélia;
 - identidade do(s) Successor(es) envolvido(s);
-- divindade/Autoridade de Amélia;
-- forma e propriedades definitivas do Primeiro Eco;
+- forma física definitiva do Primeiro Eco e engenharia de ativação;
 - equipe inicial de pesquisa;
 - momento exato de fundação dos Hereges;
 - cronologia da radicalização;
