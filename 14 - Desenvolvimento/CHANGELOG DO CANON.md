@@ -342,3 +342,22 @@ Primeira consolidação do Vault.
 - A descoberta de que a propriedade do medalhão é materialmente estudável/reproduzível marca a passagem do luto individual para tecnologia organizada.
 - Permanecem abertos: divindade/Autoridade de Amélia, causa técnica exata de sua morte, Primeiro Eco definitivo e se Dante está vivo no presente.
 - O PROCESSO passa a registrar aproximadamente **60% do planejamento trilógico** e **19% do projeto completo/publicável**.
+
+
+## 26/09/2026 — Eir, Restauro e morte de Amélia
+- Amélia Salles passa a ser canonicamente **Successora de Eir**.
+- A Autoridade de Eir é **Restauro**: conduz um organismo ferido ao estado funcional que ainda é biologicamente possível, sem criar vida, rejuvenescer, ressuscitar ou desfazer um Fim.
+- Restauro é diferenciado da futura Autoridade ligada a Iðunn: Eir restaura o que ainda pode ser salvo; Iðunn permanece associada a vida, renovação e florescimento.
+- Conhecimento humano de anatomia, ferimentos, plantas e cuidados melhora a aplicação escolhida por Amélia, sem ser fonte da Autoridade.
+- Uso extremo de Restauro impõe carga fisiológica à Successora; não transfere literalmente ferimentos.
+- A Relíquia-Eco de Amélia é a **Agulha de Eir**, com fio luminoso capaz de estabelecer pontos de Restauro.
+- Eir escolhe Amélia após observar sua decisão de permanecer com feridos quando poderia se retirar. A direção preferida para a cena é um desastre/acidente humano, possivelmente ferroviário; o evento exato segue aberto.
+- A relação Eir–Amélia é de aprendizado e posterior divergência entre curadoras, não servidão.
+- Na morte de Amélia, ela sustenta **quatro pessoas** em estado crítico. Gravemente ferida, não consegue salvar a si mesma e manter os quatro simultaneamente.
+- Eir pede que Amélia os solte para concentrar Restauro no próprio corpo. Amélia escolhe continuar sustentando os quatro.
+- Eir portanto não abandona Amélia nem escolhe sua morte. A versão posterior de Dante de que os deuses simplesmente a tomaram permanece interpretação incompleta.
+- A despedida “Você não precisa consertar tudo” permanece ligada à morte.
+- O Vestígio Primário preserva **Estabilização**, expressão incompleta de Restauro.
+- O Primeiro Eco não cura: **adia temporariamente o agravamento de uma condição física**, sem apagar o dano nem seu preço posterior.
+- Princípio do Primeiro Eco: **“O Primeiro Eco não cura. Ele adia.”**
+- Permanecem abertos a lesão física exata, participantes do conflito, destino dos quatro, Marca de Eir e forma/engenharia final do Primeiro Eco.
