@@ -210,6 +210,98 @@ O desenvolvimento posterior cria uma questão moral central dentro da facção:
 
 A existência de correntes que aguardam morte natural, utilizam corpos recuperados, caçam deliberadamente Successores ou realizam experimentos em portadores vivos permanece para desenvolvimento individual. A divisão deve produzir personagens e decisões, não uma resposta moral única para toda a facção.
 
+### O Vestígio Primário e o nascimento do primeiro Eco — CANON
+
+A descoberta dos Vestígios não começa como pesquisa deliberada.
+
+O fundador dos Hereges perde a mulher que ama depois de ela ter se tornado Successora. No instante de sua morte, a Autoridade retorna normalmente ao deus e sua Relíquia-Eco se desfaz, mas uma pequena **essência luminosa**, irregular e pulsante, desprende-se do que restou do vínculo.
+
+Visualmente, o fenômeno lembra um pequeno vagalume.
+
+O homem não sabe que está observando uma impressão residual da passagem da Autoridade. Naquele momento, acredita apenas que aquela luz pode ser a última coisa que restou da mulher que ama.
+
+Ele já carregava consigo um **pingente/medalhão com uma fotografia dela**. Desesperado para impedir que a pequena luz desapareça, consegue aprisioná-la acidentalmente no medalhão.
+
+Assim, o primeiro Vestígio preservado da história conhecida não nasce de um laboratório:
+
+> **nasce de um homem tentando impedir que a última coisa que restava da mulher que amava desaparecesse também.**
+
+#### A preservação acidental
+
+Vestígios normalmente se dissipam rapidamente após o retorno da Autoridade.
+
+O Vestígio dela permanece porque circunstâncias físicas/metafísicas específicas da morte, combinadas com propriedades ainda não compreendidas do medalhão, produzem uma estabilização acidental.
+
+O amor do fundador **não possui poder metafísico** e não é responsável pela preservação. Ele explica somente sua decisão humana de tentar guardar a luz.
+
+A causa técnica exata da estabilização permanece em aberto para desenvolvimento posterior.
+
+#### As primeiras manifestações
+
+Durante algum tempo, o fundador trata a luz apenas como lembrança da mulher.
+
+Mais tarde, o pingente começa a apresentar fenômenos anômalos de forma acidental: aquecimento, reação luminosa e, em circunstâncias específicas, uma manifestação mínima reconhecível de algo que a antiga Successora fazia através de sua Autoridade.
+
+Sua primeira interpretação pode ser emocional — a esperança de que alguma parte dela tenha permanecido.
+
+A repetição dos fenômenos transforma luto em investigação. Ele observa padrões, registra ocorrências, testa condições e posteriormente procura auxílio de outras pessoas capazes de compreender o fenômeno.
+
+A tecnologia dos Ecos Artificiais surge do processo:
+
+**acidente → observação → hipótese → teste → fracasso → repetição → engenharia.**
+
+#### A segunda perda
+
+A investigação eventualmente demonstra que o Vestígio **não contém a alma, consciência, memória ou personalidade da mulher**.
+
+A descoberta funciona emocionalmente como uma segunda morte: o fundador perde a esperança de que a pequena luz seja uma parte consciente dela.
+
+Mesmo assim, não abandona o Vestígio.
+
+A partir daí, aquilo que começou como lembrança torna-se também evidência de que humanos podem compreender e reaproveitar consequências da intervenção divina.
+
+#### O primeiro Eco Artificial
+
+O Vestígio preservado no medalhão torna-se o núcleo do **primeiro Eco Artificial funcional**.
+
+O fundador é seu usuário.
+
+Ele não recebe a Autoridade que a mulher possuía. O equipamento reproduz somente uma ou mais manifestações limitadas preservadas pela impressão deixada nela.
+
+Sua capacidade de enfrentar Successores deriva da combinação entre esse Eco, preparação, estudo dos alvos e experiência. O primeiro Eco não transforma um humano em equivalente natural de um Successor.
+
+O formato e as propriedades específicas do equipamento dependerão da identidade da mulher e de sua divindade de origem, ainda em desenvolvimento.
+
+#### O medalhão permanece
+
+Mesmo depois da evolução tecnológica dos Hereges, o fundador preserva o medalhão original como núcleo de seu Eco.
+
+A fotografia da mulher continua dentro dele.
+
+Quando o equipamento é ativado, a pequena essência luminosa pode deixar visualmente o medalhão e percorrer o sistema do Eco Artificial. Encerrada a manifestação, retorna ao núcleo.
+
+O ato de abrir e fechar o medalhão torna-se um ritual pessoal do fundador.
+
+Outros integrantes podem classificá-lo tecnicamente como **Vestígio Primário**, **V-001** ou **Núcleo do Primeiro Eco** — terminologia institucional definitiva ainda em aberto.
+
+O fundador, porém, não o reduz emocionalmente a uma designação técnica: para ele, o Vestígio permanece associado ao **nome dela**.
+
+#### Origem ideológica dos Hereges
+
+O fundador não odiava os deuses antes da perda.
+
+A morte da mulher, a descoberta de que sua Autoridade simplesmente retorna à divindade e o estudo posterior da Sucessão, do Primeiro Pacto e das Guerras dos Sucessores transformam sua dor em uma conclusão política e moral:
+
+> **enquanto deuses puderem projetar suas Autoridades através de humanos, sua intervenção na Terra não terminou.**
+
+Ele funda os Hereges com o objetivo de expulsar a influência divina do mundo humano.
+
+Sua direção radical torna-se **eliminar os Successores e impedir novas Sucessões**, enquanto a organização pesquisa se existe uma maneira de romper o vínculo sem matar o portador.
+
+A contradição central do fundador é deliberada: o homem que deseja libertar a humanidade da intervenção divina inicia sua guerra utilizando a cicatriz que uma Autoridade deixou na pessoa que ele mais amou.
+
+Ele e Caio compartilham ainda um espelho temático importante: ambos possuem dificuldade em aceitar o irreversível, mas respondem à perda de maneiras diferentes. Caio acumula aquilo que perde; o fundador transforma aquilo que perdeu em arma.
+
 ### Relação com o Livro dos Fins
 
 Um Eco Artificial **não pode ser registrado pelo [[Livro dos Fins]] como Autoridade**.
