@@ -3,7 +3,7 @@ id: livro1-manuscrito-cap01
 tipo: capitulo
 schema_version: 1.1
 status: PROVISÓRIO
-versao: 1.0
+versao: 1.1
 tags: [livro-1, capitulo-01, manuscrito]
 ---
 
@@ -107,7 +107,7 @@ O pai mostrou uma fenda perto da rosca.
 
 — Já estava trincado. Eu mexi e abriu o resto.
 
-Passou o polegar na peça, secou-o no pano e ficou olhando para dentro do armário. Caio mordeu o pão. A pasta de trabalho da faculdade estava pronta na mochila, mas ele ainda não tinha conferido se salvara a última alteração. Ia conferir no ônibus. Se conseguisse sentar.
+Passou o polegar na peça, secou-o no pano e ficou olhando para dentro do armário. Caio mordeu o pão. Ainda precisava copiar a última versão do exercício para o pendrive. Tinha deixado o computador ligado para não esquecer.
 
 Quando Helena voltou, Marcelo já tinha se levantado.
 
