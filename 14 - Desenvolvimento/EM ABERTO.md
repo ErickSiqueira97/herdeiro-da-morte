@@ -62,3 +62,5 @@ versao: 1.0
 - Definir escala concreta dos Hereges: número aproximado de membros, células, alcance geográfico, hierarquia e divisões internas.
 - Determinar se é realmente possível romper uma Sucessão sem matar o Successor; a busca dos Hereges por esse mecanismo não prova que ele exista.
 - Demais facções, cenários e bestiário.
+
+- [[Véu e Ecologia Sobrenatural]]: fechar mecanismo fino de Mitogênicos, percepção por crianças/animais, tecnologia específica de observação, regras de Remanescentes e primeiras espécies/classificação de ameaça.
