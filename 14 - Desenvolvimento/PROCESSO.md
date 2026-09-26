@@ -82,7 +82,7 @@ Os pesos refletem impacto estrutural. Percentual alto em cosmologia não compens
 - fechar hierarquia, células, alcance e código dos [[Hereges]];
 - fechar liga rara à base de ouro: nome, origem, suprimento e limitações;
 - definir suporte/logística da Elite sem transformar os Oito em burocracia;
-- resolver segredo sobrenatural em mundo moderno: celulares, câmeras, hospitais, polícia, redes e registros.
+- aprofundar consequências operacionais do [[Véu e Ecologia Sobrenatural]] em hospitais, polícia, redes e registros; câmeras/tecnologia mortal e Aderência já possuem regra-base canônica.
 
 **Critério de conclusão:** nenhuma organização pode produzir convenientemente um recurso apenas porque a cena precisa dele.
 
@@ -229,7 +229,7 @@ Depois do outline:
 - sete integrantes restantes da Elite;
 - Santuário operacional;
 - cadeia causal completa do Livro 1;
-- segredo sobrenatural no mundo moderno;
+- aplicações operacionais do Véu no mundo moderno;
 - outline de capítulos;
 - prosa definitiva.
 
@@ -239,7 +239,7 @@ Depois do outline:
 - **A10 — PARCIALMENTE RESOLVIDO:** Hereges agora fornecem causa histórica concreta para Ares reunir os Oito e conectam preparação para guerra à defesa dos Successores; ainda falta fechar Ares como personagem e hierarquia final de seus objetivos.
 - **A11 — ATIVO:** Santuário operacional.
 - **A12 — ATIVO:** matriz trilógica de foreshadowing.
-- **A13 — ATIVO:** segredo sobrenatural moderno.
+- **A13 — PARCIALMENTE RESOLVIDO:** Véu/Aderência e limitação de tecnologia mortal fecham a base do segredo sobrenatural; faltam consequências operacionais em polícia, hospitais, redes, governos e incidentes públicos.
 - **A14 — ATIVO:** Guerras dos Sucessores.
 - **A15 — PROTEGIDO, MONITORAR:** Daniel deve permanecer principalmente pessoal para Maya.
 - **A16 — ATIVO:** Perseguição técnica.
