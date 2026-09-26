@@ -19,7 +19,7 @@ relacoes:
     tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-versao: 1.12
+versao: 1.13
 ---
 
 # Estado do Projeto
@@ -41,14 +41,14 @@ Os percentuais medem prontidão estrutural e editorial, não quantidade de notas
 ## Estado editorial
 A macroarquitetura e o outline capítulo por capítulo do Livro 1 estão congelados em CANON. O [[Livro 1 - Outline Definitivo v1]] possui 32 capítulos e passou por auditoria integral, correções e verificação pós-correções. Não há pendência estrutural ativa que impeça a preparação da redação.
 
-**Estado do Livro 1: CAPÍTULOS 1–7 CANONIZADOS / FECHADOS.** Capítulos 1 e 2 na versão 1.2; Capítulos 3–7 na versão 1.1. Capítulo 7 aprovado explicitamente em 26/09/2026, sem alteração do corpo narrativo. Auditoria A–N e cinco gates especiais encerrados; P0/P1 restantes zero. Calibragem do detalhamento mecânico do portão aceita como preferência editorial não bloqueadora, sem nova revisão. Fatos concretizados promovidos ao [[Livro 1 - Log de Continuidade]], preservando fuga real, retorno por Maya, contato descoberto empiricamente e morte humana sem poder. Nenhum capítulo pendente de aprovação.
+**Estado do Livro 1: CAPÍTULOS 1–7 CANONIZADOS / FECHADOS.** Capítulos 1 e 2 na versão 1.2; Capítulos 3–7 na versão 1.1. Capítulo 7 aprovado explicitamente em 26/09/2026, sem alteração do corpo narrativo. Auditoria A–N e cinco gates especiais encerrados; P0/P1 restantes zero. Calibragem do detalhamento mecânico do portão aceita como preferência editorial não bloqueadora, sem nova revisão. Fatos concretizados promovidos ao [[Livro 1 - Log de Continuidade]], preservando fuga real, retorno por Maya, contato descoberto empiricamente e morte humana sem poder. Capítulo 8 — Demorou, v1.1 PROVISÓRIA, escrito e auditado em 26/09/2026; 1864 palavras, P0/P1 restantes zero, gate especial de verdade narrativa PASSA. Fatos propostos apenas na auditoria, sem promoção ao Log. AGUARDANDO APROVAÇÃO DO CAPÍTULO.
 
-O pacote operacional continua vigente: Bíblia de Produção, Regras Invioláveis, Mapa de Revelações e Payoffs, Protocolo de Produção, Prompt Mestre e Auditoria Final. [[Livro 1 - Auditoria Acumulada 01–05]] concluída e encerrada com os cinco capítulos canonizados, sem P0/P1 restantes. **Capítulo 8 não iniciado; produção parada após fechamento por instrução do autor.** Os percentuais históricos acima não foram recalculados neste ciclo.
+O pacote operacional continua vigente: Bíblia de Produção, Regras Invioláveis, Mapa de Revelações e Payoffs, Protocolo de Produção, Prompt Mestre e Auditoria Final. [[Livro 1 - Auditoria Acumulada 01–05]] concluída e encerrada com os cinco capítulos canonizados, sem P0/P1 restantes. **Capítulo 8 aguarda aprovação; Capítulo 9 não iniciado.** Os percentuais históricos acima não foram recalculados neste ciclo.
 
 ## Próximos blocos
-1. Aguardar instrução do autor para iniciar o **Capítulo 8**.
-2. Quando autorizado, preparar o gate com Outline, fontes pertinentes, capítulos aprovados e Log atualizado.
-3. Não iniciar o Capítulo 8 neste ciclo; manter produção de um capítulo por vez.
+1. Aguardar aprovação humana do **Capítulo 8 — Demorou, v1.1**.
+2. Somente após aprovação, canonizar e promover fatos concretizados ao Log; preservar distinção entre crença de Caio e verdade narrativa.
+3. Não iniciar o Capítulo 9 neste ciclo; manter produção de um capítulo por vez.
 4. Preservar a auditoria acumulada 1–5; próximo marco acumulado previsto após o Capítulo 10.
 
 Ver [[EM ABERTO]] e [[PROCESSO]].

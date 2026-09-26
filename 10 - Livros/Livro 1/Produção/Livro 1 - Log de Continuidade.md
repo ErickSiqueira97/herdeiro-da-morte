@@ -213,4 +213,4 @@ A manifestação visual do arco segue integralmente o Outline canônico e não c
 
 ## Estado do ciclo
 
-Capítulos 1 e 2 v1.2 e Capítulos 3–7 v1.1 canonizados e fechados. Nenhum capítulo pendente de aprovação. Auditoria acumulada 1–5 encerrada. **Capítulo 8 não iniciado**; produção parada neste fechamento por instrução expressa do autor.
+Capítulos 1 e 2 v1.2 e Capítulos 3–7 v1.1 canonizados e fechados. Capítulo 8 — Demorou, v1.1 PROVISÓRIA, em AGUARDANDO APROVAÇÃO DO CAPÍTULO. Seus fatos propostos constam apenas de [[Capítulo 08 - Auditoria]] e não integram a continuidade canonizada. Auditoria acumulada 1–5 encerrada. **Capítulo 9 não iniciado**.

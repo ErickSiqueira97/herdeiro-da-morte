@@ -3,7 +3,7 @@ id: livro1-manuscrito-cap08
 tipo: capitulo
 schema_version: 1.1
 status: PROVISÓRIO
-versao: 1.0
+versao: 1.1
 tags: [livro-1, capitulo-08, manuscrito]
 ---
 
@@ -93,7 +93,7 @@ De perto, continuava achando que conhecia a mulher. Não sabia de onde. Tentou i
 
 — Eu ouvi.
 
-Caio passou as mãos nos joelhos. Não tinha mais sangue nelas. A última vez que olhara, havia sangue demais para caber só dentro dele.
+Caio passou as mãos nos joelhos. Não tinha mais sangue nelas. Lembrava o tecido molhado sob a palma, a mão de Maya tentando estancar aquilo.
 
 — Aquilo me acertou aqui.
 
@@ -107,7 +107,7 @@ Ele deixou a mão onde estava.
 
 — É o que estou oferecendo.
 
-Caio queria perguntar por que ela não começara por isso. Queria também que continuasse falando antes que mudasse de ideia. A mulher baixou os olhos para suas mãos, ainda apertadas contra as pernas.
+Caio queria perguntar por que ela não começara por isso. Queria também que continuasse falando antes que mudasse de ideia. Baixou a mão do peito e esperou.
 
 — Há deuses que escolhem humanos. Concedem a eles uma expressão daquilo que são, da Autoridade que possuem. Chamam isso de Sucessão.
 
@@ -179,13 +179,7 @@ Lembrava do ponto. Da pessoa sentada sob a luz. Por alguns segundos, estivera co
 
 Caio olhou as próprias mãos. A marca da barra não estava na palma. Ainda conseguia lembrar o esforço de empurrar e o susto de encontrar resistência depois de não encontrar nada.
 
-Ser escolhido por ter voltado parecia uma explicação possível até lembrar o que a escolha lhe custara. Não tinha salvado o mundo. Nem sabia se ajudara Maya o suficiente.
-
-— Você podia ter falado comigo antes.
-
-A mulher não respondeu. Mudou a posição de uma mão no colo, sem tirar os olhos dele.
-
-Caio ficou quieto também. Não queria preencher o silêncio por ela.
+Caio tentou entender: aquela Seshat o escolhera porque ele voltara por Maya? Não tinha salvado o mundo. Nem sabia se ajudara o suficiente.
 
 O banco continuava sob suas pernas. Não havia telefone vibrando, ônibus para perder, ninguém chamando da cozinha. Ele tentara conferir os bolsos duas vezes e, mesmo assim, tornou a procurar o peso do aparelho com o antebraço.
 
@@ -243,7 +237,7 @@ Ela estendeu a mão, palma para cima.
 
 Caio olhou os dedos. Ainda podia não colocar os seus ali. A pergunta sobre o que ficaria devendo continuava sem resposta, e não adiantava fingir que não tinha ouvido a recusa.
 
-Deu a mão.
+Deu a mão esquerda.
 
 A pressão veio por dentro do braço. Caio tentou recolher o cotovelo, mas a sensação já estava no peito, num lugar que não alcançava apertando a camiseta. Não era o ferimento da rampa. Era estreita, contínua, acompanhando um traço que ele não conseguia ver até o fim.
 
