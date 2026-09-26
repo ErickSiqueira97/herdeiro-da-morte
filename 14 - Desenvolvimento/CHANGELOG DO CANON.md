@@ -427,3 +427,19 @@ Primeira consolidação do Vault.
 - Lucas não deve superar Caio multi-Autoridade por power scaling conveniente; seu confronto depende de conhecimento íntimo do amigo e do objetivo de fazê-lo parar.
 - Arco: **“Liberdade é ninguém decidir por mim” → “Liberdade é poder escolher por quem eu fico” → amar alguém pode significar ficar na frente dele.**
 - O PROCESSO passa a registrar aproximadamente **70% do planejamento trilógico** e **23% do projeto completo/publicável**.
+
+
+## 26/09/2026 — Véu, Aderência e ecologia sobrenatural
+- Fechados **Véu** e **Aderência** como fundação do bestiário e do segredo sobrenatural moderno.
+- O Véu é consequência metafísica/perceptiva do mundo pós-Primeiro Pacto; não é dimensão paralela, prisão ou simples invisibilidade.
+- Humanos comuns percebem o sobrenatural de modo incompleto e tendem a reinterpretá-lo; consequências físicas permanecem reais.
+- Tecnologia puramente mortal registra somente aquilo que possui Aderência suficiente. Câmeras não são magicamente sabotadas.
+- Regra: **quanto mais o sobrenatural interfere fisicamente no mundo mortal, mais precisa aderir e mais perceptível/registrável se torna.**
+- Fechadas quatro origens iniciais: **Nativos, Gerados, Mitogênicos e Vinculados**.
+- **Mitogênicos** podem nascer/ganhar forma pela crença humana coletiva consolidada no Véu, sem jamais transformar crença em fonte de divindade, Autoridade ou Eternidade.
+- Alma humana morta não vira automaticamente criatura.
+- Criaturas podem ser inteligentes, neutras, ecológicas ou hostis; Santuário não opera sob regra “encontrar = matar”.
+- Criaturas podem deixar **Remanescentes**, distintos de Vestígios. Hereges podem estudar/industrializar Remanescentes e usá-los em tecnologia de percepção do Véu.
+- O Livro não registra criaturas como Autoridades e criaturas não liberam frações de Eternidade por serem sobrenaturais.
+- Integrados Caio/Cicatriz, Maya/Perseguição, Elisa/Florescer, Samira/Testemunho, Lucas/Insurgência pendente, Ares/Elite, Hereges e Santuário à ecologia.
+- Escalada trilógica: descoberta no Livro 1 → instabilidade e melhores registros no Livro 2 → enfraquecimento do Véu/exposição crescente no Livro 3.
