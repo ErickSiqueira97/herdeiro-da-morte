@@ -443,3 +443,15 @@ Primeira consolidação do Vault.
 - O Livro não registra criaturas como Autoridades e criaturas não liberam frações de Eternidade por serem sobrenaturais.
 - Integrados Caio/Cicatriz, Maya/Perseguição, Elisa/Florescer, Samira/Testemunho, Lucas/Insurgência pendente, Ares/Elite, Hereges e Santuário à ecologia.
 - Escalada trilógica: descoberta no Livro 1 → instabilidade e melhores registros no Livro 2 → enfraquecimento do Véu/exposição crescente no Livro 3.
+
+
+## 26/09/2026 — Função institucional do Santuário
+- Santuário promovido de PROVISÓRIO para **CANON** em sua função institucional.
+- Deixa de ser tratado como escola de Successores: treinamento é apenas uma função de uma instituição humana antiga voltada à convivência com o sobrenatural e à preservação da autonomia humana.
+- Fechadas suas relações com Véu/bestiário, investigação de ocorrências, proteção, contenção, mediação, preservação e eliminação quando necessária.
+- Avaliação de criaturas separa **Aderência, Cognição e Risco**, evitando ranking universal de poder.
+- Criaturas racionais podem ser objeto de Acordos de Convivência; forma jurídica permanece aberta.
+- Conhecimento do Santuário é acumulativo, humano e falível.
+- Missões do Livro 1 devem desenvolver personagem, mundo e mistério; não funcionar como “monstro da semana”.
+- Sede principal será fisicamente real e historicamente acumulada; localização e arquitetura final abertas.
+- Arquivo/Vigília/Campo/Custódia/Pacto permanecem como direção de arquitetura, não nomes/departamentos canonizados.
