@@ -66,3 +66,7 @@ versao: 1.0
 - [[Véu e Ecologia Sobrenatural]]: fechar mecanismo fino de Mitogênicos, percepção por crianças/animais, tecnologia específica de observação, regras de Remanescentes e primeiras espécies/classificação de ameaça.
 
 - [[Santuario]]: fechar estrutura interna (Arquivo/Vigília/Campo/Custódia/Pacto são apenas direção), localização da sede, financiamento, relação com governos, hierarquia, recrutamento, tecnologia e protocolos completos.
+
+- [[Primeira Leva do Bestiário]]: desenvolver Errante; nomear/desenvolver predador ecológico; criar primeiro ser inteligente; pesquisar/adaptar Cérbero e primeiras figuras do folclore brasileiro; definir a grande ocorrência do Livro 1.
+- [[Rasga-Véu]]: fechar reprodução, Remanescente, inteligência, habitat e ficha operacional do Santuário.
+- [[Sem-Rosto]]: fechar condições de Mitogênese, comportamento, alimentação, multiplicidade e papel narrativo.
