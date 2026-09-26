@@ -2,7 +2,7 @@
 id: livro1-cap06-auditoria
 tipo: auditoria
 schema_version: 1.1
-status: PROVISÓRIO
+status: CANON
 tags: [livro-1, capitulo-06, auditoria]
 ---
 
@@ -10,7 +10,7 @@ tags: [livro-1, capitulo-06, auditoria]
 
 ## Escopo e orientação vigente
 
-[[06 - O caminho de volta]], v1.1, 2.100 palavras, PROVISÓRIO. Autoauditoria editorial, sujeita à aprovação humana. Base `d447c96`. Capítulos 1–5, Log e Auditoria Acumulada 1–5 relidos antes da escrita; fontes pertinentes registradas no [[Capítulo 06 - Cartão Editorial]]. Cartão/gate PASSA: `be7c267`; primeira versão: `85f761a`.
+[[06 - O caminho de volta]], v1.1, 2.100 palavras, CANON / FECHADO em 26/09/2026 por aprovação humana explícita. Corpo narrativo aprovado no commit b119375 preservado integralmente. Base `d447c96`. Capítulos 1–5, Log e Auditoria Acumulada 1–5 relidos antes da escrita; fontes pertinentes registradas no [[Capítulo 06 - Cartão Editorial]]. Cartão/gate PASSA: `be7c267`; primeira versão: `85f761a`.
 
 A correção expressa do autor restabeleceu a manifestação visual da Relíquia na saída, conforme o Outline. **Nenhuma exceção ao Outline permanece vigente.** Cartão criado já sob instrução corrigida; Outline não alterado. Arco é nome comum do objeto visível, não exposição de sua classificação. Combate decisivo, descoberta empírica, fuga/retorno e morte ficam no 7.
 
@@ -46,11 +46,11 @@ A correção expressa do autor restabeleceu a manifestação visual da Relíquia
 - **P0: 0 identificados; 0 restantes.**
 - **P1: 1 identificado; 1 corrigido; 0 restantes.** Primeira versão alegava que voltar exigiria passar diante da criatura, embora ela tivesse avançado em diagonal para a frente. Retirada conclusão injustificada e explicitadas posições de Maya/Caio e caminho livre. Proteção não depende de saída magicamente bloqueada.
 - **P2 corrigido:** “Na manhã seguinte” ancora salto após o 5 sem retrospectiva do mesmo dia.
-- **P2 de gosto, não bloqueador:** pressão da ordem inferível pelos gestos e pelo capítulo anterior. A extensão da pausa no telefone pode ser calibrada se solicitada; não requer revisão automática ou acesso mental fora do POV.
+- **P2 de gosto, não bloqueador:** pressão da ordem inferível pelos gestos e pelo capítulo anterior. Calibragem da pausa diante do telefone aceita pelo autor como preferência editorial não bloqueadora; nenhuma nova revisão realizada.
 
-## Fatos propostos — NÃO CANONIZADOS
+## Fatos concretizados aprovados — promovidos ao Log de Continuidade
 
-| Campo | Concretização provisória |
+| Campo | Fato concretizado aprovado |
 |---|---|
 | Tempo | Manhã seguinte ao 5; trabalho, biblioteca, aula, encontro e caminhada noturna. Sem data/hora exata. |
 | Família | Lívia diz ter apresentado trabalho e prepara gravação curta para professora, dividida com Júlia; grava abertura no quarto. Marcelo improvisa apoio e interrompe primeira tentativa com toque no celular. Helena planeja sair, organiza louça/comida e percebe irritação de Caio. Destino dela não fixado. |
@@ -68,6 +68,6 @@ A correção expressa do autor restabeleceu a manifestação visual da Relíquia
 
 ## Gate pós-escrita — PASSA
 
-Auditoria A–N completa; P0/P1 restantes zero. Correção do autor incorporada sem exceção ativa ao Outline. Manuscrito PROVISÓRIO; fatos novos apenas nesta auditoria. Capítulos aprovados e Auditoria Acumulada 1–5 preservados. Capítulo 7 não iniciado.
+Auditoria A–N completa; P0/P1 restantes zero. Correção do autor incorporada sem exceção ativa ao Outline. Manuscrito CANON; fatos concretizados promovidos ao Log após aprovação humana, sem alteração do corpo narrativo. Capítulos aprovados e Auditoria Acumulada 1–5 preservados. Capítulo 7 não iniciado.
 
-**AGUARDANDO APROVAÇÃO DO CAPÍTULO.**
+**CAPÍTULO 6 v1.1 APROVADO E FECHADO — 26/09/2026.** Capítulo 7 não iniciado; produção encerrada neste marco.

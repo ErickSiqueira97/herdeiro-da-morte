@@ -825,3 +825,10 @@ Primeira consolidação do Vault.
 - Mantida a distinção entre observação, relato e interpretação. Caio não conhece a investigação; não recebe confirmação objetiva do sobrenatural. Natureza da presença, patrono e estrutura operacional permanecem não revelados.
 - [[Livro 1 - Auditoria Acumulada 01–05]] encerrada com cinco capítulos CANON, sem P0/P1 restantes; 9.437 palavras no conjunto.
 - Estado do Projeto: **CAPÍTULOS 1–5 FECHADOS; CAPÍTULO 6 NÃO INICIADO**. Produção encerrada neste marco por instrução expressa do autor.
+
+## 26/09/2026 — Fechamento do Capítulo 6 — O caminho de volta v1.1
+- Aprovação humana explícita; manuscrito promovido a **CANON**, sem alteração do corpo narrativo aprovado no commit b119375 (2.100 palavras).
+- Auditoria encerrada: P0 = 0 e P1 = 0. Calibragem da pausa de Maya diante do telefone aceita como preferência editorial não bloqueadora; nenhuma revisão realizada por esse motivo.
+- Fatos concretizados promovidos ao [[Livro 1 - Log de Continuidade]]: rotina familiar/escolar/profissional, atrito preservado, convivência de Caio e Maya, percurso alterado, ameaça responsiva, posições finais e manifestação visual do arco.
+- A manifestação segue o Outline canônico e não constitui exceção. Caio ignora mecanismo e origem da arma, investigação e ordem operacional. Combate decisivo, descoberta empírica, retorno e morte permanecem fora deste capítulo.
+- Estado do Projeto: **CAPÍTULOS 1–6 FECHADOS; CAPÍTULO 7 NÃO INICIADO**. Produção encerrada neste marco por instrução expressa do autor.

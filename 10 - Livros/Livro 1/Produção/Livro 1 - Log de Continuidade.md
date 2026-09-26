@@ -161,6 +161,28 @@ A investigação e a omissão são conhecidas pelo leitor, não por Caio. INCONC
 | Presença | Forma de contorno instável junto ao gradil percebida por Maya e acompanhada por Caio; estudante aponta sacola. Sem identidade, agressão, dano ou ligação confirmada com eventos anteriores. |
 | Saída | Caio entra na biblioteca; Maya recebe ordem de observar e não intervir ainda, confirma recebimento. Nova observação permanece retida naquele momento. |
 
+### Capítulo 06 — O caminho de volta — v1.1
+
+**CANON / FECHADO em 26/09/2026**, por aprovação humana explícita. Fonte: [[06 - O caminho de volta]], versão aprovada no commit b119375, promovida sem alteração do corpo narrativo. Auditoria: [[Capítulo 06 - Auditoria]], P0 = 0, P1 = 0. Calibragem da pausa de Maya diante do telefone aceita como preferência editorial não bloqueadora, sem nova revisão.
+
+A manifestação visual do arco segue integralmente o Outline canônico e não constitui exceção. Caio vê a arma surgir, mas não conhece classificação, origem ou mecanismo. Resposta à ordem de correr, combate decisivo, descoberta empírica, retorno e morte não ocorreram neste capítulo. O conteúdo consultado no telefone por Maya não é revelado.
+
+| Campo | Fato concretizado aprovado |
+|---|---|
+| Tempo | Manhã seguinte ao 5; trabalho, biblioteca, aula, encontro e caminhada noturna. Sem data/hora exata. |
+| Família | Lívia diz ter apresentado trabalho e prepara gravação curta para professora, dividida com Júlia; grava abertura no quarto. Marcelo improvisa apoio e interrompe primeira tentativa com toque no celular. Helena planeja sair, organiza louça/comida e percebe irritação de Caio. Destino dela não fixado. |
+| Atrito | Pai pergunta ajuste de atraso; Caio relata orientação, sem quitação formal. Divergem sobre ter ficado ajudando. Marcelo avisa bolso aberto; Caio agradece. Sem reconciliação. |
+| Trabalho/estudo | Caio consulta Marta antes de prometer duração; ela troca pausa com atendente anônimo. Bia usa tesoura após colher dobrar no iogurte. Caio corrige sinal errado e divide borracha quebrada com Renan. Sem disciplina/nota/linguagem fixadas. |
+| Convivência | Episódio recomendado visto na noite anterior; encontro combinado após aula. Amendoim, conversa sobre obras e livro emprestado que Maya quer para trabalho. Ela envia pedido com dois horários. Sem título ou nome novo. |
+| Comida/dinheiro | Comida separada para levar, sem menu; amendoim compartilhado; Maya compra água e oferece gole. Sem preço, reembolso, SSD ou reposição do pão estabelecidos. |
+| Objetos/corpo | Caneca/guardanapo/folha/telefone de Lívia, carregador/mochila, vasilha, borracha, colher suja, pacote, telefone/bolsa de Maya e garrafa. Perna dormente de Caio ao levantar, sem lesão. Nenhum ferimento sobrenatural. |
+| Geografia | Degrau junto à saída, passagem lateral, opção entre oficinas e volta pela avenida, lanchonete na esquina; muro, portão recuado e rampa. Caminho para ponto livre ao lado do muro. Sem cidade/planta integral. |
+| Terceiros | Atendente, homem do troco/sacola e pessoas na lanchonete têm tarefas. Nenhuma amnésia ou percepção universal atribuída. |
+| Caio sabe | Nota desvios/silêncio, percebe forma responsiva, pergunta se Maya vê, recebe ordens e vê arco surgir. Ignora investigação e mecanismos; não descobre como ferir/tocar. |
+| Maya sabe/faz | Nota recuo antes de Caio; lê tela de conteúdo não exposto; muda rota e posição, reconhece perigo suficiente para proteger. Não afirma causa da reação/natureza de Caio. |
+| Presença | Volume quadrúpede grande e instável responde a Caio, ignora homem e avança à rampa. Apoio definido toca cimento com som; boca visível. Sem nome/origem/ataque/identidade anterior confirmada. |
+| Decisões e saída | Maya põe água junto ao muro, afasta Caio do confronto, manifesta arco na mão esquerda e ergue-o. Caio vivo, ileso, perto do caminho livre; resposta a “Corre, Caio” ainda não narrada. |
+
 ## Estado do ciclo
 
-Capítulos 1–5 canonizados e fechados; auditoria acumulada 1–5 encerrada. **Capítulo 6 — O caminho de volta, v1.1, PROVISÓRIO / AGUARDANDO APROVAÇÃO DO CAPÍTULO.** Fatos novos apenas em [[Capítulo 06 - Auditoria]], sem promoção ao cânone. Capítulo 7 não iniciado; produção parada para aprovação humana.
+Capítulos 1 e 2 v1.2 e Capítulos 3–6 v1.1 canonizados e fechados. Nenhum capítulo pendente de aprovação. Auditoria acumulada 1–5 encerrada. **Capítulo 7 não iniciado**; produção parada neste fechamento por instrução expressa do autor.
