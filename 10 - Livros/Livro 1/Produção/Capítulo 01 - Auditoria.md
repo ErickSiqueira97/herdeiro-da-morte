@@ -10,7 +10,7 @@ tags: [livro-1, capitulo-01, auditoria]
 
 ## Escopo e fontes
 
-Manuscrito auditado: `Manuscrito/01 - Casa Valença.md`, versão 1.1. Avaliação editorial da própria redação, sujeita à leitura e aprovação humanas.
+Manuscrito auditado: `Manuscrito/01 - Casa Valença.md`, versão 1.2. Revisão exclusiva de ritmo e precisão, comparada à v1.1 preservada no commit `8c5216d`. Avaliação editorial da própria redação, sujeita à leitura e aprovação humanas. As fontes e os limites canônicos consultados no ciclo anterior permanecem os mesmos.
 
 Por instrução expressa do autor, foram usadas as versões commitadas na `main`, fixadas no commit-base `28d2c31dd33ad100b5f9bfb41a0b4b418b518da5`. As alterações locais anteriores não foram utilizadas como fonte, modificadas ou incluídas nos commits da produção. `.obsidian` não foi consultada como fonte narrativa.
 
@@ -41,9 +41,9 @@ Observações documentais não bloqueadoras, sem correção nas fontes:
 | G. Mistério | PASSA. Nenhuma percepção impossível, observadora, infância traumática ou explicação sobrenatural. “Registro” designa exclusivamente a peça hidráulica, em minúsculas e sem destaque. |
 | H. Foreshadowing | PASSA. “Cacá” integra provocação banal. Frase paterna entra na discussão sobre o gasto; não recebe comentário temático. Ferramentas e tampa de pote têm função imediata. |
 | I. Poder | PASSA / não acionado. Não há poder, concessão, cosmologia ou regra nova. O reparo decorre de compra e trabalho comuns. |
-| J. Continuidade | PASSA. Caio trabalha e estuda; não se fixa profissão civil de Marcelo, idade exata dos familiares, cidade ou data ficcional. Log inicialmente vazio. Novos detalhes estão listados abaixo, sem canonização. |
-| K. Ritmo | PASSA. Café e provocação dão lugar ao custo e ao atrito; compra é breve; reparo encerra com consequência. O capítulo respira sem abrir uma subtrama hidráulica. |
-| L. Prosa | PASSA após ajuste local. Corrigida referência ambígua ao arquivo da faculdade e à intenção de conferi-lo no ônibus: agora a tarefa pendente é copiá-lo do computador para o pendrive. Vozes se distinguem por respostas, prioridades e ações. |
+| J. Continuidade | PASSA. Inventário abaixo cotejado com a v1.2: mesmos fatos, objetos, valores, relações e estado de saída. Nenhum fato novo introduzido. Permanecem as previsões de onze, quatro e dezoito minutos para o ônibus, na mesma ordem. Log sem entradas canonizadas. |
+| K. Ritmo | PASSA após revisão. Redução de 8,37%, concentrada nas ações posteriores à decisão de ajudar. Condensadas a preparação no quarto, a espera na loja, a entrega das peças e a execução do reparo. Preservadas as trocas familiares e a decisão de permanecer para segurar a luz. |
+| L. Prosa | PASSA após revisão. Reduzidas locuções, movimentos intermediários e confirmações repetidas. A cópia do exercício para o pendrive permanece clara; as falas protegidas e o fecho mantêm a redação da v1.1. |
 | M. Experiência | PASSA na avaliação editorial. Meia molhada, trabalho escolar, pão disputado e compra adiada sustentam interesses locais; a cena não exige conhecimento do planejamento. |
 | N. Leitura comercial | PASSA na avaliação editorial. A pergunta local é quanto Caio cederá de sua manhã; a resposta produz atraso e atrito. O fecho conserva o vínculo fraterno sem ameaça artificial. |
 
@@ -51,10 +51,35 @@ Observações documentais não bloqueadoras, sem correção nas fontes:
 
 - **P0 encontrados: 0. P0 restantes: 0.**
 - **P1 encontrados: 0. P1 restantes: 0.**
-- **P2 corrigido:** clareza da tarefa de salvar/copiar o exercício. A primeira versão sugeria material pronto na mochila e conferência no ônibus sem estabelecer dispositivo disponível; a versão 1.1 mantém o arquivo no computador de casa e sua transferência antes da saída.
-- **P2 de gosto/refino restante:** abertura deliberadamente doméstica e concentrada em uma única manhã. O grau de demora no café/conserto pode ser calibrado após leitura humana; cortar agora reduziria o espaço de convivência pedido pelo Outline. Não constitui pendência estrutural.
+- **P2 corrigido na v1.1 e preservado:** clareza da tarefa de salvar/copiar o exercício do computador para o pendrive antes da saída.
+- **P2 tratado na v1.2:** demora em repetições funcionais após a decisão de ajudar e na sequência compra → retorno → reparo. Corte dentro da faixa de 8–12% solicitada.
+- **P2 restantes identificados: 0.** A abertura continua deliberadamente doméstica; a preferência humana pelo ritmo final permanece critério de aprovação, sem pendência específica identificada nesta revisão.
 
-## Fatos novos candidatos à continuidade — NÃO APROVADOS
+## Diferenças objetivas — v1.1 → v1.2
+
+Contagem restrita à prosa após o título: exclui YAML, título e sinais isolados de pontuação. Mesmo critério nas duas versões: sequências de letras ou números, expressão `\b[\p{L}\p{N}]+\b`.
+
+| Medida | v1.1 | v1.2 | Diferença |
+|---|---:|---:|---:|
+| Palavras de prosa | 2.271 | 2.081 | −190 (−8,37%) |
+| Capítulos produzidos neste ciclo de revisão | 1 | 1 | Nenhum capítulo adicional |
+| Fatos acrescentados | — | 0 | Inventário preservado |
+
+Cortes e condensações:
+
+1. Abertura: descrição mais direta da meia e do vazamento, preservando a percepção corporal e a rotina.
+2. Decisão: retirada da repetição mental de “resolver tudo”, mantendo a irritação, o argumento concreto e “Eu também moro aqui”.
+3. Quarto: salvar/copiar o exercício ocupa um único encadeamento, sem detalhar a janela de confirmação do computador.
+4. Compra: reduzidos percurso, espera e reconsideração das parcelas; continuam a cliente da mangueira, o pacote reservado, o preço inalterado do SSD, sua retirada do carrinho, conferência das peças, débito e nota.
+5. Retorno: retiradas as confirmações redundantes “E confere se vêm as duas” / “Tá, pai” e “Certo?”. Permanecem instruções de Marcelo, comparação das roscas e autorização para Caio sair.
+6. Reparo: menos movimentos intermediários; mantidos fita, celular que escorrega, decisão de segurar a luz, hábito respiratório de Marcelo, abertura do registro geral e teste com papel seco.
+7. Atraso: aviso ao trabalho mais conciso, com a explicação apagada e a estimativa preservadas.
+
+Proteções conferidas individualmente: “Cacá” casual; “Você não precisa resolver tudo para todo mundo”; “Eu também moro aqui”; preferência e intervenção de Helena; trabalho escolar e autonomia de Lívia; SSD adiado; R$ 146 pagos; ônibus perdido; tampa para parafusos, organização de ferramentas e competência de Marcelo. O trecho final, da saída pela porta à mensagem *Se comer, compra outro.* e ao pão comido a caminho do ponto, permanece integralmente igual.
+
+A cadeia causal continua: problema doméstico → custo disputando reserva pessoal → escolha de comprar → retorno com margem curta → escolha de ajudar no reparo → ônibus perdido. Nenhuma reconciliação foi acrescentada ao atrito entre pai e filho.
+
+## Fatos candidatos à continuidade da v1.1, preservados na v1.2 — NÃO APROVADOS
 
 | Campo | Proposta concretizada na prosa |
 |---|---|
@@ -75,6 +100,6 @@ Observações documentais não bloqueadoras, sem correção nas fontes:
 
 ## Gate pós-escrita
 
-Função, causalidade, agência, vida concreta, exposição, legibilidade espacial, limite de revelações, diálogo e saída orgânica verificados. Nenhum P0/P1 identificado após revisão. Fatos propostos listados; log criado sem entradas aprovadas. Nenhum capítulo seguinte iniciado.
+Função, causalidade, agência, vida concreta, exposição, legibilidade espacial, limite de revelações, diálogo e saída orgânica reavaliados na v1.2 e cotejados com a v1.1. Nenhum P0/P1 identificado após revisão. Fatos propostos preservados; log permanece sem entradas aprovadas, com referência atualizada para v1.2. Nenhum capítulo seguinte iniciado. Status PROVISÓRIO mantido.
 
 **AGUARDANDO APROVAÇÃO DO CAPÍTULO.**

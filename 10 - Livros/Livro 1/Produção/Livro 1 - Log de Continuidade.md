@@ -14,6 +14,6 @@ Nenhum capítulo de prosa aprovado neste ciclo. Nenhum fato local da primeira ve
 
 ## Pendente de aprovação
 
-Capítulo 01 — Casa Valença, versão 1.1, PROVISÓRIO. Os candidatos à continuidade estão em [[Capítulo 01 - Auditoria]], separados dos fatos aprovados.
+Capítulo 01 — Casa Valença, versão 1.2, PROVISÓRIO. Os candidatos à continuidade estão em [[Capítulo 01 - Auditoria]], separados dos fatos aprovados. Revisão de ritmo e precisão sem acréscimo de fatos em relação à v1.1.
 
 Após aprovação humana, registrar aqui tempo, local, presentes, estado físico, ferimentos, roupas relevantes, objetos, dinheiro, conhecimento individual, promessas, mentiras, decisões, pistas, relações, hábitos, nomes menores, geografia e callbacks da versão aprovada.

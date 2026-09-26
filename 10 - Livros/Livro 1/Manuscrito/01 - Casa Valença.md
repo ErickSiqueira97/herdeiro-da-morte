@@ -3,7 +3,7 @@ id: livro1-manuscrito-cap01
 tipo: capitulo
 schema_version: 1.1
 status: PROVISÓRIO
-versao: 1.1
+versao: 1.2
 tags: [livro-1, capitulo-01, manuscrito]
 ---
 
@@ -11,7 +11,7 @@ tags: [livro-1, capitulo-01, manuscrito]
 
 Caio descobriu a água no chão depois de calçar a meia.
 
-Ficou parado à entrada da cozinha, com o pé esquerdo levantado, tentando entender por que havia uma assadeira debaixo da pia. Uma gota caiu dentro dela. Outra atingiu o azulejo e espirrou no seu tornozelo.
+Parou à entrada da cozinha, com o pé esquerdo levantado. Por que havia uma assadeira debaixo da pia? Uma gota caiu dentro dela; outra espirrou do azulejo no seu tornozelo.
 
 — Não pisa aí — disse Lívia.
 
@@ -21,7 +21,7 @@ Ela estava sentada à mesa, dobrada sobre uma folha de papel, com um pedaço de 
 
 — Eu avisei a mãe.
 
-Caio puxou a meia pelo calcanhar e ficou com ela pendurada entre dois dedos. Ainda estava morna na parte seca. Pela janela da área de serviço entrava o barulho de alguém arrastando um portão; o café já tinha passado, e ele queria muito chegar até a garrafa sem precisar tomar uma decisão.
+Caio puxou a meia pelo calcanhar. Pendurada entre dois dedos, ainda estava morna na parte seca. Pela janela da área de serviço vinha o barulho de um portão sendo arrastado. Ele queria chegar à garrafa de café sem precisar tomar uma decisão.
 
 — Cadê o pano?
 
@@ -137,7 +137,7 @@ Ele devolveu o telefone à mulher.
 
 — Guarda, por favor — disse ela à pessoa do outro lado. — Daqui a pouco alguém passa aí.
 
-Desligou e abriu outra tela. Caio sabia qual era pelo jeito como ela cobriu o teclado ao digitar a senha, mesmo em casa. Ela sempre fazia isso.
+Desligou e abriu outra tela. Caio reconheceu o hábito de cobrir o teclado ao digitar a senha, mesmo em casa.
 
 — Hoje sai a luz — disse.
 
@@ -205,7 +205,7 @@ Marcelo guardou a chave de fenda na caixa, encaixando-a sob o alicate. Demorou u
 
 — Você não precisa resolver tudo para todo mundo.
 
-O rosto de Caio esquentou. Ele não estava tentando resolver tudo. Eram duas peças. Tinha o dinheiro, a loja ficava a poucos minutos dali e o pai estava sentado no chão desde antes de ele acordar. Quis dizer isso, mas saiu outra coisa:
+O rosto de Caio esquentou. Eram duas peças. Tinha o dinheiro, a loja ficava a poucos minutos dali e o pai estava no chão desde antes de ele acordar. Mas só disse:
 
 — Eu também moro aqui.
 
@@ -219,13 +219,13 @@ Lívia puxou o saco de pão para longe do celular, que vibrava outra vez.
 
 Caio se levantou. A cadeira raspou alto demais. Foi trocar a meia e calçar o tênis.
 
-No quarto, a luz do computador piscava em suspensão. Tocou o mouse por hábito. A página do exercício apareceu, com uma janela na frente perguntando se queria salvar as alterações. Salvou, esperou o arquivo terminar de copiar para o pendrive e tirou-o. A previsão do ônibus no celular tinha diminuído para onze minutos.
+No quarto, despertou o computador com o mouse. Salvou as alterações do exercício, copiou o arquivo para o pendrive e tirou-o. No celular, faltavam onze minutos para o ônibus.
 
 Da cozinha, ouviu Helena perguntar a Lívia se ela queria ajuda para ler a foto. A irmã respondeu que queria que Júlia aprendesse a mandar um arquivo. Depois pediu à mãe que lesse uma palavra.
 
 Caio pegou a carteira.
 
-Marcelo o esperava perto da porta com as peças velhas dentro de um saco de pão vazio.
+Marcelo o esperava à porta com as peças velhas num saco de pão.
 
 — Mostra estas. Não compra só porque parece igual.
 
@@ -233,21 +233,17 @@ Caio recebeu o saco.
 
 — Tá.
 
-— E confere se vêm as duas.
-
-— Tá, pai.
-
-Marcelo segurou o saco mais um instante antes de soltá-lo.
+Marcelo demorou um instante a soltar o saco.
 
 — Pede a nota.
 
-Na rua, o sol já pegava a calçada do lado do depósito. Caio foi pela sombra até onde pôde, atravessou e entrou ainda olhando o relógio. O homem no balcão estava cortando uma mangueira para uma senhora; apontou com o queixo para um pacote separado junto à caixa registradora. Caio teve de esperar que ele terminasse de medir.
+Caio seguiu pela sombra antes de atravessar para a calçada ensolarada do depósito, de olho no relógio. No balcão, o homem que cortava uma mangueira para uma senhora apontou o pacote junto à caixa registradora. Caio esperou que terminasse de medir.
 
-Enquanto esperava, abriu de novo a página do SSD. O preço continuava igual. Tirou o produto do carrinho antes que pudesse começar a calcular quanto ficaria em parcelas.
+Reabriu a página do SSD. Mesmo preço. Tirou o produto do carrinho antes de calcular as parcelas.
 
 Conferiu as peças com o vendedor, pagou no débito e guardou a nota no saco. Na volta, já não escolheu o lado da sombra.
 
-Lívia estava junto à porta, com a mochila num ombro e a folha protegida dentro de uma pasta. Esperou que ele chegasse para sair.
+Lívia o esperava à porta, com a mochila num ombro e a folha numa pasta, pronta para sair.
 
 — A mãe guardou seu café.
 
@@ -257,17 +253,15 @@ Ela bateu a pasta de leve na barriga dele.
 
 — Não encosta. Tem cola.
 
-Caio ergueu as mãos. Lívia passou, tornou a pôr a cabeça para dentro e avisou que talvez demorasse um pouco depois da aula para ensaiar a apresentação. Helena respondeu da cozinha que mandasse mensagem. A irmã já atravessava o portão quando acrescentou:
+Caio ergueu as mãos. Ao passar, Lívia avisou que talvez ficasse depois da aula para ensaiar. Helena pediu que mandasse mensagem. Já no portão, a irmã acrescentou:
 
 — E tira sua meia da cadeira, pelo amor de Deus.
 
-Marcelo recebeu as peças, abriu as embalagens e comparou as roscas com as antigas. Caio ficou esperando.
-
-— Certo? — perguntou.
+Marcelo desembalou as peças e comparou as roscas com as antigas.
 
 — Certo. Pode ir.
 
-Faltavam quatro minutos para o ônibus. A mochila estava na cadeira; bastava pegar a vasilha, enfiar no compartimento de cima e andar rápido. Caio levou a meia molhada até o tanque, voltou e colocou o almoço na mochila. O pai já estava ajoelhado diante da pia, enrolando uma fita branca na rosca da peça nova.
+Faltavam quatro minutos para o ônibus. Caio levou a meia ao tanque e guardou a vasilha no compartimento de cima da mochila, na cadeira. Ainda dava, andando rápido. Ajoelhado diante da pia, o pai enrolava fita branca na rosca nova.
 
 — Tem que esperar secar?
 
@@ -275,7 +269,7 @@ Faltavam quatro minutos para o ônibus. A mochila estava na cadeira; bastava peg
 
 Caio pegou a caneca que Helena cobrira com um pires. Tomou o café em pé. Estava morno e mais doce perto do fundo.
 
-Marcelo se inclinou para dentro do armário e procurou apoio com a mão livre. O celular que usava como lanterna escorregou da borda, apagando o interior da pia. Ele o segurou antes que caísse na água.
+Marcelo se inclinou para dentro do armário. O celular que usava como lanterna escorregou da borda, deixando a pia às escuras. Segurou-o antes que caísse na água.
 
 Caio pôs a caneca na mesa.
 
@@ -285,11 +279,11 @@ Caio pôs a caneca na mesa.
 
 — Eu seguro aqui e você termina.
 
-Pegou o telefone. Para iluminar direito, precisou agachar ao lado do pai e apoiar o cotovelo no joelho. Marcelo girou a peça uma vez, conferiu a posição e continuou. Caio reconhecia aquela respiração curta pelo nariz: era a que o pai fazia quando alguma coisa não encaixava, e também quando alguém mexia nos seus papéis procurando uma caneta.
+Agachou com o telefone ao lado do pai, cotovelo no joelho para firmar a luz. Marcelo girou a peça, conferiu a posição e continuou. Respirava curto pelo nariz, como quando algo não encaixava ou alguém remexia seus papéis procurando caneta.
 
 O próprio celular vibrou no bolso. Ele não tirou para olhar.
 
-Quando Marcelo pediu água, Caio foi abrir o registro de fora. Voltou devagar com a mão ainda úmida. O pai passou um pedaço de papel seco por baixo da conexão, mostrou-o a Helena e abriu a torneira.
+Quando Marcelo pediu, Caio abriu o registro de fora e voltou com a mão úmida. O pai passou papel seco sob a conexão, mostrou-o a Helena e abriu a torneira.
 
 A água bateu na cuba. Nada caiu na assadeira.
 
@@ -297,7 +291,7 @@ Helena afastou o balde com o pé e já trouxe uma panela. Marcelo ainda observou
 
 Caio olhou o telefone. O próximo ônibus vinha em dezoito minutos.
 
-Sentiu o estômago apertar, agora sem relação com o pão. Escreveu para o trabalho que ia se atrasar, leu a frase e apagou a explicação comprida sobre o encanamento. Deixou apenas o aviso e a estimativa de chegada.
+O estômago apertou. Escreveu para o trabalho, apagou a explicação comprida sobre o encanamento e deixou o aviso de atraso e a estimativa de chegada.
 
 — Quanto? — perguntou Marcelo.
 
