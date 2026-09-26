@@ -227,7 +227,7 @@ Depois do outline:
 ## Vermelho — gargalo atual
 - restante do quarteto;
 - sete integrantes restantes da Elite;
-- Santuário operacional;
+- Santuário: estrutura interna, financiamento, governos, hierarquia e protocolos operacionais;
 - cadeia causal completa do Livro 1;
 - aplicações operacionais do Véu no mundo moderno;
 - outline de capítulos;
