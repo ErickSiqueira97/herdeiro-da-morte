@@ -383,3 +383,26 @@ Primeira consolidação do Vault.
 - A vida cotidiana de Elisa e seu projeto de centro de reabilitação permanecem importantes independentemente de Caio.
 - **A morte de Elisa não foi canonizada.** A possibilidade de Caio herdar Florescer continua apenas como direção futura.
 - O PROCESSO passa a registrar aproximadamente **64% do planejamento trilógico** e **21% do projeto completo/publicável**.
+
+
+## 26/09/2026 — Samira Nasser, Thoth e Testemunho
+- A Investigadora de Thoth passa a ser **Samira Nasser**, 23 anos, brasileira e neta de imigrantes egípcios; ancestralidade não é requisito de Sucessão.
+- Samira possui formação/vínculo em Arquivologia, preservação documental e registros e atua no Arquivo de Sucessões do Santuário.
+- Seu talento central é perceber incompatibilidades entre informações aparentemente verdadeiras; sua falha é confundir, às vezes, o direito de procurar com o direito de saber.
+- Família-base: Karim Nasser, Luciana Nasser, avó Nádia e dois irmãos ainda a desenvolver.
+- Beatriz estabelece um erro pré-Sucessão: Samira descobre corretamente um segredo que a amiga não queria compartilhar e aprende que estar factualmente certa não significa estar moralmente autorizada.
+- Thoth escolhe Samira quando ela registra honestamente **“não é possível concluir”** diante de evidência que enfraquece a própria hipótese.
+- A Autoridade de Thoth passa a ser **Testemunho**, com três aplicações-base: Leitura, Comparação e Registro.
+- Testemunho exige evidência, não concede onisciência e não torna interpretações de Samira infalíveis.
+- Princípio: **“Ausência de registro não é registro de ausência.”**
+- O custo é sobrecarga de proveniência: Samira pode lembrar uma informação sem distinguir imediatamente se viu, ouviu, leu, recebeu por Testemunho ou deduziu.
+- Ela utiliza cadernos com códigos V/O/T/D/? para preservar origem das informações.
+- A Relíquia-Eco é a **Paleta do Escriba**, acompanhada de cálamo e inscrições temporárias próprias da Autoridade.
+- Em combate, Samira depende de observação e preparação para identificar padrões prováveis; não prevê o futuro.
+- Thoth não funciona como fonte conveniente de exposição. Seus silêncios devem distinguir desconhecimento, conhecimento compartilhável e recusa deliberada coerente.
+- Samira aceita inicialmente Caio como Successor de Seshat. A assinatura superficial está correta; a arquitetura profunda é incompatível/indeterminada e inicialmente atribuída à Cicatriz da Alma.
+- A investigação da falsa Seshat progride pela mudança da pergunta, não pela incompetência dos leitores do Santuário.
+- Relações próprias fechadas em direção: amizade crítica com Elisa; complementaridade/conflito metodológico com Maya; confiança gradual e platônica com Caio.
+- Arco epistemológico: **“Se é verdade, preciso descobrir” → “Se descobri, preciso registrar corretamente” → “Saber alguma coisa não me torna dona dela.”**
+- Desenho definitivo da Marca, limites táticos finos e destino final permanecem em aberto.
+- O PROCESSO passa a registrar aproximadamente **67% do planejamento trilógico** e **22% do projeto completo/publicável**.
