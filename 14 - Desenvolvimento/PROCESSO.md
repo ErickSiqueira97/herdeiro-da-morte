@@ -22,16 +22,16 @@ ultima_auditoria: 2026-09-26
 ## Dois indicadores
 
 ### Planejamento da trilogia
-**58% concluído · 42% restante**
+**60% concluído · 40% restante**
 
 Mede Bíblia, cosmologia, elenco, organizações, história, poderes, mistérios, causalidade, foreshadowing e arquitetura dos três livros.
 
 ### Projeto completo/publicável
-**18% concluído · 82% restante**
+**19% concluído · 81% restante**
 
 Inclui todo o planejamento acima + outline, redação integral dos três romances, revisões estruturais, continuidade, ritmo, prosa e revisão final.
 
-> O número principal para a fase atual é **58% do planejamento**. O projeto completo permanece em **18%** porque a prosa definitiva ainda não começou.
+> O número principal para a fase atual é **60% do planejamento**. O projeto completo permanece em **19%** porque a prosa definitiva ainda não começou.
 
 ---
 
@@ -46,7 +46,7 @@ Inclui todo o planejamento acima + outline, redação integral dos três romance
 | Maya | 6% | 82% | 4,9 |
 | Restante do quarteto | 8% | 25% | 2,0 |
 | Elite de Ares | 7% | 52% | 3,6 |
-| Hereges / Ecos Artificiais | 7% | 58% | 4,1 |
+| Hereges / Ecos Artificiais | 7% | 68% | 4,8 |
 | Santuário | 7% | 35% | 2,5 |
 | Deuses/personagens divinos centrais | 5% | 35% | 1,8 |
 | Mistérios e revelações | 7% | 75% | 5,3 |
@@ -54,7 +54,7 @@ Inclui todo o planejamento acima + outline, redação integral dos três romance
 | Arquitetura Livro 1 | 5% | 40% | 2,0 |
 | Arquitetura Livro 2 | 3% | 25% | 0,8 |
 | Arquitetura Livro 3 | 2% | 30% | 0,6 |
-| **TOTAL** | **100%** |  | **≈58%** |
+| **TOTAL** | **100%** |  | **≈60%** |
 
 Os pesos refletem impacto estrutural. Percentual alto em cosmologia não compensa quarteto ou causalidade incompletos.
 
@@ -69,7 +69,7 @@ Os pesos refletem impacto estrutural. Percentual alto em cosmologia não compens
 - confirmar e desenvolver [[Investigadora de Thoth]];
 - definir fonte divina e desenvolver [[Melhor Amigo]];
 - desenvolver Diretor do Santuário;
-- desenvolver fundador dos [[Hereges]], mulher perdida, divindade dela e Primeiro Eco;
+- aprofundar [[Dante Vilar]] e [[Amélia Salles]]: divindade/Autoridade, morte, Primeiro Eco e destino histórico;
 - desenvolver os sete integrantes restantes da [[Elite de Ares]];
 - criar relações entre personagens que existam sem Caio;
 - auditar desejos, defeitos, contradições, vida civil, relações e arcos próprios.
