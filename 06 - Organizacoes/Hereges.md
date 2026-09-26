@@ -234,7 +234,7 @@ A existência de correntes que aguardam morte natural, utilizam corpos recuperad
 
 A descoberta dos Vestígios não começa como pesquisa deliberada.
 
-O fundador dos Hereges perde a mulher que ama depois de ela ter se tornado Successora. No instante de sua morte, a Autoridade retorna normalmente ao deus e sua Relíquia-Eco se desfaz, mas uma pequena **essência luminosa**, irregular e pulsante, desprende-se do que restou do vínculo.
+[[Dante Vilar]], fundador dos Hereges, perde [[Amélia Salles]], a mulher que ama, depois de ela ter se tornado Successora. No instante de sua morte, a Autoridade retorna normalmente ao deus e sua Relíquia-Eco se desfaz, mas uma pequena **essência luminosa**, irregular e pulsante, desprende-se do que restou do vínculo.
 
 Visualmente, o fenômeno lembra um pequeno vagalume.
 
@@ -294,7 +294,7 @@ Ele não recebe a Autoridade que a mulher possuía. O equipamento reproduz somen
 
 Sua capacidade de enfrentar Successores deriva da combinação entre esse Eco, preparação, estudo dos alvos e experiência. O primeiro Eco não transforma um humano em equivalente natural de um Successor.
 
-O formato e as propriedades específicas do equipamento dependerão da identidade da mulher e de sua divindade de origem, ainda em desenvolvimento.
+A primeira aplicação do Eco possui direção **defensiva/preservadora**, coerente com a manifestação residual de Amélia. O formato e as propriedades específicas dependerão de sua divindade e Autoridade, ainda em desenvolvimento.
 
 #### O medalhão permanece
 
@@ -309,6 +309,24 @@ O ato de abrir e fechar o medalhão torna-se um ritual pessoal do fundador.
 Outros integrantes podem classificá-lo tecnicamente como **Vestígio Primário**, **V-001** ou **Núcleo do Primeiro Eco** — terminologia institucional definitiva ainda em aberto.
 
 O fundador, porém, não o reduz emocionalmente a uma designação técnica: para ele, o Vestígio permanece associado ao **nome dela**.
+
+#### Dante, Amélia e a radicalização — CANON
+
+Dante Vilar vive no fim do século XIX/início do XX e trabalha com relojoaria, mecânica de precisão e instrumentos científicos. Sua tendência anterior ao sobrenatural é procurar causas, abrir mecanismos e tentar reparar aquilo que quebra.
+
+Amélia Salles, cerca de dois anos mais jovem, dedica-se a botânica e ilustração científica. Ela possui sonhos, relações e interesses próprios e compreende melhor que Dante que término não equivale a apagamento.
+
+Os dois já formam um casal antes da Sucessão de Amélia. O relacionamento inclui felicidade cotidiana, humor, desacordos e projetos independentes. O medalhão é uma antiga peça da família de Amélia entregue a Dante durante o relacionamento/noivado.
+
+Amélia torna-se Successora por decisão de uma divindade ainda não definida, após uma escolha humana em que permanece para proteger/cuidar de pessoas quando poderia se retirar. Sua continuidade no mundo sobrenatural também é escolha própria.
+
+Ela morre posteriormente em conflito envolvendo Successores depois de novamente decidir permanecer para ajudar outras pessoas. A tragédia não possui culpado único simples e sua causalidade fina permanece em aberto.
+
+O primeiro uso do Vestígio preservado não nasce como arma de extermínio, mas como forma de **proteção/sobrevivência**. A evolução histórica da facção segue a direção:
+
+**proteção → resistência → neutralização → caça → extermínio.**
+
+A descoberta decisiva para transformar experiência individual em tecnologia é que a propriedade do medalhão pode ser estudada e reproduzida. A engenharia posterior não é obra de um gênio solitário: Dante inicia o processo e outras pessoas e gerações o transformam na infraestrutura Herege.
 
 #### Origem ideológica dos Hereges
 
