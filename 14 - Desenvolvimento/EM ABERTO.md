@@ -49,7 +49,7 @@ versao: 1.0
 - Primeiro Sucessor morto e primeira Autoridade registrada.
 - Primeiro Eterno morto.
 - Lista de deuses mortos/sobreviventes.
-- Momento e mecanismo exatos da morte da [[Sucessora de Idunn]].
+- [[Elisa Noronha]]: cidade/visual, Marca de Iðunn, regras táticas completas de Florescer, cronologia dos dois anos como Successora, entrada no Santuário, relações próprias no quarteto, progressão do romance e arco dos Livros 2–3. Sua morte/sobrevivência permanece deliberadamente aberta.
 - Gilgamesh vivo no presente? Direção favorita: sim, longevidade/imortalidade imperfeita.
 - Relação exata entre Livro original da Morte e Eco do protagonista.
 - Mecanismo exato e caráter definitivo ou não da terceira morte/destino final do protagonista, incluindo o destino das frações de Eternidade acumuladas caso ele morra. **Deliberadamente reservado para desenvolvimento no Livro 3.**
