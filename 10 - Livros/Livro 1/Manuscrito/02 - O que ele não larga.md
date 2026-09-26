@@ -3,7 +3,7 @@ id: livro1-manuscrito-cap02
 tipo: capitulo
 schema_version: 1.1
 status: PROVISÓRIO
-versao: 1.1
+versao: 1.2
 tags: [livro-1, capitulo-02, manuscrito]
 ---
 
@@ -49,7 +49,7 @@ Caio abriu o histórico. Havia um atendimento encerrado menos de uma hora antes:
 
 — Entrar, eu entro. O orçamento que não vai.
 
-O portal recebia pedidos de assistência e os documentos necessários para cada solicitação. Caio atendia gente que usava aquilo todo dia e gente que só queria mandar um arquivo e nunca mais ouvir falar no assunto. Sérgio precisava enviar o orçamento do conserto de um equipamento da oficina. Tinham pedido que anexasse pelo portal; sem a confirmação, ele não sabia se já podia ir buscar uma peça.
+O portal recebia pedidos de assistência e documentos. Alguns clientes usavam todo dia; outros só queriam mandar um arquivo e nunca mais voltar. Sérgio precisava anexar o orçamento do conserto de um equipamento da oficina. Sem confirmação, não sabia se podia buscar uma peça.
 
 — Aparece alguma mensagem quando tenta?
 
@@ -63,7 +63,7 @@ Houve um barulho de papel, depois Sérgio afastou o telefone e pediu a alguém q
 
 — “Arquivo adicionado.” Eu já adicionei três vezes.
 
-Caio orientou que procurasse a confirmação na área de solicitações. Como Sérgio não lhe dava um número, pediu que atualizasse a página. O homem soltou o ar no microfone.
+Caio pediu que procurasse o número na área de solicitações e, sem resposta, mandou atualizar a página. Sérgio soltou o ar.
 
 — Vou perder o que eu fiz?
 
@@ -73,7 +73,7 @@ Caio tinha começado a dizer que não, mas parou.
 
 — Estou. Você mandou procurar o número, eu não sei onde é.
 
-Caio recostou a cadeira e apertou a ponte do nariz. Estava dando a segunda instrução antes de descobrir se a primeira tinha sido cumprida. Reabriu o roteiro na tela ao lado.
+Caio recostou a cadeira, apertando a ponte do nariz. Dava instruções sem conferir a anterior. Reabriu o roteiro.
 
 Marta parou atrás dele, viu o horário da chamada e apontou para a opção de encaminhamento. Ele cobriu o microfone.
 
@@ -91,19 +91,17 @@ Caio explicou. Do outro lado, uma ferramenta caiu no chão. Sérgio pediu descul
 
 — Eu tiro foto e mando pra onde?
 
-Para o mesmo portal, num campo parecido. Caio olhou o texto que já digitara no chamado. Se encaminhasse assim, alguém receberia uma descrição vaga, pediria a imagem e Sérgio voltaria a procurar o botão que não encontrava.
+Para o mesmo portal, num campo parecido. Caio olhou o chamado incompleto: pediriam a imagem, e Sérgio voltaria ao botão que não encontrava.
 
-Bia se levantou ao lado dele com uma garrafa vazia. Apontou para o relógio e, depois, para si. A pausa dela vinha depois da dele.
+Bia levantou com a garrafa vazia e apontou o relógio. Sua pausa vinha depois da dele.
 
 Caio ergueu dois dedos.
 
 Ela não concordou. Pôs a garrafa na mesa e sentou de novo.
 
-— O senhor está no computador ou no celular? — perguntou ele.
+Caio confirmou: Sérgio estava no computador, com o telefone à mão.
 
-— Computador. O telefone está comigo.
-
-— Certo. Não precisa tirar foto ainda. Me diz o que aparece embaixo do nome do arquivo.
+— Não precisa tirar foto ainda. O que aparece embaixo do arquivo?
 
 — Nada. Tem aquela barrinha.
 
@@ -111,19 +109,11 @@ Ela não concordou. Pôs a garrafa na mesa e sentou de novo.
 
 — Não sei o nome, rapaz. Tem uma no canto e outra aqui dentro.
 
-Caio abriu o ambiente de treinamento. Escolheu um arquivo de exemplo e o adicionou à solicitação. O aviso verde apareceu, seguido do botão de confirmar, na parte de baixo da janela. Na tela dele, cabia tudo.
+No ambiente de treinamento, Caio adicionou um arquivo de exemplo. Aviso verde, botão de confirmar embaixo: cabia tudo. Diminuiu a altura da janela. O botão ficou escondido; restou a barra interna, estreita, quase da cor do fundo.
 
-Reduziu a altura da janela com o mouse.
+Pediu que descesse pela barra interna, mas Sérgio moveu a página de fora até o rodapé.
 
-O botão sumiu para baixo. A barra de rolagem interna continuou lá, estreita, quase da cor do fundo.
-
-— Essa de dentro. Consegue descer por ela?
-
-Ouviu cliques.
-
-— Desceu tudo. Estou vendo o rodapé.
-
-— Foi a página de fora. Volta um pouco. Vamos tentar pela rodinha do mouse, com a seta em cima do nome do arquivo.
+— Volta um pouco. Tenta a rodinha do mouse com a seta sobre o arquivo.
 
 Sérgio ficou quieto. Caio segurou a vontade de repetir a instrução. Na mesa ao lado, Bia dizia seu nome e cumprimentava outro cliente.
 
@@ -141,7 +131,7 @@ Caio esperou ouvir a caneta parar.
 
 — Enviado. A análise é outra etapa.
 
-Leu com ele o prazo indicado. Sérgio reclamou do prazo, perguntou se o sábado contava e, por fim, agradeceu. Quando a ligação terminou, Caio percebeu que apertava o fone contra a orelha com a mão, embora o arco o segurasse no lugar.
+Leram o prazo. Sérgio reclamou, perguntou se sábado contava e agradeceu. Ao desligar, Caio percebeu que apertava o fone contra a orelha, embora o arco o segurasse.
 
 O alívio durou até tirar o fone.
 
@@ -263,4 +253,4 @@ Caio abriu a boca para perguntar se ela também tinha visto. A garota ergueu a c
 
 Ele seguiu a direção da lente. No mural, avisos de estágio disputavam espaço com um cartaz de uma festa já passada.
 
-Quando tornou a olhar para ela, a garota conferia a foto. Caio ainda estava com a garrafa vazia.
+Quando tornou a olhar para ela, a garota conferia a foto. Caio ainda estava com a garrafa vazia. Perguntar pelo mural seria mais fácil.

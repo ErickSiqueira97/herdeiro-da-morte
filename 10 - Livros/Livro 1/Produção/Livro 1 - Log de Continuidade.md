@@ -65,4 +65,4 @@ tags: [livro-1, producao, continuidade]
 
 ## Estado do ciclo
 
-Capítulo 1 fechado. Após nova autorização expressa do autor, o Capítulo 2 foi produzido como **PROVISÓRIO**, versão 1.1, e aguarda aprovação. Seus fatos propostos estão exclusivamente em [[Capítulo 02 - Auditoria]]; nenhuma entrada narrativa do Capítulo 2 foi canonizada neste log. **Capítulo 3 não iniciado.**
+Capítulo 1 fechado. Após nova autorização expressa do autor, o Capítulo 2 foi produzido e revisado como **PROVISÓRIO**, versão 1.2, e aguarda aprovação. Seus fatos propostos estão exclusivamente em [[Capítulo 02 - Auditoria]]; nenhuma entrada narrativa do Capítulo 2 foi canonizada neste log. **Capítulo 3 não iniciado.**

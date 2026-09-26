@@ -10,7 +10,7 @@ tags: [livro-1, capitulo-02, auditoria]
 
 ## Escopo e fontes
 
-Manuscrito: [[02 - O que ele não larga]], versão 1.1, **PROVISÓRIO**. Auditoria editorial da própria redação, não leitura independente ou aprovação humana.
+Manuscrito: [[02 - O que ele não larga]], versão 1.2, **PROVISÓRIO**. Revisão cirúrgica de ritmo comparada à v1.1 do commit `9cdacf1`. Auditoria editorial da própria redação, não leitura independente ou aprovação humana.
 
 Fontes canônicas na `main`, base `1f5cbb28911aa13bb6d6256c3b981437fb2c773b`: Bíblia Canônica; Arquitetura Definitiva v2; Outline Definitivo v1, Capítulo 2 e fronteira do 3; Bíblia de Produção; Regras Invioláveis; Mapa de Revelações e Payoffs; Protocolo; Prompt Mestre de Redação; ficha Protagonista e ficha Maya Ferraz; Véu e Ecologia Sobrenatural. O prompt completo do autor na conversa rege o ciclo. Capítulo 1 v1.2 CANON e Log de Continuidade lidos integralmente antes do cartão e da prosa.
 
@@ -30,8 +30,8 @@ O [[Capítulo 02 - Cartão Editorial]] foi criado e commitado antes da redação
 | H. Foreshadowing | PASSA. Persistência e percepção prévia são mostradas em ação. Não há presságio de morte, infância, marca, livro ou narrador anunciando importância futura. A garota olha o mesmo local e fotografa outro alvo, sem explicação. |
 | I. Poder | PASSA / nenhum uso. Caio continua humano sem capacidade nova. A impressão visual respeita os estímulos incompletos possíveis no Véu, sem nomeá-lo ou determinar espécie. A câmera funciona normalmente; nenhuma interferência inventada. |
 | J. Continuidade | PASSA. Mesmo dia; atraso doméstico, roupa, fome, língua sensível, almoço com elástico, pendrive e compra de SSD adiada continuam coerentes. Sem reembolso, reposição de pão ou reconciliação presumidos. Turno termina antes da aula noturna. Nenhum fato proposto foi promovido ao log canônico. |
-| K. Ritmo | PASSA. Atendimento é a cena principal; consequência e almoço dão respiração; a faculdade mostra aprendizado recíproco em escala menor; anomalia ocupa apenas o fecho. Não se repete o conserto doméstico. |
-| L. Prosa | PASSA após ajustes de clareza. Reduzida explicação defensiva do narrador sobre Marta; explicitado o limite do que Caio sabe da tela do cliente; percepção visual formulada como impressão. Diálogos variam conforme urgência, posição e familiaridade. |
+| K. Ritmo | PASSA após redução de 5,43%. Microetapas do atendimento condensadas sem suprimir tentativa, erro, teste, solução ou custo. Consequência, almoço e cena acadêmica mantêm a redação da v1.1. |
+| L. Prosa | PASSA após revisão cirúrgica. Descrição do portal, instruções intermediárias e teste da janela mais concisos; parte da orientação oral passa ao discurso indireto. Mantidas as vozes e as falas protegidas. |
 | M. Experiência | PASSA na avaliação editorial. Rotina profissional tem gente e necessidades próprias. Tempo livre inclui cansaço e episódio interrompido, além de estudo. O capítulo funciona antes de se conhecer a trama sobrenatural. |
 | N. Leitura comercial | PASSA na avaliação editorial. O atendimento abre uma pergunta concreta e a resolve; consequência impede recompensa simples. A atenção aparentemente compartilhada no fecho cria curiosidade sem ameaça ou abordagem artificial. |
 
@@ -42,7 +42,30 @@ O [[Capítulo 02 - Cartão Editorial]] foi criado e commitado antes da redação
 - **P2 corrigido — acesso à informação:** “Nenhum número novo” podia sugerir que Caio verificara a área do cliente, embora Sérgio não tivesse navegado até ela. A versão 1.1 registra somente que o cliente não lhe forneceu um número.
 - **P2 corrigido — comentário explicativo:** removida a frase que defendia explicitamente Marta de estar mandando desligar na cara do homem. Equipe, prazo, procedimento e conduta já demonstram a legitimidade do encaminhamento.
 - **P2 corrigido — precisão do mistério:** a impressão de uma pessoa atrás do ombro é atribuída expressamente à percepção de Caio. Não se confirma presença humana, criatura, alucinação ou causa ordinária.
-- **P2 restante de gosto/refino:** a cena do atendimento é deliberadamente mais longa que a acadêmica. Pode-se calibrar a extensão após leitura humana; nenhuma etapa técnica adicional deve ser inserida. Não é pendência de causalidade.
+- **P2 tratado na v1.2:** extensão das microetapas técnicas do atendimento. Condensação dentro da faixa solicitada, preservando a cadeia essencial e os fatos.
+- **P2 restantes identificados: 0.** A avaliação do ritmo e do refinamento final permanece sujeita à aprovação humana.
+
+## Comparação objetiva — v1.1 → v1.2
+
+Contagem apenas da prosa após o título, sem YAML nem sinais isolados: sequências de letras/números pela expressão `\b[\p{L}\p{N}]+\b`, aplicada igualmente às duas versões.
+
+| Medida | v1.1 | v1.2 | Diferença |
+|---|---:|---:|---:|
+| Palavras | 2.175 | 2.057 | −118 / −5,43% |
+| Fatos novos | — | 0 | Sem acréscimo de evento, personagem, objeto ou informação sobrenatural |
+| Cena acadêmica | Texto-base | Idêntica | Renan mantém a correção conceitual de Caio |
+| Manifestação e hipótese ordinária | Texto-base | Idênticas | Nenhuma ampliação, explicação ou confirmação |
+
+- Foram retiradas 124 palavras líquidas do atendimento, compensadas por seis palavras no refinamento final. Demais trechos sem alterações narrativas.
+- Condensadas a apresentação do portal e a necessidade de Sérgio; o pedido prematuro de atualização permanece e ainda expõe o erro de escuta de Caio.
+- Mantidos o encaminhamento legítimo proposto por Marta, a dificuldade de anexar a imagem, o teste no ambiente de treinamento e o botão fora da área visível. A confirmação do dispositivo e a tentativa de rolagem passam parcialmente ao discurso indireto.
+- Sérgio continua apagando duas das três cópias, confirmando o envio, anotando o número no orçamento, questionando o prazo e agradecendo. Envio não se transforma em aprovação.
+- Preservadas literalmente a cobrança “Foram nove” / “Não dois”, a ligação à creche, a correção de Marta e “Agora eu sei”.
+- A cena acadêmica permanece integral: Caio imprime zero indevidamente, Renan identifica que não existe média sem dados, e a solução exige teste e explicação. Nenhuma elevação de competência.
+- Fecho: acréscimo exclusivo de **“Perguntar pelo mural seria mais fácil.”** Retoma a pergunta não feita, ligando o alvo aparente da fotografia à hesitação de Caio. Não acrescenta percepção, prova, reciprocidade, diálogo ou intenção atribuída à garota.
+- Permanecem movimento no reflexo, faixa ao vento como hipótese, olhar da garota à base da coluna e fotografia do mural. Nome e condição sobrenatural da garota continuam ausentes da prosa.
+
+Todos os eixos A–N reavaliados contra a v1.2 e o inventário abaixo. Nenhum P0/P1 identificado; fatos do Capítulo 1 e prosa canonizada não alterados. Nenhum fato do Capítulo 2 promovido ao cânone.
 
 ## Fatos novos propostos — NÃO CANONIZADOS
 
