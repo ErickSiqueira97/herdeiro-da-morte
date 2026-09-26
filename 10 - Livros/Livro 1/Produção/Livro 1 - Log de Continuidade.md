@@ -137,6 +137,30 @@ Os fatos abaixo preservam os limites do POV: a discrepância é entre percepçã
 | Estado de saída | Após aula, impressão periférica acompanha dois passos, não confirmada na inspeção. Caio aprova foto e legenda, aguarda ônibus numa posição com visão da calçada pelo vidro e não identifica presença até a chegada do veículo. |
 | Setups/callbacks | Precisão de Maya, proteção do registro, discrepância entre memória e foto, mudança na atenção espacial de Caio. Sem obrigação de reutilizar detalhes incidentais ou elevar todos a pistas. |
 
+### Capítulo 05 — Inconclusiva — v1.1
+
+**CANON / FECHADO em 26/09/2026**, por aprovação humana explícita. Fonte: [[05 - Inconclusiva]], versão aprovada no commit 5419fe1, promovida sem alteração do corpo narrativo. Auditoria: [[Capítulo 05 - Auditoria]], P0 = 0, P1 = 0. Calibragem da explicitação ética da omissão aceita como preferência editorial não bloqueadora, sem nova revisão. Auditoria acumulada 1–5 encerrada.
+
+A investigação e a omissão são conhecidas pelo leitor, não por Caio. INCONCLUSIVA é avaliação operacional incompleta, não diagnóstico sobrenatural. Não promover inferências sobre identidade da presença, motivo integral da operação ou cadeia de comando a fatos estabelecidos.
+
+| Campo | Fato concretizado aprovado |
+|---|---|
+| Tempo | Dia seguinte ao 4, inferido também pela autorização recebida na noite anterior. Trabalho de Maya antes da chegada de Caio para a faculdade; ainda há claridade no final. Sem hora/data ficcional definida. |
+| Geografia | Laboratório universitário de edição, banco no patamar com visão da escada, corredor com vista da entrada lateral da biblioteca; passagem junto a gradil/canteiro, terra e cimento. Não fixa relação topográfica completa com a rampa. |
+| Pessoas | Maya, colega anônima, aluna na escada, Caio, três estudantes e dois alunos que atravessam a linha de visão. Contato operacional por texto sem nome, gênero, cargo ou símbolo. |
+| Vida civil | Maya confere áudio da mulher com vasilha na fotografia do balcão; relato diz que esperava irmã sair do trabalho e que vasilha era da irmã. Corrige legenda. Colega compara duas fotos de embarque em ônibus, mantém preferência diferente e promete revisar sequência após aula. |
+| Objetos | Computador do laboratório, telefone, fones, câmera, bolsa, caderno e duas impressões da colega; banco com parafuso prende barra sem rasgo/ferimento estabelecido. Sacola branca presa ao gradil; mochila de Caio em um ombro. |
+| Material civil | Foto das mãos já autorizada, edição/sequência salva; publicação pública não estabelecida. Maya pede crítica à colega e envia aviso de versão pronta. Nenhuma obra ganha título ou nome próprio. |
+| Avaliação | Arquivo sobre CAIO VALENÇA recebe rotina declarada e observações; campo de percepção é obrigatório. Maya registra relato com dúvida e insuficiência fotográfica, escolhe INCONCLUSIVA e envia. |
+| Omissão | Escreve e apaga reação/indicação anteriores à consulta das imagens. Reconhece relevância e enviesamento; não falsifica cronologia por afirmação contrária. |
+| Conhecimento de Maya | Recorda apenas comportamento no pátio e falas/gestos da rampa; transfere fotos preservadas ao telefone. Não conhece por conveniência conteúdo mental de Caio, episódio noturno da rua ou fatos domésticos/profissionais específicos. |
+| Conhecimento de Caio | Percebe forma no gradil, pergunta e procura novamente depois da explicação da sacola. Nenhuma confirmação externa, acesso ao arquivo ou conhecimento operacional. |
+| Conhecimento do contato | Recebe avaliação parcial e resposta favorável à continuidade. Não há transmissão da informação retida nem do novo episódio final. |
+| Relações e decisões | Maya prioriza proteção ao filtrar o relatório, permanece vinculada ao trabalho. Não há declaração de amor, abandono da operação ou resolução romântica. |
+| Corpo/dinheiro | Sem lesão, compra ou valor novo estabelecido. Pendências financeiras de Caio e atrito com Marcelo inalterados. |
+| Presença | Forma de contorno instável junto ao gradil percebida por Maya e acompanhada por Caio; estudante aponta sacola. Sem identidade, agressão, dano ou ligação confirmada com eventos anteriores. |
+| Saída | Caio entra na biblioteca; Maya recebe ordem de observar e não intervir ainda, confirma recebimento. Nova observação permanece retida naquele momento. |
+
 ## Estado do ciclo
 
-Capítulos 1 e 2 v1.2 e Capítulos 3 e 4 v1.1 canonizados e fechados. **Capítulo 5 — Inconclusiva, v1.1, PROVISÓRIO / AGUARDANDO APROVAÇÃO DO CAPÍTULO.** Seus fatos propostos permanecem apenas em [[Capítulo 05 - Auditoria]], sem promoção ao cânone. Auditoria acumulada 1–5 concluída em [[Livro 1 - Auditoria Acumulada 01–05]]. Capítulo 6 não iniciado; produção parada para aprovação humana.
+Capítulos 1 e 2 v1.2 e Capítulos 3, 4 e 5 v1.1 canonizados e fechados. Nenhum capítulo pendente de aprovação. Auditoria acumulada 1–5 concluída e encerrada em [[Livro 1 - Auditoria Acumulada 01–05]]. **Capítulo 6 não iniciado**; produção parada neste fechamento por instrução expressa do autor.

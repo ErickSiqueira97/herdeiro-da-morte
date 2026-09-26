@@ -2,7 +2,7 @@
 id: livro1-auditoria-acumulada-01-05
 tipo: auditoria
 schema_version: 1.1
-status: PROVISÓRIO
+status: CANON
 tags: [livro-1, auditoria-acumulada, capitulos-01-05]
 ---
 
@@ -10,7 +10,7 @@ tags: [livro-1, auditoria-acumulada, capitulos-01-05]
 
 ## Escopo
 
-Marco obrigatório do Protocolo e Prompt Ultra Mestre. Leitura conjunta dos capítulos 1–4 CANON (base `32cbe13`) e Capítulo 5 v1.1 PROVISÓRIO. Não substitui aprovação humana nem reabre capítulos aprovados por preferência estilística. Avaliação editorial da própria redação, em 26/09/2026.
+Marco obrigatório do Protocolo e Prompt Ultra Mestre. Leitura conjunta dos capítulos 1–4 CANON (base `32cbe13`) e Capítulo 5 v1.1 CANON, aprovado no commit 5419fe1 e promovido sem alteração narrativa. Não substitui aprovação humana nem reabre capítulos aprovados por preferência estilística. Avaliação editorial da própria redação, em 26/09/2026.
 
 ## Resultado
 
@@ -43,7 +43,7 @@ Contagem por palavras alfanuméricas Unicode, excluídos YAML e título; mesma c
 | 2 — O que ele não larga | 1.2 CANON | 2.057 |
 | 3 — Maya | 1.1 CANON | 2.041 |
 | 4 — Coisas que não fecham | 1.1 CANON | 1.961 |
-| 5 — Inconclusiva | 1.1 PROVISÓRIO | 1.297 |
+| 5 — Inconclusiva | 1.1 CANON | 1.297 |
 | Total |  | 9.437 |
 
 Média dos quatro primeiros: 2.035 palavras. O quinto tem aproximadamente 64% dessa extensão, compatível com o POV curto e funcional solicitado. Não há necessidade de aumentar por uniformidade nem cortar capítulo aprovado por simetria.
@@ -51,9 +51,9 @@ Média dos quatro primeiros: 2.035 palavras. O quinto tem aproximadamente 64% de
 ## Observações P2
 
 1. Fotos, seleção de imagens e discussão de versões concentram-se em 3–5. A função é distinta a cada retorno; manter atenção à variedade em ciclos posteriores, sem reescrever este bloco por princípio.
-2. A frase que explicita o padrão ético de Maya no 5 pode receber calibragem de gosto pelo autor. Não bloqueia aprovação e evita transformar a omissão consciente em simples dúvida técnica.
+2. A calibragem da explicitação ética da omissão no 5 foi aceita pelo autor como preferência editorial não bloqueadora. Nenhuma revisão realizada por esse motivo.
 3. Calibragens das réplicas fotográficas do 3 e perguntas da rampa do 4 foram aceitas pelo autor como não bloqueadoras. Esta auditoria não reabre essas decisões.
 
 ## Estado
 
-Auditoria acumulada concluída neste ciclo, incluindo manuscrito ainda provisório. Nenhum fato do 5 promovido ao Log canônico. **AGUARDANDO APROVAÇÃO DO CAPÍTULO 5.** Capítulo 6 não iniciado.
+Auditoria acumulada 1–5 concluída e encerrada após aprovação humana do Capítulo 5 v1.1 em 26/09/2026. Todos os cinco capítulos estão CANON, com corpos narrativos preservados; fatos concretizados do 5 promovidos ao Log de Continuidade. **CAPÍTULOS 1–5 FECHADOS.** Capítulo 6 não iniciado; produção parada por instrução do autor.

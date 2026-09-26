@@ -19,7 +19,7 @@ relacoes:
     tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-versao: 1.7
+versao: 1.8
 ---
 
 # Estado do Projeto
@@ -41,15 +41,15 @@ Os percentuais medem prontidão estrutural e editorial, não quantidade de notas
 ## Estado editorial
 A macroarquitetura e o outline capítulo por capítulo do Livro 1 estão congelados em CANON. O [[Livro 1 - Outline Definitivo v1]] possui 32 capítulos e passou por auditoria integral, correções e verificação pós-correções. Não há pendência estrutural ativa que impeça a preparação da redação.
 
-**Estado do Livro 1: CAPÍTULOS 1–4 CANONIZADOS / FECHADOS; CAPÍTULO 5 v1.1 PROVISÓRIO / AGUARDANDO APROVAÇÃO DO CAPÍTULO.** Capítulos 1 e 2 na versão 1.2; Capítulos 3 e 4 na versão 1.1, preservados integralmente. Capítulo 5 — Inconclusiva redigido após gate PASSA; auditoria A–N concluída, P0 = 0 e P1 = 0 após correções. Fatos do 5 apenas propostos em [[Capítulo 05 - Auditoria]], sem promoção ao [[Livro 1 - Log de Continuidade]]. Nenhuma canonização do capítulo pendente.
+**Estado do Livro 1: CAPÍTULOS 1–5 CANONIZADOS / FECHADOS.** Capítulos 1 e 2 na versão 1.2; Capítulos 3, 4 e 5 na versão 1.1. Capítulo 5 — Inconclusiva aprovado explicitamente pelo autor em 26/09/2026, com corpo narrativo preservado integralmente. Auditoria A–N encerrada: P0 = 0 e P1 = 0. Calibragem da explicitação ética da omissão aceita como preferência editorial não bloqueadora, sem nova revisão. Fatos concretizados promovidos ao [[Livro 1 - Log de Continuidade]]. Nenhum capítulo pendente de aprovação.
 
-O pacote operacional continua vigente: Bíblia de Produção, Regras Invioláveis, Mapa de Revelações e Payoffs, Protocolo de Produção, Prompt Mestre e Auditoria Final. [[Livro 1 - Auditoria Acumulada 01–05]] concluída, incluindo o capítulo provisório, sem P0/P1 restantes. **Capítulo 6 não iniciado; produção parada para aprovação humana.** Os percentuais históricos acima não foram recalculados neste ciclo.
+O pacote operacional continua vigente: Bíblia de Produção, Regras Invioláveis, Mapa de Revelações e Payoffs, Protocolo de Produção, Prompt Mestre e Auditoria Final. [[Livro 1 - Auditoria Acumulada 01–05]] concluída e encerrada com os cinco capítulos canonizados, sem P0/P1 restantes. **Capítulo 6 não iniciado; produção parada após o fechamento por instrução do autor.** Os percentuais históricos acima não foram recalculados neste ciclo.
 
 ## Próximos blocos
-1. Aguardar aprovação ou pedido de revisão do **Capítulo 5 v1.1**.
-2. Somente após aprovação explícita, canonizar a versão aprovada e promover fatos concretizados.
+1. Aguardar instrução do autor para iniciar o **Capítulo 6**.
+2. Quando autorizado, preparar seu gate com Outline, fontes pertinentes, capítulos aprovados e Log atualizado.
 3. Não iniciar o Capítulo 6 neste ciclo; manter produção de um capítulo por vez.
-4. Preservar a auditoria acumulada 1–5 e atualizar seu escopo se houver revisão do capítulo provisório.
+4. Preservar a auditoria acumulada 1–5; próximo marco acumulado previsto após o Capítulo 10.
 
 Ver [[EM ABERTO]] e [[PROCESSO]].
 

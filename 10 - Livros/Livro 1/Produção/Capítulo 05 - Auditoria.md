@@ -2,7 +2,7 @@
 id: livro1-cap05-auditoria
 tipo: auditoria
 schema_version: 1.1
-status: PROVISÓRIO
+status: CANON
 tags: [livro-1, capitulo-05, auditoria]
 ---
 
@@ -10,7 +10,7 @@ tags: [livro-1, capitulo-05, auditoria]
 
 ## Escopo e fontes
 
-[[05 - Inconclusiva]], v1.1 PROVISÓRIA. Autoauditoria editorial da redação, sujeita à aprovação humana. Base canônica `32cbe13`; capítulos 1–4 e Log relidos antes da escrita. Fontes hierárquicas e limites registrados em [[Capítulo 05 - Cartão Editorial]]. Cartão criado e gate PASSA no commit `a530ea4`; primeira versão registrada em `95f32b6`. Nenhuma fonte canônica narrativa ou capítulo aprovado alterado.
+[[05 - Inconclusiva]], v1.1 CANON / FECHADO em 26/09/2026 por aprovação humana explícita. Corpo narrativo aprovado no commit 5419fe1 preservado integralmente. Base canônica `32cbe13`; capítulos 1–4 e Log relidos antes da escrita. Fontes hierárquicas e limites registrados em [[Capítulo 05 - Cartão Editorial]]. Cartão criado e gate PASSA no commit `a530ea4`; primeira versão registrada em `95f32b6`. Nenhuma fonte canônica narrativa ou capítulo aprovado alterado.
 
 ## Auditoria A–N
 
@@ -55,11 +55,11 @@ O encontro final permanece no POV autorizado de Maya. Caio distingue algo, acomp
 - **P0: 0 identificados; 0 restantes.**
 - **P1: 1 identificado; 1 corrigido; 0 restantes.** “Satisfeita por poder discordar” atribuía interioridade à colega fora do POV. Substituído por arrumação das folhas, mantendo a divergência observável.
 - **P2 corrigidos:** impressões reapareciam após a colega recolhê-las; removida a ação incompatível. Promessa de voltar após aula agora atribuída em cena. Transferência das fotografias para o telefone explicitada. Recordação de Caio “oferecendo-se” substituída pela pergunta realmente feita sobre perder o começo da entrevista; posição da dúvida reproduzida com exatidão. Mulher com vasilha distinguida da mulher ao telefone na mesma foto; pertencimento da vasilha desambiguado.
-- **P2 restante, de gosto:** grau de explicitação da consciência ética após apagar a frase (“Faltava justamente…”). Mantido porque torna inequívoca a pequena desobediência solicitada; não exige nova revisão.
+- **P2 aceito, não bloqueador:** grau de explicitação da consciência ética após apagar a frase (“Faltava justamente…”). Calibragem aceita pelo autor como preferência editorial não bloqueadora; nenhuma revisão feita por esse motivo.
 
-## Fatos propostos — NÃO CANONIZADOS
+## Fatos concretizados aprovados — promovidos ao Log de Continuidade
 
-| Campo | Concretização provisória |
+| Campo | Fato concretizado aprovado |
 |---|---|
 | Tempo | Dia seguinte ao 4, inferido também pela autorização recebida na noite anterior. Trabalho de Maya antes da chegada de Caio para a faculdade; ainda há claridade no final. Sem hora/data ficcional definida. |
 | Geografia | Laboratório universitário de edição, banco no patamar com visão da escada, corredor com vista da entrada lateral da biblioteca; passagem junto a gradil/canteiro, terra e cimento. Não fixa relação topográfica completa com a rampa. |
@@ -79,6 +79,6 @@ O encontro final permanece no POV autorizado de Maya. Caio distingue algo, acomp
 
 ## Gate pós-escrita — PASSA
 
-Auditoria A–N concluída; P0 = 0 e P1 = 0 após correções; exposição, conhecimento, causalidade, agência e regras preservados. Auditoria acumulada realizada em [[Livro 1 - Auditoria Acumulada 01–05]]. Fatos novos separados nesta auditoria. Manuscrito PROVISÓRIO. Capítulos 1–4 preservados, Capítulo 6 não iniciado.
+Auditoria A–N concluída; P0 = 0 e P1 = 0 após correções; exposição, conhecimento, causalidade, agência e regras preservados. Auditoria acumulada realizada em [[Livro 1 - Auditoria Acumulada 01–05]]. Fatos concretizados promovidos ao Log de Continuidade após aprovação humana. Manuscrito CANON; corpo narrativo preservado integralmente. Capítulos 1–4 preservados, Capítulo 6 não iniciado.
 
-**AGUARDANDO APROVAÇÃO DO CAPÍTULO.**
+**CAPÍTULO 5 v1.1 APROVADO E FECHADO — 26/09/2026.** Capítulo 6 não iniciado; execução encerrada neste marco.

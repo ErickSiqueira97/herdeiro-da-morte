@@ -818,3 +818,10 @@ Primeira consolidação do Vault.
 - Fatos concretizados promovidos ao [[Livro 1 - Log de Continuidade]]: entrevista e café realizados, geografia local, registros de áudio e fotografia, exclusão da primeira gravação e repetição consentida, convivência, permissões, conhecimento individual e estado de saída.
 - Percepção de Caio e discrepância fotográfica preservadas sem diagnóstico ou confirmação de causa. Perguntas de Maya não certificam conhecimento compartilhado; exclusão de áudio não implica apagamento universal ou abandono da investigação. Impressão final de acompanhamento permanece não confirmada.
 - Estado do Projeto: **CAPÍTULOS 1, 2, 3 E 4 FECHADOS; CAPÍTULO 5 NÃO INICIADO**. Produção encerrada neste marco por instrução do autor.
+## 26/09/2026 — Fechamento do Capítulo 5 — Inconclusiva v1.1
+- Aprovação humana explícita; manuscrito promovido a **CANON**, sem alteração do corpo narrativo aprovado no commit 5419fe1 (1.297 palavras).
+- Auditoria individual encerrada: P0 = 0 e P1 = 0. Calibragem da explicitação ética da omissão aceita como preferência editorial não bloqueadora; nenhuma revisão realizada por esse motivo.
+- Fatos concretizados promovidos ao [[Livro 1 - Log de Continuidade]]: rotina editorial de Maya, avaliação operacional, INCONCLUSIVA, omissão consciente da cronologia, contato sem identidade revelada, percepção final e ordem de continuar observando sem intervir.
+- Mantida a distinção entre observação, relato e interpretação. Caio não conhece a investigação; não recebe confirmação objetiva do sobrenatural. Natureza da presença, patrono e estrutura operacional permanecem não revelados.
+- [[Livro 1 - Auditoria Acumulada 01–05]] encerrada com cinco capítulos CANON, sem P0/P1 restantes; 9.437 palavras no conjunto.
+- Estado do Projeto: **CAPÍTULOS 1–5 FECHADOS; CAPÍTULO 6 NÃO INICIADO**. Produção encerrada neste marco por instrução expressa do autor.
