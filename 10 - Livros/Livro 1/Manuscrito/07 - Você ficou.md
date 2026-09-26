@@ -3,7 +3,7 @@ id: livro1-manuscrito-cap07
 tipo: capitulo
 schema_version: 1.1
 status: PROVISÓRIO
-versao: 1.0
+versao: 1.1
 tags: [livro-1, capitulo-07, manuscrito]
 ---
 
@@ -85,7 +85,7 @@ Não encontrou o peso que esperava.
 
 A borda passou pelo contorno e bateu no limite da abertura com um estrondo. Caio foi atrás dela, desequilibrado, e prendeu os dedos entre a palma e o metal. Recolheu a mão com um grito. O corpo continuava ali, mas ele podia ver a barra horizontal do portão através do lugar onde tentara empurrar.
 
-Maya não avançou para aproveitar. Recuou.
+Maya não avançou para aproveitar. Recuou. Uma pata ganhou nitidez ao varrer o espaço à frente dela; Maya tirou o corpo da linha, mas uma unha rasgou a manga e deixou sangue acima do cotovelo. Ela manteve o arco erguido.
 
 O que parecia uma cabeça se tornou inteiro ao abrir a boca. A mandíbula fechou sobre a borda da porta. O metal dobrou com um estalo. Dessa vez a folha foi puxada, arrancando o braço de Caio para a frente.
 
@@ -111,13 +111,13 @@ A boca soltou o ferro. A folha voltou contra ele, e sua mão direita ficou presa
 
 Viu o apoio dianteiro deixar o chão. As unhas e o trecho acima delas tinham bordas definidas.
 
-O golpe atingiu seu peito e o esmagou contra a quina de alvenaria ao lado do portão.
+O golpe atingiu seu peito e o esmagou contra a quina de alvenaria ao lado do portão. As unhas atravessaram a camiseta, abrindo o lado esquerdo do tórax.
 
 Não houve ar para um grito. Sentiu alguma coisa ceder dentro do tórax, uma pressão funda que continuou depois de a pata se afastar. Caiu de joelhos e depois de lado, com a mão aberta no cimento.
 
 Tentou puxar o ar de volta. Entrou tão pouco que o corpo tentou outra vez antes de terminar.
 
-Maya passou diante dele. A corda estalou; a criatura recuou da rampa. Caio só viu as pernas dela e um trecho da arma quando disparou de novo, acompanhando a retirada até a borda da calçada. Um carro freou na rua. Alguém gritou.
+Maya passou diante dele. A corda estalou; a criatura recuou da rampa. Caio só viu as pernas dela e um trecho da arma quando disparou de novo, acompanhando a retirada até a borda da calçada. A forma atravessou a rua e se perdeu entre os carros estacionados. Um carro freou. Alguém gritou.
 
 Caio tentou apoiar o cotovelo. A dor o fez desistir antes de levantar o ombro. Havia sangue na frente da camiseta. Não entendia de onde vinha tanto. Pôs a mão ali, mas o contato piorou a pressão e ele a deixou cair.
 
