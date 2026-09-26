@@ -19,7 +19,7 @@ relacoes:
     tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-versao: 1.2
+versao: 1.3
 ---
 
 # Estado do Projeto
@@ -41,18 +41,17 @@ Os percentuais medem prontidão estrutural e editorial, não quantidade de notas
 ## Estado editorial
 A macroarquitetura e o outline capítulo por capítulo do Livro 1 estão congelados em CANON. O [[Livro 1 - Outline Definitivo v1]] possui 32 capítulos e passou por auditoria integral, correções e verificação pós-correções. Não há pendência estrutural ativa que impeça a preparação da redação.
 
-**Estado do Livro 1: PRONTO PARA PRODUÇÃO DO CAPÍTULO 1.** O pacote operacional foi criado e auditado: Bíblia de Produção, Regras Invioláveis, Mapa de Revelações e Payoffs, Protocolo de Produção, Prompt Mestre e Auditoria Final. Não há P0/P1 aberto que impeça a redação.
+**Estado do Livro 1: CAPÍTULO 1 — CASA VALENÇA v1.2 CANONIZADO / FECHADO.** A versão foi aprovada explicitamente pelo autor em 26/09/2026. Prosa promovida sem nova alteração narrativa; auditoria encerrada com P0 = 0, P1 = 0 e nenhum P2 restante identificado. Fatos concretizados registrados em [[Livro 1 - Log de Continuidade]].
+
+O pacote operacional continua vigente: Bíblia de Produção, Regras Invioláveis, Mapa de Revelações e Payoffs, Protocolo de Produção, Prompt Mestre e Auditoria Final. **Capítulo 2 não iniciado; produção parada após o fechamento, conforme instrução do autor.** Os percentuais históricos acima não foram recalculados neste ciclo.
 
 ## Próximos blocos
-1. Iniciar o **Capítulo 1** pelo Protocolo de Produção.
-2. Auditar e revisar o capítulo antes de aprovação humana.
-3. Canonizar apenas os fatos concretizados na prosa aprovada.
-4. Atualizar o log de continuidade.
-5. Só então iniciar o Capítulo 2.
-6. Executar auditoria acumulada após o Capítulo 5.
+1. Aguardar instrução do autor para iniciar o **Capítulo 2**.
+2. Quando autorizado, preparar seu gate com o Outline, as fontes pertinentes, o Capítulo 1 aprovado e o log de continuidade.
+3. Manter o ciclo de um capítulo, auditoria, revisão e aprovação humana antes de nova canonização.
+4. Executar auditoria acumulada após o Capítulo 5.
 
 Ver [[EM ABERTO]] e [[PROCESSO]].
 
 ## Infraestrutura — v1.1
 O Vault possui agora uma camada estrutural para IA com IDs estáveis, tipos de nota, tags técnicas, MOCs e relações extraídas de WikiLinks. A migração é estrutural e não promoveu nem rebaixou nenhum status canônico. Consultar [[ESQUEMA DE METADADOS v1.1]].
-

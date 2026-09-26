@@ -789,3 +789,11 @@ Primeira consolidação do Vault.
 - Resultado: PASSA, sem P0/P1 aberto.
 - Estado do Livro 1: **PRONTO PARA PRODUÇÃO DO CAPÍTULO 1**.
 - Fluxo obrigatório: capítulo → auditoria → revisão → aprovação humana → canonização da prosa → próximo capítulo; auditoria acumulada a cada cinco capítulos.
+
+## 26/09/2026 — Fechamento do Capítulo 1 — Casa Valença v1.2
+- Aprovação humana explícita da versão 1.2; manuscrito promovido de PROVISÓRIO a **CANON**, sem alteração do corpo narrativo aprovado no commit `7fecbc9`.
+- Auditoria encerrada: P0 = 0, P1 = 0 e nenhum P2 restante identificado. Mantidas 2.081 palavras de prosa após a revisão de ritmo.
+- Fatos concretizados promovidos a [[Livro 1 - Log de Continuidade]]: rotina e geografia domésticas; reparo da pia; compra de R$ 146 no débito; SSD adiado; atividade escolar de Lívia e colega Júlia; hábitos familiares; objetos, estado físico, conhecimento e decisões; ônibus perdido e atrito entre pai e filho não reconciliado verbalmente.
+- Preservados “Cacá”, a advertência de Marcelo, “Eu também moro aqui” e a mensagem final de Lívia. Nenhuma informação sobrenatural acrescentada.
+- Estado do Projeto atualizado: **CAPÍTULO 1 FECHADO; CAPÍTULO 2 NÃO INICIADO**. Produção parada neste marco por instrução expressa do autor; sem avanço para o capítulo seguinte.
+- A data desta entrada corresponde à sessão de aprovação; datas históricas anteriores do documento foram preservadas.

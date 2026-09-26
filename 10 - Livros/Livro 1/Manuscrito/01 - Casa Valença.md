@@ -2,7 +2,7 @@
 id: livro1-manuscrito-cap01
 tipo: capitulo
 schema_version: 1.1
-status: PROVISÓRIO
+status: CANON
 versao: 1.2
 tags: [livro-1, capitulo-01, manuscrito]
 ---
