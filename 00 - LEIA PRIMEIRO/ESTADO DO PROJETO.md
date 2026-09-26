@@ -31,6 +31,13 @@ Caio Valença já possui família, vida civil, formação, rotina, aparência e 
 
 A direção macro dos três livros e o fim da Era dos Eternos permanecem estabelecidos.
 
+## Progresso auditado
+A medição operacional fica centralizada em [[PROCESSO]]. Na auditoria de **26/09/2026**:
+- **Planejamento da trilogia: 58% concluído / 42% restante.**
+- **Projeto completo/publicável: 18% concluído / 82% restante.**
+
+Os percentuais medem prontidão estrutural e editorial, não quantidade de notas produzidas.
+
 ## Estado editorial
 A [[AUDITORIA DO UNIVERSO v1.2]] não encontrou falha cosmológica crítica ativa. O principal risco atual é assimetria de desenvolvimento entre Caio/Maya e o restante do elenco, seguido pela falta de causalidade detalhada do Livro 1 e pelo Santuário ainda pouco operacional.
 
@@ -46,7 +53,7 @@ A [[AUDITORIA DO UNIVERSO v1.2]] não encontrou falha cosmológica crítica ativ
 9. Depois: outline de capítulos.
 10. Prosa longa somente após auditoria de prontidão.
 
-Ver [[EM ABERTO]].
+Ver [[EM ABERTO]] e [[PROCESSO]].
 
 ## Infraestrutura — v1.1
 O Vault possui agora uma camada estrutural para IA com IDs estáveis, tipos de nota, tags técnicas, MOCs e relações extraídas de WikiLinks. A migração é estrutural e não promoveu nem rebaixou nenhum status canônico. Consultar [[ESQUEMA DE METADADOS v1.1]].
