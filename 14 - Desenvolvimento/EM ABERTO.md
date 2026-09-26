@@ -42,7 +42,7 @@ versao: 1.0
 - Identidade/Autoridade do agente da [[Facção de Ares]] que mata o pai e detalhes finos da operação.
 - Maya Ferraz: cidade de origem, visual final, natureza das pistas sobre Daniel, regras técnicas completas de Perseguição, motivo de Daniel não poder ser encontrado, relações individuais com os outros sete, primeiro encontro exato com Caio, causa física da segunda morte, arco dos Livros 2–3 e resolução de Daniel.
 - Detalhes adicionais das lembranças da mãe além dos desenhos de uma mulher; destino posterior de mãe/irmã e quando o protagonista descobre que sobreviveram.
-- Fonte divina do [[Melhor Amigo]]; pesquisar [[Sun Wukong]].
+- [[Lucas Azevedo]] / [[Sun Wukong]]: decidir a **classificação cosmológica** de Wukong sem criar exceção ad hoc à regra de fonte divina; depois formalizar se Insurgência é Autoridade, Lucas é Successor e Ruyi é Relíquia-Eco. Também fechar Marca, limites táticos, Ruptura sobre terceiros e destino final.
 - [[Samira Nasser]]: cidade/visual, irmãos, cronologia completa da Sucessão ao Santuário, Marca definitiva, limites táticos finos de Testemunho, relações adicionais e dilema concreto do Livro 3.
 - Nome do [[Diretor do Santuario]].
 - Poderes/Relíquias/técnicas completas do quarteto.
