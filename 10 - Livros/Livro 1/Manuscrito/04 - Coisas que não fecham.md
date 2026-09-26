@@ -3,7 +3,7 @@ id: livro1-manuscrito-cap04
 tipo: capitulo
 schema_version: 1.1
 status: PROVISÓRIO
-versao: 1.0
+versao: 1.1
 tags: [livro-1, capitulo-04, manuscrito]
 ---
 
@@ -83,7 +83,7 @@ Ele soltou a mochila e ela esperou as mãos voltarem a um lugar menos arrumado a
 
 — Vou pegar um pouco do caminho. Continua: o que você faria com esse tempo se pudesse ir pra casa?
 
-Caio se virou parcialmente para acompanhar o enquadramento. Um rapaz de camisa clara subia a rampa com uma pasta debaixo do braço. Atrás dele, junto à parede, Caio distinguiu alguém curvado.
+Caio se virou parcialmente para acompanhar o enquadramento. Um rapaz de camisa clara subia a rampa com uma pasta debaixo do braço. Atrás dele, junto à parede, Caio julgou distinguir alguém curvado.
 
 Parecia uma pessoa tentando passar sem bater a cabeça, embora não houvesse nada baixo naquele trecho. O ombro escuro atravessou o espaço entre duas barras do corrimão. Caio procurou as pernas e teve a impressão de que a parte de cima continuava andando enquanto o resto ficava no lugar.
 
@@ -95,7 +95,7 @@ Maya afastou o rosto do visor.
 
 — Onde?
 
-Ele apontou. A pessoa já não estava ali. O rapaz de camisa clara dobrava no alto da rampa; sob o braço livre, carregava um casaco preto.
+Ele apontou. Já não distinguia ninguém ali. O rapaz de camisa clara dobrava no alto da rampa; sob o braço livre, carregava um casaco preto.
 
 — Atrás dele. Tinha alguém abaixado.
 
@@ -229,7 +229,7 @@ Caio riu com a boca fechada. Ela apontou para ele.
 
 — Foi a mesma cara que eu fiz. Achei que era elogio até ele mandar refazer.
 
-O café já estava no fim quando a conversa saiu do trabalho. Maya perguntou o que ele tinha assistido na biblioteca. Não conhecia a série e se arrependeu de perguntar assim que Caio começou a explicar quem era quem.
+O café já estava no fim quando a conversa saiu do trabalho. Maya perguntou o que ele tinha assistido na biblioteca. Disse que não conhecia a série. Caio começou a explicar quem era quem, e ela levantou um dedo.
 
 — Espera. Esse é o irmão ou o que você falou antes?
 
@@ -249,9 +249,9 @@ Na saída, ela lhe mostrou uma das fotos de suas mãos sobre a mochila. A linha 
 
 — Mando — disse Maya.
 
-Caio quis perguntar outra vez pela rampa. Ela estava ali, perto, enrolando a alça da câmera para guardá-la, e ele podia fazer uma pergunta simples. Em vez disso, pediu o contato da série que ela tinha recomendado em resposta à explicação dele.
+Caio quis perguntar outra vez pela rampa. Ela estava ali, perto, enrolando a alça da câmera para guardá-la, e ele podia fazer uma pergunta simples. Em vez disso, perguntou o que ela estava assistindo.
 
-Maya digitou o nome na conversa dos dois.
+Maya lhe disse um título, depois digitou o nome na conversa dos dois.
 
 — Sem resumo. Vê o primeiro.
 

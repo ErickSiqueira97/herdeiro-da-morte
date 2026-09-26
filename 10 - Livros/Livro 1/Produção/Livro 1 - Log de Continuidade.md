@@ -115,4 +115,4 @@ Os fatos abaixo conservam os limites de conhecimento do texto: falas de Maya sob
 
 ## Estado do ciclo
 
-Capítulos 1 e 2 v1.2 e Capítulo 3 v1.1 canonizados e fechados. Nenhum capítulo pendente de aprovação. **Capítulo 4 não iniciado**; produção parada neste fechamento por instrução expressa do autor.
+Capítulos 1 e 2 v1.2 e Capítulo 3 v1.1 canonizados e fechados. **Capítulo 4 — Coisas que não fecham, v1.1, PROVISÓRIO / AGUARDANDO APROVAÇÃO DO CAPÍTULO.** Seus fatos propostos permanecem apenas em [[Capítulo 04 - Auditoria]], sem promoção ao cânone. Capítulo 5 não iniciado; produção parada para aprovação humana.
