@@ -53,6 +53,24 @@ Ares não reuniu simplesmente “os oito mais fortes”. A composição cria cap
 
 Cada integrante deve funcionar como personagem independente, com razões próprias para permanecer no grupo.
 
+## Razão fundadora: ameaça Herege — CANON
+
+A ascensão dos [[Hereges]] é **uma das razões fundadoras** da atual Elite de Ares.
+
+Os Hereges antecedem os Oito e cresceram até formar uma organização humana extensa, capaz de desenvolver Ecos Artificiais, estudar Successores e realizar caçadas coordenadas que tornam possível matar portadores de Autoridade.
+
+Ares interpreta esse desenvolvimento como evidência de que o [[Primeiro Pacto]] não eliminou a guerra. A Sucessão manteve a influência divina no mundo humano; a reação humana produziu armas contra Successores; a escalada pode provocar respostas divinas e contribuir para a ruptura do equilíbrio entre os panteões.
+
+Por isso, os Oito não são apenas uma força “anti-Herege”. Ares os reúne como uma unidade complementar capaz de combater a ameaça imediata e sobreviver à guerra maior que ele acredita estar se formando.
+
+Ares **não odeia humanos em geral**. Seu conflito com os Hereges envolve a apropriação dos Vestígios da Sucessão, a fabricação de Ecos Artificiais e o projeto de exterminar Successores.
+
+Essa relação estabelece uma diferença de escala deliberada:
+
+**Hereges** — organização extensa, histórica, distribuída, com infraestrutura, pesquisa e caçadores especializados.
+
+**Elite de Ares** — oito Successores escolhidos/reunidos como força de resposta excepcional.
+
 ## Relação com Caio
 
 **Maya Ferraz**, Sucessora de Ártemis, é uma das oito. Portanto, sua aproximação de Caio não é executada por uma agente descartável, mas por uma integrante da elite pessoal reunida por Ares.
