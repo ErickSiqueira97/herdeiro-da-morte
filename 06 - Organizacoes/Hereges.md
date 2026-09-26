@@ -165,6 +165,26 @@ Os Hereges podem converter Vestígios em equipamentos adequados à manifestaçã
 
 A forma é engenharia humana; a propriedade sobrenatural vem do Vestígio.
 
+### Liga de contenção — CANON
+
+A tecnologia Herege depende de uma **liga rara à base de ouro**, descoberta a partir do medalhão original.
+
+Essa liga funciona como meio de **contenção e condução de Vestígios**. Ela não produz poder por conta própria e não cria um Vestígio onde nenhum existe.
+
+Com a evolução da engenharia Herege, pequenas quantidades do material passam a integrar:
+- núcleos de armazenamento;
+- canais internos de Ecos Artificiais;
+- encaixes e anéis de contenção;
+- componentes de armas, armaduras e dispositivos especializados.
+
+A escassez do componente raro impede que equipamentos inteiros sejam simplesmente feitos do material.
+
+A liga cria uma identidade visual reconhecível: partes metálicas douradas se destacam nos equipamentos e, durante a ativação, a luminosidade do Vestígio pode percorrer esses canais.
+
+Assim, um observador experiente pode reconhecer **tecnologia Herege** pela combinação entre arquitetura de Eco, liga dourada e manifestação luminosa — sem que todo objeto de ouro seja suspeito.
+
+O nome da liga, sua composição química/metafísica exata, suas fontes e a forma como os Hereges garantem seu suprimento permanecem em aberto.
+
 ### Extração e desempenho
 
 Humanos comuns podem utilizar Ecos Artificiais sem serem escolhidos por deuses, mas o corpo e a mente possuem limites para sustentar a impressão metafísica.
@@ -234,7 +254,11 @@ O Vestígio dela permanece porque circunstâncias físicas/metafísicas específ
 
 O amor do fundador **não possui poder metafísico** e não é responsável pela preservação. Ele explica somente sua decisão humana de tentar guardar a luz.
 
-A causa técnica exata da estabilização permanece em aberto para desenvolvimento posterior.
+A estabilização é causada pelo **material do medalhão**. A peça parecia ser de ouro, mas estudos posteriores demonstram que sua composição continha uma **liga rara à base de ouro**, com um componente metálico/mineral capaz de reter e conduzir Vestígios.
+
+O fundador não conhecia essa propriedade quando fechou a essência no pingente. A descoberta da função da liga ocorre posteriormente, durante os testes que levam aos Ecos Artificiais.
+
+O ouro comum, isoladamente, **não preserva Vestígios**. A composição exata, origem do componente raro e nome definitivo da liga permanecem em aberto.
 
 #### As primeiras manifestações
 
@@ -320,6 +344,44 @@ Se o método alcançar Estados, forças militares, organizações criminosas ou 
 
 O [[Santuario]] possui motivos legítimos para considerar a proliferação dessa tecnologia um risco sistêmico, sem que isso torne automaticamente todo uso de Eco Artificial moralmente ilegítimo.
 
+## Escala organizacional — CANON
+
+Os Hereges são uma organização muito maior do que a [[Elite de Ares]].
+
+A Elite é deliberadamente um núcleo de oito Successores. Os Hereges cresceram ao longo de gerações e possuem estrutura distribuída capaz de sustentar pesquisa, inteligência, recuperação de Vestígios, engenharia, treinamento, logística, arquivos e operações de caça.
+
+Nem todo Herege utiliza um Eco Artificial. Usuários capazes de enfrentar Successores formam apenas uma parcela especializada da organização.
+
+O crescimento da facção produz uma ironia histórica: conflitos entre Successores geram mortos e Vestígios; Vestígios alimentam pesquisa; a pesquisa melhora os instrumentos utilizados para caçar novos Successores.
+
+> **Quanto mais a intervenção divina deixa destroços no mundo humano, mais os Hereges aprendem a transformar esses destroços em resistência.**
+
+O tamanho exato, número de células, distribuição geográfica e cadeia de comando permanecem em aberto.
+
+## Relação histórica com Ares — CANON
+
+Os Hereges são anteriores à formação da atual [[Elite de Ares]].
+
+Ares acompanha a transformação de uma reação humana à Sucessão em uma organização capaz de desenvolver Ecos Artificiais e, finalmente, **matar Successores por meio de preparação, tecnologia e caça coordenada**.
+
+Ares não odeia a humanidade como categoria. Sua hostilidade aos Hereges concentra-se na apropriação humana dos resíduos da relação entre deuses, Autoridades e Successores e, sobretudo, no projeto de exterminar os portadores da Sucessão.
+
+Para Ares, a ascensão dos Hereges demonstra que o [[Primeiro Pacto]] não encerrou a guerra: apenas criou condições para uma nova forma dela.
+
+A ameaça Herege torna-se **uma das razões fundadoras da Elite de Ares**. Ares reúne os oito não apenas para destruir células Hereges, mas porque interpreta seu crescimento como sintoma de uma ruptura maior e prepara uma unidade de Successores capaz de enfrentar a guerra que acredita inevitável.
+
+Isso concilia suas duas direções estratégicas: Ares deseja preservar/ampliar capacidade de ação no mundo mortal e, ao mesmo tempo, preparar Successores para sobreviver ao colapso do equilíbrio criado pelo Primeiro Pacto.
+
+A Elite, portanto, não é equivalente em escala aos Hereges:
+- os Hereges possuem organização, infraestrutura e continuidade histórica;
+- Ares responde com um pequeno núcleo de Successores excepcionalmente complementares.
+
+A oposição também é ideológica. Hereges e Ares compartilham a percepção de que a paz vigente é instável, mas divergem radicalmente sobre a legitimidade da presença divina no mundo humano.
+
+Uma formulação central do conflito é:
+
+> **Hereges:** “Vocês fizeram do nosso mundo seu campo de batalha. Não reclamem quando aprendemos a usar os destroços.”
+
 ## Relação com Maya Ferraz
 
 Maya oferece um confronto conceitual especialmente forte.
@@ -400,9 +462,11 @@ Para preservar a qualidade da facção:
 - origem histórica e data de fundação;
 - quem cunhou o nome “Hereges” e se a facção o adotou;
 - fundador e líder contemporâneo;
-- tamanho e alcance internacional;
+- número aproximado de membros, alcance internacional e distribuição geográfica;
 - células, hierarquia e recrutamento;
-- relação histórica com o Santuário;
+- relação histórica detalhada com o Santuário;
+- nome, composição, origem e fontes da liga de contenção;
+- cadeia de suprimento do componente raro da liga;
 - relação com governos e sociedade civil;
 - código moral e critérios para escolher alvos;
 - processo técnico exato de extração/estabilização dos Vestígios;
