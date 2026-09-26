@@ -3,13 +3,13 @@ id: livro1-manuscrito-cap05
 tipo: capitulo
 schema_version: 1.1
 status: PROVISÓRIO
-versao: 1.0
+versao: 1.1
 tags: [livro-1, capitulo-05, manuscrito]
 ---
 
 # 5 — Inconclusiva
 
-Maya ouviu a mesma frase três vezes antes de tirar o fone. A mulher da fotografia do balcão não estava esperando para esquentar a comida. Esperava a irmã sair do trabalho; a vasilha era dela.
+Maya ouviu a mesma frase três vezes antes de tirar o fone. A mulher com a vasilha na fotografia do balcão não estava esperando para esquentar a comida. Esperava a irmã sair do trabalho; a vasilha era da irmã.
 
 No computador do laboratório, apagou a legenda e escreveu outra, menor. Ainda não gostava. Agora, pelo menos, o erro era de escrita.
 
@@ -31,7 +31,7 @@ A colega pôs as duas sobre a mesa. Maya afastou o caderno para não cobrir uma 
 
 — Aí você já escolheu.
 
-A colega recolheu as folhas, satisfeita por poder discordar. Maya a chamou antes que saísse.
+A colega recolheu as folhas e pôs a da direita por cima. Maya a chamou antes que saísse.
 
 — Depois olha minha sequência? Sem passar depressa.
 
@@ -39,7 +39,7 @@ A colega recolheu as folhas, satisfeita por poder discordar. Maya a chamou antes
 
 — Deixo você tentar.
 
-Voltaria depois da aula. Maya anotou no canto da página o que ainda precisava conferir e pôs o fone outra vez. Não queria gastar a opinião da colega com uma versão que ela mesma sabia estar incompleta.
+A colega prometeu voltar depois da aula e saiu com as impressões. Maya anotou no canto da página o que ainda precisava conferir e pôs o fone outra vez. Não queria gastar a opinião da colega com uma versão que ela mesma sabia estar incompleta.
 
 A foto das mãos de Caio já tinha autorização. Conferiu a resposta da noite anterior, acertou o espaço da legenda e salvou a página. Ainda faltava decidir onde entrava aquela imagem. Ao lado da fotografia de alguém dormindo, a linha puxada da mochila parecia apenas outro sinal de cansaço. Sozinha, demorava mais a entregar alguma coisa.
 
@@ -47,7 +47,7 @@ Deixou-a separada.
 
 O telefone vibrou sob seu antebraço. Era a cobrança da avaliação.
 
-Maya tirou os fones, desligou a tela do computador e recolheu as impressões que não eram suas para a mesa ao lado. Levou a bolsa e o telefone até o banco no patamar da escada. Dali via quem subia antes que pudesse ler por cima do seu ombro.
+Maya tirou os fones e desligou a tela do computador. Levou a bolsa e o telefone até o banco no patamar da escada. Dali via quem subia antes que pudesse ler por cima do seu ombro.
 
 Abriu o arquivo de CAIO VALENÇA.
 
@@ -61,15 +61,15 @@ Maya apoiou o telefone no joelho. O banco tinha um parafuso saliente que prendia
 
 No pátio, junto ao laboratório, ele se voltara para a coluna e procurara de novo o ângulo no vidro. Ela não lhe perguntara o que tinha visto. Não podia preencher essa parte com o que esperava que ele tivesse visto.
 
-Na rampa havia mais. Tinha apontado um lugar, dito que havia alguém abaixado, pedido a imagem do meio. À pergunta sobre a posição, respondera que estava separado do rapaz, mais perto da parede. Depois acrescentara a dúvida. Maya escreveu a resposta com a dúvida junto.
+Na rampa havia mais. Tinha apontado um lugar, dito que havia alguém abaixado, pedido a imagem do meio. À pergunta sobre a posição, respondera “Separado. Acho”, e situado o que vira mais perto da parede. Maya escreveu a resposta com a dúvida junto.
 
-Abriu as três fotografias no telefone e passou de uma para outra. Camisa clara, pasta, manga. Nenhuma sustentava sozinha a descrição. O áudio que restara era o da entrevista refeita, sem a interrupção.
+Pegou a câmera na bolsa, transferiu as três fotografias da rampa para o telefone e passou de uma para outra. Camisa clara, pasta, manga. Nenhuma sustentava sozinha a descrição. O áudio que restara era o da entrevista refeita, sem a interrupção.
 
 Ela já sabia disso antes de procurar.
 
 Voltou à avaliação e escreveu: *Relato de presença junto à parede; registro fotográfico insuficiente para correspondência. O observado admite confusão com peça de roupa.*
 
-Parou sobre a palavra *observado*. Parecia um homem que não estava sentado ao lado dela, preocupado por ter dado trabalho, oferecendo-se para repetir a entrevista inteira.
+Parou sobre a palavra *observado*. Parecia um homem que não estava sentado ao lado dela, perguntando se ela perderia o começo da entrevista ao apagar a gravação.
 
 Não era preciso pôr aquilo no relatório. A ordem dos acontecimentos, sim.
 

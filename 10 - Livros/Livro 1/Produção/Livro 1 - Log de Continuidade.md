@@ -139,4 +139,4 @@ Os fatos abaixo preservam os limites do POV: a discrepância é entre percepçã
 
 ## Estado do ciclo
 
-Capítulos 1 e 2 v1.2 e Capítulos 3 e 4 v1.1 canonizados e fechados. Nenhum capítulo pendente de aprovação. **Capítulo 5 não iniciado**; produção parada neste fechamento por instrução expressa do autor.
+Capítulos 1 e 2 v1.2 e Capítulos 3 e 4 v1.1 canonizados e fechados. **Capítulo 5 — Inconclusiva, v1.1, PROVISÓRIO / AGUARDANDO APROVAÇÃO DO CAPÍTULO.** Seus fatos propostos permanecem apenas em [[Capítulo 05 - Auditoria]], sem promoção ao cânone. Auditoria acumulada 1–5 concluída em [[Livro 1 - Auditoria Acumulada 01–05]]. Capítulo 6 não iniciado; produção parada para aprovação humana.
