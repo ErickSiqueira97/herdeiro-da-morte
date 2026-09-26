@@ -2,13 +2,13 @@
 id: livro1-cap08-auditoria
 tipo: auditoria
 schema_version: 1.1
-status: PROVISÓRIO
+status: CANON
 tags: [livro-1, capitulo-08, auditoria]
 ---
 
 # Capítulo 8 — Demorou — Auditoria
 
-Auditado em 26/09/2026. Manuscrito v1.1 PROVISÓRIO, 1864 palavras no corpo por contagem de segmentos separados por espaço. Cartão/gate: `92c1e69`; primeira versão v1.0: `65ffb0c`, 1909 palavras. Revisão: menos 45 palavras (2,4%). Nenhum fato deste capítulo promovido ao Log.
+Auditado em 26/09/2026. Manuscrito v1.1 CANON / FECHADO em 26/09/2026 por aprovação humana, fonte 0c32a99, corpo narrativo preservado, 1864 palavras no corpo por contagem de segmentos separados por espaço. Cartão/gate: `92c1e69`; primeira versão v1.0: `65ffb0c`, 1909 palavras. Revisão: menos 45 palavras (2,4%). Fatos concretizados aprovados promovidos ao Log, com inferências de Caio preservadas como tais.
 
 ## Resultado A–N
 
@@ -54,7 +54,7 @@ Auditado em 26/09/2026. Manuscrito v1.1 PROVISÓRIO, 1864 palavras no corpo por 
 | “Fica.” | Sinal é duradouro. | Linha inicial e escrita posterior no mesmo local, pele não cortada. | Marca verdadeira primeiro, sobreposição depois; não duas Marcas lado a lado. Narração não nomeia fonte ou fraude. |
 | “Da próxima vez que alguém mandar você correr…”; “Mentiroso.” | Ia contestar lembrando que efetivamente correu. | Mudança quase sorridente na boca, resposta não pronunciada e dor. | Aposta sobre padrão observável; não controle de escolhas nem conhecimento infalível do futuro. |
 
-O silêncio após “Você está escolhendo alguém…” não confirma identidade divina. Nenhuma fala da mulher declara que Seshat o escolheu. Resumos editoriais e fatos propostos abaixo preservam essa distinção.
+O silêncio após “Você está escolhendo alguém…” não confirma identidade divina. Nenhuma fala da mulher declara que Seshat o escolheu. Resumos editoriais e fatos aprovados abaixo preservam essa distinção.
 
 ## Problemas encontrados e revisão v1.0 → v1.1
 
@@ -64,9 +64,9 @@ O silêncio após “Você está escolhendo alguém…” não confirma identida
 - P2 de ritmo/pista, corrigido: retirada troca “Você podia ter falado comigo antes” + silêncio, que duplicava evasão e atraía atenção desnecessária para observação anterior ao encontro.
 - P0 encontrados: 0. P1 restantes: 0. P2 restante não bloqueador: possível preferência por encurtar mais as perguntas iniciais sobre localização/retorno. Mantidas por sustentar desorientação e resistência de Caio; sem nova revisão automática.
 
-## Fatos propostos para continuidade — NÃO CANONIZADOS
+## Fatos aprovados e promovidos para continuidade
 
-| Campo | Proposta concretizada na v1.1 e limite |
+| Campo | Fato concretizado na v1.1 aprovada e limite |
 |---|---|
 | Tempo/local | Experiência após morte do 7, sem duração externa medida. Chão e banco percebidos; nenhuma geografia cosmológica universal estabelecida. |
 | Presentes | Caio e mulher sem identidade confirmada no POV. Nenhuma entrada física ou comunicação de Seshat real. |
@@ -74,7 +74,7 @@ O silêncio após “Você está escolhendo alguém…” não confirma identida
 | Prioridades | Pergunta primeiro por Maya, procura telefone para avisar casa, preocupa-se com mãe e recorda gravação de Lívia interrompida por Marcelo. Família não sofreu perda conhecida neste ponto. |
 | Conhecimento | Ouve morte confirmada, regra parcial de Sucessão e nome Seshat. Interpreta mulher como Seshat e considera escolha ligada ao retorno por Maya; essas são crenças, não verdade cosmológica. |
 | Agência | Questiona preço/dívida, recebe recusa de explicação completa, sabe que não aceitar significa não voltar; declara vontade e oferece mão esquerda. |
-| Sinal | Face interna do antebraço esquerdo perto do pulso; linha escura inicial e escrita depois sobre o mesmo lugar. Não identifica símbolos, fonte ou número de estruturas. Localização é detalhe novo sujeito à aprovação. |
+| Sinal | Face interna do antebraço esquerdo perto do pulso; linha escura inicial e escrita depois sobre o mesmo lugar. Não identifica símbolos, fonte ou número de estruturas. Localização aprovada no fechamento. |
 | Livro | Negro, sem título, capa de aspereza fina, peso e quina perceptíveis; surge na mão livre junto ao primeiro traço. Páginas examinadas vazias; nenhuma função testada. |
 | Relação | Mulher mantém vantagem de informação, não controla resposta. Caio aceita sem confiar inteiramente. Nenhum contrato com cláusulas novas ou preço concreto é inventado. |
 | Ausentes/objetos | Situação atual de Maya não confirmada. Telefone não encontrado na experiência; localização física não fixada. Mochila continua onde o 7 a deixou, sem recuperação em cena. |
@@ -82,6 +82,6 @@ O silêncio após “Você está escolhendo alguém…” não confirma identida
 
 ## Gate pós-escrita — PASSA
 
-Função, agência, emoção, vida concreta por memória/necessidade, continuidade e limite de revelação conferidos. Marca/Livro não antecipam capacidades futuras; frase final não produz profecia. Auditoria A–N e gate de verdade narrativa concluídos, P0/P1 restantes zero. Manuscrito PROVISÓRIO; Log canônico não recebe os fatos deste capítulo. Capítulo 9 não iniciado.
+Função, agência, emoção, vida concreta por memória/necessidade, continuidade e limite de revelação conferidos. Marca/Livro não antecipam capacidades futuras; frase final não produz profecia. Auditoria A–N e gate de verdade narrativa concluídos, P0/P1 restantes zero. Manuscrito CANON; fatos concretizados promovidos ao Log, sem transformar inferências em fatos cosmológicos. Capítulo 9 não iniciado.
 
-**AGUARDANDO APROVAÇÃO DO CAPÍTULO.**
+**CANON / FECHADO. Preferência pelo possível enxugamento das perguntas iniciais aceita pelo autor como não bloqueadora, sem nova revisão. Capítulo 9 não iniciado; produção parada.**

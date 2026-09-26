@@ -211,6 +211,32 @@ A manifestação visual do arco segue integralmente o Outline canônico e não c
 | Socorro | Maya pressiona tecido, chama ajuda, usa telefone e fornece nome da rua não transcrito; não se confirma chegada de equipe ou interlocutor específico. |
 | Estado de saída | Caio morto humano junto ao portão; Maya viva junto dele, tentando ajudar. Percepção encerra; nenhuma experiência pós-morte, Livro, Marca ou poder. |
 
+### Capítulo 08 — Demorou — v1.1
+
+**CANON / FECHADO em 26/09/2026**, por aprovação humana explícita. Fonte: [[08 - Demorou]], versão aprovada no commit 0c32a99, promovida sem alteração do corpo narrativo (1864 palavras). [[Capítulo 08 - Auditoria]]: A–N e gate de verdade narrativa PASSA; P0/P1 restantes zero. Possível enxugamento das perguntas iniciais aceito como preferência editorial não bloqueadora, sem nova revisão.
+
+#### Proteções explícitas de continuidade
+
+- Ordem de apresentação: **escolha consciente de continuar → primeiro sinal → manifestação do Livro → algo se escreve SOBRE o mesmo local**. A prosa associa o primeiro traço ao peso do Livro por “Ao mesmo tempo”; não criar intervalo entre eles.
+- Caio declara que quer voltar e oferece a mão esquerda antes dos acontecimentos. Sabe que a recusa significa permanecer morto, mas não conhece todas as condições da oferta.
+- A mulher diz “O nome que importa para você é Seshat”. Não afirma ser Seshat nem que Seshat o escolheu. Associação entre mulher, Seshat e escolha é **crença/inferência de Caio, não fato cosmológico**. Nem silêncio, nem Livro, nem sinal confirmam essa inferência.
+- Primeiro sinal e escrita posterior ocupam o mesmo local; Caio não diagnostica duas Marcas, fonte ou mecanismo. Não registrar “Seshat o marcou” ou “Seshat se apresentou”.
+- Ausência de sangue/dor na experiência não comprova cura do corpo na rua. Saída inicia dor e necessidade de ar; retorno completo e reação de Maya não acontecem neste capítulo.
+
+| Campo | Fato concretizado na v1.1 aprovada e limite |
+|---|---|
+| Tempo/local | Experiência após morte do 7, sem duração externa medida. Chão e banco percebidos; nenhuma geografia cosmológica universal estabelecida. |
+| Presentes | Caio e mulher sem identidade confirmada no POV. Nenhuma entrada física ou comunicação de Seshat real. |
+| Corpo | Percebe camiseta/mãos sem sangue e ausência da dor anterior; respiração inicialmente sem necessidade. Isso não certifica estado ou cura do corpo na rua. |
+| Prioridades | Pergunta primeiro por Maya, procura telefone para avisar casa, preocupa-se com mãe e recorda gravação de Lívia interrompida por Marcelo. Família não sofreu perda conhecida neste ponto. |
+| Conhecimento | Ouve morte confirmada, regra parcial de Sucessão e nome Seshat. Interpreta mulher como Seshat e considera escolha ligada ao retorno por Maya; essas são crenças, não verdade cosmológica. |
+| Agência | Questiona preço/dívida, recebe recusa de explicação completa, sabe que não aceitar significa não voltar; declara vontade e oferece mão esquerda. |
+| Sinal | Face interna do antebraço esquerdo perto do pulso; linha escura inicial e escrita depois sobre o mesmo lugar. Não identifica símbolos, fonte ou número de estruturas. Localização aprovada no fechamento. |
+| Livro | Negro, sem título, capa de aspereza fina, peso e quina perceptíveis; surge na mão livre junto ao primeiro traço. Páginas examinadas vazias; nenhuma função testada. |
+| Relação | Mulher mantém vantagem de informação, não controla resposta. Caio aceita sem confiar inteiramente. Nenhum contrato com cláusulas novas ou preço concreto é inventado. |
+| Ausentes/objetos | Situação atual de Maya não confirmada. Telefone não encontrado na experiência; localização física não fixada. Mochila continua onde o 7 a deixou, sem recuperação em cena. |
+| Saída | Dor/pressão torácica, perda de referência das mãos e necessidade de ar iniciam retorno. Nenhum despertar completo, reação de Maya, socorro novo ou identificação de assinatura. |
+
 ## Estado do ciclo
 
-Capítulos 1 e 2 v1.2 e Capítulos 3–7 v1.1 canonizados e fechados. Capítulo 8 — Demorou, v1.1 PROVISÓRIA, em AGUARDANDO APROVAÇÃO DO CAPÍTULO. Seus fatos propostos constam apenas de [[Capítulo 08 - Auditoria]] e não integram a continuidade canonizada. Auditoria acumulada 1–5 encerrada. **Capítulo 9 não iniciado**.
+Capítulos 1 e 2 v1.2 e Capítulos 3–8 v1.1 canonizados e fechados. Nenhum capítulo pendente de aprovação. Auditoria acumulada 1–5 encerrada. **Capítulo 9 não iniciado**; produção parada após este fechamento por instrução do autor.

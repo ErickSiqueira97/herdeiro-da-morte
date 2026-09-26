@@ -840,3 +840,10 @@ Primeira consolidação do Vault.
 - Fatos concretizados promovidos ao [[Livro 1 - Log de Continuidade]]: fuga, retorno, combate, portão danificado, ferimentos, retirada da criatura, tentativa de socorro e morte.
 - Proteções explícitas: Caio teve saída real, correu antes de escolher retornar e voltou porque Maya permaneceu. Contato variável descoberto apenas por experiência; contribuição mundana limitada. Maya continua a combatente. Caio morreu humano, sem manifestação de poder ou experiência pós-morte narrada.
 - Estado do Projeto: **CAPÍTULOS 1–7 FECHADOS; CAPÍTULO 8 NÃO INICIADO**. Produção encerrada neste marco por instrução expressa do autor.
+## 26/09/2026 — Fechamento do Capítulo 8 — Demorou v1.1
+- Aprovação humana explícita; manuscrito promovido a **CANON**, sem alteração do corpo narrativo aprovado no commit 0c32a99 (1.864 palavras).
+- Auditoria A–N e gate especial de verdade narrativa encerrados: P0 = 0 e P1 = 0. Possível enxugamento das perguntas iniciais aceito como preferência editorial não bloqueadora, sem nova revisão.
+- Somente fatos concretizados na versão aprovada promovidos ao [[Livro 1 - Log de Continuidade]]. Associação da mulher ou da escolha de Caio a Seshat permanece crença/inferência dele, não fato cosmológico.
+- Ordem preservada: escolha consciente de continuar → primeiro sinal → manifestação do Livro → algo se escreve SOBRE o mesmo local. Mantida a proximidade temporal expressa por “Ao mesmo tempo” entre sinal e peso do Livro; nenhum intervalo inventado.
+- Retorno completo, reação de Maya e identificação de assinatura permanecem fora deste capítulo.
+- Estado do Projeto: **CAPÍTULOS 1–8 FECHADOS; CAPÍTULO 9 NÃO INICIADO**. Produção parada neste fechamento por instrução expressa do autor.
