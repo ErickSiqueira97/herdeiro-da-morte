@@ -406,3 +406,24 @@ Primeira consolidação do Vault.
 - Arco epistemológico: **“Se é verdade, preciso descobrir” → “Se descobri, preciso registrar corretamente” → “Saber alguma coisa não me torna dona dela.”**
 - Desenho definitivo da Marca, limites táticos finos e destino final permanecem em aberto.
 - O PROCESSO passa a registrar aproximadamente **67% do planejamento trilógico** e **22% do projeto completo/publicável**.
+
+
+## 26/09/2026 — Lucas Azevedo e Sun Wukong
+- O melhor amigo masculino passa a ser **Lucas Azevedo**, 21 anos, ex/aluno com curso de Educação Física trancado após entrada no sobrenatural, com histórico de ginástica, parkour e calistenia.
+- Núcleo familiar: Marcos Azevedo, Débora Azevedo e Júlia Azevedo. Lucas tende a transformar proteção em responsabilidade excessiva e precisa aprender a confiar na autonomia da irmã.
+- **Matheus Rocha** estabelece um conflito pré-sobrenatural: Lucas precisa aceitar que parar uma atividade/caminho não equivale necessariamente a desistência que deva ser corrigida.
+- Lucas possui humor, competitividade e vida cotidiana próprios; sua contradição central é transformar muita coisa em brincadeira porque leva algumas pessoas a sério demais.
+- Sun Wukong fica **fechado narrativamente** como entidade/fonte associada a Lucas, com interpretação centrada em rebelião, disciplina, liberdade, responsabilidade e proteção.
+- **A classificação cosmológica de Sun Wukong permanece deliberadamente aberta.** Não foi criada exceção à regra de que somente deuses concedem Autoridade.
+- O poder narrativo associado a Lucas é **Insurgência**, com três manifestações-base: Ruptura, Desvio e Forma Rebelde.
+- Insurgência não cancela morte, causalidade ou leis fundamentais por vontade. Toda ruptura cobra do corpo a resistência da condição contestada.
+- A possibilidade de aplicar Ruptura sobre terceiros permanece aberta; nenhuma interferência em Marca/Sucessão/Autoridade foi canonizada.
+- **Ruyi** é o bastão associado a Lucas, capaz de alterar comprimento e massa efetiva dentro de limites futuros; não é o artefato original de Wukong e não cresce infinitamente.
+- Até a resolução cosmológica, não está formalizado se Insurgência é Autoridade, Lucas é Successor ou Ruyi é Relíquia-Eco.
+- Relações próprias estabelecidas: caos/documentação com Samira; cuidado × autossacrifício com Elisa; rivalidade física e complementaridade com Maya.
+- A amizade Caio–Lucas cresce por convivência, jogos, comida, treino e escolhas, em vez de irmandade instantânea.
+- Lucas tende a defender Caio durante a escalada do Livro 2, mas isso prepara o conflito do Livro 3: permanecer amigo não significa concordar com sua exterminação generalizada.
+- Payoff fechado em direção: **“Agora você está defendendo os deuses?” / “Não. Estou defendendo você.”**
+- Lucas não deve superar Caio multi-Autoridade por power scaling conveniente; seu confronto depende de conhecimento íntimo do amigo e do objetivo de fazê-lo parar.
+- Arco: **“Liberdade é ninguém decidir por mim” → “Liberdade é poder escolher por quem eu fico” → amar alguém pode significar ficar na frente dele.**
+- O PROCESSO passa a registrar aproximadamente **70% do planejamento trilógico** e **23% do projeto completo/publicável**.
