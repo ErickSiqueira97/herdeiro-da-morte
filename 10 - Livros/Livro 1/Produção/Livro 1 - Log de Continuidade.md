@@ -65,4 +65,4 @@ tags: [livro-1, producao, continuidade]
 
 ## Estado do ciclo
 
-Capítulo 1 fechado. Nenhum capítulo pendente de aprovação. **Capítulo 2 não iniciado**, por instrução expressa do autor. A aprovação deste capítulo não foi tratada como autorização para continuar a redação nesta execução.
+Capítulo 1 fechado. Após nova autorização expressa do autor, o Capítulo 2 foi produzido como **PROVISÓRIO**, versão 1.1, e aguarda aprovação. Seus fatos propostos estão exclusivamente em [[Capítulo 02 - Auditoria]]; nenhuma entrada narrativa do Capítulo 2 foi canonizada neste log. **Capítulo 3 não iniciado.**

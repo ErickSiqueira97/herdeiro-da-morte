@@ -3,7 +3,7 @@ id: livro1-manuscrito-cap02
 tipo: capitulo
 schema_version: 1.1
 status: PROVISÓRIO
-versao: 1.0
+versao: 1.1
 tags: [livro-1, capitulo-02, manuscrito]
 ---
 
@@ -63,7 +63,7 @@ Houve um barulho de papel, depois Sérgio afastou o telefone e pediu a alguém q
 
 — “Arquivo adicionado.” Eu já adicionei três vezes.
 
-Caio orientou que procurasse a confirmação na área de solicitações. Nenhum número novo. Pediu que atualizasse a página. Sérgio soltou o ar no microfone.
+Caio orientou que procurasse a confirmação na área de solicitações. Como Sérgio não lhe dava um número, pediu que atualizasse a página. O homem soltou o ar no microfone.
 
 — Vou perder o que eu fiz?
 
@@ -81,7 +81,7 @@ Marta parou atrás dele, viu o horário da chamada e apontou para a opção de e
 
 — Se não tem erro identificado, abre chamado com a imagem. É o procedimento.
 
-Ela não disse para desligar na cara do homem. O formulário de encaminhamento estava ali, com equipe responsável e prazo. Caio começou a preenchê-lo.
+O formulário de encaminhamento estava ali, com equipe responsável e prazo. Caio começou a preenchê-lo.
 
 — Seu Sérgio, vou precisar de uma imagem dessa tela.
 
@@ -245,7 +245,7 @@ Quando conseguiu dizer por que o cálculo não devia acontecer naquele caso, o p
 
 No intervalo, saiu para encher a garrafa. Havia um bebedouro no corredor, depois das portas de vidro que davam para o pátio. Um grupo ocupava a passagem, dividindo um pacote de biscoitos; ele esperou que terminassem uma discussão sobre o horário da prova antes de pedir licença.
 
-O pátio aparecia refletido no vidro, misturado à luz branca do laboratório. Caio viu alguém passar atrás do reflexo do seu ombro.
+O pátio aparecia refletido no vidro, misturado à luz branca do laboratório. Pareceu a Caio que alguém passava atrás do reflexo do seu ombro.
 
 Não chegou a distinguir roupa ou rosto. Foi um movimento escuro, baixo no começo, que subiu pela coluna refletida em vez de contorná-la.
 
