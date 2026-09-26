@@ -56,6 +56,8 @@ versao: 1.0
 - Títulos definitivos dos volumes.
 - Nome definitivo, estrutura e membros da [[Facção de Ares]].
 - [[Hereges]]: origem, líder, estrutura, primeira aparição, código moral, relação com o Santuário, personagens centrais e papel nos três livros.
-- [[Hereges]]: fechar engenharia fina de **Vestígios → Ecos Artificiais**: extração, estabilização, degradação, armazenamento, risco ao usuário, terminologia de desempenho/sincronização e primeiros Ecos Nomeados.
+- [[Hereges]]: fechar engenharia fina de **Vestígios → Ecos Artificiais**: extração, degradação, risco ao usuário, terminologia de desempenho/sincronização e primeiros Ecos Nomeados.
+- Definir nome, composição, origem e cadeia de suprimento da **liga rara à base de ouro** que contém/conduz Vestígios.
+- Definir escala concreta dos Hereges: número aproximado de membros, células, alcance geográfico, hierarquia e divisões internas.
 - Determinar se é realmente possível romper uma Sucessão sem matar o Successor; a busca dos Hereges por esse mecanismo não prova que ele exista.
 - Demais facções, cenários e bestiário.
