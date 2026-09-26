@@ -811,3 +811,10 @@ Primeira consolidação do Vault.
 - Fatos concretizados promovidos ao [[Livro 1 - Log de Continuidade]]: encontro universitário, ensaio e colaboração, contatos trocados, convivência na cantina, observação de Helena, entrevista e café combinados, conhecimento de cada personagem e consulta final ao arquivo sobre CAIO VALENÇA.
 - Preservados os limites de informação: encontro futuro ainda não realizado; motivos ocultos não declarados; nenhuma confirmação da anomalia anterior ou explicação operacional. Caio ignora a consulta da coda.
 - Estado do Projeto: **CAPÍTULOS 1, 2 E 3 FECHADOS; CAPÍTULO 4 NÃO INICIADO**. Produção encerrada neste marco por instrução do autor.
+
+## 26/09/2026 — Fechamento do Capítulo 4 — Coisas que não fecham v1.1
+- Aprovação humana explícita; manuscrito promovido a **CANON**, sem alteração do corpo narrativo aprovado no commit 411626a (1.961 palavras de prosa).
+- Auditoria encerrada: P0 = 0 e P1 = 0. Calibragem do bloco de perguntas sobre a rampa aceita como preferência editorial não bloqueadora; nenhuma revisão feita por esse motivo.
+- Fatos concretizados promovidos ao [[Livro 1 - Log de Continuidade]]: entrevista e café realizados, geografia local, registros de áudio e fotografia, exclusão da primeira gravação e repetição consentida, convivência, permissões, conhecimento individual e estado de saída.
+- Percepção de Caio e discrepância fotográfica preservadas sem diagnóstico ou confirmação de causa. Perguntas de Maya não certificam conhecimento compartilhado; exclusão de áudio não implica apagamento universal ou abandono da investigação. Impressão final de acompanhamento permanece não confirmada.
+- Estado do Projeto: **CAPÍTULOS 1, 2, 3 E 4 FECHADOS; CAPÍTULO 5 NÃO INICIADO**. Produção encerrada neste marco por instrução do autor.

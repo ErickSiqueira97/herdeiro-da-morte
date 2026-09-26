@@ -2,7 +2,7 @@
 id: livro1-cap04-auditoria
 tipo: auditoria
 schema_version: 1.1
-status: PROVISÓRIO
+status: CANON
 tags: [livro-1, capitulo-04, auditoria]
 ---
 
@@ -10,7 +10,7 @@ tags: [livro-1, capitulo-04, auditoria]
 
 ## Escopo e fontes
 
-[[04 - Coisas que não fecham]], versão 1.1, PROVISÓRIO. Avaliação editorial da própria redação, sujeita à aprovação humana. Base canônica `9f3004a56c2792d9ba4adfc76ed0089e62a637a2`. Capítulos 1, 2 e 3 canonizados e Log de Continuidade atualizado relidos integralmente antes do cartão e da prosa. Outline 4 e limites 5–6, Regras Invioláveis, Mapa, Protocolo e regras de percepção/tecnologia relidos. Hierarquia superior e fichas já consultadas permanecem vigentes. Fontes commitadas utilizadas conforme autorização; modificações anteriores preservadas, `.obsidian` excluída das fontes narrativas.
+[[04 - Coisas que não fecham]], versão 1.1, CANON / FECHADO em 26/09/2026 por aprovação humana explícita. Corpo narrativo aprovado no commit 411626a preservado integralmente. Base canônica `9f3004a56c2792d9ba4adfc76ed0089e62a637a2`. Capítulos 1, 2 e 3 canonizados e Log de Continuidade atualizado relidos integralmente antes do cartão e da prosa. Outline 4 e limites 5–6, Regras Invioláveis, Mapa, Protocolo e regras de percepção/tecnologia relidos. Hierarquia superior e fichas já consultadas permanecem vigentes. Fontes commitadas utilizadas conforme autorização; modificações anteriores preservadas, `.obsidian` excluída das fontes narrativas.
 
 Cartão editorial criado antes da redação, commit `d49d02b`. **Gate pré-escrita: PASSA.** Nenhum P0/P1 impeditivo nas fontes. Nenhuma alteração de macroestrutura, revelação ou regra.
 
@@ -47,11 +47,11 @@ Cartão editorial criado antes da redação, commit `d49d02b`. **Gate pré-escri
 - **P0 identificados: 0; restantes: 0.**
 - **P1 identificado: 1; corrigido: 1; restante: 0.** Na primeira versão, “Maya [...] se arrependeu de perguntar” afirmava estado interno inacessível a Caio. Substituído por fala e gesto observáveis. Na mesma passagem de revisão, reforçada a atribuição das impressões visuais ao POV para não confirmar existência humana/entidade.
 - **P2 corrigido:** referência a uma série recomendada fora da cena substituída por pergunta de Caio e indicação em cena; remove lacuna e expressão imprecisa “contato da série”.
-- **P2 de gosto/refino:** possível calibragem da extensão do bloco de perguntas sobre a rampa. Mantida por ora porque sua precisão é a fonte de inquietação exigida; nenhuma pergunta adicional é necessária.
+- **P2 de gosto/refino:** possível calibragem da extensão do bloco de perguntas sobre a rampa. Aceita pelo autor como preferência editorial não bloqueadora no fechamento; nenhuma nova revisão realizada por esse motivo.
 
-## Fatos novos propostos — NÃO CANONIZADOS
+## Fatos concretizados aprovados — promovidos ao Log de Continuidade
 
-| Campo | Concretização provisória |
+| Campo | Fato concretizado aprovado |
 |---|---|
 | Tempo | Dia seguinte aos capítulos 1–3, após trabalho e antes da aula. Entrevista, fotografias e café; depois aula e trajeto noturno para o ponto. Sem data ou horário exato. |
 | Locais | Entrada lateral da biblioteca; mureta de onde se vê passagem até bloco baixo, rampa com corrimão, duas lixeiras, placa junto à parede e porta no alto. Cantina e, no trajeto noturno, loja fechada, vitrine com cortina e ponto com abrigo de vidro. Sem cidade, endereço ou planta total. |
@@ -71,6 +71,6 @@ Cartão editorial criado antes da redação, commit `d49d02b`. **Gate pré-escri
 
 ## Gate pós-escrita
 
-Função, causalidade, agência, emoção, exposição, mistério, poder, continuidade, ritmo, prosa e impulso de leitura verificados. P0 = 0 e P1 = 0 após correções. Manuscrito PROVISÓRIO; fatos propostos separados nesta auditoria. Capítulos 1–3 e registros aprovados preservados. Capítulo 5 não iniciado.
+Função, causalidade, agência, emoção, exposição, mistério, poder, continuidade, ritmo, prosa e impulso de leitura verificados. P0 = 0 e P1 = 0 após correções. Manuscrito CANON; fatos concretizados promovidos ao Log de Continuidade após aprovação humana. Corpo narrativo preservado integralmente. Capítulos 1–3 e registros aprovados preservados. Capítulo 5 não iniciado.
 
-**AGUARDANDO APROVAÇÃO DO CAPÍTULO.**
+**CAPÍTULO 4 v1.1 APROVADO E FECHADO — 26/09/2026.** Capítulo 5 não iniciado; execução encerrada neste marco.

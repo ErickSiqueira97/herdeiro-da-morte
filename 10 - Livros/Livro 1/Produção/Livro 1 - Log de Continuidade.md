@@ -113,6 +113,30 @@ Os fatos abaixo conservam os limites de conhecimento do texto: falas de Maya sob
 | Pistas/callbacks | Atenção espacial e escuta de Maya; fotos de ambiente/rotina; disputa das fotos retomada nas mensagens. Sem obrigação de reaproveitar cada detalhe. |
 | Estado final | Contato voluntariamente mantido por Caio; Maya consulta arquivo salvo com CAIO VALENÇA e Ciência da Computação — noturno, apaga a tela. Sem remetente, símbolo, comando ou diagnóstico. |
 
+### Capítulo 04 — Coisas que não fecham — v1.1
+
+**CANON / FECHADO em 26/09/2026**, por aprovação humana explícita. Fonte: [[04 - Coisas que não fecham]], versão aprovada no commit 411626a, promovida sem alteração do corpo narrativo. Auditoria: [[Capítulo 04 - Auditoria]], P0 = 0, P1 = 0. Calibragem do bloco de perguntas sobre a rampa aceita como preferência editorial não bloqueadora, sem nova revisão.
+
+Os fatos abaixo preservam os limites do POV: a discrepância é entre percepção e fotografia, sem causa confirmada; as perguntas de Maya não comprovam o que ela viu ou concluiu. A exclusão observada do áudio não certifica eliminação de todos os registros.
+
+| Campo | Fato concretizado aprovado |
+|---|---|
+| Tempo | Dia seguinte aos capítulos 1–3, após trabalho e antes da aula. Entrevista, fotografias e café; depois aula e trajeto noturno para o ponto. Sem data ou horário exato. |
+| Locais | Entrada lateral da biblioteca; mureta de onde se vê passagem até bloco baixo, rampa com corrimão, duas lixeiras, placa junto à parede e porta no alto. Cantina e, no trajeto noturno, loja fechada, vitrine com cortina e ponto com abrigo de vidro. Sem cidade, endereço ou planta total. |
+| Presentes | Caio e Maya. Moça chegando, estudante com guardanapo, rapaz de camisa clara com pasta e casaco preto, mulher que descarta copo, ciclista e dois alunos anônimos. Nenhum nome menor novo. |
+| Corpo/roupa | Nenhum ferimento novo. Maya tem marca da alça no ombro e folha seca na calça; Caio mostra hesitação corporal após o episódio. Sem diagnósticos ou novas capacidades. |
+| Objetos | Mochila de Caio com linha solta na alça, garrafa, caderno, telefone; bolsa, câmera, telefone e caderno manchado de Maya. Câmera registra mãos e passagem; celular grava entrevista, exclui primeira tomada e registra segunda. |
+| Trabalho civil | Caio relata rotina de suporte, saída no horário naquele dia, espera/estudo na faculdade e episódio incompleto. Maya fotografa mãos com autorização e ambiente para o ensaio. Publicação ainda não ocorre. |
+| Discrepância | Caio julga ver pessoa curvada e movimento incompatível entre partes do corpo atrás do rapaz. Fotografias mostram rapaz, casaco e mancha ligada à manga, não volume equivalente à lembrança. Hipótese da manga/ângulo/oclusão levantada por Caio; causa não comprovada. |
+| Conhecimento de Caio | Sabe o que acredita ter visto, o que as fotos mostram e a precisão das perguntas; não conhece mecanismo, identidade da forma, operação ou certeza de Maya. Percebe proteção civil na exclusão do áudio. |
+| Conhecimento de Maya | Ouve relato e reação; faz perguntas precisas. O texto não confirma se viu o mesmo ou o que concluiu. Exclusão observada não autoriza inferir ausência de cópias não mencionadas, apagamento completo de evidência ou abandono da investigação. |
+| Decisões/promessas | Maya propõe texto/foto e consultar Caio se usar voz. Oferece excluir primeiro áudio; Caio aceita repetir. Ele autoriza foto das mãos e pede legenda; ela promete enviar e cumpre à noite. Ele aprova o uso da foto/legenda por mensagem. |
+| Dinheiro/comida | Caio pede dois cafés e vai pagar; Maya paga próprio pão de queijo e divide o restante com ele. Valores não fixados. Nenhuma alteração do saldo familiar ou solução das pendências do capítulo 1. |
+| Relações/vida | Café realiza convite do capítulo 3. Retomada breve da disputa fotográfica, relato de crítica docente a Maya e conversa sobre séries com personagens numerados por brincadeira. Maya indica título por mensagem, sem nome de obra fixado na prosa. Gostam da convivência sem declaração ou compromisso romântico. |
+| Mentiras e limites | Não há nova mentira explicitamente diagnosticada. Maya diz querer entender; narrador não certifica motivo exclusivo. Caio corrige a própria apresentação de estudante dedicado. |
+| Estado de saída | Após aula, impressão periférica acompanha dois passos, não confirmada na inspeção. Caio aprova foto e legenda, aguarda ônibus numa posição com visão da calçada pelo vidro e não identifica presença até a chegada do veículo. |
+| Setups/callbacks | Precisão de Maya, proteção do registro, discrepância entre memória e foto, mudança na atenção espacial de Caio. Sem obrigação de reutilizar detalhes incidentais ou elevar todos a pistas. |
+
 ## Estado do ciclo
 
-Capítulos 1 e 2 v1.2 e Capítulo 3 v1.1 canonizados e fechados. **Capítulo 4 — Coisas que não fecham, v1.1, PROVISÓRIO / AGUARDANDO APROVAÇÃO DO CAPÍTULO.** Seus fatos propostos permanecem apenas em [[Capítulo 04 - Auditoria]], sem promoção ao cânone. Capítulo 5 não iniciado; produção parada para aprovação humana.
+Capítulos 1 e 2 v1.2 e Capítulos 3 e 4 v1.1 canonizados e fechados. Nenhum capítulo pendente de aprovação. **Capítulo 5 não iniciado**; produção parada neste fechamento por instrução expressa do autor.
