@@ -294,7 +294,7 @@ Ele não recebe a Autoridade que a mulher possuía. O equipamento reproduz somen
 
 Sua capacidade de enfrentar Successores deriva da combinação entre esse Eco, preparação, estudo dos alvos e experiência. O primeiro Eco não transforma um humano em equivalente natural de um Successor.
 
-A primeira aplicação do Eco possui direção **defensiva/preservadora**, coerente com a manifestação residual de Amélia. O formato e as propriedades específicas dependerão de sua divindade e Autoridade, ainda em desenvolvimento.
+Amélia é Successora de [[Eir]] e sua Autoridade é **Restauro**. O Vestígio Primário preserva somente uma expressão incompleta: **Estabilização**. O Primeiro Eco não cura nem reverte dano; ele impede temporariamente que uma condição física se agrave. Quando o efeito termina, o dano continua existindo. Sua primeira aplicação é defensiva/preservadora e somente depois ganha uso de combate.
 
 #### O medalhão permanece
 
