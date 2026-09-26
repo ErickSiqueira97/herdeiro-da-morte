@@ -163,4 +163,4 @@ A investigação e a omissão são conhecidas pelo leitor, não por Caio. INCONC
 
 ## Estado do ciclo
 
-Capítulos 1 e 2 v1.2 e Capítulos 3, 4 e 5 v1.1 canonizados e fechados. Nenhum capítulo pendente de aprovação. Auditoria acumulada 1–5 concluída e encerrada em [[Livro 1 - Auditoria Acumulada 01–05]]. **Capítulo 6 não iniciado**; produção parada neste fechamento por instrução expressa do autor.
+Capítulos 1–5 canonizados e fechados; auditoria acumulada 1–5 encerrada. **Capítulo 6 — O caminho de volta, v1.1, PROVISÓRIO / AGUARDANDO APROVAÇÃO DO CAPÍTULO.** Fatos novos apenas em [[Capítulo 06 - Auditoria]], sem promoção ao cânone. Capítulo 7 não iniciado; produção parada para aprovação humana.

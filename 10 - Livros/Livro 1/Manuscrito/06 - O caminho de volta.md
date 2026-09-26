@@ -3,13 +3,13 @@ id: livro1-manuscrito-cap06
 tipo: capitulo
 schema_version: 1.1
 status: PROVISÓRIO
-versao: 1.0
+versao: 1.1
 tags: [livro-1, capitulo-06, manuscrito]
 ---
 
 # 6 — O caminho de volta
 
-Lívia estava tentando prender o telefone entre o açucareiro e um pacote de bolachas quando Caio entrou na cozinha. O aparelho escorregou com a tela para baixo.
+Na manhã seguinte, Lívia estava tentando prender o telefone entre o açucareiro e um pacote de bolachas quando Caio entrou na cozinha. O aparelho escorregou com a tela para baixo.
 
 — Se quebrou, foi o açúcar — disse ele.
 
@@ -285,7 +285,7 @@ Não era um cachorro. Caio não conseguia manter todas as partes no mesmo lugar:
 
 Maya estendeu o braço diante do peito de Caio.
 
-Ele parou. A rua até o ponto ainda estava livre à esquerda da rampa. Atrás, a luz da lanchonete aparecia na esquina; voltar exigiria passar outra vez em frente à coisa.
+Ele parou. A calçada até o ponto ainda estava livre à esquerda da rampa. Atrás, a luz da lanchonete aparecia na esquina. Maya o deslocou para o lado do muro, deixando-o mais perto do caminho livre; ela ficou na borda da rampa, voltada para a rua.
 
 — Vai embora — disse Maya.
 
