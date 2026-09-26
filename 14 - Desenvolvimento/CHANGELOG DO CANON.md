@@ -291,3 +291,17 @@ Primeira consolidação do Vault.
 - O Livro dos Fins não registra Ecos Artificiais como Autoridades.
 - Origem histórica ligada às Guerras dos Sucessores: os primeiros experimentos surgem da necessidade humana de sobreviver a novos confrontos entre portadores de Autoridade.
 - A tecnologia cria fratura moral sobre obtenção de Vestígios e risco político caso Ecos sejam apropriados por Estados, forças militares, organizações criminosas ou interesses comerciais.
+
+
+## 26/09/2026 — Primeiro Herege, Vestígio Primário e medalhão
+- Fechada a origem emocional do fundador dos Hereges: sua radicalização nasce da morte da mulher que ama após ela se tornar Successora.
+- No momento da morte, a Autoridade retorna normalmente ao deus, mas uma pequena essência luminosa, semelhante visualmente a um vagalume, desprende-se como Vestígio.
+- Sem compreender o fenômeno, o fundador preserva acidentalmente a essência em um medalhão que já continha uma fotografia da mulher.
+- Vestígios normalmente se dissipam rapidamente. A preservação do primeiro decorre de circunstâncias físicas/metafísicas e propriedades ainda não explicadas do medalhão, não de “poder do amor”.
+- O pingente manifesta posteriormente fenômenos anômalos de forma acidental, levando o fundador de luto e esperança à observação, testes e pesquisa.
+- Ele inicialmente pode acreditar que alguma parte consciente dela permaneceu; descobre depois que o Vestígio não contém alma, memória ou personalidade, configurando uma segunda perda emocional.
+- O Vestígio do medalhão torna-se o **Vestígio Primário** e núcleo do primeiro Eco Artificial funcional, utilizado pelo próprio fundador.
+- A fotografia permanece no medalhão mesmo após o desenvolvimento do Eco. A pequena essência luminosa pode percorrer visualmente o equipamento durante sua ativação e retornar ao núcleo ao fim.
+- O fundador não era originalmente inimigo dos deuses. Sua perda e investigação posterior o levam à tese de que a Sucessão mantém a intervenção divina na Terra.
+- Sua direção radical passa a ser eliminar Successores e impedir novas Sucessões, ao mesmo tempo que a organização busca uma possível forma de romper o vínculo sem matar o humano.
+- Estabelecido o espelho temático com Caio: ambos têm dificuldade em aceitar o irreversível; Caio acumula aquilo que perde, enquanto o fundador transforma aquilo que perdeu em arma.
