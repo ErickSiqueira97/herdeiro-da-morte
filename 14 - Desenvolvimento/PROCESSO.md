@@ -22,20 +22,20 @@ ultima_auditoria: 2026-09-26
 ## Dois indicadores
 
 ### Planejamento da trilogia
-**64% concluído · 36% restante**
+**67% concluído · 33% restante**
 
 Mede Bíblia, cosmologia, elenco, organizações, história, poderes, mistérios, causalidade, foreshadowing e arquitetura dos três livros.
 
 ### Projeto completo/publicável
-**21% concluído · 79% restante**
+**22% concluído · 78% restante**
 
 Inclui todo o planejamento acima + outline, redação integral dos três romances, revisões estruturais, continuidade, ritmo, prosa e revisão final.
 
-> O número principal para a fase atual é **64% do planejamento**. O projeto completo permanece em **21%** porque a prosa definitiva ainda não começou.
+> O número principal para a fase atual é **67% do planejamento**. O projeto completo permanece em **22%** porque a prosa definitiva ainda não começou.
 
 ---
 
-# Painel de planejamento — 64%
+# Painel de planejamento — 67%
 
 | Bloco | Peso | Estado | Contribuição |
 |---|---:|---:|---:|
@@ -44,17 +44,17 @@ Inclui todo o planejamento acima + outline, redação integral dos três romance
 | História antiga / Pacto / Guerras | 7% | 70% | 4,9 |
 | Caio e família | 8% | 82% | 6,6 |
 | Maya | 6% | 82% | 4,9 |
-| Restante do quarteto | 8% | 45% | 3,6 |
+| Restante do quarteto | 8% | 68% | 5,4 |
 | Elite de Ares | 7% | 52% | 3,6 |
 | Hereges / Ecos Artificiais | 7% | 73% | 5,1 |
 | Santuário | 7% | 35% | 2,5 |
-| Deuses/personagens divinos centrais | 5% | 45% | 2,3 |
-| Mistérios e revelações | 7% | 75% | 5,3 |
+| Deuses/personagens divinos centrais | 5% | 50% | 2,5 |
+| Mistérios e revelações | 7% | 78% | 5,5 |
 | Foreshadowing trilógico | 6% | 55% | 3,3 |
 | Arquitetura Livro 1 | 5% | 40% | 2,0 |
 | Arquitetura Livro 2 | 3% | 25% | 0,8 |
 | Arquitetura Livro 3 | 2% | 30% | 0,6 |
-| **TOTAL** | **100%** |  | **≈64%** |
+| **TOTAL** | **100%** |  | **≈67%** |
 
 Os pesos refletem impacto estrutural. Percentual alto em cosmologia não compensa quarteto ou causalidade incompletos.
 
@@ -66,7 +66,7 @@ Os pesos refletem impacto estrutural. Percentual alto em cosmologia não compens
 **Prioridade máxima.**
 
 - aprofundar [[Elisa Noronha]] até o padrão final de Maya: cronologia, relações próprias, Marca, regras táticas e arco dos Livros 2–3;
-- confirmar e desenvolver [[Investigadora de Thoth]];
+- aprofundar [[Samira Nasser]]: cronologia, Marca, relações adicionais, limites táticos e dilema final;
 - definir fonte divina e desenvolver [[Melhor Amigo]];
 - desenvolver Diretor do Santuário;
 - aprofundar [[Dante Vilar]] e [[Amélia Salles]]: divindade/Autoridade, morte, Primeiro Eco e destino histórico;
