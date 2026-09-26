@@ -64,3 +64,5 @@ versao: 1.0
 - Demais facções, cenários e bestiário.
 
 - [[Véu e Ecologia Sobrenatural]]: fechar mecanismo fino de Mitogênicos, percepção por crianças/animais, tecnologia específica de observação, regras de Remanescentes e primeiras espécies/classificação de ameaça.
+
+- [[Santuario]]: fechar estrutura interna (Arquivo/Vigília/Campo/Custódia/Pacto são apenas direção), localização da sede, financiamento, relação com governos, hierarquia, recrutamento, tecnologia e protocolos completos.
