@@ -56,7 +56,7 @@ versao: 1.0
 - Títulos definitivos dos volumes.
 - Nome definitivo, estrutura e membros da [[Facção de Ares]].
 - [[Hereges]]: liderança atual, estrutura, primeira aparição, código moral, relação com o Santuário, personagens centrais modernos e papel nos três livros.
-- [[Dante Vilar]] / [[Amélia Salles]]: fechar época/local exatos, relações independentes, divindade e Autoridade de Amélia, causa física de sua morte, forma do Primeiro Eco, equipe inicial, radicalização histórica, destino de Dante e portador atual do Primeiro Eco.
+- [[Dante Vilar]] / [[Amélia Salles]]: fechar época/local exatos, relações independentes, Marca de Eir, duração da Sucessão, identidade dos envolvidos e lesão física exata da morte, forma física/engenharia do Primeiro Eco, equipe inicial, radicalização histórica, destino de Dante e portador atual do Primeiro Eco.
 - [[Hereges]]: fechar engenharia fina de **Vestígios → Ecos Artificiais**: extração, degradação, risco ao usuário, terminologia de desempenho/sincronização e primeiros Ecos Nomeados.
 - Definir nome, composição, origem e cadeia de suprimento da **liga rara à base de ouro** que contém/conduz Vestígios.
 - Definir escala concreta dos Hereges: número aproximado de membros, células, alcance geográfico, hierarquia e divisões internas.
