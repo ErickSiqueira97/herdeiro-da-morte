@@ -22,20 +22,20 @@ ultima_auditoria: 2026-09-26
 ## Dois indicadores
 
 ### Planejamento da trilogia
-**61% concluído · 39% restante**
+**64% concluído · 36% restante**
 
 Mede Bíblia, cosmologia, elenco, organizações, história, poderes, mistérios, causalidade, foreshadowing e arquitetura dos três livros.
 
 ### Projeto completo/publicável
-**20% concluído · 80% restante**
+**21% concluído · 79% restante**
 
 Inclui todo o planejamento acima + outline, redação integral dos três romances, revisões estruturais, continuidade, ritmo, prosa e revisão final.
 
-> O número principal para a fase atual é **61% do planejamento**. O projeto completo permanece em **20%** porque a prosa definitiva ainda não começou.
+> O número principal para a fase atual é **64% do planejamento**. O projeto completo permanece em **21%** porque a prosa definitiva ainda não começou.
 
 ---
 
-# Painel de planejamento — 58%
+# Painel de planejamento — 64%
 
 | Bloco | Peso | Estado | Contribuição |
 |---|---:|---:|---:|
@@ -44,17 +44,17 @@ Inclui todo o planejamento acima + outline, redação integral dos três romance
 | História antiga / Pacto / Guerras | 7% | 70% | 4,9 |
 | Caio e família | 8% | 82% | 6,6 |
 | Maya | 6% | 82% | 4,9 |
-| Restante do quarteto | 8% | 25% | 2,0 |
+| Restante do quarteto | 8% | 45% | 3,6 |
 | Elite de Ares | 7% | 52% | 3,6 |
 | Hereges / Ecos Artificiais | 7% | 73% | 5,1 |
 | Santuário | 7% | 35% | 2,5 |
-| Deuses/personagens divinos centrais | 5% | 40% | 2,0 |
+| Deuses/personagens divinos centrais | 5% | 45% | 2,3 |
 | Mistérios e revelações | 7% | 75% | 5,3 |
 | Foreshadowing trilógico | 6% | 55% | 3,3 |
 | Arquitetura Livro 1 | 5% | 40% | 2,0 |
 | Arquitetura Livro 2 | 3% | 25% | 0,8 |
 | Arquitetura Livro 3 | 2% | 30% | 0,6 |
-| **TOTAL** | **100%** |  | **≈61%** |
+| **TOTAL** | **100%** |  | **≈64%** |
 
 Os pesos refletem impacto estrutural. Percentual alto em cosmologia não compensa quarteto ou causalidade incompletos.
 
@@ -65,7 +65,7 @@ Os pesos refletem impacto estrutural. Percentual alto em cosmologia não compens
 ## P1 — Elenco central
 **Prioridade máxima.**
 
-- levar [[Sucessora de Idunn]] ao padrão de profundidade de Maya;
+- aprofundar [[Elisa Noronha]] até o padrão final de Maya: cronologia, relações próprias, Marca, regras táticas e arco dos Livros 2–3;
 - confirmar e desenvolver [[Investigadora de Thoth]];
 - definir fonte divina e desenvolver [[Melhor Amigo]];
 - desenvolver Diretor do Santuário;
