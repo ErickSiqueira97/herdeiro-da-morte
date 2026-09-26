@@ -91,4 +91,4 @@ Os fatos abaixo pertencem à prosa aprovada. A percepção da anomalia é canôn
 
 ## Estado do ciclo
 
-Capítulos 1 e 2 fechados e canonizados, ambos na versão 1.2. Nenhum capítulo pendente de aprovação. **Capítulo 3 não iniciado**; produção parada neste fechamento por instrução expressa do autor.
+Capítulos 1 e 2 fechados e canonizados, ambos na versão 1.2. Capítulo 3 produzido como **PROVISÓRIO**, versão 1.1, e aguardando aprovação. Fatos candidatos exclusivamente em [[Capítulo 03 - Auditoria]], sem promoção neste log. **Capítulo 4 não iniciado.**
