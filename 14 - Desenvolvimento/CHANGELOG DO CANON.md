@@ -321,3 +321,24 @@ Primeira consolidação do Vault.
 - Para Ares, o crescimento Herege é sintoma de que o Primeiro Pacto apenas transformou a guerra e pode contribuir para sua ruptura.
 - A Elite não existe apenas para exterminar Hereges: Ares a concebe como força capaz de responder à ameaça imediata e sobreviver ao conflito maior que acredita inevitável.
 - Fica estabelecido o contraste de escala: **Hereges = organização extensa e distribuída; Elite de Ares = oito Successores excepcionalmente complementares.**
+
+
+## 26/09/2026 — Dante Vilar e Amélia Salles
+- O fundador dos Hereges passa a se chamar **Dante Vilar**, com aproximadamente 27 anos na tragédia, situado no fim do século XIX/início do XX.
+- Dante trabalha com relojoaria, mecânica de precisão e instrumentos científicos. Sua virtude/falha central é acreditar que coisas quebradas possuem causas compreensíveis e podem ser reparadas.
+- A mulher que dará origem ao Vestígio Primário passa a se chamar **Amélia Salles**, com aproximadamente 25 anos.
+- Amélia possui interesse e ambição próprios em botânica e ilustração científica; sua identidade precede Dante e a Sucessão.
+- Amélia compreende melhor que Dante que o fim de algo não apaga sua existência. O motivo de desenhar também plantas secas/mortas fica associado à personagem.
+- Dante e Amélia já formam casal/noivos antes do sobrenatural; a relação contém felicidade cotidiana, humor, atritos e projetos independentes.
+- O medalhão é uma peça antiga da família de Amélia, entregue a Dante durante o relacionamento/noivado, e contém fotografia ligada a ela/ao casal.
+- Amélia torna-se Successora depois de já estar com Dante. Sua divindade **não foi fechada**; deve ser pesquisada e escolhida entre figuras legitimamente associadas a cura/preservação.
+- A escolha divina decorre de uma decisão observada em que Amélia permanece para proteger/cuidar de pessoas quando poderia se retirar. Não há destino ou compatibilidade obrigatória.
+- A Sucessão não elimina a vida civil de Amélia. Sua continuidade no mundo sobrenatural é escolha própria, impedindo que a narrativa valide integralmente a versão posterior de Dante de que “os deuses a tomaram”.
+- Amélia morre em conflito envolvendo Successores depois de escolher permanecer para ajudar/proteger outras pessoas. A responsabilidade é distribuída; causa física e envolvidos permanecem abertos.
+- A direção temática de despedida **“Você não precisa consertar tudo”** fica associada à tragédia.
+- O primeiro Eco nasce com função **defensiva/preservadora**, não como arma de extermínio.
+- A evolução histórica dos Hereges segue a direção **proteção → resistência → neutralização → caça → extermínio**.
+- Dante inicia a investigação, mas a tecnologia Herege não será obra de um supergênio solitário: colaboradores e gerações transformam a descoberta em engenharia.
+- A descoberta de que a propriedade do medalhão é materialmente estudável/reproduzível marca a passagem do luto individual para tecnologia organizada.
+- Permanecem abertos: divindade/Autoridade de Amélia, causa técnica exata de sua morte, Primeiro Eco definitivo e se Dante está vivo no presente.
+- O PROCESSO passa a registrar aproximadamente **60% do planejamento trilógico** e **19% do projeto completo/publicável**.
