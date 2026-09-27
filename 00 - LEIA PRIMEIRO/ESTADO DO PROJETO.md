@@ -19,7 +19,7 @@ relacoes:
     tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-versao: 1.19
+versao: 1.20
 ---
 
 # Estado do Projeto
@@ -41,19 +41,16 @@ Os percentuais medem prontidão estrutural e editorial, não quantidade de notas
 ## Estado editorial
 A macroarquitetura e o outline capítulo por capítulo do Livro 1 estão congelados em CANON. O [[Livro 1 - Outline Definitivo v1]] possui 32 capítulos e passou por auditoria integral, correções e verificação pós-correções. Não há pendência estrutural ativa que impeça a preparação da redação.
 
-**Estado do Livro 1: CAPÍTULOS 1–10 CANONIZADOS / FECHADOS.** Capítulos 1 e 2 v1.2; 3–10 v1.1. Capítulo 10 aprovado e fechado em 27/09/2026, sem alteração do corpo narrativo aprovado em 4ecd87d (2334 segmentos pela convenção atual). Auditoria A–N, família, presságio e verdade narrativa encerradas; P0/P1 restantes zero. Calibragem do bloco roupa/refeição aceita como preferência editorial não bloqueadora, sem nova revisão. Somente fatos concretizados promovidos ao [[Livro 1 - Log de Continuidade]].
+**Estado do Livro 1: CAPÍTULOS 1–11 CANONIZADOS / FECHADOS.** Capítulos 1 e 2 v1.2; 3–11 v1.1. Capítulo 11 aprovado explicitamente e fechado em 27/09/2026, sem alteração do corpo narrativo aprovado em d535392 (2485 segmentos pela convenção atual). Auditoria A–N e gates Marcelo, Nádia, Livro, separação e continuidade física encerrados: P0/P1 restantes zero. Calibragem da extensão do diálogo final aceita como preferência editorial não bloqueadora, sem nova revisão. Somente fatos concretizados promovidos ao [[Livro 1 - Log de Continuidade]].
 
-Caio continua fisicamente limitado; avaliação e limpeza não constituem alta ou cura. Marcelo, Helena e Lívia preservam tarefas, opiniões e decisões próprias. O cuidado do pai não resolve o atrito com Caio. A cooperação prática com Maya não repara a confiança rompida. Existe saída real pela área de serviço até a rua de trás, com corredor livre e ajuda oferecida; Caio escolhe conscientemente permanecer com a família, sem fuga ou extração concretizada. Marcelo interpreta uma ameaça humana, sem conhecer a natureza dos agentes. Família junta e Marcelo vivo no corte da maçaneta; nenhum combate, nova lesão ou morte.
+Marcelo morreu após resistência competente, sem compreender a natureza completa da ameaça. Nádia escolheu conscientemente a morte quando contenção não letal concreta estava disponível; sem perda de controle, sadismo ou absolvição pela Fúria. Maya tentou impedir. Caio permanece limitado, escreve manualmente o nome do pai no Livro por desespero e associação com Seshat/escrita/livros/registros, sem conhecer regra de ressurreição: absolutamente nada acontece. Helena e Lívia agem; a passagem dos fundos é utilizada e a reação dos perseguidores força separação. Maya promete retirá-las dali, sem garantia permanente ou destino final confirmado. Confiança não reparada; paradeiro posterior das duas não estabelecido.
 
-O pacote operacional continua vigente: Bíblia de Produção, Regras Invioláveis, Mapa de Revelações e Payoffs, Protocolo de Produção, Prompt Mestre e Auditoria Final. [[Livro 1 - Auditoria Acumulada 01–05]] e [[Livro 1 - Auditoria Acumulada 01–10]] preservadas e encerradas, P0/P1 restantes zero. Os percentuais históricos acima não foram recalculados.
-
-**Capítulo 11 — Marcelo Valença v1.1 PROVISÓRIO**, produzido e auditado em 27/09/2026 a partir da base canônica 1c86daf. 2485 palavras pela convenção atual. Cartão e gate pré-escrita PASSAM; auditoria A–N e gates Marcelo, Nádia, Livro, separação e continuidade física PASSAM, P0/P1 restantes zero. Fatos novos listados apenas em [[Capítulo 11 - Auditoria]], sem canonização. Preferência P2 não bloqueadora: extensão da troca final junto ao carro sob cobertura do arco. **AGUARDANDO APROVAÇÃO DO CAPÍTULO. Capítulo 12 não iniciado.**
+O pacote operacional continua vigente. [[Livro 1 - Auditoria Acumulada 01–05]] e [[Livro 1 - Auditoria Acumulada 01–10]] preservadas e encerradas, P0/P1 restantes zero. Os percentuais históricos acima não foram recalculados. **Sem capítulo pendente de aprovação; Capítulo 12 não iniciado. Produção parada.**
 
 ## Próximos blocos
-1. Aguardar aprovação humana do **Capítulo 11 — Marcelo Valença v1.1**.
-2. Somente após aprovação, canonizar a versão aprovada e promover fatos concretizados ao Log.
-3. Não iniciar o Capítulo 12 neste ciclo; manter produção de um capítulo por vez.
-4. Preservar auditorias acumuladas 1–5 e 1–10 encerradas; próximo marco após o Capítulo 15.
+1. Aguardar instrução humana para iniciar o ciclo do Capítulo 12.
+2. Não iniciar o Capítulo 12 neste fechamento; manter produção de um capítulo por vez.
+3. Preservar auditorias acumuladas 1–5 e 1–10 encerradas; próximo marco após o Capítulo 15.
 
 Ver [[EM ABERTO]] e [[PROCESSO]].
 

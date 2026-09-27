@@ -290,6 +290,41 @@ Caio continua fisicamente limitado; avaliação e limpeza não constituem alta o
 | Helena/Lívia na saída | Helena liga para polícia com telefone desbloqueado de Marcelo; Lívia junto dela no corredor segura bolsa. Não deixam casa nem se separam em rotas distintas. |
 | Ameaça/saída | Marcelo conta duas pessoas no portão e outra no carro. Voz chama Caio pelo nome completo; portão abre após som metálico; passos no espaço até casa e maçaneta da porta desce. Nenhum invasor identificado, golpe, ferimento novo ou morte. |
 
+### Capítulo 11 — Marcelo Valença — v1.1
+
+**CANON / FECHADO em 27/09/2026**, por aprovação humana explícita. Fonte: [[11 - Marcelo Valença]], versão aprovada no commit d535392, promovida sem alteração do corpo narrativo (2485 segmentos pela convenção atual). [[Capítulo 11 - Auditoria]]: A–N e gates Marcelo, Nádia, Livro, separação e continuidade física PASSAM; P0/P1 restantes zero. Calibragem da extensão do diálogo final aceita como preferência editorial não bloqueadora, sem nova revisão.
+
+#### Proteções explícitas de continuidade
+
+- Marcelo resiste com competência, fere/frustra a invasora e protege o corredor; interpreta inicialmente invasão humana e morre sem compreender a natureza sobrenatural completa da ameaça. Não há despedida artificial ou reconciliação final.
+- Nádia decide conscientemente matar quando Marcelo já está contido e o colega oferece assumir sua guarda com tira aberta junto ao pulso. A alternativa não letal é concreta. Não há sadismo, perda de controle, possessão ou absolvição pela Fúria. Nádia é identificação de bastidor; Caio não recebe seu nome ou patrona em cena.
+- Maya tenta impedir a morte, é retida pelo braço ferido e depois reage contra os colegas para abrir a retirada. A ruptura operacional não repara a confiança com Caio.
+- Caio continua fisicamente limitado pelo trauma e retorno. Não enfrenta os invasores como igual nem manifesta poder. A morte de Marcelo é inequívoca, presenciada e reconhecida, nunca desaparecimento ou mera inconsciência.
+- Depois da morte confirmada, Caio escreve manualmente **“Marcelo Valença”** no Livro por desespero e associação com **Seshat / escrita / livros / registros**, sem conhecer regra de ressurreição. **Absolutamente nada acontece.** O gesto humano não é Registro; não há resposta, mensagem, brilho, erro, página autônoma ou explicação. Não estabelecer regra de retenção/rejeição de tinta. A associação com Seshat continua crença de Caio, não verdade cosmológica.
+- Helena e Lívia mantêm agência: organizam auxílio, socorro, objetos e retirada, protegem uma à outra e participam das decisões. A passagem dos fundos é efetivamente utilizada; sua existência não é apagada.
+- A separação decorre da resposta operacional dos perseguidores: ordem de contornar, chegada pela esquina e disparo que impede a travessia até o carro onde Caio já está. Não resulta de esquecimento da rota ou abandono das duas.
+- Maya promete especificamente **“Eu tiro as duas daqui”**, confirmado por **“Prometo”**, após a morte e o silêncio do Livro. Compromisso de retirar Helena e Lívia dali, sem garantia de segurança permanente ou destino final. Caio aceita seguir sob necessidade, sem perdão.
+- Caio parte com o vizinho rumo ao posto indicado; Helena e Lívia passam pelo acesso lateral com Maya. Nenhuma chegada ao ponto, interceptação, perda de rastro, retorno de Maya ou paradeiro posterior é concretizado neste capítulo.
+
+| Campo | Concretização da v1.1 aprovada e limite |
+|---|---|
+| Tempo | Continuação imediata do 10, mesma noite, sem relógio/data ou duração clínica fixados. |
+| Invasores | Mulher de cabelo preso e homem entram pela frente; terceira pessoa aparece na rua de trás após ordem de contornar. Nádia identificada apenas nos bastidores; ninguém revela nome, patrona, organização ou origem da arma de fogo. |
+| Porta/móvel | Fechadura/batente cedem; folha fica oblíqua contra móvel já deslocado. Marcelo usa ambos; móvel quebra sob pressão da invasora. Chave de Marcelo permanece no bolso por continuidade; não é recuperada. |
+| Marcelo | Fere acima do olho da mulher, frustra entrada, mantém defesa do corredor, é contido, sofre lesão fatal deliberada na cabeça/pescoço e morre na sala. Corpo permanece na casa. Não ganha fala final reconciliadora. |
+| Nádia | Ferimento com sangue junto ao olho; depois flecha na perna, recuo com retirada de peso do pé e pedido de pano. Viva; grau definitivo das lesões não diagnosticado. Não nomeada para Caio. |
+| Maya | Negocia, interfere fisicamente, tem braço ferido agarrado, usa cotovelo e manifesta arco; fere colega e afasta segundo invasor com disparos. Ruptura operacional observada, sem perdão ou exposição de sua história/organização. |
+| Caio | Dor/limitação permanecem; queda sobre joelho sem novo diagnóstico; desespero e tentativa com Livro; nenhum poder. Viaja com Livro e mochila/caderno/carregador, camisa do 10. Telefone não retirado do bolso em cena. |
+| Livro/caneta | Retirado da mochila trazida da cozinha por Lívia; tentativa manual do nome Marcelo Valença; nenhuma resposta. Livro levado aberto por Caio. Caneta fica no chão, tampa retirada com dentes sem destino posterior fixado. Não criar regra sobre tinta. |
+| Socorro | Helena mantém ligação iniciada no 10, informa morte e solicita ambulância; não chega polícia/equipe médica neste capítulo. Marcelo disse que polícia vinha, mas resposta/despacho não são confirmados pelo narrador. |
+| Auxílio civil | Vizinho anônimo acionado por Lívia a pedido de Helena, com carro e acesso lateral aberto. Apoia Caio e dirige. Nenhum histórico, profissão, poder ou vínculo institucional definidos. |
+| Geografia | Passagem dos fundos chega à rua de trás; portão lateral do vizinho junto a ela, poucos passos antes da calçada. Carro na margem oposta. Posto duas ruas adiante é destino combinado, sem chegada. Não se fixa planta completa do quarteirão nem saída final das duas. |
+| Helena | Pede ajuda, verifica Marcelo, comunica morte, escolhe retirar filhos, sustenta Caio, mantém Lívia consigo e manda filho seguir. Não adquire cosmologia ou segredo anterior. |
+| Lívia | Solicita carro/acesso, traz mochila, abre zíper, guarda caderno e transfere mochila ao vizinho; ajuda no portão, puxa mãe para cobertura e abre acesso lateral. Mantém telefone próprio; bolsa de Helena com ela. |
+| Conhecimento | Caio presencia morte e conhece vínculos práticos de Maya com invasores; não recebe motivação original completa. Helena/Lívia veem morte e violência impossível, sem termos de sistema. Seshat permanece crença de Caio. |
+| Promessa | Maya: “Eu tiro as duas daqui”, confirmada por “Prometo”. Posterior ao Livro; não garante destino ou segurança indefinida. Caio consente em seguir sob necessidade, sem confiança reparada. |
+| Saída | Carro de Caio se afasta; último avistamento: Lívia e Helena passam pelo portão lateral, Maya recua com elas. Corpo de Marcelo fica para trás. Nenhuma morte das duas, interceptação, perda de rastro, chegada ao posto ou Santuário. |
+
 ## Estado do ciclo
 
-Capítulos 1 e 2 v1.2 e Capítulos 3–10 v1.1 CANON / FECHADOS. Auditorias acumuladas 1–5 e 1–10 preservadas e encerradas, P0/P1 restantes zero. Capítulo 11 — Marcelo Valença v1.1 **PROVISÓRIO**, em **AGUARDANDO APROVAÇÃO DO CAPÍTULO**. Fatos novos somente em [[Capítulo 11 - Auditoria]], sem promoção ao Log. **Capítulo 12 não iniciado.**
+Capítulos 1 e 2 v1.2 e Capítulos 3–11 v1.1 CANON / FECHADOS. Sem capítulo pendente de aprovação. Auditorias acumuladas 1–5 e 1–10 preservadas e encerradas, P0/P1 restantes zero. **Capítulo 12 não iniciado. Produção parada.**

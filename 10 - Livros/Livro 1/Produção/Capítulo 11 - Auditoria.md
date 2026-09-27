@@ -2,17 +2,17 @@
 id: livro1-cap11-auditoria
 tipo: auditoria
 schema_version: 1.1
-status: PROVISÓRIO
+status: CANON
 tags: [livro-1, capitulo-11, auditoria]
 ---
 
 # Capítulo 11 — Marcelo Valença — Auditoria
 
-27/09/2026. Base canônica **1c86daf**. Cartão/gate: **2bf7983**. Primeira versão: **fc6050b**. Revisão v1.1 ainda **PROVISÓRIA**, 2485 palavras no corpo por segmentos separados por espaço (mesma convenção da auditoria acumulada 1–10). Capítulos 1–10, fontes superiores e Auditoria Acumulada 1–10 preservados. Nenhum fato novo promovido ao Log; o rodapé operacional apenas acompanha o ciclo.
+27/09/2026. Base canônica **1c86daf**. Cartão/gate: **2bf7983**. Primeira versão: **fc6050b**. Versão v1.1 **CANON / FECHADA**, aprovada explicitamente em 27/09/2026, fonte d535392, sem alteração do corpo narrativo, 2485 palavras no corpo por segmentos separados por espaço (mesma convenção da auditoria acumulada 1–10). Capítulos 1–10, fontes superiores e Auditoria Acumulada 1–10 preservados. Somente fatos concretizados na versão aprovada promovidos ao [[Livro 1 - Log de Continuidade]].
 
 ## Resultado
 
-**PASSA. P0 restantes = 0; P1 restantes = 0.** Auditoria A–N e cinco gates especiais concluídos após revisão. Possível P2 de preferência: extensão da troca final junto ao carro sob cobertura do arco, preservada para manter o diálogo canônico e a participação de Helena/Lívia. Não é reconciliação nem garantia de sobrevivência futura.
+**PASSA. P0 restantes = 0; P1 restantes = 0.** Auditoria A–N e cinco gates especiais concluídos após revisão. Calibragem da extensão do diálogo final aceita pelo autor como preferência editorial não bloqueadora; corpo narrativo preservado, sem nova revisão. Não é reconciliação nem garantia de sobrevivência futura.
 
 ## Auditoria A–N
 
@@ -27,7 +27,7 @@ tags: [livro-1, capitulo-11, auditoria]
 | G — Mistério | PASSA. A assassina não ganha nome para Caio; Nádia é identificação de bastidor da auditoria. Seshat é a associação do protagonista. Morte, falsa Marca, Cicatriz, Hereges, Livro e destino final das duas permanecem ocultos. |
 | H — Foreshadowing | PASSA. Silêncio do Livro paga objeto vazio; promessa prepara cobrança futura sem antecipá-la. Ausência de discurso paterno, frase de destino ou comentário sobre importância futura. |
 | I — Poder | PASSA. Resistência física cede sob pressão localizada; nenhuma força à distância, invulnerabilidade ou cura. A invasora sangra e recua ferida. Maya usa arco já estabelecido. Caio não manifesta poder; Livro não responde nem registra. |
-| J — Continuidade | PASSA. Maçaneta/fechadura, posições, janela distinta da porta, móvel, telefones, camisa azul, mochila na cozinha, caderno/carregador, dor torácica e braço ferido mantidos. Saída real usada. Novos detalhes locais listados abaixo para aprovação. |
+| J — Continuidade | PASSA. Maçaneta/fechadura, posições, janela distinta da porta, móvel, telefones, camisa azul, mochila na cozinha, caderno/carregador, dor torácica e braço ferido mantidos. Saída real usada. Detalhes locais aprovados e promovidos ao Log. |
 | K — Ritmo | PASSA. Entrada e contenção breves; morte não se transforma em duelo longo. Pausa do Livro ocorre sob cobertura ativa de Maya; retirada é interrompida pela redistribuição observada da operação. Nenhum processamento completo do luto. |
 | L — Prosa | PASSA. Falas práticas do pai e da mãe, hesitação corporal e ordens curtas. Revisão retirou diagnóstico invisível do tipo de pancada e afirmação de reconhecimento interno do outro invasor. Preferência P2 final registrada, sem frase moral do narrador. |
 | M — Experiência | PASSA. Caio quer que Maya encontre uma frase para desfazer a situação, tenta alcançar o pai, procura caneta e reluta em sair. A experiência não se reduz ao mapa de golpes. Humor não é imposto à morte. |
@@ -99,9 +99,9 @@ A prosa fixa o gesto/tentativa, não uma regra nova sobre retenção de tinta. N
 - **P2 corrigido — objetos:** caderno guardado por Lívia e mochila transferida ao vizinho antes de ele sustentar Caio; ambos ficam no carro. Não deixar o destino da mochila variar por omissão.
 - P0 encontrados: zero. P0/P1 restantes após releitura: zero. Preferência P2 final registrada no resultado, sem alteração estrutural requerida.
 
-## Fatos propostos para continuidade — NÃO CANONIZADOS
+## Fatos aprovados e promovidos ao Log de Continuidade
 
-| Campo | Concretização da v1.1 e limite |
+| Campo | Concretização da v1.1 aprovada e limite |
 |---|---|
 | Tempo | Continuação imediata do 10, mesma noite, sem relógio/data ou duração clínica fixados. |
 | Invasores | Mulher de cabelo preso e homem entram pela frente; terceira pessoa aparece na rua de trás após ordem de contornar. Nádia identificada apenas nos bastidores; ninguém revela nome, patrona, organização ou origem da arma de fogo. |
@@ -122,6 +122,6 @@ A prosa fixa o gesto/tentativa, não uma regra nova sobre retenção de tinta. N
 
 ## Gate pós-escrita — PASSA
 
-Função, causalidade, agência, emoção, mistério, regras, continuidade, ação e diálogos conferidos; P0/P1 zero; fatos novos listados para aprovação. Vida concreta permanece em objetos e ações da família, sem inserir pausa cotidiana inadequada à invasão. Manuscrito, cartão e auditoria PROVISÓRIOS. Capítulo 12 não iniciado.
+Função, causalidade, agência, emoção, mistério, regras, continuidade, ação e diálogos conferidos; P0/P1 zero; somente fatos concretizados aprovados e promovidos ao Log. Vida concreta permanece em objetos e ações da família, sem inserir pausa cotidiana inadequada à invasão. Manuscrito e auditoria CANON / FECHADOS; cartão preservado como registro de preparação. Capítulo 12 não iniciado.
 
-**AGUARDANDO APROVAÇÃO DO CAPÍTULO.**
+**CANON / FECHADO. Produção parada após o Capítulo 11.**
