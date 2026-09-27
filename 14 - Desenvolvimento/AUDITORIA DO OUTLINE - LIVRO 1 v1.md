@@ -21,10 +21,7 @@ O outline **passa estruturalmente**, mas ainda não deve ser congelado.
 
 A sequência de 32 capítulos funciona. Não há necessidade de aumentar ou reduzir o número neste estágio. Os cinco movimentos preservam a arquitetura CANON, a causalidade principal fecha e o arco moral de Caio está legível.
 
-Foram encontrados:
-- **4 correções necessárias antes do fechamento**;
-- **6 proteções de execução** que devem entrar no documento;
-- nenhuma contradição que exija reabrir a Arquitetura Definitiva v2.
+Na auditoria inicial foram encontrados 4 ajustes necessários e proteções de execução. **Todos foram incorporados ao outline.** A verificação pós-correções não encontrou nova contradição que exija reabrir a Arquitetura Definitiva v2.
 
 Classificação:
 - fidelidade à arquitetura: **PASSA**
@@ -464,7 +461,7 @@ Com as correções 2 e 4 desta auditoria, coincidência deixa de resolver qualqu
 
 Família, Nádia, Hereges, Ares e Registro já possuem cadeias causais próprias.
 
-**Resultado: PASSA APÓS CORREÇÕES.**
+**Resultado pós-correções: PASSA.**
 
 # 23. Auditoria de escalada
 
