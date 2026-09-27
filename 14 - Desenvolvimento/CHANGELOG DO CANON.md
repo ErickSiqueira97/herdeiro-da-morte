@@ -714,3 +714,19 @@ Primeira consolidação do Vault.
 - Definidas cadeias mecânicas que precisam ser concretizadas antes do outline: desaparecimento Helena/Lívia e morte causal de Nádia.
 - Fixadas dez melhorias obrigatórias antes do outline e critérios de aprovação para a Arquitetura Definitiva v2.
 - Direção editorial: o próximo salto de qualidade deve vir de vida, especificidade e execução, não da adição de nova mitologia.
+
+
+## 27/09/2026 — Fechamento dos 10 pontos pré-outline do Livro 1
+- Pacote “Construção dos 10 Pontos Pré-Outline” aprovado integralmente e promovido a CANON.
+- Rostos institucionais fechados: Lena Arantes (Direção/autonomia), Raul Bastos (Campo/sobrevivência) e Dra. Beatriz Vilar (Arquivo/evidência).
+- Identidade sensorial e cinco espaços recorrentes do Santuário fechados: Mesa Comprida, Enfermaria, Arquivo Baixo, Pátio de Saída e Corredor das Marcas.
+- Luzeiro fechado como predador ecológico da ocorrência “NÃO INTERFERIR”.
+- Procissão Oca fechada como grande ocorrência do Movimento III.
+- Colisão do Movimento IV concretizada em instalação industrial com comportas; Nádia fica vulnerável protegendo pessoas e Caio fecha deliberadamente sua rota de sobrevivência antes do necessário.
+- Fúria é registrada após a morte; Hereges recuperam o Vestígio; Caio usa Fúria em seguida para salvar Elisa e outros feridos.
+- Cadeia Helena/Lívia fechada: Maya extrai → separa-se para desviar perseguição → Ares intercepta → Hereges extraem civis → Remanescentes contaminam Perseguição → Helena participa ativamente da decisão de permanecer escondida.
+- Pistas familiares fechadas: evidência médica/material de Lívia viva após a invasão e registro civil posterior com Helena agindo conscientemente diante de câmera.
+- Nádia recebe cena independente “Trinta segundos”, ação protetiva concreta e espelho filosófico com Marcelo.
+- Elisa, Samira e Lucas recebem ações independentes e consequências próprias.
+- Mapa preliminar de pressão fechado em 32 capítulos como base de ritmo; ainda não é outline definitivo.
+- Próxima etapa: incorporação documental/limpeza e Arquitetura Definitiva v2.
