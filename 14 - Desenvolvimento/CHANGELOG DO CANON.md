@@ -491,3 +491,14 @@ Primeira consolidação do Vault.
 - Caio tem chance real de fugir, percebe alguém para trás, volta para ajudar e morre. A segunda morte nasce de sua regra emocional: **ele não abandona pessoas**.
 - Cadeia causal consolidada: Cicatriz + decisão de Ares + omissão de Maya + escolha de Caio.
 - Permanecem abertos e interdependentes: criatura/fenômeno, pessoa salva, mecânica física da morte e local/circunstância.
+
+
+## 27/09/2026 — Ponte da segunda morte ao Santuário
+- Fechado que Caio é morto pela criatura/fenômeno ao fim do Movimento I; Marcelo é morto posteriormente por um Successor da Elite de Ares.
+- Após retornar com a falsa Marca de Seshat, Caio transforma a investigação de Ares em operação de recolhimento/identificação; a ordem original não é exterminar os Valença.
+- Marcelo resiste para proteger Caio e o Successor responsável escolhe deliberadamente força letal.
+- Maya rompe com a operação após a escalada e cria a fuga de Caio.
+- Helena e Lívia escapam do confronto imediato e são interceptadas posteriormente.
+- Maya direciona Caio ao Santuário, cuja proteção institucional impede que sua chegada dependa de coincidência.
+- No Santuário, a leitura superficial confirma Seshat e a leitura profunda encontra a incompatibilidade já prevista em A07, inicialmente atribuída à morte e retorno.
+- Estabelecido o paralelo: Caio morre voltando por alguém; Marcelo morre ficando diante do perigo por Caio.
