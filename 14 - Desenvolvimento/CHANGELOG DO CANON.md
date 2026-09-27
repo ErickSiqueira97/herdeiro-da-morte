@@ -609,3 +609,22 @@ Primeira consolidação do Vault.
 - Pista final de Seshat passa a ser incompatibilidade de padrão, não contradição cronológica decisiva.
 - Formalizado que Morte explora a Cicatriz da Alma e não possui ressurreição arbitrária.
 - Instituídas matriz cena-função, oito linhas de foreshadowing, Teste de Remoção e Teste de Decisão para a Arquitetura v2.
+
+
+## 27/09/2026 — Upgrade literário definitivo do Movimento I
+- Movimento I promovido para versão 2.0 após auditoria literária.
+- Função profunda fixada: fazer o leitor desejar a continuidade da vida de Caio antes de destruí-la.
+- Abertura ancorada na casa dos Valença e em conflito humano pequeno, sem prólogo sobrenatural/exposição.
+- Caio demonstra em escala cotidiana o padrão de não abandonar/resolver antes do heroísmo.
+- Marcelo recebe relação viva e conflito inacabado; Helena demonstra percepção de padrões; Lívia recebe memória cotidiana e uso banal de “Cacá”.
+- Trabalho e faculdade passam a revelar personalidade e futuro concreto.
+- Maya entra somente depois da vida de Caio estar estabelecida; sua aproximação ganha dupla leitura investigação/afeto.
+- Incluída cena de Maya sem Caio e dramatização do relatório em que ela registra como inconclusiva uma percepção que sabe ter ocorrido.
+- Sobrenatural progride em três degraus antes do Rasga-Véu, sem terminologia explicativa precoce.
+- Rasga-Véu deixa sinais antes do ataque; Ares escolhe observar por mais tempo e assume responsabilidade causal sem ordenar a morte.
+- Sequência fatal começa em normalidade; Maya revela o sobrenatural por ação antes de explicação.
+- Caio obedece à ordem de correr, depois escolhe voltar por Maya.
+- Caio compreende empiricamente a janela de Aderência sem conhecer o termo e cria a abertura que salva Maya.
+- Preservado o núcleo “Você ficou.”
+- Morte rápida, sem discurso final; “Demorou.” permanece abertura do Movimento II.
+- Removidas pendências antigas que ainda tratavam Rasga-Véu e Maya como elementos abertos.
