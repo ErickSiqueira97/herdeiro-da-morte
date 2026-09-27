@@ -682,14 +682,14 @@ relacoes:
 - Equipamento falha/é ativado, elevando Aderência de Remanescente instável.
 - Nádia assume contenção para proteger evacuados.
 - Ela salva pessoas e fica gravemente ferida/isolada.
-- Santuário abre rota lateral e cabo.
-- Informação inequívoca chega a Caio: **se a comporta permanecer aberta por poucos segundos, Nádia consegue atravessar; a ameaça ainda pode ser contida depois.**
-- Fechar agora reduz risco mais cedo, mas não é necessário.
-- Maya percebe onde Caio está e o que ele entendeu.
+- Santuário abre rota lateral e cabo. O automático de contenção está comprometido, mas existe **acionamento manual de emergência** na galeria de Caio.
+- A contenção exige baixar uma comporta hidráulica. Pelo rádio, Caio recebe informação inequívoca: **mantê-la aberta por mais alguns segundos permite Nádia alcançar a galeria segura; o Remanescente ainda pode ser contido depois dessa espera.**
+- Fechar imediatamente reduz risco mais cedo, mas não é necessário para salvar os demais.
+- Maya percebe Caio junto ao comando e entende que ele recebeu a mesma informação.
 - Ela pede que espere.
 - Caio vê Nádia avançando para a saída.
 - Callback curto ao confronto, sem debate.
-- Caio fecha.
+- Caio **aciona fisicamente o fechamento manual antes do necessário**. Maya vê a mão dele no comando antes de a comporta completar o curso.
 
 **Mudança irreversível:** ele remove conscientemente a possibilidade de sobrevivência.
 
@@ -728,13 +728,12 @@ relacoes:
 **Função:** usar poder de vingança para salvar.
 
 **Sequência:**
-- Falha estrutural/ameaça bloqueia evacuação.
-- Elisa permanece sustentando feridos que não consegue abandonar.
-- Ela não é vítima passiva: escolheu ficar e já retirou quem podia.
-- Caio sente Fúria traduzir obstáculo como algo que precisa ceder.
-- Em vez de atacar pessoa, aplica impulso ao problema físico/rota.
-- Abre passagem/força mecanismo/vence resistência material dentro dos limites definidos.
-- Salva Elisa **e os feridos**.
+- Antes de Caio chegar, Elisa já organizou a evacuação, retirou quem conseguia caminhar, priorizou os feridos que ainda podia sustentar e tentou a saída normal. Ela permanece porque retirar suporte condenaria pessoas ainda salváveis.
+- Dano estrutural deforma uma **porta/grade de evacuação**, prendendo Elisa e os feridos restantes.
+- Caio sente Fúria traduzir a resistência do mecanismo como algo que precisa ceder.
+- Fúria não é telecinese genérica: através do próprio corpo e do Registro, Caio produz força orientada pela Authority e obriga o mecanismo emperrado a ceder além do que conseguiria humanamente.
+- O uso cobra custo imediato: microlesões, tremor e a sensação perturbadora de que resistência física e oposição são variações do mesmo problema.
+- Salva Elisa **e os feridos**. Espelho deliberado: no 26, Caio fecha uma passagem para impedir uma vida; no 28, força uma passagem para preservar várias.
 - Sensação é boa. Eficácia é real.
 - Isso impede leitura simplista de “poder mau”.
 - Hereges escapam com Vestígio.
