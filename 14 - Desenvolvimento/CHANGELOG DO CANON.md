@@ -685,3 +685,21 @@ Primeira consolidação do Vault.
 - Espelho estrutural formalizado entre Rasga-Véu e Nádia: Caio primeiro cria uma possibilidade de sobrevivência e morre; depois remove uma possibilidade de sobrevivência e outra pessoa morre.
 - Vingança não resolve luto; poder ocupa parcialmente o vazio e se torna tentação.
 - Final preserva inversão perseguidor/alvo.
+
+
+## 27/09/2026 — Upgrade literário definitivo do Movimento V
+- Movimento V promovido para versão 2.0; auditoria vertical dos cinco movimentos do Livro 1 concluída.
+- Diretriz central: consequência/recontextualização do primeiro Registro em vez de tentar superá-lo com espetáculo maior.
+- Pergunta emocional: “O que Caio fará agora que finalmente pode impedir algumas perdas — e sabe que esse poder nasceu de uma morte que escolheu permitir?”
+- Elisa fechada como primeira pessoa salva decisivamente por Caio usando Fúria após o Registro; seu risco decorre de agência própria no campo.
+- Influência inicial de Fúria fechada como compulsão de resolução por confronto: oposição/resistência parece algo que precisa ceder, sem possessão ou raiva automática.
+- Segunda avaliação de Elisa deve comprovar mudança estrutural pós-Registro sem indicar nova personalidade.
+- Vitória Herege consolidada como recuperação do Vestígio de Nádia.
+- Hereges consolidados como terceiro agente que retira Helena/Lívia da cadeia de Ares após Maya removê-las da casa.
+- Seshat: removida a ideia de contradição cronológica decisiva no Livro 1; Samira conclui somente “A hipótese Seshat já não explica todos os fatos.”
+- Pista final de Helena/Lívia deve derivar da reconstrução da interferência Herege e indicar continuidade posterior, sem entregar localização.
+- Santuário preserva autonomia de Caio quando fazê-lo se torna politicamente difícil.
+- Núcleo dos cinco converge por decisões independentes, não por designação de equipe.
+- Encerramento mantém prioridade humana: “Agora eu encontro minha família.”
+- Fechamento temático: Caio não conquista resolução; conquista agência. Essa agência já foi usada tanto para preservar uma vida quanto para remover uma possibilidade de sobrevivência.
+- Pergunta de saga reforçada: “Até onde ele irá para impedir um Fim que se recusa a aceitar?”
