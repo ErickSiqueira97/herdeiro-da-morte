@@ -592,3 +592,20 @@ Primeira consolidação do Vault.
 - Morte observa o primeiro Registro; função canônica da cena é marcar que aquele foi apenas o primeiro.
 - O objetivo declarado de Caio ao final continua humano: encontrar Helena e Lívia.
 - Com este fechamento, a **macroarquitetura dos cinco movimentos do Livro 1 está completa** e o próximo estágio é a auditoria integral antes do outline capítulo a capítulo.
+
+
+## 27/09/2026 — Fechamento dos 14 pontos da auditoria do Livro 1
+- Fechado o pacote estrutural dos 14 pontos da auditoria.
+- Formalizados Fonte, Expressão Sucessória e Registro.
+- O Registro não remove a Authority constitutiva do deus: retém a Expressão que deveria retornar.
+- Enquanto o Registro estiver retido, o deus não consegue estabelecer uma nova Sucessão daquela Authority; um diálogo futuro poderá mostrar o próprio deus tentando escolher um novo Successor e descobrindo que a Sucessão não acontece.
+- Fechada Nádia Moura, Successora de Sekhmet/Fúria, como assassina de Marcelo e primeiro Successor registrado.
+- Nádia mata Marcelo por decisão consciente; Caio causa sua morte ao remover deliberadamente uma possibilidade real de sobrevivência.
+- Primeiro Registro fechado como Fúria; sua influência transforma oposição em algo que precisa ceder.
+- Helena e Lívia são retiradas da cadeia de Ares por célula Herege usando contramedida baseada em Remanescentes contra Perseguição.
+- Santuário terá rostos de Direção, Campo e Arquivo/Pesquisa.
+- Lucas ganha decisão causal ligada à liberdade de Caio; Caio usa Fúria para salvar Elisa, que diferencia influência de Authority de doença/possessão.
+- Hereges recuperam o Vestígio de Nádia.
+- Pista final de Seshat passa a ser incompatibilidade de padrão, não contradição cronológica decisiva.
+- Formalizado que Morte explora a Cicatriz da Alma e não possui ressurreição arbitrária.
+- Instituídas matriz cena-função, oito linhas de foreshadowing, Teste de Remoção e Teste de Decisão para a Arquitetura v2.
