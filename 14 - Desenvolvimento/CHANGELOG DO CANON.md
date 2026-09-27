@@ -475,3 +475,19 @@ Primeira consolidação do Vault.
 - Encontros devem variar entre perseguição, fuga, investigação, contenção, resgate, negociação, território, proteção, predação, migração, surto Mitogênico e desequilíbrio ecológico.
 - Cada protagonista central terá ao menos um encontro que pressione sua personalidade/poder.
 - Fechado o foreshadowing: matar criatura não gera registro de Autoridade; o contraste posterior com **REGISTRO CONCLUÍDO** ajuda a revelar que o Livro nunca foi um sistema de recompensa por caça a monstros.
+
+
+## 27/09/2026 — Movimento I do Livro 1
+- Fechada a arquitetura de **O Último Período Normal**, aproximadamente 15–20% do Livro 1.
+- A investigação nasce de um padrão objetivo: o sobrenatural altera comportamento/Aderência ao redor de Caio antes de sua segunda morte; Caio não controla nem produz o fenômeno.
+- Ares conhece apenas a anomalia de um humano aparentemente sem Marca e ordena investigação, não execução.
+- Maya é escolhida por Perseguição e por sua capacidade de observar sem transformar imediatamente o alvo em inimigo.
+- Maya se aproxima através de oportunidade universitária deliberadamente criada, mantendo identidade e personalidade verdadeiras.
+- Casa/faculdade/trabalho funcionam como pertencimento/futuro/presente e a família Valença deve receber vida cotidiana genuína antes da tragédia.
+- Fechada a progressão inicial de sinais do Véu e a descoberta de que o entorno sobrenatural reage a Caio.
+- Maya faz sua primeira omissão: suaviza evidência de percepção sobrenatural espontânea de Caio, prolongando a investigação.
+- Antes da segunda morte existe interesse/afeto nascente, não amor consolidado.
+- Ares prefere observar a aproximação de uma ocorrência antes de intervenção; a situação degrada e um terceiro fica em perigo.
+- Caio tem chance real de fugir, percebe alguém para trás, volta para ajudar e morre. A segunda morte nasce de sua regra emocional: **ele não abandona pessoas**.
+- Cadeia causal consolidada: Cicatriz + decisão de Ares + omissão de Maya + escolha de Caio.
+- Permanecem abertos e interdependentes: criatura/fenômeno, pessoa salva, mecânica física da morte e local/circunstância.
