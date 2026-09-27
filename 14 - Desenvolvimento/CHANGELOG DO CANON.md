@@ -527,3 +527,11 @@ Primeira consolidação do Vault.
 - O Livro surge negro e inicialmente vazio.
 - O afeto da Morte por Caio pode ser genuíno mesmo enquanto ela o instrumentaliza.
 - São canônicos os fatos, perguntas, omissões e callbacks estruturais do diálogo; a redação intermediária permanece aberta para a escrita final.
+
+
+## 27/09/2026 — Movimento II do Livro 1
+- Fechado **Movimento II — A Vida que Não Deveria Continuar**.
+- O movimento cobre encontro com Morte, falsa Succession de Seshat, escolha de retorno, Marca da Morte + Sobreposição, retorno físico, relatório de Maya, escalada de Ares, revelação parcial da investigação, retorno de Caio à família, invasão, assassinato deliberado de Marcelo, promessa de Maya, desaparecimento posterior de Helena/Lívia e chegada ao Santuário.
+- A leitura superficial do Santuário valida Seshat; a leitura profunda encontra arquitetura incompatível/indeterminada e atribui provisoriamente a anomalia à morte e retorno de Caio.
+- O movimento termina com Caio sozinho e o Livro vazio.
+- Permanecem abertos: identidade do assassino de Marcelo; mecanismo de interceptação que respeite Perseguição; recepção de Caio no Santuário; possível tentativa de escrever o nome de Marcelo; redação final dos diálogos.
