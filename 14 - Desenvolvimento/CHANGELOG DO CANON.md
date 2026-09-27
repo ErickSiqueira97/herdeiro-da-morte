@@ -763,3 +763,13 @@ Primeira consolidação do Vault.
 - O mapa de 32 capítulos continua hipótese de ritmo dentro da faixa canônica de 30–34; o outline pode fundir/dividir capítulos sem alterar a macroestrutura.
 - A partir deste marco, novas ideias não reabrem a macroarquitetura apenas por serem interessantes. Mudança estrutural exige contradição objetiva ou melhoria excepcional demonstrável sem quebrar payoffs.
 - Próxima etapa oficial: **outline capítulo por capítulo**, seguido de auditoria de outline antes da redação.
+
+
+## 27/09/2026 — Correções da auditoria do Outline v1 aplicadas
+- Aplicados os 12 ajustes aprovados sem reabrir a macroarquitetura.
+- Fechadas as causalidades dos capítulos 17–19 e o erro pré-Fúria de Caio.
+- Concretizados o acionamento manual da comporta e o primeiro uso físico de Fúria, com espelho entre fechar e forçar uma passagem.
+- Reforçado o plantio da logística Herege nos capítulos 23/25 antes do Vestígio no 27.
+- Pista de Lívia passa a funcionar por convergência de evidências, não documento perfeito.
+- Ajustadas as proteções de Maya/Seshat, Elisa, Lucas, Ares e formação orgânica do núcleo final.
+- Outline permanece PROVISÓRIO até verificação curta de consistência e fechamento explícito.
