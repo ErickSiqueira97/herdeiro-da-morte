@@ -744,3 +744,12 @@ Primeira consolidação do Vault.
 - Interceptação completa de Helena/Lívia não será mostrada ao leitor no momento em que ocorre.
 - Encerramento será redistribuído para preservar a última prioridade humana de Caio.
 - Bíblia Canônica limpa: removida duplicação da regra de Registro e normalizada a formulação Expressão Sucessória → Fonte.
+
+
+## 27/09/2026 — Correções da auditoria final aplicadas à Arquitetura v2
+- Aprovados e aplicados os quatro ajustes de precisão encontrados na auditoria final.
+- **Cicatriz da Alma:** permanece verdade de bastidor, mas não será nomeada/diagnosticada para o leitor no Livro 1; a experiência visível é apenas que o Rasga-Véu reage a algo em Caio que Maya não compreende.
+- **Fúria:** documentos de bastidor passam a tratá-la como manifestação por primeiro Registro; “segunda Authority” permanece apenas como hipótese/linguagem possível dos personagens, sem transformar Caio em duplo Successor.
+- **Caio × Nádia:** confronto filosófico fixado no capítulo 24 ou início do 25 e ligado causalmente à decisão institucional de excluir Caio da operação seguinte.
+- **Morte/Seshat:** reforçada a proibição de a narração resumir a inferência de Caio como afirmação literal de identidade; “O nome que importa para você é Seshat” permanece o enquadramento canônico.
+- A Arquitetura Definitiva v2 continua PROVISÓRIA apenas até o comando explícito de fechamento/congelamento para outline.
