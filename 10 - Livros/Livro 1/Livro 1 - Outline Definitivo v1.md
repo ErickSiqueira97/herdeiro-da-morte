@@ -248,7 +248,8 @@ relacoes:
 - Choque dela ao perceber retorno não é “eu sabia”.
 - Livro e Marca existem.
 - Maya entende que algo impossível aconteceu e percebe assinatura aparente.
-- Caio chama a mulher pelo nome inferido/Seshat; Maya reage ao nome.
+- Maya limita-se ao que consegue ler: **“Essa assinatura é de Seshat.”** Ela não afirma que Seshat escolheu Caio.
+- Caio chama a mulher pelo nome inferido/Seshat; a conclusão de que foi escolhido por ela parte dele e do enquadramento anterior.
 - Verdade parcial sobre Maya começa a sair.
 - Caio percebe que ela sabia do sobrenatural antes de conhecê-lo.
 - Ruptura:
@@ -588,13 +589,9 @@ relacoes:
 - Maya segue assinatura de Remanescente até ponto temporário usado por terceiros.
 - Regra de Perseguição explicitada por ação: existe trilha nova, curta e degradada.
 - Equipamentos/resíduos mostram técnica artificial.
-- Encontram material de atendimento civil descartado/duplicado:
-  - “Lívia”;
-  - idade compatível;
-  - data posterior à invasão;
-  - descrição do corte.
-- Não há sobrenome nem endereço futuro.
-- Validação documental dá confiança suficiente.
+- Encontram material civil de triagem/atendimento descartado ou duplicado. Nenhum campo isolado prova identidade: há “Lívia”, faixa etária compatível, data e horário posteriores à invasão, código/local verificável e descrição de corte compatível com o que Maya viu. Não há sobrenome nem endereço futuro.
+- A convergência dos detalhes forma o conjunto probatório; não existe documento perfeito.
+- No mesmo ponto, Maya encontra marcas de acondicionamento e resíduo de recipiente técnico especializado usado para transportar material sobrenatural. A finalidade ainda não é explicada.
 - Caio abandona temporariamente busca de Nádia para seguir família.
 - Isso é crucial: vingança não vence uma pista familiar viável.
 
@@ -661,7 +658,7 @@ relacoes:
   >
   > — Porque achar que você está errado não me dá o direito de escolher por você.
 - Lucas não “dá passe mágico”; ajuda Caio a preservar uma possibilidade real de deslocamento/acesso.
-- Plantar equipamento Herege de coleta em briefing/imagens: recipientes, rota técnica, interesse em resíduos.
+- No briefing/imagens, Maya reconhece nos recipientes Hereges o mesmo padrão de acondicionamento encontrado no capítulo 23. A inteligência indica coleta de material sobrenatural, sem antecipar a recuperação de Vestígio de Successor; a rota técnica da instalação também é identificada.
 - Elisa vai oficialmente como resgate; Maya por função de Perseguição.
 
 **Mudança:** Caio entra no clímax por escolha contra recomendação.
@@ -713,7 +710,7 @@ relacoes:
   > **REGISTRO CONCLUÍDO.**
 - Fúria manifesta-se como possibilidade/pressão de fazer oposição ceder, não raiva explosiva.
 - Caio sente pela primeira vez capacidade que não possuía.
-- Em paralelo operacional, Hereges aproveitam rota e equipamento já estabelecidos e recuperam **Vestígio de Nádia**.
+- Em paralelo operacional, Hereges usam a rota técnica e os recipientes plantados nos capítulos 23/25 para recuperar **Vestígio de Nádia**. A coleta é payoff logístico, não equipamento surgido no momento conveniente.
 - Sekhmet não aparece para explicar nada.
 - Maya entende que algo impossível aconteceu.
 - Caio sente satisfação antes da culpa.
