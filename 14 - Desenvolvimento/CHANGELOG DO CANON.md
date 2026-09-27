@@ -753,3 +753,13 @@ Primeira consolidação do Vault.
 - **Caio × Nádia:** confronto filosófico fixado no capítulo 24 ou início do 25 e ligado causalmente à decisão institucional de excluir Caio da operação seguinte.
 - **Morte/Seshat:** reforçada a proibição de a narração resumir a inferência de Caio como afirmação literal de identidade; “O nome que importa para você é Seshat” permanece o enquadramento canônico.
 - A Arquitetura Definitiva v2 continua PROVISÓRIA apenas até o comando explícito de fechamento/congelamento para outline.
+
+
+## 27/09/2026 — Arquitetura Definitiva v2 congelada para outline
+- Arquitetura Definitiva v2 do Livro 1 aprovada e promovida a **CANON**.
+- Auditoria Final promovida a **CANON / FECHADA**.
+- Os quatro ajustes finais já incorporados tornam-se parte da fonte única de verdade do volume.
+- Macroarquitetura do Livro 1 marcada como **CONGELADA PARA OUTLINE**.
+- O mapa de 32 capítulos continua hipótese de ritmo dentro da faixa canônica de 30–34; o outline pode fundir/dividir capítulos sem alterar a macroestrutura.
+- A partir deste marco, novas ideias não reabrem a macroarquitetura apenas por serem interessantes. Mudança estrutural exige contradição objetiva ou melhoria excepcional demonstrável sem quebrar payoffs.
+- Próxima etapa oficial: **outline capítulo por capítulo**, seguido de auditoria de outline antes da redação.
