@@ -2,14 +2,14 @@
 id: livro1-construcao-10-pontos-pre-outline
 tipo: desenvolvimento
 schema_version: 1.1
-status: PROVISÓRIO
+status: CANON
 tags: [livro-1, arquitetura, pre-outline, auditoria]
 moc: "[[MOC - Livros]]"
 ---
 
 # Livro 1 — Construção dos 10 Pontos Pré-Outline
 
-> **Status:** proposta integrada. Nenhuma decisão nova deste documento substitui o CANON até aprovação explícita. O documento concretiza os dez pontos exigidos pela Auditoria Geral.
+> **Status:** CANON. Pacote aprovado integralmente em 27/09/2026. Este documento concretiza e fecha os dez pontos exigidos pela Auditoria Geral antes da Arquitetura Definitiva v2.
 
 # 1. Três rostos institucionais do Santuário
 
@@ -534,10 +534,9 @@ Os dez pontos reforçam o mesmo eixo: **agir é necessário, mas agir não elimi
 Nenhuma solução revela Morte, falsa Seshat, Livro dos Fins ou verdade final da Succession.
 
 ## Próxima decisão
-Após aprovação explícita deste pacote:
-1. promover o documento a CANON;
-2. incorporar os fechamentos nos movimentos/documentos correspondentes;
-3. atualizar Changelog e EM ABERTO;
-4. construir **Arquitetura Definitiva v2**;
-5. auditar a v2;
-6. só então transformar o mapa de 32 capítulos em outline definitivo.
+Pacote aprovado. Próxima sequência:
+1. incorporar os fechamentos nos movimentos/documentos correspondentes;
+2. atualizar Changelog e EM ABERTO;
+3. construir **Arquitetura Definitiva v2**;
+4. auditar a v2;
+5. só então transformar o mapa de 32 capítulos em outline definitivo.
