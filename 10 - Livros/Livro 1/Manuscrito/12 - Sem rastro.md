@@ -3,7 +3,7 @@ id: livro1-manuscrito-cap12
 tipo: capitulo
 schema_version: 1.1
 status: PROVISÓRIO
-versao: 1.0
+versao: 1.1
 tags: [livro-1, capitulo-12, manuscrito]
 ---
 
@@ -25,7 +25,7 @@ O vizinho abriu a própria porta.
 
 — Vou falar ali. Não saio daqui.
 
-Apontou o funcionário perto da loja. Caio acompanhou-o por alguns passos antes de voltar a olhar a rua. Na tela, a chamada para a irmã terminara também.
+Apontou o funcionário perto da loja. Caio acompanhou-o com os olhos antes de voltar a olhar a rua. Na tela, a chamada para a irmã terminara também.
 
 O telefone do pai estava com Helena. Ele abriu o contato e demorou a apertar. Quando ouviu chamar, aproximou o aparelho do ouvido, embora já estivesse encostado.
 
@@ -121,7 +121,7 @@ Ele não sabia quanto tempo cabia naquela volta. Pensou na mãe atrás de uma gu
 
 — Elas sabiam que você ia sair?
 
-— Sabiam. Combinei de voltar por elas. Sua mãe me fez repetir qual carro ia buscar vocês. Mandou a Lívia ficar com o telefone na mão.
+— Sabiam. Combinei de voltar por elas. Sua mãe me fez repetir qual carro ia buscar as duas. Mandou a Lívia ficar com o telefone na mão.
 
 Maya passou a língua pelo lábio rachado. Parecia querer terminar de uma vez, mas as palavras vinham separadas.
 
@@ -135,7 +135,11 @@ Caio olhou a mensagem. Ainda não consigo ir até vocês.
 
 — Depois?
 
-Maya negou com a cabeça.
+— Não vi mais. Não sei onde estão agora.
+
+Caio esperou que ela dissesse se estavam vivas. Maya olhou para ele antes de continuar:
+
+— Não vi nada que me permita dizer que morreram.
 
 O vizinho se apoiou na porta da frente. Tinha deixado os guardanapos no banco; o vento virou um deles sobre o painel.
 
@@ -195,7 +199,7 @@ Maya baixou a cabeça. O cabelo caiu sobre seu rosto e ela o afastou com o punho
 
 Caio esperou. Ela não acrescentou nada.
 
-Ele puxou a mochila para perto e se levantou. O mundo inclinou antes que pudesse dar o primeiro passo; agarrou a porta. Maya se moveu, mas o vizinho chegou antes, apoiando-o sob o braço.
+Ele deixou o livro no banco, pôs a mochila no chão junto à porta e tentou se levantar. O mundo inclinou antes que pudesse dar o primeiro passo; agarrou a porta. Maya se moveu, mas o vizinho chegou antes, apoiando-o sob o braço.
 
 — Senta um pouco.
 
@@ -221,7 +225,9 @@ Caio tentou tirar o braço do apoio. O peito repuxou sob a camisa, e por um inst
 
 — Eu não levo você de volta pra perto de tiro — disse. — Nem vou sozinho.
 
-O homem estava tremendo também. Caio percebeu pelo modo como segurava a porta, apertando e soltando a borracha. Tinha entrado numa rua para ajudar um vizinho ferido e agora não sabia se podia voltar à própria casa.
+O homem estava tremendo também. Caio percebeu pelo modo como segurava a porta, apertando e soltando a borracha.
+
+— Nem sei se posso voltar pra minha casa — disse o vizinho.
 
 Maya tirou o telefone.
 
@@ -273,7 +279,9 @@ Caio tinha uma mão fechada sobre o telefone e a outra no banco. Queria pedir o 
 
 — Vão procurar agora? — perguntou ao aparelho.
 
-— Vou passar o ponto agora. Você pode vir sendo atendido sem cancelar a procura.
+— Vou passar o ponto agora. Você pode vir para atendimento sem cancelar a procura. Me deixa seu número também.
+
+Caio ditou. A pessoa repetiu os últimos algarismos e ele confirmou.
 
 Ele assentiu antes de lembrar que a pessoa não podia vê-lo.
 

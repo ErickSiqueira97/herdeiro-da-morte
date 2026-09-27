@@ -327,4 +327,4 @@ Caio continua fisicamente limitado; avaliação e limpeza não constituem alta o
 
 ## Estado do ciclo
 
-Capítulos 1 e 2 v1.2 e Capítulos 3–11 v1.1 CANON / FECHADOS. Sem capítulo pendente de aprovação. Auditorias acumuladas 1–5 e 1–10 preservadas e encerradas, P0/P1 restantes zero. **Capítulo 12 não iniciado. Produção parada.**
+Capítulos 1 e 2 v1.2 e 3–11 v1.1 CANON / FECHADOS. Auditorias acumuladas 1–5 e 1–10 preservadas. Capítulo 12 — Sem rastro v1.1 PROVISÓRIO, em **AGUARDANDO APROVAÇÃO DO CAPÍTULO**. Fatos novos somente em [[Capítulo 12 - Auditoria]], sem promoção canônica. **Capítulo 13 não iniciado.**

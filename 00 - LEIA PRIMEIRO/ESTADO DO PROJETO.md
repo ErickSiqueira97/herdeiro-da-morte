@@ -19,7 +19,7 @@ relacoes:
     tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-versao: 1.20
+versao: 1.21
 ---
 
 # Estado do Projeto
@@ -45,11 +45,11 @@ A macroarquitetura e o outline capítulo por capítulo do Livro 1 estão congela
 
 Marcelo morreu após resistência competente, sem compreender a natureza completa da ameaça. Nádia escolheu conscientemente a morte quando contenção não letal concreta estava disponível; sem perda de controle, sadismo ou absolvição pela Fúria. Maya tentou impedir. Caio permanece limitado, escreve manualmente o nome do pai no Livro por desespero e associação com Seshat/escrita/livros/registros, sem conhecer regra de ressurreição: absolutamente nada acontece. Helena e Lívia agem; a passagem dos fundos é utilizada e a reação dos perseguidores força separação. Maya promete retirá-las dali, sem garantia permanente ou destino final confirmado. Confiança não reparada; paradeiro posterior das duas não estabelecido.
 
-O pacote operacional continua vigente. [[Livro 1 - Auditoria Acumulada 01–05]] e [[Livro 1 - Auditoria Acumulada 01–10]] preservadas e encerradas, P0/P1 restantes zero. Os percentuais históricos acima não foram recalculados. **Sem capítulo pendente de aprovação; Capítulo 12 não iniciado. Produção parada.**
+O pacote operacional continua vigente. [[Livro 1 - Auditoria Acumulada 01–05]] e [[Livro 1 - Auditoria Acumulada 01–10]] preservadas e encerradas, P0/P1 restantes zero. Os percentuais históricos acima não foram recalculados. **Capítulo 12 — Sem rastro v1.1 PROVISÓRIO**, produzido e auditado em 27/09/2026 sobre 8b1d477: 2529 palavras pela convenção atual. Gate pré-escrita, A–N e gates promessa, rastro, ausência, Santuário e Maya/Caio PASSAM; P0/P1 restantes zero. P2 não bloqueador: possível calibragem da extensão das perguntas sobre a retirada. Fatos novos apenas em [[Capítulo 12 - Auditoria]]. **AGUARDANDO APROVAÇÃO DO CAPÍTULO. Capítulo 13 não iniciado.**
 
 ## Próximos blocos
-1. Aguardar instrução humana para iniciar o ciclo do Capítulo 12.
-2. Não iniciar o Capítulo 12 neste fechamento; manter produção de um capítulo por vez.
+1. Aguardar aprovação humana do Capítulo 12 — Sem rastro v1.1.
+2. Somente após aprovação, canonizar e promover fatos concretizados. Não iniciar o Capítulo 13 neste ciclo.
 3. Preservar auditorias acumuladas 1–5 e 1–10 encerradas; próximo marco após o Capítulo 15.
 
 Ver [[EM ABERTO]] e [[PROCESSO]].
