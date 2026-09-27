@@ -646,3 +646,22 @@ Primeira consolidação do Vault.
 - Chegada ao Santuário definida como anti-maravilhamento, sem tour ou exposição institucional.
 - Encerramento reforçado: páginas vazias deixam de representar apenas mistério e passam a representar impotência diante da morte de Marcelo.
 - Adicionadas proteções contra exposição, melodrama, batalha excessiva e empilhamento de twists.
+
+
+## 27/09/2026 — Upgrade literário definitivo do Movimento III
+- Movimento III promovido para versão 2.0.
+- Diretriz central: descobrir o mundo secreto vivendo dentro dele, nunca por “aula de fantasia”.
+- Pergunta emocional fixada: “O que resta de uma pessoa quando o mundo que ela conhecia continua funcionando sem ela?”
+- Santuário ganha geografia emocional por poucos espaços recorrentes, rotina, trabalho e problemas independentes de Caio.
+- Princípio de autonomia surge através de decisão concreta, não como exposição institucional.
+- Elisa, Samira e Lucas recebem introduções e ações independentes de Caio.
+- Elisa passa a dramatizar o contraste “preservar o que ainda existe” versus “desfazer o que já aconteceu”.
+- Samira é definida por rigor metodológico, não por capacidade infalível de solucionar mistérios.
+- Lucas funciona primeiro como relação humana não centrada na anomalia de Caio; humor deve saber parar.
+- Regra “um deus / uma Authority / um Successor” será aprendida por repetição contextual antes de ser quebrada.
+- Primeira saída de campo inclui maravilhamento e decisão “NÃO INTERFERIR”, evitando sobrenatural composto apenas de ameaças.
+- Cenas de vida pequena passam a ser obrigatórias e não precisam avançar mistério.
+- Razão de Ares para não entregar Nádia fechada: ela permanece capacidade operacional crítica contra escalada Herege/instabilidade; Ares prioriza utilidade estratégica sobre justiça imediata, sem considerá-la inocente.
+- Causa imediata da grande ocorrência fechada como ciclo de atividade Herege com Remanescentes + resposta/militarização da Elite, sem resolver a instabilidade maior da trilogia.
+- Adicionadas proteções contra escola de magia, exposição, equipe instantânea, romance precoce e combate obrigatório.
+- Aplicado Teste de Remoção ao núcleo central; Elisa, Samira, Lucas, Maya e Ares possuem funções narrativas não intercambiáveis.
