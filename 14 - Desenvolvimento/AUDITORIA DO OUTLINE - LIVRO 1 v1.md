@@ -2,7 +2,7 @@
 id: auditoria-outline-livro1-v1
 tipo: auditoria
 schema_version: 1.1
-status: PROVISÓRIO
+status: CANON
 tags: [livro-1, outline, auditoria]
 moc: "[[MOC - Livros]]"
 relacoes:
@@ -13,11 +13,11 @@ relacoes:
 
 # Auditoria do Outline — Livro 1 v1
 
-> **Status:** PROVISÓRIO PARA FECHAMENTO. Os 12 ajustes desta auditoria foram aplicados ao Outline Definitivo v1 em 27/09/2026. Resta a verificação curta de consistência antes da promoção a CANON.
+> **Status:** CANON — auditoria concluída. Os 12 ajustes foram incorporados, verificados e o Outline Definitivo v1 foi fechado em 27/09/2026.
 
 # 1. Veredito
 
-O outline **passa estruturalmente**, mas ainda não deve ser congelado.
+O outline **passou estruturalmente e foi congelado após a verificação pós-correções**.
 
 A sequência de 32 capítulos funciona. Não há necessidade de aumentar ou reduzir o número neste estágio. Os cinco movimentos preservam a arquitetura CANON, a causalidade principal fecha e o arco moral de Caio está legível.
 
