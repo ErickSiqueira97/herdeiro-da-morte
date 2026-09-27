@@ -466,3 +466,12 @@ Primeira consolidação do Vault.
 - Fechada a necessidade de predadores ecológicos, criaturas inteligentes e integração pesquisada do folclore brasileiro.
 - Fechada uma grande ocorrência no Livro 1 em que uma criatura aparentemente ameaçadora está fugindo/reagindo a instabilidade maior, funcionando como foreshadowing da deterioração do Véu.
 - Proibido estruturar o bestiário como simples sequência de “monstros da semana”.
+
+
+## 26/09/2026 — Ritmo de criaturas na trilogia
+- Fechado parâmetro de aproximadamente **18–20 encontros relevantes** com criaturas ao longo da trilogia, dos quais **8–10** são batalhas completas.
+- Livro 1 concentra descoberta (7–8 encontros / 3–4 batalhas); Livro 2 reduz confrontos isolados (5–7 / ~3); Livro 3 integra criaturas ao colapso maior (3–5 / 2–3).
+- Números são parâmetros de ritmo, não cotas rígidas de outline.
+- Encontros devem variar entre perseguição, fuga, investigação, contenção, resgate, negociação, território, proteção, predação, migração, surto Mitogênico e desequilíbrio ecológico.
+- Cada protagonista central terá ao menos um encontro que pressione sua personalidade/poder.
+- Fechado o foreshadowing: matar criatura não gera registro de Autoridade; o contraste posterior com **REGISTRO CONCLUÍDO** ajuda a revelar que o Livro nunca foi um sistema de recompensa por caça a monstros.
