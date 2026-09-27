@@ -2,7 +2,7 @@
 id: auditoria-final-arquitetura-definitiva-v2
 tipo: auditoria
 schema_version: 1.1
-status: PROVISÓRIO
+status: CANON
 tags: [livro-1, arquitetura-v2, auditoria-final]
 moc: "[[MOC - Livros]]"
 relacoes:
@@ -12,7 +12,7 @@ relacoes:
 
 # Auditoria Final — Arquitetura Definitiva v2
 
-> **Status:** PROVISÓRIO PARA FECHAMENTO. Os quatro ajustes foram aprovados e aplicados à Arquitetura Definitiva v2 em 27/09/2026. A promoção da arquitetura a CANON/congelamento para outline ainda aguarda fechamento explícito.
+> **Status:** CANON — FECHADA em 27/09/2026. Os quatro ajustes foram aplicados e a Arquitetura Definitiva v2 foi promovida a CANON e congelada para outline.
 
 # 1. Veredito
 
