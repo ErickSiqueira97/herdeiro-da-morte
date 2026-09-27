@@ -76,3 +76,7 @@ versao: 1.0
 Os dez pontos pré-outline deixaram de estar em aberto. Para o Livro 1, estão fechados: rostos e espaços do Santuário; Luzeiro; Procissão Oca; mecânica causal da morte de Nádia; logística Helena/Lívia→Ares→Hereges; pistas materiais familiares; cena independente de Nádia; ações independentes de Elisa/Samira/Lucas; mapa preliminar de 32 capítulos.
 
 Permanecem para a etapa seguinte apenas **detalhamento de outline/prosa**, nomes menores/coreografia fina que não alterem a função canônica e a auditoria da Arquitetura Definitiva v2.
+
+
+## 27/09/2026 — Auditoria pré-v2 fechada
+A auditoria pré-fechamento deixou de estar em aberto. Os itens P0 são requisitos de consolidação da Arquitetura Definitiva v2 e os P1 são regras do outline. Não representam novas pendências de worldbuilding. A próxima pendência editorial é construir e auditar o arquivo único **Livro 1 - Arquitetura Definitiva v2.md**.
