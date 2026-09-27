@@ -11,6 +11,7 @@ tags:
   - canon
 moc: Livro 1
 status: CANON
+versao: 2.0
 relacoes:
   - "[[Caio Valença]]"
   - "[[Maya Ferraz]]"
@@ -24,6 +25,20 @@ relacoes:
 ---
 
 # Movimento V — Aquilo que Ficou
+
+## Diretriz literária definitiva
+
+O Movimento V não tenta superar o primeiro **REGISTRO CONCLUÍDO** com um espetáculo maior. Sua função é mostrar que esse acontecimento **mudou retroativamente o significado do Livro, de Caio e das relações construídas até aqui**.
+
+Pergunta emocional:
+
+> **O que Caio fará agora que finalmente pode impedir algumas perdas — e sabe que esse poder nasceu de uma morte que escolheu permitir?**
+
+Curva:
+
+**Euforia funcional → Salvamento → Estranheza → Consequência → Suspeita → Pressão → Verdade familiar → Quase ruptura → Escolha coletiva → Silêncio divino → Direção.**
+
+O final deve fechar o arco emocional do volume e abrir o mistério da saga. Não terminar em cliffhanger arbitrário; terminar em **propósito**.
 
 ## Função
 Aproximadamente 15–18% do Livro 1.
@@ -51,14 +66,24 @@ Isso cria associação psicológica perigosa:
 
 > poder = não precisar perder alguém.
 
-A identidade de quem é salvo permanece para refinamento/auditoria.
+Quem Caio salva é **Elisa**.
+
+A escolha fecha um triângulo temático importante: Fúria foi obtida através de vingança, mas seu primeiro uso funcional decisivo depois do Registro preserva uma vida.
+
+Isso impede leitura simplista de que a Authority seja moralmente “má”. O perigo está na relação entre poder, tendência e escolhas de Caio.
+
+Elisa precisa estar em risco por consequência orgânica da operação, não para ser transformada em donzela em perigo. Antes disso, ela deve estar usando Florescer para sustentar/retirar outras pessoas, tornando sua vulnerabilidade consequência de sua própria agência.
 
 ## 3. Primeira influência
 A Authority começa a exercer sua tendência sobre Caio de forma pequena e coerente com sua natureza.
 
 Não há possessão, personalidade independente nem corrupção instantânea. Caio continua responsável por suas decisões.
 
-Maya e/ou Elisa podem perceber alteração sutil antes de Caio admitir qualquer mudança.
+Maya e Elisa podem perceber alteração sutil antes de Caio admitir qualquer mudança.
+
+A influência inicial de Fúria fica definida como **compulsão de resolução por confronto**: oposição, demora, porta fechada, recusa ou problema insolúvel passam a parecer coisas que precisam ceder.
+
+Não é aumento genérico de raiva. Caio pode estar perfeitamente calmo enquanto insiste com intensidade desproporcional em vencer uma resistência.
 
 ## 4. Fim imperfeito da operação
 O conflito termina sem vitória limpa.
@@ -66,6 +91,8 @@ O conflito termina sem vitória limpa.
 O Santuário contém parte da ocorrência; Hereges conseguem escapar ou obter algo; Elite recua/reorganiza; criaturas mantêm prioridades próprias; há feridos e possíveis mortos.
 
 Existem testemunhas suficientes para impedir que a manifestação impossível de Caio seja ocultada.
+
+Os Hereges escapam com o **Vestígio de Nádia**, consolidando uma vitória concreta mesmo sem dominar a operação.
 
 ## 5. Retorno ao Santuário
 Caio retorna não mais apenas como refugiado, mas como anomalia institucional.
@@ -114,6 +141,8 @@ Caio está vivo e pode até se sentir fisicamente bem, mas a nova Authority alte
 
 Elisa não detecta “outra personalidade” nem resolve o mistério. Sua preocupação inclui tanto o efeito do poder quanto o tratamento desumanizante dado a Caio.
 
+A comparação com a avaliação do Movimento III precisa produzir um dado objetivo: biologicamente Caio continua Caio, mas existe agora uma resposta estrutural que não estava presente antes do Registro. Isso ajuda a excluir explicações fáceis como possessão, doença ou simples trauma.
+
 ## 10. Ares exige acesso
 A morte de um membro da Elite e o desaparecimento de sua Authority dão a Ares motivo legítimo para exigir respostas.
 
@@ -151,7 +180,11 @@ Portanto:
 - a facção de Ares realmente as interceptou;
 - um terceiro evento/interferência ocorreu depois.
 
-O mecanismo e responsável permanecem EM ABERTO.
+O terceiro agente são os **Hereges**. Uma célula interferiu na transferência utilizando tecnologia híbrida de Remanescentes, inicialmente acreditando retirar civis de uma operação de Successores armados.
+
+Ares sabe que perdeu o transporte/rastro por interferência externa, mas não precisa conhecer ainda todos os detalhes da célula ou o paradeiro atual das duas.
+
+A revelação reorganiza a investigação sem entregar a solução.
 
 A partir daqui, Helena e Lívia deixam de ser apenas presumidamente mortas e passam a ser desaparecidas com sobrevivência pós-invasão confirmada.
 
@@ -176,9 +209,9 @@ Ares não descobre a Morte nem resolve a fraude, mas registra a ausência como i
 ## 16. Vitória parcial dos Hereges
 O caos do Movimento IV permite aos Hereges obter algo útil: Vestígio, Remanescente, dados, material ou avanço para Eco Artificial.
 
-A natureza exata permanece EM ABERTO.
+O ganho é o **Vestígio de Nádia**, recuperado durante o caos.
 
-O confronto não foi fracasso para eles e prepara sua progressão no Livro 2.
+O confronto não foi fracasso para eles e prepara sua progressão no Livro 2, inclusive a possibilidade futura de um Eco Artificial baseado na experiência de Fúria de Nádia.
 
 ## 17. Divisão institucional
 Dentro do Santuário surgem posições sobre Caio:
@@ -275,11 +308,21 @@ A estrutura sugere discretamente capacidade para mais registros, sem explicar me
 Caio percebe algo inquietante e não necessariamente compartilha.
 
 ## 26. Contradição documental de Seshat
-Samira encontra informação histórica ligada à Succession de Seshat cuja cronologia não fecha perfeitamente com a narrativa de Caio.
+Samira não encontra uma “prova cronológica” decisiva de fraude. O golpe é mais elegante e menos solucionável.
 
-A evidência deve respeitar a regra de um Successor ativo por Authority e será refinada na auditoria.
+Ela reúne um conjunto incompatível:
+- assinatura superficial autenticamente compatível com Seshat;
+- Marca superficial correta;
+- arquitetura profunda anômala;
+- ausência total de comunicação confirmável de Seshat;
+- Relíquia cujo comportamento não corresponde ao esperado;
+- manifestação de uma segunda Authority, impossível sob as regras normais.
 
-Não revela a verdadeira Seshat, mas cria o primeiro golpe documental sério contra a interpretação oficial.
+Sua conclusão é restrita:
+
+> **A hipótese Seshat já não explica todos os fatos.**
+
+Isso preserva a aparição da Seshat real para o Livro 2 sem fazer Samira parecer incapaz de concluir algo que já estaria documentalmente provado.
 
 ## 27. Caio tenta contatar “Seshat”
 Sozinho, Caio tenta deliberadamente falar com Seshat.
@@ -302,7 +345,9 @@ A fala funciona como primeiro registro no Livro 1 e, retrospectivamente, como in
 A redação/encenação exata pode ser refinada, mas a função é canônica.
 
 ## 29. Direção final
-Surge uma nova pista pequena, porém real, sobre Helena/Lívia.
+Surge uma nova pista pequena, porém real, sobre Helena/Lívia, derivada da reconstrução do ponto em que a transferência de Ares foi interrompida e não de coincidência.
+
+A pista final deve indicar **continuidade posterior ao terceiro evento**, não localização pronta. Sua forma material exata será escolhida no outline quando a logística da célula Herege estiver definida.
 
 Caio agora possui aliados, uma Authority, o Livro e uma direção.
 
@@ -348,12 +393,44 @@ Na primeira leitura, as escolhas parecem predominantemente heroicas. Na arquitet
 - Morte observa o primeiro Registro.
 - Caio escolhe encontrar sua família.
 
-## Pontos deliberadamente em aberto para auditoria
-1. Quem Caio salva com a primeira reutilização da Authority.
-2. Forma específica da influência inicial da Authority.
-3. Resultado material exato obtido pelos Hereges.
-4. Terceiro agente/evento responsável pelo desaparecimento de Helena/Lívia após a interceptação.
-5. Natureza da pista final sobre Helena/Lívia.
-6. Contradição documental exata envolvendo Seshat e sua cronologia.
-7. Detalhes do primeiro encontro presencial Ares × Caio.
-8. Redação final das falas e da aparição da Morte.
+## Fechamentos e pendências controladas
+- Primeiro salvamento com Fúria: **Elisa**.
+- Influência inicial de Fúria: oposição/resistência passa a ser percebida como algo que precisa ceder.
+- Vitória material Herege: **Vestígio de Nádia**.
+- Terceiro agente no desaparecimento de Helena/Lívia: **célula Herege com tecnologia de Remanescentes**.
+- Pista final familiar deve provar continuidade após a interferência Herege sem entregar localização; forma física exata fica para o outline.
+- Pista de Seshat deixa de ser contradição cronológica decisiva: Samira conclui apenas que a hipótese Seshat não explica todos os fatos.
+- Detalhes coreográficos do encontro Ares × Caio e redação final da aparição de Morte permanecem para outline/prosa.
+
+## Proteções literárias
+1. Não tentar superar o Registro com um clímax maior; o Movimento V é consequência e recontextualização.
+2. Elisa só entra em risco por escolhas e funções próprias no campo.
+3. O uso de Fúria para salvar Elisa precisa ser eficaz e satisfatório.
+4. Fúria não produz personalidade separada nem raiva automática.
+5. Instituições podem temer Caio sem a narrativa deixar de tratá-lo como pessoa.
+6. Ares não deve fornecer todas as respostas sobre Helena/Lívia; apenas corrigir o que sabe.
+7. O Santuário precisa sustentar autonomia justamente quando isso se torna difícil.
+8. Maya não recebe perdão total.
+9. Elisa não assume papel de “consertar” Caio.
+10. Lucas não permanece apenas por lealdade cega; sua defesa é da liberdade de escolha.
+11. Samira prova inadequação da hipótese vigente, não a verdade final.
+12. Morte não explica seu plano ao leitor.
+13. “— Um.” deve permanecer curto se usado.
+14. A pista final da família nasce de causalidade investigativa, nunca coincidência.
+15. A última prioridade declarada de Caio é **família**, não poder.
+16. A última sensação do volume deve misturar fechamento e expansão: o leitor entende o que Caio quer no Livro 2, mas percebe que o mistério sobre o que ele é ficou maior.
+
+## Fechamento temático do volume
+O Livro 1 começa com Caio possuindo uma vida comum que não sabe que pode perder.
+
+Termina com Caio tendo perdido pai, casa, normalidade e certeza sobre a própria identidade — mas adquirido escolhas, relações novas e uma direção.
+
+Ele não “vence” a morte de Marcelo. Não recupera Helena/Lívia. Não resolve Seshat. Não entende o Livro.
+
+O que ele conquista é **agência**.
+
+Essa conquista é simultaneamente esperança e ameaça, porque a primeira grande utilização dessa agência já demonstrou que Caio pode usá-la tanto para preservar quanto para impedir uma sobrevivência.
+
+A pergunta que atravessa o volume deixa de ser “Caio consegue voltar?” e se transforma, para a saga, em:
+
+> **Até onde ele irá para impedir um Fim que se recusa a aceitar?**
