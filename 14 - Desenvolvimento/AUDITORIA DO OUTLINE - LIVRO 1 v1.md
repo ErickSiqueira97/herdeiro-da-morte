@@ -13,7 +13,7 @@ relacoes:
 
 # Auditoria do Outline — Livro 1 v1
 
-> **Status:** PROVISÓRIO. Auditoria editorial do outline de 32 capítulos. Não altera a macroarquitetura CANON. Correções abaixo devem ser incorporadas ao outline antes do fechamento.
+> **Status:** PROVISÓRIO PARA FECHAMENTO. Os 12 ajustes desta auditoria foram aplicados ao Outline Definitivo v1 em 27/09/2026. Resta a verificação curta de consistência antes da promoção a CANON.
 
 # 1. Veredito
 
@@ -509,9 +509,9 @@ O livro possui perdas e respiração suficientes para que o Registro não seja a
 
 **Resultado: PASSA.**
 
-# 26. Correções a incorporar
+# 26. Correções aplicadas
 
-Antes do fechamento do outline:
+Aplicadas ao Outline Definitivo v1:
 1. fixar saída controlada do capítulo 17;
 2. fixar erro e consequência concreta do capítulo 18;
 3. ligar causalmente 17/18 à presença de Caio na Procissão do 19;
@@ -525,7 +525,7 @@ Antes do fechamento do outline:
 11. mostrar agência prévia de Elisa no 28;
 12. tornar núcleo do 32 visual/orgânico, não declarado.
 
-Os itens 1–4 são **necessários**. Os demais são proteções editoriais que devem entrar junto.
+Os itens 1–4 e as demais proteções editoriais foram incorporados sem reabrir a macroarquitetura CANON.
 
 # 27. Gate
 
