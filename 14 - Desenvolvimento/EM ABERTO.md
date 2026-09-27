@@ -86,3 +86,11 @@ A auditoria pré-fechamento deixou de estar em aberto. Os itens P0 são requisit
 A Arquitetura Definitiva v2 e sua Auditoria Final foram fechadas em CANON. A auditoria da arquitetura deixou de ser pendência.
 
 **Próxima pendência editorial do Livro 1:** construir o outline capítulo por capítulo, preservando a faixa de 30–34 capítulos e todas as regras da Arquitetura Definitiva v2. Depois, executar auditoria do outline antes da redação.
+
+
+## 27/09/2026 — Outline do Livro 1 congelado
+A construção, auditoria, correções e verificação do **Livro 1 - Outline Definitivo v1** deixaram de ser pendências. O arquivo foi promovido a CANON com 32 capítulos.
+
+**Próxima pendência editorial do Livro 1:** montar o pacote de produção para redação — Bíblia concisa de produção, regras invioláveis, mapa de revelações/foreshadowing, outline canônico de referência e prompt mestre para o fluxo capítulo → auditoria → revisão → canonização da prosa → próximo capítulo.
+
+Detalhes de prosa, coreografia fina, nomes menores e títulos definitivos de capítulos continuam podendo ser resolvidos durante a execução desde que não alterem a função canônica.
