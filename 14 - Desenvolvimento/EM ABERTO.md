@@ -70,3 +70,9 @@ versao: 1.0
 - [[Primeira Leva do Bestiário]]: desenvolver Errante; nomear/desenvolver predador ecológico; criar primeiro ser inteligente; pesquisar/adaptar Cérbero e primeiras figuras do folclore brasileiro; definir a grande ocorrência do Livro 1.
 - [[Rasga-Véu]]: fechar reprodução, Remanescente, inteligência, habitat e ficha operacional do Santuário.
 - [[Sem-Rosto]]: fechar condições de Mitogênese, comportamento, alimentação, multiplicidade e papel narrativo.
+
+
+## Fechamentos de 27/09/2026 — Livro 1
+Os dez pontos pré-outline deixaram de estar em aberto. Para o Livro 1, estão fechados: rostos e espaços do Santuário; Luzeiro; Procissão Oca; mecânica causal da morte de Nádia; logística Helena/Lívia→Ares→Hereges; pistas materiais familiares; cena independente de Nádia; ações independentes de Elisa/Samira/Lucas; mapa preliminar de 32 capítulos.
+
+Permanecem para a etapa seguinte apenas **detalhamento de outline/prosa**, nomes menores/coreografia fina que não alterem a função canônica e a auditoria da Arquitetura Definitiva v2.
