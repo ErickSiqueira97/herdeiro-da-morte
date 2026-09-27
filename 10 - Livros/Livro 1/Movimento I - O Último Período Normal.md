@@ -247,3 +247,101 @@ Ela é consequência direta de:
 Ares escalar a investigação → Elite ir à casa → Marcelo resistir → Successor matar Marcelo → Maya romper com a operação → Caio fugir → Maya direcioná-lo ao Santuário.
 
 Isso conecta organicamente os Movimentos II e III ao início da vida sobrenatural institucional de Caio.
+
+
+## A promessa de Maya — CANON
+
+A fuga de Caio durante a operação na casa dos Valença só é coerente com sua personalidade se ele acreditar que [[Helena Valença]] e [[Lívia Valença]] não estão sendo abandonadas.
+
+Depois da morte de Marcelo, Caio se recusa a fugir enquanto mãe e irmã permanecem em risco. Maya explica que a presença de Caio mantém o foco da operação sobre a família: a Elite veio por ele. Afastá-lo é também uma forma de afastar parte do perigo.
+
+Caio ainda se recusa a partir sem Helena e Lívia. Maya então assume pessoalmente a responsabilidade de retirá-las do confronto e permanecer com elas até estarem seguras.
+
+O núcleo dramático da conversa deve preservar:
+
+> — Eu não vou deixar elas aqui.
+>
+> — Eles vieram por você, Caio.
+>
+> — Meu pai acabou de morrer por minha causa.
+>
+> — E se você ficar, sua mãe e sua irmã podem ser as próximas.
+>
+> — Então elas vêm comigo.
+>
+> — Não dá. Não por essa saída.
+>
+> — Então eu não vou.
+>
+> [...]
+>
+> — Eu tiro as duas daqui.
+>
+> — Você não pode garantir isso.
+>
+> — Posso garantir que vou ficar com elas até estarem seguras.
+>
+> — Por quê?
+>
+> — Porque você voltou por mim.
+>
+> [...]
+>
+> — Agora deixa eu voltar por você.
+>
+> [...]
+>
+> — Promete?
+>
+> — **Prometo.**
+
+A redação final poderá mudar durante a escrita, mas a **promessa e sua função causal são canônicas**.
+
+### Cumprimento parcial e ruptura
+Maya efetivamente consegue retirar Helena e Lívia do núcleo imediato da invasão. Portanto, ela não faz uma promessa vazia nem simplesmente abandona as duas durante a fuga.
+
+A interceptação ocorre **depois** da retirada da casa.
+
+Maya perde o acesso/rastro das duas por uma causa sobrenatural ou operacional legítima ainda a ser definida. [[Perseguição]] não pode simplesmente falhar por conveniência narrativa; o mecanismo responsável por romper, mascarar ou tornar o rastro inacessível permanece EM ABERTO e deverá respeitar os limites da Autoridade.
+
+Do ponto de vista de Caio, a distinção importa pouco: ele só deixou a família porque confiou na promessa de Maya.
+
+Quando descobre que Helena e Lívia desapareceram, a ferida entre os dois deve preservar a essência:
+
+> — Cadê elas?
+>
+> [...]
+>
+> — Elas saíram da casa.
+>
+> — Cadê elas?
+>
+> — Eu perdi o rastro.
+>
+> [...]
+>
+> — **Você prometeu.**
+
+### Espelho da segunda morte
+A promessa cria um espelho direto com a segunda morte de Caio.
+
+No primeiro incidente, Caio volta porque Maya ficou em perigo:
+
+> — Eu mandei você correr!
+>
+> — **Você ficou.**
+
+Na invasão, Maya assume a posição de quem permanece para que Caio consiga partir:
+
+> — Minha mãe e minha irmã ficaram.
+>
+> — **Eu fico com elas.**
+
+Assim, Caio não abandona incoerentemente a própria família. Ele aceita partir porque Maya transforma a fuga em uma divisão de responsabilidades: ele afasta de si o foco da Elite e ela assume Helena e Lívia.
+
+### Consequências para Maya
+O desaparecimento de Helena e Lívia torna-se também parte do arco pessoal de Maya. Encontrá-las deixa de ser apenas uma obrigação ligada a Caio e passa a ser uma promessa quebrada.
+
+Isso conversa diretamente com sua contradição central: Maya não sabe abandonar aquilo que decidiu que importa.
+
+A progressão temática deve preservar a diferença entre **não abandonar** e **não aceitar o irreversível**. A virtude de Caio pode se deformar ao longo da trilogia até ele confundir aceitar uma perda com abandonar uma pessoa.
