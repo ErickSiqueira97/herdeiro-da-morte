@@ -628,3 +628,21 @@ Primeira consolidação do Vault.
 - Preservado o núcleo “Você ficou.”
 - Morte rápida, sem discurso final; “Demorou.” permanece abertura do Movimento II.
 - Removidas pendências antigas que ainda tratavam Rasga-Véu e Maya como elementos abertos.
+
+
+## 27/09/2026 — Upgrade literário definitivo do Movimento II
+- Movimento II promovido para versão 2.0.
+- Diretriz central: todos os grandes acontecimentos formam uma única tentativa de Caio de voltar à vida anterior que se deteriora progressivamente.
+- Pergunta emocional: “Se Caio conseguiu voltar da morte, por que não consegue voltar para casa?”
+- “Demorou.” preservado como pista dominante da abertura, evitando excesso de foreshadowing concorrente.
+- Encontro com Morte limitado à informação necessária para a escolha; Morte aposta em Caio, não prevê deterministicamente suas decisões.
+- Retorno passa a exigir consequência corporal e sinais concretos de que Maya tentou lidar com seu cadáver/ferimento.
+- Escalada de Ares ligada causalmente ao erro anterior de ter observado por tempo demais.
+- Ruptura Caio/Maya recontextualiza cenas do Movimento I; Maya admite implicitamente que a aproximação começou como missão e deixou de ser apenas isso.
+- Última normalidade familiar protegida contra despedidas/presságios artificiais.
+- Nádia Moura incorporada como assassina de Marcelo; existe alternativa não letal e a escolha é consciente.
+- Fechado que Caio tenta escrever “Marcelo Valença” no Livro e nada acontece.
+- Interceptação de Helena/Lívia fechada como ação de célula Herege com equipamento de Remanescentes que contamina/interrompe o rastro de Perseguição.
+- Chegada ao Santuário definida como anti-maravilhamento, sem tour ou exposição institucional.
+- Encerramento reforçado: páginas vazias deixam de representar apenas mistério e passam a representar impotência diante da morte de Marcelo.
+- Adicionadas proteções contra exposição, melodrama, batalha excessiva e empilhamento de twists.
