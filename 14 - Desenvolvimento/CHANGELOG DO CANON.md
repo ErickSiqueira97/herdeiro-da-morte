@@ -773,3 +773,11 @@ Primeira consolidação do Vault.
 - Pista de Lívia passa a funcionar por convergência de evidências, não documento perfeito.
 - Ajustadas as proteções de Maya/Seshat, Elisa, Lucas, Ares e formação orgânica do núcleo final.
 - Outline permanece PROVISÓRIO até verificação curta de consistência e fechamento explícito.
+
+
+## 27/09/2026 — Outline Definitivo v1 do Livro 1 congelado
+- O outline de 32 capítulos foi aprovado explicitamente e promovido a **CANON** após auditoria integral, aplicação de 12 correções e verificação pós-correções.
+- Os cinco movimentos, causalidade 17–20, cadeia familiar, logística Herege/Vestígio, morte de Nádia, primeiro uso de Fúria e fechamento familiar foram verificados sem contradição estrutural ativa.
+- Os 32 capítulos permanecem justificados; títulos individuais continuam de trabalho e podem mudar sem alterar função canônica.
+- A macroestrutura e o outline não devem ser reabertos durante a redação por mera preferência de cena; mudanças exigem contradição objetiva ou melhoria excepcional demonstrável.
+- **Livro 1 entra em estado: PRONTO PARA PACOTE DE PRODUÇÃO.**
