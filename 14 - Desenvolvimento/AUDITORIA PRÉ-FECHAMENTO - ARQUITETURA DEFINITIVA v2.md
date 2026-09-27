@@ -2,14 +2,14 @@
 id: auditoria-pre-fechamento-arquitetura-v2
 tipo: auditoria
 schema_version: 1.1
-status: PROVISÓRIO
+status: CANON
 tags: [livro-1, arquitetura-v2, auditoria, pre-fechamento]
 moc: "[[MOC - Livros]]"
 ---
 
 # Auditoria Pré-Fechamento — Arquitetura Definitiva v2
 
-> **Status:** PROVISÓRIO. Nada novo aqui substitui o CANON até aprovação explícita.
+> **Status:** CANON. Auditoria aprovada integralmente em 27/09/2026. Correções P0 tornam-se obrigatórias para a Arquitetura Definitiva v2; itens P1 tornam-se regras oficiais de produção para o outline.
 
 ## Veredito executivo
 A estrutura está madura para a Arquitetura Definitiva v2, mas ainda merece uma rodada curta de correções antes do fechamento.
