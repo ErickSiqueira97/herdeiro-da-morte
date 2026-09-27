@@ -39,19 +39,17 @@ A medição operacional fica centralizada em [[PROCESSO]]. Na auditoria de **26/
 Os percentuais medem prontidão estrutural e editorial, não quantidade de notas produzidas.
 
 ## Estado editorial
-A [[AUDITORIA DO UNIVERSO v1.2]] não encontrou falha cosmológica crítica ativa. O principal risco atual é assimetria de desenvolvimento entre Caio/Maya e o restante do elenco, seguido pela falta de causalidade detalhada do Livro 1 e pelo Santuário ainda pouco operacional.
+A macroarquitetura e o outline capítulo por capítulo do Livro 1 estão congelados em CANON. O [[Livro 1 - Outline Definitivo v1]] possui 32 capítulos e passou por auditoria integral, correções e verificação pós-correções. Não há pendência estrutural ativa que impeça a preparação da redação.
+
+**Estado do Livro 1: PRONTO PARA PACOTE DE PRODUÇÃO.** O próximo trabalho é transformar o cânone já fechado em um conjunto enxuto de referência para redação e preparar o prompt mestre/fluxo de produção capítulo por capítulo.
 
 ## Próximos blocos
-1. Desenvolver quarteto e personagens centrais restantes no padrão de profundidade de Maya, sem repetir sua estrutura.
-2. Fechar o objetivo ideológico/operacional de Ares e da [[Elite de Ares]].
-3. Consolidar funcionamento mínimo do [[Santuario]].
-4. Desenvolver os sete integrantes restantes da Elite e suas relações.
-5. Fechar poderes/limites necessários ao Livro 1, começando por Perseguição.
-6. Construir a cadeia causal completa do Livro 1.
-7. Expandir a matriz trilógica de foreshadowing.
-8. Desenvolver [[Guerras dos Sucessores]] na medida necessária para sustentar presente e instituições.
-9. Depois: outline de capítulos.
-10. Prosa longa somente após auditoria de prontidão.
+1. Montar a **Bíblia concisa de produção do Livro 1**, contendo apenas o que a redação precisa consultar constantemente.
+2. Consolidar as **regras invioláveis de redação/continuidade**.
+3. Extrair o **mapa operacional de revelações, setups e payoffs** do outline canônico.
+4. Preparar o **prompt mestre para Codex/Word** e o protocolo capítulo → auditoria → revisão → canonização da prosa → próximo capítulo.
+5. Fazer uma auditoria final do pacote de produção para eliminar contradições e excesso de contexto.
+6. Iniciar a redação do capítulo 1 somente após esse gate.
 
 Ver [[EM ABERTO]] e [[PROCESSO]].
 
