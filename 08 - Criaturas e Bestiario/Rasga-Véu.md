@@ -36,3 +36,16 @@ A criatura demonstra dramaticamente a regra:
 Pode ensinar Aderência através de ação, sem exposição teórica. [[Maya Ferraz]] é uma candidata natural a demonstrar o momento correto de ataque.
 
 Detalhes de reprodução, Remanescente, inteligência, habitat e classificação operacional permanecem em aberto.
+
+
+## Relação com Caio — CANON
+
+O Rasga-Véu é a criatura responsável pela segunda morte de Caio.
+
+Antes disso, reage à incongruência metafísica da Cicatriz da Alma: um humano vivo cuja alma já alcançou um Fim verdadeiro. A criatura não identifica a Morte, não conhece a Cicatriz e não compreende a cosmologia; sua reação é instintiva.
+
+A aproximação é inicialmente interpretada por Maya como caça, mas não nasce de intenção simples de devorar Caio. Quando Maya interfere, sua presença de Successora é mais legível e o conflito escala.
+
+Durante o ataque, a necessidade de elevar Aderência para tocar fisicamente o mundo permite que Caio, ainda completamente humano, interfira de modo mundano. Ele retorna para salvar Maya, cria uma oportunidade para ela e sofre o trauma fatal.
+
+Esse incidente é a primeira demonstração dramática relevante da regra de Aderência e não transforma Caio em combatente sobrenatural antes da falsa Sucessão.
