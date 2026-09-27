@@ -535,3 +535,22 @@ Primeira consolidação do Vault.
 - A leitura superficial do Santuário valida Seshat; a leitura profunda encontra arquitetura incompatível/indeterminada e atribui provisoriamente a anomalia à morte e retorno de Caio.
 - O movimento termina com Caio sozinho e o Livro vazio.
 - Permanecem abertos: identidade do assassino de Marcelo; mecanismo de interceptação que respeite Perseguição; recepção de Caio no Santuário; possível tentativa de escrever o nome de Marcelo; redação final dos diálogos.
+
+
+## 27/09/2026 — Movimento III do Livro 1
+- Fechado **Movimento III — O Mundo que Continuou sem Ele**.
+- O Santuário é apresentado como instituição operacional, não escola.
+- Elisa, Samira e Lucas entram por causalidades independentes e não pela formação artificial de um grupo.
+- Caio aprende as regras normais da Succession antes de futuramente quebrá-las.
+- O Livro permanece sem resposta funcional e a instituição atribui isso provisoriamente à morte/retorno.
+- Maya se recusa inicialmente a revelar o assassino de Marcelo e continua buscando Helena/Lívia por causa da promessa.
+- Caio participa primeiro de investigação controlada, não como combatente.
+- Uma ocorrência ensina que criatura não equivale a inimigo e introduz a lógica de não interferência ecológica.
+- Hereges aparecem primeiro por vestígios de intervenção humana, sem exposição completa.
+- Samira encontra divergência entre assinatura correta de Seshat e comportamento/arquitetura do caso.
+- A investigação comprova que Marcelo não precisava morrer; a ordem de Ares não era de execução.
+- Ares assume responsabilidade pela operação, mas não pela escolha letal do assassino.
+- Uma grande ocorrência revela que criaturas estão reagindo/fugindo de instabilidade maior.
+- Os cinco protagonistas cooperam funcionalmente sem serem declarados equipe.
+- Caio encerra o movimento escolhendo participar ativamente da investigação da própria história.
+- Permanecem abertos: recepção institucional de Caio; predador ecológico; grande criatura; causa da instabilidade; razão de Ares para não entregar o assassino.
