@@ -512,3 +512,18 @@ Primeira consolidação do Vault.
 - A causa que impede Perseguição de manter/encontrar o rastro permanece aberta e deverá respeitar as regras da Autoridade.
 - A promessa quebrada torna o desaparecimento dos Valença parte do arco pessoal de Maya e cria uma razão concreta para a ruptura de confiança de Caio.
 - Fechado o espelho: Caio volta porque Maya ficou; depois Maya fica para que Caio possa partir.
+
+
+## 27/09/2026 — Segunda morte e falsa Sucessão
+- Fechado que o Rasga-Véu causa a segunda morte de Caio.
+- A criatura reage instintivamente à incongruência da Cicatriz da Alma; não reconhece conscientemente a Morte nem caça Caio simplesmente para devorá-lo.
+- Maya interfere, torna-se presença sobrenatural mais legível e fica em perigo.
+- Caio inicialmente foge, volta por Maya e morre ainda humano ao criar para ela uma oportunidade de sobrevivência.
+- A cena demonstra pela primeira vez a regra de Aderência: para tocar fisicamente o mundo, o Rasga-Véu precisa tornar-se tocável.
+- O encontro pós-morte abre com **“Demorou.”**
+- A Morte conduz Caio à crença de que é Seshat através de mentira, omissão e linguagem de duplo sentido, sem permitir que a narração minta.
+- Caio recebe escolha real de permanecer morto ou retornar; aceita retornar.
+- A verdadeira Marca da Morte é estabelecida antes da Sobreposição de Seshat.
+- O Livro surge negro e inicialmente vazio.
+- O afeto da Morte por Caio pode ser genuíno mesmo enquanto ela o instrumentaliza.
+- São canônicos os fatos, perguntas, omissões e callbacks estruturais do diálogo; a redação intermediária permanece aberta para a escrita final.
