@@ -26,7 +26,7 @@ Ao perseguir Nádia Moura, assassina de Marcelo, Caio escolhe retirar a possibil
 
 > **REGISTRO CONCLUÍDO.**
 
-Caio passa a manifestar Fúria, uma segunda Authority impossível pelas regras conhecidas.
+Caio passa a manifestar Fúria. Para os personagens, isso se apresenta como uma “segunda Authority” impossível pelas regras conhecidas; em bastidor, é sua **primeira manifestação de uma Authority por Registro**, não uma segunda Succession.
 
 ## Leitura oculta
 Morte não escolheu um herói profetizado. Encontrou uma alma humana que já havia alcançado um Fim na infância e continuado. Observou em Caio duas características decisivas: ele não abandona pessoas e não sabe aceitar o irreversível.
@@ -245,7 +245,7 @@ Ela está certa.
 A mesma filosofia que salva pessoas também matou Marcelo.
 
 ## Confronto com Caio
-O diálogo filosófico completo ocorre **antes** da operação final:
+O diálogo filosófico completo ocorre **no capítulo 24 ou no início do 25**, antes da operação final, ligado ao contato Herege/Ares e à avaliação institucional de risco. A conversa não é apenas preparação temática: ela contribui causalmente para o Santuário decidir manter Caio fora da operação seguinte.
 
 > — Foi a Fúria?
 >
@@ -483,16 +483,16 @@ Morte nunca afirma falsamente:
 Formulação:
 > **O nome que importa para você é Seshat.**
 
-A narração nunca mente. Pode dizer que algo foi “escrito sobre ele”, não que Seshat o marcou.
+A narração nunca mente. Pode dizer que algo foi “escrito sobre ele”, não que Seshat o marcou. **Proteção obrigatória:** nenhum resumo narrativo posterior pode dizer que “Seshat se apresentou”, que “a deusa disse que era Seshat” ou equivalente. A crença de Caio nasce do enquadramento e da frase abaixo, não de uma afirmação literal de identidade.
 
 Pistas do Livro 1:
 1. Caio percebe/reage ao sobrenatural antes da suposta Succession;
-2. Rasga-Véu reage à Cicatriz;
+2. em bastidor, o Rasga-Véu reage à Cicatriz; para o leitor, reage a algo em Caio que nem Maya compreende;
 3. Marca superficial possui assinatura correta de Seshat;
 4. arquitetura profunda é anômala/indeterminada;
 5. não há comunicação confirmável com Seshat;
 6. Livro comporta-se de forma incompatível;
-7. Caio manifesta segunda Authority impossível.
+7. Caio manifesta Fúria por um mecanismo que, para os personagens, parece uma segunda Authority impossível.
 
 Nenhuma pista isolada resolve fraude.
 
@@ -544,6 +544,8 @@ Mecânica correta:
 # 21. Fúria
 
 Primeiro Registro.
+
+**Regra terminológica de produção:** em bastidor, tratar Fúria como manifestação por Registro. “Segunda Authority” é linguagem/hipótese permitida aos personagens, nunca definição ontológica de Caio como duplo Successor.
 
 Não é “ficar mais bravo”.
 
@@ -728,7 +730,7 @@ Batidas:
 - Maya entrega Nádia;
 - “Trinta segundos” humaniza Nádia;
 - Ares mantém Nádia sob restrição mas não entrega;
-- confronto Caio/Nádia e diálogo completo;
+- confronto Caio/Nádia e diálogo completo no capítulo 24/início do 25; a conversa fornece a verdade sobre Marcelo e aumenta a preocupação institucional com a presença de Caio na próxima operação;
 - pista material prova Lívia viva depois da invasão;
 - Caio prioriza família;
 - trilha torna-se impraticável por causa legítima;
@@ -861,8 +863,8 @@ Após morte:
 21. O nome
 22. Trinta segundos
 23. Depois daquela noite
-24. O rastro termina
-25. Errado não é proibido
+24. O rastro termina — inclui o confronto Caio/Nádia ou prepara sua entrada imediata
+25. Errado não é proibido — se o confronto não fechar no 24, abre com ele; sua consequência é a exclusão de Caio da operação
 26. A comporta
 27. Registro concluído
 
@@ -908,7 +910,7 @@ Os títulos são de trabalho. O número não é cânone rígido.
 # 31. Matriz de foreshadowing
 
 1. **Falsa Seshat:** reação pré-Succession → leitura superficial correta → comportamento incompatível → Fúria → hipótese insuficiente.
-2. **Cicatriz:** Rasga-Véu reage → retorno anômalo → pistas futuras da morte infantil.
+2. **Cicatriz (bastidor):** Rasga-Véu reage à anomalia → retorno anômalo → pistas futuras da morte infantil. **Proteção de leitura:** o Livro 1 não nomeia nem diagnostica a Cicatriz da Alma para o leitor; Maya e o Santuário apenas sabem que há algo em Caio que o modelo disponível não explica.
 3. **Livro:** vazio → Marcelo sem resposta → Registro → espaço para mais.
 4. **Morte:** “Demorou” → linguagem cuidadosamente verdadeira → “Um.”
 5. **Família:** sem corpos → rastro contaminado → Lívia viva → Ares confirma → Helena/Lívia em imagem.
