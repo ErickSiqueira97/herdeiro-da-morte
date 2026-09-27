@@ -2,10 +2,10 @@
 id: livro1-arquitetura-definitiva-v2
 tipo: arquitetura
 schema_version: 1.1
-status: PROVISÓRIO
+status: CANON
 aliases:
   - "Arquitetura Definitiva v2"
-tags: [livro-1, arquitetura, pre-outline]
+tags: [livro-1, arquitetura, canon, outline]
 moc: "[[MOC - Livros]]"
 relacoes:
   - "[[BÍBLIA CANÔNICA]]"
@@ -13,7 +13,7 @@ relacoes:
 
 # Livro 1 — Arquitetura Definitiva v2
 
-> **Status:** PROVISÓRIO para auditoria final. Este documento consolida decisões já canônicas e aplica a Auditoria Pré-Fechamento. Após aprovação, torna-se a fonte única de verdade narrativa do Livro 1 para o outline e a redação.
+> **Status:** CANON — MACROARQUITETURA CONGELADA PARA OUTLINE em 27/09/2026. Este documento é a fonte única de verdade narrativa do Livro 1 para o outline e a redação. Alterações macroestruturais posteriores exigem contradição objetiva ou melhoria excepcional demonstrável.
 
 # 1. Função do volume
 
