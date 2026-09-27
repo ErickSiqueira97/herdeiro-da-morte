@@ -2,13 +2,13 @@
 id: livro1-cap09-auditoria
 tipo: auditoria
 schema_version: 1.1
-status: PROVISÓRIO
+status: CANON
 tags: [livro-1, capitulo-09, auditoria]
 ---
 
 # Capítulo 9 — Continuar — Auditoria
 
-26/09/2026. Base canônica 66bc65a. Cartão/gate 8026f0a; primeira versão dd55a1e. Manuscrito v1.1 PROVISÓRIO, 2316 palavras no corpo (segmentos separados por espaço). Nenhum fato novo promovido à continuidade canônica.
+26/09/2026. Base canônica 66bc65a. Cartão/gate 8026f0a; primeira versão dd55a1e. Manuscrito v1.1 CANON / FECHADO em 26/09/2026 por aprovação humana explícita, fonte aprovada 1a70394, corpo narrativo preservado, 2316 palavras no corpo (segmentos separados por espaço). Somente fatos concretizados na versão aprovada promovidos ao Log, preservando distinções epistêmicas.
 
 ## Auditoria A–N
 
@@ -57,11 +57,11 @@ tags: [livro-1, capitulo-09, auditoria]
 - P1 corrigido — causalidade operacional: primeira versão dizia que Maya avisara quando ele parara de responder; agora sua fala explicita que comunicou a morte antes do retorno. A mensagem posterior e recebimento sustentam a descoberta pela operação, sem coda externa.
 - P1 corrigido — condição física/decisão: incluídos compromisso de avaliação antes de entrar em carro e deslocamento curto até espera perto da lanchonete. Escolher casa não significa abandonar cuidado ou caminhar longamente após trauma fatal. Não se escreve atendimento nem chegada do 10.
 - P0 encontrados: zero. P0/P1 restantes: zero.
-- P2 não bloqueador: possível calibragem da extensão do interrogatório sobre a observação. Mantida para dar peso aos detalhes dos capítulos 3–6; não requer nova revisão sem preferência do autor.
+- Possível calibragem da extensão das perguntas sobre a observação aceita pelo autor como preferência editorial não bloqueadora; nenhuma nova revisão realizada.
 
-## Fatos novos propostos — NÃO CANONIZADOS
+## Fatos aprovados e promovidos para continuidade
 
-| Campo | Concretização provisória e limite |
+| Campo | Concretização aprovada e limite |
 |---|---|
 | Tempo/geografia | Mesma noite e rampa do 7; duração da experiência do 8 e tempo morto não medidos. Final inicia movimento curto rumo à esquina/lanchonete para esperar ajuda, com casa como destino escolhido. |
 | Corpo de Caio | Retorno doloroso; tosse, líquido na boca, tremor, tontura, dores torácicas e nos dedos. Ferimento visualmente diferente, ainda presente; senta/ergue-se com ajuda. Sem diagnóstico interno ou recuperação total. |
@@ -77,6 +77,6 @@ tags: [livro-1, capitulo-09, auditoria]
 
 ## Gate pós-escrita — PASSA
 
-A–N, verdade narrativa e relação conferidos após correções. Função, causalidade, agência, exposição, continuidade, vida concreta e saída preservadas; nenhuma regra nova ou revelação proibida. Manuscrito PROVISÓRIO. Fatos acima aguardam aprovação e não entram no Log canônico. Capítulo 10 não iniciado.
+A–N, verdade narrativa e relação conferidos após correções. Função, causalidade, agência, exposição, continuidade, vida concreta e saída preservadas; nenhuma regra nova ou revelação proibida. Manuscrito CANON. Fatos concretizados acima promovidos ao Log, sem converter inferências de Caio em verdade cosmológica. Capítulo 10 não iniciado.
 
-**AGUARDANDO APROVAÇÃO DO CAPÍTULO.**
+**CANON / FECHADO. Produção parada; Capítulo 10 não iniciado.**

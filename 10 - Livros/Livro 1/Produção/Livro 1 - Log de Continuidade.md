@@ -237,6 +237,34 @@ A manifestação visual do arco segue integralmente o Outline canônico e não c
 | Ausentes/objetos | Situação atual de Maya não confirmada. Telefone não encontrado na experiência; localização física não fixada. Mochila continua onde o 7 a deixou, sem recuperação em cena. |
 | Saída | Dor/pressão torácica, perda de referência das mãos e necessidade de ar iniciam retorno. Nenhum despertar completo, reação de Maya, socorro novo ou identificação de assinatura. |
 
+### Capítulo 09 — Continuar — v1.1
+
+**CANON / FECHADO em 26/09/2026**, por aprovação humana explícita. Fonte: [[09 - Continuar]], versão aprovada no commit 1a70394, promovida sem alteração do corpo narrativo (2316 palavras). [[Capítulo 09 - Auditoria]]: A–N, gate de verdade narrativa e gate relacional PASSAM; P0/P1 restantes zero. Possível calibragem das perguntas sobre a observação aceita como preferência editorial não bloqueadora, sem nova revisão.
+
+#### Proteções explícitas de continuidade
+
+- Maya reconhece corretamente a **assinatura superficial de Seshat** e diz “Essa assinatura é de Seshat”. Não identifica a mulher do encontro nem comprova a origem do Livro ou uma escolha de Seshat.
+- Caio infere que a mulher era Seshat e que foi escolhido por ela. Essas associações permanecem **crenças/inferências de Caio, nunca fatos cosmológicos**. Não registrar que Seshat se apresentou, escolheu ou marcou Caio.
+- O retorno surpreende genuinamente Maya. Ela age para ajudar e verificar sua condição, mas desconhece o mecanismo do retorno e a função do Livro; não esperava a ressurreição. A morte humana do 7 não é anulada ou reinterpretada como desmaio.
+- Maya admite ter sido enviada para observar Caio antes da abordagem no pátio e transmitir rotina/relatos. Afirma já ter comunicado a morte; envia o retorno consciente e a assinatura, recebendo confirmação. Destinatário não identificado em cena; não confundir comunicação operacional com socorro civil ou Santuário.
+- A confiança permanece rompida, ainda não reparada. Aceitar ajuda física não é perdão; o texto não transforma retroativamente toda a convivência genuína em encenação.
+- Caio reconhece que a criatura pode segui-lo e que ir para casa traz risco. Aceita avaliação física antes do transporte e escolhe conscientemente priorizar Marcelo, Helena e Lívia. Atendimento, transporte e chegada não se concretizam neste capítulo.
+- Livro e sinal já concedidos no 8 existem fisicamente; nenhuma nova concessão, segunda Marca independente ou alteração da ordem canônica do 8.
+
+| Campo | Concretização aprovada e limite |
+|---|---|
+| Tempo/geografia | Mesma noite e rampa do 7; duração da experiência do 8 e tempo morto não medidos. Final inicia movimento curto rumo à esquina/lanchonete para esperar ajuda, com casa como destino escolhido. |
+| Corpo de Caio | Retorno doloroso; tosse, líquido na boca, tremor, tontura, dores torácicas e nos dedos. Ferimento visualmente diferente, ainda presente; senta/ergue-se com ajuda. Sem diagnóstico interno ou recuperação total. |
+| Maya | Corte no braço ainda visível; sangue na roupa/mão/rosto. Confere condição, sustenta Caio e mantém contato de socorro; choque e desconhecimento do retorno explícitos. |
+| Socorro | Contato telefônico retomado, atualização de respiração/resposta, localização repetida. Ajuda chamada, avaliação aceita antes de transporte; equipe ainda não chega em cena, sem nome ou procedimento fixado. |
+| Terceiros | Homem ao telefone e outra pessoa na lanchonete; uma mulher diz que ajuda já foi chamada. Não recebem identificação ou conhecimento completo do sobrenatural. |
+| Objetos | Livro físico junto ao corpo e depois nas mãos de ambos; sinal no mesmo antebraço. Telefone de Caio no bolso sob coxa. Maya recupera mochila da garagem e carrega junto à própria bolsa. Garrafa permanece junto ao muro; arco não reaparece. |
+| Família | Helena pergunta por mensagem se Caio demorará; ele responde que está indo, sem dizer que está bem. Nenhuma resposta posterior/fato externo da família narrado. |
+| Conhecimento de Caio | Aprende que Maya conhece Marcas e foi enviada para observá-lo antes da abordagem; terceiros recebem informações. Ouve nome Santuário; não conhece Ares/Elite/patrona/missão integral. Seshat continua inferência de identidade/escolha. |
+| Conhecimento de Maya | Observa retorno, Livro e sinal; reconhece corretamente assinatura de Seshat; recebe relato parcial de mulher/oferta/Sucessão. Não sabe explicar retorno ou Livro. |
+| Comunicação operacional | Maya afirma ter avisado morte; envia retorno consciente e assinatura, recebe “Recebido”. Destinatário sem nome/cargo; endereço familiar não transmitido em cena. |
+| Relação/decisões | Observação admitida; confiança rompida sem perdão. Caio exige informação prévia de riscos; Maya concorda. Ele aceita cuidado e prioriza casa sobre Santuário. Nenhuma promessa de segurança ou romance resolvido. |
+
 ## Estado do ciclo
 
-Capítulos 1 e 2 v1.2 e Capítulos 3–8 v1.1 canonizados e fechados. Capítulo 9 — Continuar v1.1 PROVISÓRIA, em AGUARDANDO APROVAÇÃO DO CAPÍTULO. Fatos novos somente em [[Capítulo 09 - Auditoria]], sem promoção canônica. Auditoria acumulada 1–5 encerrada. **Capítulo 10 não iniciado**.
+Capítulos 1 e 2 v1.2 e Capítulos 3–9 v1.1 canonizados e fechados. Nenhum capítulo pendente de aprovação. Auditoria acumulada 1–5 encerrada. **Capítulo 10 não iniciado**; produção parada após este fechamento por instrução do autor.

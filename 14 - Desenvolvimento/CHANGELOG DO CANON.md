@@ -847,3 +847,11 @@ Primeira consolidação do Vault.
 - Ordem preservada: escolha consciente de continuar → primeiro sinal → manifestação do Livro → algo se escreve SOBRE o mesmo local. Mantida a proximidade temporal expressa por “Ao mesmo tempo” entre sinal e peso do Livro; nenhum intervalo inventado.
 - Retorno completo, reação de Maya e identificação de assinatura permanecem fora deste capítulo.
 - Estado do Projeto: **CAPÍTULOS 1–8 FECHADOS; CAPÍTULO 9 NÃO INICIADO**. Produção parada neste fechamento por instrução expressa do autor.
+
+## 26/09/2026 — Fechamento do Capítulo 9 — Continuar v1.1
+- Aprovação humana explícita; manuscrito promovido a **CANON**, sem alteração do corpo narrativo aprovado no commit 1a70394 (2.316 palavras).
+- Auditoria A–N, gate de verdade narrativa e gate relacional encerrados: P0 = 0 e P1 = 0. Possível calibragem das perguntas sobre a observação aceita como preferência editorial não bloqueadora, sem nova revisão.
+- Somente fatos concretizados promovidos ao [[Livro 1 - Log de Continuidade]]. Maya reconhece corretamente a assinatura superficial de Seshat; identidade da mulher e suposta escolha por Seshat permanecem inferências de Caio, não fatos cosmológicos.
+- Registrados surpresa genuína e desconhecimento de Maya sobre retorno/Livro, admissão da observação anterior à abordagem, comunicação operacional do retorno e confiança ainda não reparada.
+- Caio reconhece risco de ir para casa, aceita avaliação física antes do transporte e escolhe conscientemente priorizar a família. Atendimento e chegada não narrados.
+- Estado do Projeto: **CAPÍTULOS 1–9 FECHADOS; CAPÍTULO 10 NÃO INICIADO**. Produção parada neste fechamento por instrução expressa do autor.
