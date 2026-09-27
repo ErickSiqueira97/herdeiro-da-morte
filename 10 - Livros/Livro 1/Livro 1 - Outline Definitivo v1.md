@@ -759,7 +759,7 @@ relacoes:
 - Raul não minimiza risco.
 - Maya confronta Caio sobre a comporta sem moralismo:
   - questão é que ele sabia que Nádia podia sair.
-- Lucas enfrenta sua própria participação. Não diz que faria tudo igual; reconhece responsabilidade por ter ajudado Caio a chegar.
+- Lucas enfrenta sua própria participação em **cena privada curta com Caio**, fora do julgamento coletivo. Não rompe amizade nem absolve: continua defendendo o direito de Caio escolher, mas reconhece que não gosta da escolha feita e que ajudou Caio a chegar até ela.
 - Caio não consegue se esconder atrás de Fúria porque escolha ocorreu antes do Registro.
 
 **Mudança:** poder não apaga responsabilidade; relações agora carregam a escolha.
@@ -778,7 +778,7 @@ relacoes:
 - Confirma: Helena e Lívia saíram vivas da casa e foram interceptadas por agentes ligados à sua operação.
 - Nunca chegaram até ele.
 - Terceira força as retirou.
-- Fornece identificação parcial de veículo/transferência porque também quer entender falha.
+- Fornece identificação parcial de veículo/transferência **como troca operacional**, não favor: Hereges acabaram de obter o Vestígio de uma dos Oito e a mesma técnica está ligada à retirada das Valença. Ares precisa que Santuário e Maya compartilhem descobertas sobre a célula; entrega o dado útil à cooperação e retém o restante.
 - Ares observa ausência de comunicação de Seshat/estranheza de Caio.
 - Fúria reage ao modo como Ares nega/limita respostas: cada “não” parece obstáculo a ser quebrado.
 - Caio quase força confronto.
@@ -852,11 +852,7 @@ Cortar imediatamente de volta ao humano.
   - Helena consciente;
   - continuaram se movendo depois do terceiro evento.
 - Caio confronta a possibilidade de que Helena talvez tenha escolhido não voltar imediatamente; não aceita emocionalmente, mas não a reduz a vítima.
-- Núcleo se forma sem juramento de equipe:
-  - Maya continua porque prometeu e porque é problema dela também;
-  - Samira porque o caso desafia evidência;
-  - Elisa porque decisões sobre Caio não podem ignorar pessoa;
-  - Lucas porque liberdade também exige permanecer para as consequências.
+- O núcleo se forma **visualmente, sem juramento nem lista verbal de motivações**: Maya já trabalha sobre a nova continuidade; Samira abre/pede o material que precisa comparar; Elisa impõe acompanhamento antes de Caio se jogar em outra busca; Lucas simplesmente aparece e permanece. As razões de cada um já foram demonstradas.
 - Caio não está curado do luto.
 - Marcelo não volta.
 - Livro não oferece resposta.
