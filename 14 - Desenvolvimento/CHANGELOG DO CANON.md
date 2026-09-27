@@ -665,3 +665,23 @@ Primeira consolidação do Vault.
 - Causa imediata da grande ocorrência fechada como ciclo de atividade Herege com Remanescentes + resposta/militarização da Elite, sem resolver a instabilidade maior da trilogia.
 - Adicionadas proteções contra escola de magia, exposição, equipe instantânea, romance precoce e combate obrigatório.
 - Aplicado Teste de Remoção ao núcleo central; Elisa, Samira, Lucas, Maya e Ares possuem funções narrativas não intercambiáveis.
+
+
+## 27/09/2026 — Upgrade literário definitivo do Movimento IV
+- Movimento IV promovido para versão 2.0.
+- Diretriz central: criar cumplicidade desconfortável entre leitor e Caio; a vingança deve ser compreensível/desejável antes de seu preço se tornar claro.
+- Pergunta emocional: “Quando procurar justiça começa a significar desejar uma morte?”
+- Nádia Moura/Sekhmet/Fúria consolidada como assassina de Marcelo e primeiro Successor registrado.
+- Nádia deve existir fora de Caio e salvar/proteger outras pessoas antes da própria morte, demonstrando por que Ares a considera indispensável.
+- Filosofia de Nádia dramatizada como deterioração da virtude de agir diante da hesitação.
+- Ares retém Nádia por capacidade operacional crítica, transformando justiça adiada em cálculo de vidas futuras.
+- Pista de Helena/Lívia deve provar materialmente sobrevivência posterior à invasão e tornar-se impraticável antes de Caio retornar à vingança.
+- Morte causal fechada: Nádia ainda possui saída/salvamento; Caio executa ação positiva que remove essa possibilidade usando competência adquirida ao longo do movimento.
+- Maya percebe a intenção antes do resultado.
+- Primeiro Registro fechado como Fúria; manifestação inicial é eficácia/clareza agressiva, não simples raiva.
+- Contraste central do Livro: Livro silencioso diante de “Marcelo Valença” e responsivo depois da morte de Nádia.
+- Fúria registrada bloqueia futura nova Sucessão de Sekhmet enquanto a Expressão permanecer retida; payoff explícito reservado para momento posterior.
+- Hereges recuperam o Vestígio de Nádia, produzindo consequência tripla da mesma morte.
+- Espelho estrutural formalizado entre Rasga-Véu e Nádia: Caio primeiro cria uma possibilidade de sobrevivência e morre; depois remove uma possibilidade de sobrevivência e outra pessoa morre.
+- Vingança não resolve luto; poder ocupa parcialmente o vazio e se torna tentação.
+- Final preserva inversão perseguidor/alvo.
