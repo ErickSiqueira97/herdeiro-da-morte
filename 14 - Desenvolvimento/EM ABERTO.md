@@ -80,3 +80,9 @@ Permanecem para a etapa seguinte apenas **detalhamento de outline/prosa**, nomes
 
 ## 27/09/2026 — Auditoria pré-v2 fechada
 A auditoria pré-fechamento deixou de estar em aberto. Os itens P0 são requisitos de consolidação da Arquitetura Definitiva v2 e os P1 são regras do outline. Não representam novas pendências de worldbuilding. A próxima pendência editorial é construir e auditar o arquivo único **Livro 1 - Arquitetura Definitiva v2.md**.
+
+
+## 27/09/2026 — Macroarquitetura do Livro 1 congelada
+A Arquitetura Definitiva v2 e sua Auditoria Final foram fechadas em CANON. A auditoria da arquitetura deixou de ser pendência.
+
+**Próxima pendência editorial do Livro 1:** construir o outline capítulo por capítulo, preservando a faixa de 30–34 capítulos e todas as regras da Arquitetura Definitiva v2. Depois, executar auditoria do outline antes da redação.
