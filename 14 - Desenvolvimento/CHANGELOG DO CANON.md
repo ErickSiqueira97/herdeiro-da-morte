@@ -571,3 +571,24 @@ Primeira consolidação do Vault.
 - A morte não resolve o luto por Marcelo; o poder passa a ocupar parte do vazio.
 - O movimento termina invertendo a perseguição: Caio passa de caçador a alvo de Santuário, Ares, Hereges e outros interesses.
 - Permanecem para auditoria: identidade do assassino; se ele é o primeiro Registro; Authority registrada; mecanismo da morte; ocorrência da colisão; pista dos Valença; razão definitiva de Ares para não entregar o assassino.
+
+
+## 27/09/2026 — Movimento V e macroarquitetura completa do Livro 1
+- Fechado **Movimento V — Aquilo que Ficou**.
+- Caio usa a primeira Authority registrada também para salvar, criando associação psicológica entre poder e capacidade de impedir perdas.
+- A influência da Authority começa de forma sutil, sem possessão nem retirada de responsabilidade.
+- Samira demonstra que o primeiro Registro não é uma Succession normal.
+- O Livro passa de Relic misteriosa para mecanismo suspeito capaz de agir sem comando consciente de Caio.
+- Ares encontra Caio presencialmente e a responsabilidade pela invasão é confrontada sem simplificação.
+- Confirmado que Helena e Lívia sobreviveram à saída da casa e foram posteriormente interceptadas por pessoas ligadas a Ares, mas não chegaram até ele; existe uma terceira interferência ainda não definida.
+- Caio quase perde o controle da nova Authority e consegue interromper a escalada.
+- Ares passa a considerar o silêncio de “Seshat” uma inconsistência.
+- Hereges encerram o volume com vitória parcial.
+- O Santuário se divide entre proteger/investigar/conter, mas preserva a liberdade de Caio.
+- Caio escolhe permanecer no Santuário por vontade própria.
+- Maya, Elisa, Samira e Lucas permanecem ao redor de Caio por razões independentes; o núcleo dos cinco se forma organicamente.
+- Samira encontra contradição documental ligada à narrativa de Seshat, sem revelar ainda a verdadeira Seshat.
+- A verdadeira Seshat não aparece no encerramento; o encontro é preservado para o Livro 2.
+- Morte observa o primeiro Registro; função canônica da cena é marcar que aquele foi apenas o primeiro.
+- O objetivo declarado de Caio ao final continua humano: encontrar Helena e Lívia.
+- Com este fechamento, a **macroarquitetura dos cinco movimentos do Livro 1 está completa** e o próximo estágio é a auditoria integral antes do outline capítulo a capítulo.
