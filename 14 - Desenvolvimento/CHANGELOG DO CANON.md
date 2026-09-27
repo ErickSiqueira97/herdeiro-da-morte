@@ -554,3 +554,20 @@ Primeira consolidação do Vault.
 - Os cinco protagonistas cooperam funcionalmente sem serem declarados equipe.
 - Caio encerra o movimento escolhendo participar ativamente da investigação da própria história.
 - Permanecem abertos: recepção institucional de Caio; predador ecológico; grande criatura; causa da instabilidade; razão de Ares para não entregar o assassino.
+
+
+## 27/09/2026 — Movimento IV do Livro 1
+- Fechado **Movimento IV — O Preço de Procurar**.
+- Caio passa de investigador protegido a agente cujas decisões produzem consequências para terceiros.
+- Hereges entram diretamente na narrativa e sua crítica à Succession é apresentada sem validação automática.
+- Estabelecido o ciclo de militarização Ares ↔ Hereges.
+- Maya revela a identidade do assassino de Marcelo, embora a identidade definitiva permaneça aberta para auditoria.
+- Surge evidência pós-invasão de sobrevivência de Helena/Lívia; Caio inicialmente prioriza a pista, mas retorna voluntariamente à vingança quando ela termina.
+- Uma operação reúne Santuário, Elite, Hereges e uma ocorrência sobrenatural.
+- Caio escolhe agir numa situação que causa diretamente a primeira morte registrável de um Successor.
+- O Livro produz o primeiro **REGISTRO CONCLUÍDO** e intercepta a Authority.
+- Caio manifesta uma Authority que não deveria possuir, quebrando a regra ensinada de uma Authority por Successor.
+- O poder é inicialmente eficaz e tentador, não uma punição óbvia.
+- A morte não resolve o luto por Marcelo; o poder passa a ocupar parte do vazio.
+- O movimento termina invertendo a perseguição: Caio passa de caçador a alvo de Santuário, Ares, Hereges e outros interesses.
+- Permanecem para auditoria: identidade do assassino; se ele é o primeiro Registro; Authority registrada; mecanismo da morte; ocorrência da colisão; pista dos Valença; razão definitiva de Ares para não entregar o assassino.
