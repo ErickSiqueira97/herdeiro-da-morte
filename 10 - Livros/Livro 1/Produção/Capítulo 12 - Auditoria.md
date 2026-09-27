@@ -2,17 +2,17 @@
 id: livro1-cap12-auditoria
 tipo: auditoria
 schema_version: 1.1
-status: PROVISÓRIO
+status: CANON
 tags: [livro-1, capitulo-12, auditoria]
 ---
 
 # Capítulo 12 — Sem rastro — Auditoria
 
-27/09/2026. Base **8b1d477**; cartão/gate **a2a802c**; primeira versão **f3ec602**. Manuscrito v1.1 PROVISÓRIO, 2529 palavras por segmentos separados por espaço, conforme a convenção atual. Fontes superiores, capítulos 1–11 e auditorias acumuladas preservados. Novos fatos aguardam aprovação; não promovidos ao Log.
+27/09/2026. Base **8b1d477**; cartão/gate **a2a802c**; primeira versão **f3ec602**. Manuscrito v1.1 CANON / FECHADO por aprovação humana explícita em 27/09/2026, fonte aprovada 940a319, sem alteração do corpo narrativo, 2529 palavras por segmentos separados por espaço, conforme a convenção atual. Fontes superiores, capítulos 1–11 e auditorias acumuladas preservados. Somente fatos concretizados na versão aprovada promovidos ao [[Livro 1 - Log de Continuidade]], preservados relato, inferência e desconhecido.
 
 ## Resultado — PASSA
 
-**P0 restantes = 0; P1 restantes = 0.** Auditoria A–N e cinco gates especiais concluídos. P2 não bloqueador: possível calibragem da extensão das perguntas sobre a retirada; mantidas porque distinguem o último avistamento, a decisão protetiva e a perda posterior do rastro. Não realizar revisão estrutural por preferência.
+**P0 restantes = 0; P1 restantes = 0.** Auditoria A–N e cinco gates especiais concluídos. Calibragem da extensão das perguntas sobre a retirada aceita pelo autor como preferência editorial não bloqueadora; sem nova revisão.
 
 ## Auditoria A–N
 
@@ -88,7 +88,7 @@ Ausência percebida antes do relato; cobrança “Você prometeu” não vira hu
 - Limite epistêmico reforçado: Maya declara desconhecer localização atual e não ter evidência de morte, sem afirmar que continuam seguras.
 - P0 encontrados: zero. P0/P1 restantes: zero. Preferência P2 de extensão do relato permanece não bloqueadora.
 
-## Fatos propostos — NÃO CANONIZADOS
+## Fatos aprovados e promovidos ao Log de Continuidade
 
 | Campo | Concretização e limite |
 |---|---|
@@ -107,6 +107,6 @@ Ausência percebida antes do relato; cobrança “Você prometeu” não vira hu
 
 ## Gate pós-escrita — PASSA
 
-Função, agência, emoção, causalidade, regras, informação, corpo e objetos conferidos. Nenhum fato novo canonizado. Capítulo 13 não iniciado. Manuscrito, cartão e auditoria PROVISÓRIOS.
+Função, agência, emoção, causalidade, regras, informação, corpo e objetos conferidos. Somente fatos concretizados aprovados e promovidos ao Log. Capítulo 13 não iniciado. Manuscrito e auditoria CANON / FECHADOS; cartão preservado como registro de preparação.
 
-**AGUARDANDO APROVAÇÃO DO CAPÍTULO.**
+**CANON / FECHADO. Produção parada após o Capítulo 12.**

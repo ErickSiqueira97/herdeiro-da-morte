@@ -19,7 +19,7 @@ relacoes:
     tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-versao: 1.21
+versao: 1.22
 ---
 
 # Estado do Projeto
@@ -41,15 +41,15 @@ Os percentuais medem prontidão estrutural e editorial, não quantidade de notas
 ## Estado editorial
 A macroarquitetura e o outline capítulo por capítulo do Livro 1 estão congelados em CANON. O [[Livro 1 - Outline Definitivo v1]] possui 32 capítulos e passou por auditoria integral, correções e verificação pós-correções. Não há pendência estrutural ativa que impeça a preparação da redação.
 
-**Estado do Livro 1: CAPÍTULOS 1–11 CANONIZADOS / FECHADOS.** Capítulos 1 e 2 v1.2; 3–11 v1.1. Capítulo 11 aprovado explicitamente e fechado em 27/09/2026, sem alteração do corpo narrativo aprovado em d535392 (2485 segmentos pela convenção atual). Auditoria A–N e gates Marcelo, Nádia, Livro, separação e continuidade física encerrados: P0/P1 restantes zero. Calibragem da extensão do diálogo final aceita como preferência editorial não bloqueadora, sem nova revisão. Somente fatos concretizados promovidos ao [[Livro 1 - Log de Continuidade]].
+**Estado do Livro 1: CAPÍTULOS 1–12 CANONIZADOS / FECHADOS.** Capítulos 1 e 2 v1.2; 3–12 v1.1. Capítulo 12 aprovado explicitamente e fechado em 27/09/2026, sem alteração do corpo narrativo aprovado em 940a319 (2529 segmentos pela convenção atual). Auditoria A–N e gates promessa, rastro, ausência, Santuário e Maya/Caio encerrados: P0/P1 restantes zero. Calibragem das perguntas sobre a retirada aceita como preferência editorial não bloqueadora, sem nova revisão. Somente fatos concretizados promovidos ao [[Livro 1 - Log de Continuidade]].
 
-Marcelo morreu após resistência competente, sem compreender a natureza completa da ameaça. Nádia escolheu conscientemente a morte quando contenção não letal concreta estava disponível; sem perda de controle, sadismo ou absolvição pela Fúria. Maya tentou impedir. Caio permanece limitado, escreve manualmente o nome do pai no Livro por desespero e associação com Seshat/escrita/livros/registros, sem conhecer regra de ressurreição: absolutamente nada acontece. Helena e Lívia agem; a passagem dos fundos é utilizada e a reação dos perseguidores força separação. Maya promete retirá-las dali, sem garantia permanente ou destino final confirmado. Confiança não reparada; paradeiro posterior das duas não estabelecido.
+Maya retirou Helena e Lívia da casa e relata último avistamento das duas vivas, juntas e falando; afasta deliberadamente um perseguidor, retorna, procura e encontra fragmentos incompatíveis sem continuidade confiável. Localização, responsável, mecanismo e estado atual permanecem desconhecidos; não há evidência que permita afirmar morte. “Alguém pegou elas” permanece inferência de Caio. “Você prometeu” / “Eu sei” não repara confiança. Marcelo morto, Livro sem nova tentativa/resposta e Caio fisicamente limitado. Chegada funcional ao Santuário, sem maravilhamento, cura ou apresentação ampla.
 
-O pacote operacional continua vigente. [[Livro 1 - Auditoria Acumulada 01–05]] e [[Livro 1 - Auditoria Acumulada 01–10]] preservadas e encerradas, P0/P1 restantes zero. Os percentuais históricos acima não foram recalculados. **Capítulo 12 — Sem rastro v1.1 PROVISÓRIO**, produzido e auditado em 27/09/2026 sobre 8b1d477: 2529 palavras pela convenção atual. Gate pré-escrita, A–N e gates promessa, rastro, ausência, Santuário e Maya/Caio PASSAM; P0/P1 restantes zero. P2 não bloqueador: possível calibragem da extensão das perguntas sobre a retirada. Fatos novos apenas em [[Capítulo 12 - Auditoria]]. **AGUARDANDO APROVAÇÃO DO CAPÍTULO. Capítulo 13 não iniciado.**
+O pacote operacional continua vigente. [[Livro 1 - Auditoria Acumulada 01–05]] e [[Livro 1 - Auditoria Acumulada 01–10]] preservadas e encerradas; próximo marco após o 15. Os percentuais históricos acima não foram recalculados. **Sem capítulo pendente de aprovação; Capítulo 13 não iniciado. Produção parada.**
 
 ## Próximos blocos
-1. Aguardar aprovação humana do Capítulo 12 — Sem rastro v1.1.
-2. Somente após aprovação, canonizar e promover fatos concretizados. Não iniciar o Capítulo 13 neste ciclo.
+1. Aguardar instrução humana para iniciar o ciclo do Capítulo 13.
+2. Não iniciar o Capítulo 13 neste fechamento; manter produção de um capítulo por vez.
 3. Preservar auditorias acumuladas 1–5 e 1–10 encerradas; próximo marco após o Capítulo 15.
 
 Ver [[EM ABERTO]] e [[PROCESSO]].

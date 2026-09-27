@@ -870,3 +870,10 @@ Primeira consolidação do Vault.
 - Escrita manual de “Marcelo Valença” no Livro por desespero e associação subjetiva com Seshat/escrita/livros/registros, sem regra de ressurreição conhecida: absolutamente nenhuma resposta. Nenhum Registro ou verdade cosmológica nova.
 - Agência de Helena/Lívia, utilização efetiva dos fundos, separação causada pela resposta operacional dos perseguidores e promessa específica de Maya de retirar as duas dali preservadas, sem segurança permanente ou destino final garantido.
 - Auditorias acumuladas 1–5 e 1–10 preservadas. Estado do Projeto v1.20: **CAPÍTULOS 1–11 FECHADOS; CAPÍTULO 12 NÃO INICIADO**. Produção parada por instrução expressa do autor.
+
+## 27/09/2026 — Fechamento do Capítulo 12 — Sem rastro v1.1
+- Aprovação humana explícita; manuscrito promovido a **CANON**, sem alteração do corpo narrativo aprovado em 940a319 (2529 segmentos pela convenção atual).
+- Auditoria A–N e cinco gates especiais encerrados, P0/P1 restantes zero. Calibragem das perguntas sobre a retirada aceita como preferência editorial não bloqueadora, sem nova revisão.
+- Somente fatos concretizados promovidos ao [[Livro 1 - Log de Continuidade]], distinguindo relato de Maya, inferência de Caio e desconhecido: extração realizada; último avistamento vivas/juntas/falando; desvio deliberado do perseguidor; retorno e tentativas; fragmentos sem continuidade; estado e paradeiro atuais desconhecidos, sem evidência de morte.
+- “Alguém pegou elas” não promovido a fato narrativo. “Você prometeu” / “Eu sei” não repara confiança. Marcelo continua morto; Livro sem nova tentativa/resposta; Caio limitado; chegada funcional ao Santuário sem apresentação ampla.
+- Estado do Projeto v1.22: **CAPÍTULOS 1–12 FECHADOS; CAPÍTULO 13 NÃO INICIADO**. Auditorias acumuladas preservadas; produção parada.

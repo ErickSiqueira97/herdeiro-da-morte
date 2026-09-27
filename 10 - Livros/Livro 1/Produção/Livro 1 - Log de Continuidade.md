@@ -325,6 +325,37 @@ Caio continua fisicamente limitado; avaliação e limpeza não constituem alta o
 | Promessa | Maya: “Eu tiro as duas daqui”, confirmada por “Prometo”. Posterior ao Livro; não garante destino ou segurança indefinida. Caio consente em seguir sob necessidade, sem confiança reparada. |
 | Saída | Carro de Caio se afasta; último avistamento: Lívia e Helena passam pelo portão lateral, Maya recua com elas. Corpo de Marcelo fica para trás. Nenhuma morte das duas, interceptação, perda de rastro, chegada ao posto ou Santuário. |
 
+### Capítulo 12 — Sem rastro — v1.1
+
+**CANON / FECHADO em 27/09/2026**, por aprovação humana explícita. Fonte: [[12 - Sem rastro]], versão aprovada no commit 940a319, sem alteração do corpo narrativo (2529 segmentos pela convenção atual). [[Capítulo 12 - Auditoria]]: A–N e gates promessa, rastro, ausência, Santuário e Maya/Caio PASSAM; P0/P1 restantes zero. Calibragem das perguntas sobre a retirada aceita como preferência editorial não bloqueadora, sem nova revisão.
+
+#### Proteções explícitas e limites de conhecimento
+
+- Maya extrai Helena e Lívia da casa. Os acontecimentos posteriores fora do campo de Caio chegam pelo relato dela, não por cena onisciente: conduz ambas ao estacionamento e confirma as duas **vivas, juntas e falando** no último avistamento, junto à guarita/passagem de pedestres.
+- Deliberadamente se torna visível e afasta o perseguidor observado. Retorna ao ponto e não as encontra; tenta contato telefônico, busca física e retomada por Perseguição a partir do lugar conhecido. O apoio solicitado chega depois e também procura; não há entrega confirmada das duas ao motorista.
+- Encontra fragmentos incompatíveis, curtos e sem ligação que forme continuidade confiável. Isso não significa desligamento arbitrário do poder, separação comprovada das duas ou localização atual. Não se estabelece causa definitiva da interferência.
+- Maya termina **sem saber localização, responsável, mecanismo ou estado atual** de Helena/Lívia. Não tem evidência que permita afirmar morte e não promete que estejam seguras. Último avistamento com vida não é prova do estado presente.
+- **“Alguém pegou elas” é inferência de Caio**, não fato narrativo confirmado. Não promover a cadeia secreta de interceptação, identidades ou destino final ao conhecimento dos personagens/leitor.
+- **“Você prometeu” / “Eu sei” não repara a confiança.** Maya reconhece a cobrança sem defesa técnica; cooperação para atendimento e procura é necessidade, não perdão, absolvição ou romance.
+- Marcelo permanece inequivocamente morto. Caio liga para o telefone dele por estar com Helena; não espera retorno do pai. Livro é fechado e transportado, sem nova tentativa, comando, nome, teste ou resposta tardia.
+- Caio continua com dor, tontura, mobilidade reduzida e necessidade de apoio/cadeira de rodas. Chegada ao Santuário é funcional, sem maravilhamento: controle de acesso e começo de atendimento comum, sem cura, diagnóstico cosmológico, apresentação ampla da instituição ou avanço ao 13/14.
+- Helena e Lívia conservam agência no relato: escolha de posição, conferência do carro, pergunta sobre Caio, telefone e cuidado mútuo. Nenhum ato posterior à última confirmação é inventado.
+
+| Campo | Concretização e limite |
+|---|---|
+| Tempo/local | Mesma noite; posto duas ruas adiante do 11, espera sem duração exata, depois deslocamento ao Santuário. Não começa manhã seguinte. |
+| Caio | Dor torácica/cotovelo, dificuldade para levantar, tontura, ajuda do vizinho e cadeira de rodas. Sem novo diagnóstico, poder ou recuperação total. |
+| Maya | Retorna sozinha, pressionando curativo, lábio rachado e sinais de desgaste; origem de cada marca não diagnosticada. Arco não está visível. Não inventar combate secreto detalhado. |
+| Telefones | Ligações de Caio para Helena, Lívia e aparelho de Marcelo sem resposta; manda localização e mensagem a Lívia. Maya manda esperar, não responde à pergunta antes de chegar. Caio fornece número ao Santuário antes da chamada de retorno. |
+| Extração relatada | Maya diz ter levado ambas até estacionamento; último avistamento junto à guarita/passagem de pedestres, vivas. Carro solicitado ainda não chegara; motorista ajuda a procurar depois. Não há entrega confirmada das duas a ele. |
+| Família no relato | Helena escolhe posição longe dos carros, exige identificação do veículo, segura Lívia; Lívia mantém bolsa/telefone e pergunta por Caio. Sem estado posterior confirmado. |
+| Rastro | Homem observado segue Maya, que o afasta e retorna. Procura física/telefones e retomadas encontram sinais das duas juntos em trajetos incompatíveis, curtos e desconectados. Causa e localização atuais desconhecidas. |
+| Vizinho | Permanece, traz água, nega retorno à zona de tiros, aceita dirigir ao Santuário. Anônimo, sem filiação/poder. Fica junto ao carro respondendo a funcionário na chegada; destino posterior aberto. |
+| Objetos | Livro fechado sem nova tentativa; mochila/caderno/carregador acompanham Caio. Livro e telefone terminam na mesa ao lado do atendimento; Maya carrega mochila ao entrar e espera no corredor. Caneta do 11 não reaparece. |
+| Santuário | Contato afirma já ter recebido nome de Caio por outros contatos; fonte não identificada. Recebe nomes familiares e último ponto, anuncia encaminhamento à equipe sem resultado mostrado. Entrada real controlada, atendimento inicial na Enfermaria. |
+| Relação | “Eu perdi o rastro” / “Você prometeu” / “Eu sei”. Confiança rompida; necessidade de ajuda não equivale a absolvição, romance ou garantia de reencontro. |
+| Saída | Marcelo morto; Helena/Lívia desaparecidas, não confirmadas mortas; Maya sem rota confiável. Caio no Santuário, ferido, telefone à espera e Livro silencioso. Busca sem resultado, nenhum início do 13. |
+
 ## Estado do ciclo
 
-Capítulos 1 e 2 v1.2 e 3–11 v1.1 CANON / FECHADOS. Auditorias acumuladas 1–5 e 1–10 preservadas. Capítulo 12 — Sem rastro v1.1 PROVISÓRIO, em **AGUARDANDO APROVAÇÃO DO CAPÍTULO**. Fatos novos somente em [[Capítulo 12 - Auditoria]], sem promoção canônica. **Capítulo 13 não iniciado.**
+Capítulos 1 e 2 v1.2 e Capítulos 3–12 v1.1 CANON / FECHADOS. Sem capítulo pendente de aprovação. Auditorias acumuladas 1–5 e 1–10 preservadas e encerradas. **Capítulo 13 não iniciado. Produção parada.**
