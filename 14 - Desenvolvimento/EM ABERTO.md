@@ -94,3 +94,9 @@ A construção, auditoria, correções e verificação do **Livro 1 - Outline De
 **Próxima pendência editorial do Livro 1:** montar o pacote de produção para redação — Bíblia concisa de produção, regras invioláveis, mapa de revelações/foreshadowing, outline canônico de referência e prompt mestre para o fluxo capítulo → auditoria → revisão → canonização da prosa → próximo capítulo.
 
 Detalhes de prosa, coreografia fina, nomes menores e títulos definitivos de capítulos continuam podendo ser resolvidos durante a execução desde que não alterem a função canônica.
+
+
+## 27/09/2026 — Pacote de produção concluído
+A preparação do pacote de produção deixou de ser pendência. Bíblia de Produção, regras, mapa de revelações, protocolo, prompt mestre e auditoria final estão concluídos.
+
+**Próxima pendência:** produção do Capítulo 1 pelo protocolo canônico, seguida de auditoria e aprovação antes do Capítulo 2.
