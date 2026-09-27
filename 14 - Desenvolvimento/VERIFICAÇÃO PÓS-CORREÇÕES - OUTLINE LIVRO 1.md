@@ -2,7 +2,7 @@
 id: verificacao-pos-correcoes-outline-livro1
 tipo: auditoria
 schema_version: 1.1
-status: PROVISÓRIO
+status: CANON
 tags: [livro-1, outline, verificacao]
 moc: "[[MOC - Livros]]"
 relacoes:
@@ -14,7 +14,7 @@ relacoes:
 # Verificação pós-correções — Outline Livro 1
 
 > **Data:** 27/09/2026  
-> **Resultado:** PASSA — pronto para fechamento explícito.
+> **Resultado:** PASSA — fechamento aprovado em 27/09/2026; Outline Definitivo v1 promovido a CANON.
 
 # Escopo
 Verificação curta das emendas aplicadas após a auditoria integral. Objetivo: detectar contradições novas, resíduos de alternativas, quebra de causalidade ou vazamento de revelações.
@@ -53,7 +53,7 @@ Foram removidos dois resíduos textuais que sobreviveram às correções:
 # Gate
 Nenhuma correção estrutural permanece aberta.
 
-O Outline Definitivo v1 está **pronto para promoção a CANON**, mas esta verificação não faz a promoção automaticamente. O fechamento depende de aprovação explícita.
+O Outline Definitivo v1 foi **promovido a CANON** após aprovação explícita do fechamento em 27/09/2026.
 
 Após o fechamento:
 - promover outline e auditorias correspondentes;
