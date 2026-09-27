@@ -2,7 +2,7 @@
 id: livro1-outline-definitivo-v1
 tipo: outline
 schema_version: 1.1
-status: PROVISÓRIO
+status: CANON
 aliases:
   - "Outline Definitivo Livro 1"
 tags: [livro-1, outline, pre-redacao]
@@ -14,7 +14,7 @@ relacoes:
 
 # Livro 1 — Outline Definitivo v1
 
-> **Status:** PROVISÓRIO PARA AUDITORIA. Construído a partir da Arquitetura Definitiva v2 congelada. O outline detalha execução, não reabre macroestrutura. Títulos são de trabalho.
+> **Status:** CANON. Fechado em 27/09/2026 após auditoria integral, aplicação das correções e verificação pós-correções. O outline detalha a execução da Arquitetura Definitiva v2 sem reabrir a macroestrutura. Títulos de capítulos permanecem de trabalho.
 
 # Regras globais de redação
 
