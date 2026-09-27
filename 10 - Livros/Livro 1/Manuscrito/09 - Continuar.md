@@ -3,7 +3,7 @@ id: livro1-manuscrito-cap09
 tipo: capitulo
 schema_version: 1.1
 status: PROVISÓRIO
-versao: 1.0
+versao: 1.1
 tags: [livro-1, capitulo-09, manuscrito]
 ---
 
@@ -115,7 +115,7 @@ Maya tornou a olhar para ele.
 
 — Seshat.
 
-O nome saíra antes que organizasse a lembrança. Era isso, então. A mulher, o livro, o que se escrevera em seu braço. Maya acabara de reconhecer.
+O nome saíra antes que organizasse a lembrança. Para Caio, as partes começavam a se encaixar: a mulher, o livro, o que se escrevera em seu braço. Maya reconhecera o mesmo nome sem que ele o dissesse.
 
 — Tinha uma mulher — disse. — Ela falou que eu podia voltar. Falou de Sucessão.
 
@@ -267,7 +267,7 @@ O aparelho dela vibrou de novo. Maya leu e deixou a tela voltada para si.
 
 — Eles sabem que eu morri?
 
-— Eu avisei quando você parou de responder.
+— Eu avisei que você tinha morrido. Antes de você voltar.
 
 Caio olhou para o tecido grudado à barriga dela, para o telefone. Não sabia quanto daquela noite cabia no tempo em que estivera no banco.
 
@@ -325,16 +325,22 @@ Maya sustentou seu olhar.
 
 — Falo.
 
+Olhou o peito dele antes de acrescentar:
+
+— E você vai deixar alguém olhar isso antes de entrar num carro. Eu chamei ajuda, Caio. Não vou dizer que passou.
+
+Ele assentiu. A dor não deixava espaço para fingir que tinha passado. Podia esperar sentado mais perto da lanchonete; não queria continuar junto à porta amassada.
+
 Ele soltou o braço dela quando conseguiu firmar os pés. Pegou o telefone, abriu a conversa de Helena e escreveu que estava indo. Não acrescentou que estava bem.
 
 Maya se abaixou para recolher o livro. Caio estendeu a mão. Ela lhe entregou, segurando a borda até ter certeza de que ele aguentava o peso.
 
 A mochila continuava junto à garagem. Ele apontou, e Maya seguiu alguns passos à frente para buscá-la. Caio ficou apoiado no muro, esperando, com o livro encostado à perna.
 
-Quando ela voltou, não tentou pôr a alça nele. Carregou as duas bolsas e esperou que ele escolhesse para que lado sair.
+Quando ela voltou, não tentou pôr a alça nele. Carregou as duas bolsas e indicou a lanchonete, onde poderiam esperar. Depois olhou para ele, ainda sem uma resposta sobre o destino.
 
 Caio guardou o telefone. Queria ver se Lívia conseguira terminar a gravação. Queria ouvir o pai reclamar da hora, mesmo que não conseguisse explicar o atraso. A mensagem enviada não bastava.
 
 — Pra casa — disse.
 
-Deu o primeiro passo junto ao muro. Maya foi com ele, perto o suficiente para ajudar, sem lhe oferecer o braço outra vez.
+Deu o primeiro passo junto ao muro, na direção da esquina. Maya foi com ele, perto o suficiente para ajudar, sem lhe oferecer o braço outra vez.
