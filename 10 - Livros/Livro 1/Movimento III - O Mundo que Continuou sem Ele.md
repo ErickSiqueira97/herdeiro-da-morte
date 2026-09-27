@@ -11,6 +11,7 @@ tags:
   - canon
 moc: Livro 1
 status: CANON
+versao: 2.0
 relacoes:
   - "[[Caio Valença]]"
   - "[[Maya Ferraz]]"
@@ -23,6 +24,22 @@ relacoes:
 ---
 
 # Movimento III — O Mundo que Continuou sem Ele
+
+## Diretriz literária definitiva
+
+O Movimento III é o trecho com maior risco de transformar o romance em “escola de fantasia”. Sua missão é fazer o contrário: **o leitor deve conhecer o mundo secreto porque Caio precisa viver dentro dele, não porque alguém decidiu explicá-lo**.
+
+Pergunta emocional:
+
+> **O que resta de uma pessoa quando o mundo que ela conhecia continua funcionando sem ela?**
+
+O Santuário deve se tornar memorável por pessoas, hábitos, trabalho, espaços e conflitos antes de se tornar compreensível como instituição.
+
+Curva:
+
+**Entorpecimento → Deslocamento → Resistência → Curiosidade → Pequeno pertencimento → Fricção → Descoberta → Escolha de agência.**
+
+Regra estrutural: nenhuma sequência existe apenas para ensinar lore. Toda informação sobre Succession, Authorities, Véu, criaturas ou facções deve chegar junto de uma necessidade dramática, conflito, erro, decisão ou relação.
 
 ## Função
 Aproximadamente 20–25% do Livro 1.
@@ -48,6 +65,10 @@ O Santuário é apresentado como instituição humana antiga e operacional, não
 
 Caio observa Successores entrando e saindo, feridos, pesquisadores, arquivos, negociações, investigações do Véu, missões e pessoas em permanência temporária. Ninguém interrompe o funcionamento da instituição para ensinar o universo inteiro a ele.
 
+A primeira manhã deve privilegiar detalhes concretos e recorrentes: pessoas chegando feridas, alguém discutindo um relatório, equipamento sendo devolvido, um corredor que cheira a café/antisséptico, arquivos que continuam sendo movidos, uma refeição interrompida por chamada de campo. O objetivo não é decorar o cenário, mas dar a sensação de que o lugar funcionava antes de Caio e continuará funcionando depois dele.
+
+O Santuário precisa ganhar **geografia emocional**. Ao longo do movimento, poucos espaços recorrentes devem adquirir função própria — por exemplo, lugar onde Caio é examinado, lugar onde pessoas comem, área de Arquivo e um ponto de passagem/saída para operações. Evitar apresentar dezenas de setores de uma vez.
+
 ## 3. Caio quer sair
 Sua prioridade continua sendo encontrar Helena e Lívia.
 
@@ -61,6 +82,8 @@ O princípio institucional aparece em ação:
 > O Legado pertence ao deus. A escolha pertence ao homem.
 
 Caio não pertence nem ao Santuário nem a Ares.
+
+O princípio deve surgir porque alguém precisa decidir concretamente se Caio pode sair, ser interrogado ou ser entregue — não como lema apresentado num tour. Assim, o leitor aprende a ética institucional através de uma decisão que afeta o protagonista.
 
 ## 5. Maya existe fora de Caio
 Maya permanece inicialmente separada dele enquanto lida com as consequências da operação, a morte de Marcelo, Helena/Lívia desaparecidas, Ares e sua própria desobediência.
@@ -90,6 +113,10 @@ A essência do primeiro contraste pode preservar:
 
 Depois da avaliação, Elisa retorna à própria vida, estudos, pacientes e responsabilidades. Caio não se torna imediatamente sua prioridade.
 
+A entrada de Elisa deve produzir também uma pequena ação independente: antes, durante ou logo após avaliar Caio, ela precisa estar lidando com outra vida que importa para ela. Isso impede que sua primeira função seja “interesse amoroso futuro”.
+
+O contraste fundamental deve ser dramatizado desde cedo: Elisa pergunta **o que ainda pode ser preservado**; Caio tende a perguntar **como desfazer o que já aconteceu**.
+
 ## 7. Entrada orgânica de Samira
 Samira chega ao caso porque os registros não fecham:
 
@@ -108,12 +135,20 @@ Caio recorda que ouviu algo equivalente a:
 
 Samira percebe a diferença entre essa formulação e “Eu sou Seshat”, mas não conclui fraude sem evidência.
 
+A cena não deve transformar Samira na personagem que imediatamente percebe tudo. Sua força é metodológica: ela distingue fato, interpretação e ausência de informação. O leitor deve admirar sua disciplina antes de admirar suas conclusões.
+
+Ela também precisa existir fora do caso Valença: outro arquivo, erro ou responsabilidade deve ser interrompido pela chegada da anomalia Caio, mostrando que ele entrou no trabalho dela e não que ela nasceu narrativamente para investigá-lo.
+
 ## 8. Entrada orgânica de Lucas
 Lucas cruza com Caio por rotina/atividade do Santuário e o trata inicialmente como pessoa, não cadáver, anomalia ou objeto de estudo.
 
 O humor cria descanso emocional sem apagar a gravidade.
 
 A amizade nasce por repetição, não instantaneamente. Lucas possui amigos, atividades, objetivos e problemas independentes de Caio.
+
+Lucas não deve ser apresentado por piada seguida de exposição de poder. Sua primeira função literária é devolver a Caio uma interação em que ninguém está perguntando sobre morte, Marca ou Seshat.
+
+O humor não apaga o trauma; oferece contraste. Lucas pode perceber quando parar de brincar, evitando o arquétipo do alívio cômico incapaz de ler a sala.
 
 ## 9. Regras antes da quebra
 Caio presencia o uso de Authorities e aprende organicamente fundamentos da Succession, inclusive:
@@ -122,12 +157,22 @@ Caio presencia o uso de Authorities e aprende organicamente fundamentos da Succe
 
 Ele aprende a regra antes de futuramente se tornar sua aparente impossibilidade.
 
+A regra deve aparecer repetidamente em contextos diferentes e nunca como parágrafo de manual:
+- alguém menciona o próprio vínculo;
+- Caio vê uma Relíquia-Eco em uso;
+- Samira usa a regra como premissa documental;
+- uma ocorrência depende de identificar qual fonte divina está envolvida.
+
+Somente depois o leitor terá confiança suficiente nela para sentir o impacto de Fúria.
+
 ## 10. O Livro não responde
 Caio tenta compreender/usar o Livro e não consegue.
 
 A ausência de manifestação funcional de uma Authority é tratada pelo Santuário como possível despertar incompleto relacionado à morte e retorno.
 
 É uma explicação plausível e incorreta.
+
+Caio deve testar hipóteses simples sobre o Livro e fracassar. Como já tentou escrever Marcelo no Movimento II, o silêncio agora possui peso emocional. Evitar sequência de “tentativas de habilidade” com estética de videogame.
 
 ## 11. Primeiro reencontro com Maya
 A primeira pergunta relevante de Caio é se ela encontrou Helena e Lívia.
@@ -161,6 +206,8 @@ O Santuário recebe uma ocorrência e Caio quer participar. A resposta é não: 
 
 Outros personagens seguem sem ele. Isso reforça que o mundo não se organiza em torno do protagonista.
 
+A recusa precisa frustrar Caio de verdade. Enquanto outros saem para agir, ele fica. Esse intervalo é oportunidade para aprofundar Lucas/Samira/Santuário e para mostrar que **não participar** também produz tensão narrativa.
+
 ## 13. O padrão continua
 A missão retorna com evidência de outro comportamento sobrenatural anômalo.
 
@@ -186,6 +233,10 @@ Registro institucional:
 
 > NÃO INTERFERIR.
 
+Esta ocorrência deve ser uma das primeiras experiências de maravilhamento genuíno do livro. Depois do trauma, o sobrenatural não pode existir apenas como ameaça. Caio precisa ver algo estranho, belo ou ecologicamente impressionante que sobreviva justamente porque os humanos decidem não dominá-lo.
+
+O leitor deve começar a desejar conhecer esse mundo ao mesmo tempo em que entende seu perigo.
+
 A identidade do predador permanece EM ABERTO.
 
 ## 16. Limites do Santuário
@@ -207,6 +258,8 @@ Caio vê que Elisa não “cura magicamente”; trabalha com vitalidade e potenc
 
 Ela também enfrenta alguém que não consegue salvar. Isso estabelece contraste com Caio: ambos sofrem diante do irreversível, mas respondem de maneiras diferentes.
 
+Evitar usar uma morte anônima apenas para ensinar limite de poder. A pessoa/ser que Elisa não consegue salvar precisa ter contexto suficiente para que sua decisão de parar tenha significado. O importante é Caio testemunhar alguém capaz de dizer, na prática, **não há mais o que preservar** — algo que ele ainda não consegue fazer.
+
 ## 19. Primeira inconsistência séria de Samira
 Samira compara Caio a registros de Successores anteriores de Seshat.
 
@@ -222,6 +275,10 @@ Ela não conclui que Caio seja falso Successor sem evidência suficiente.
 O núcleo começa a surgir por convivência: refeições, provocações, estudos, trabalho, arquivos, pequenas tarefas e tentativas de Caio de manter vínculos com a vida civil.
 
 Essas cenas devem dar humanidade independente aos personagens e impedir que o grupo exista apenas em função de missões/trauma.
+
+Pelo menos uma dessas cenas deve existir sem qualquer avanço de mistério. Refeição, estudo, pequena disputa, tarefa desagradável ou conversa interrompida podem criar memória afetiva do Santuário.
+
+O cotidiano não é enchimento: é o que permitirá ao leitor sentir perda quando esse lugar for ameaçado posteriormente.
 
 ## 21. Maya continua procurando os Valença
 Caio descobre que Maya procura Helena e Lívia por iniciativa própria.
@@ -255,7 +312,11 @@ Ares entra diretamente na relação com Caio, sem ser apresentado como vilão si
 
 Ele reconhece que Marcelo não deveria ter morrido e assume responsabilidade pela operação que autorizou, mas distingue a ordem dada da escolha letal do subordinado.
 
-Ares não entrega imediatamente a identidade do assassino. A razão estratégica/política concreta permanece EM ABERTO e deverá desenvolver Ares, o assassino e a Elite — não pode ser mera proteção genérica de “um dos seus”.
+Ares não entrega imediatamente a identidade do assassino.
+
+A razão fica estruturalmente definida: **Nádia continua exercendo função crítica na resposta à escalada Herege e à instabilidade sobrenatural; entregá-la sem transição desmontaria uma capacidade operacional que Ares considera necessária para impedir mortes maiores.** Ele não afirma que Nádia é inocente. Ele prioriza utilidade estratégica sobre justiça imediata.
+
+Isso deve tornar sua posição compreensível sem torná-la moralmente neutra. Para Caio, Ares está dizendo que o homem morto vale menos que a arma ainda útil.
 
 ## 25. Primeira grande ocorrência
 Uma ocorrência de escala maior encerra a fase introdutória.
@@ -264,7 +325,9 @@ Uma criatura inicialmente parece ser a ameaça central, mas o grupo percebe que 
 
 Caio usa a experiência do Rasga-Véu para reconhecer que comportamento aparente de caça pode ser interpretado incorretamente.
 
-A identidade da criatura e a causa maior permanecem EM ABERTO.
+A identidade específica da criatura permanece para a Arquitetura Definitiva v2, mas sua função é fechada: ela não é “chefão” do movimento. Está em deslocamento/fuga porque uma região de alta Aderência foi artificialmente perturbada por **atividade Herege de coleta/experimentação com Remanescentes**, somada à movimentação de Successores da Elite em resposta a essas ações.
+
+Nenhum lado sozinho “causou o Véu quebrar”. O movimento revela um ciclo: intervenção gera resposta, resposta gera militarização, militarização aumenta interferência e novas criaturas reagem.
 
 ## 26. Cooperação sem “formação de equipe”
 Caio, Maya, Lucas e Elisa atuam no campo por razões funcionais. Samira contribui através de investigação/arquivo.
@@ -276,7 +339,7 @@ A ocorrência fornece evidência concreta de que os eventos sobrenaturais recent
 
 Há instabilidade ou interferência crescente no Véu, percebida por diferentes grupos.
 
-A causa exata — Hereges, movimentação da Elite, consequência mais antiga ou combinação — permanece EM ABERTO.
+A causa imediata é uma combinação de atividade Herege com Remanescentes e resposta crescente da Elite. A instabilidade maior da trilogia não é explicada por isso; o Livro 1 apenas mostra que ações humanas/divinas locais conseguem piorar um sistema já tensionado.
 
 ## 28. Escolha final do Movimento
 O Santuário permite que Caio permaneça protegido, treine e deixe a investigação para pessoas mais preparadas.
@@ -304,10 +367,33 @@ Essa decisão o conduzirá ao assassino de Marcelo e, posteriormente, ao primeir
 - **Ares:** deixa de ser uma imagem simples de mandante e assume responsabilidade parcial sem ser autor direto da execução de Marcelo.
 - **Hereges:** existem apenas como evidência de intervenção humana organizada.
 
-## Pontos deliberadamente em aberto
-1. Pessoa/personagens responsáveis por receber e acompanhar Caio institucionalmente no Santuário.
-2. Identidade e ecologia do predador da primeira saída.
-3. Identidade da grande criatura/ocorrência do encerramento.
-4. Causa concreta da instabilidade percebida nessa ocorrência.
-5. Razão estratégica/política pela qual Ares não entrega o assassino de Marcelo.
-6. Redação final dos diálogos; são canônicos seus beats e funções, não necessariamente cada palavra provisória.
+## Fechamentos e pendências controladas
+- O Santuário será apresentado por poucos espaços recorrentes e por decisões concretas, nunca por tour.
+- A razão de Ares para não entregar Nádia está fechada: utilidade operacional crítica diante de Hereges/instabilidade, sem alegação de inocência.
+- A causa imediata da grande ocorrência está fechada como ciclo de atividade Herege com Remanescentes + resposta da Elite.
+- Permanecem para a Arquitetura Definitiva v2: nomes/biografias dos três rostos institucionais; identidade/ecologia do predador de “NÃO INTERFERIR”; identidade específica da criatura da grande ocorrência.
+- Redação final dos diálogos permanece reservada à prosa.
+
+## Proteções literárias
+1. Nenhum capítulo pode existir apenas para ensinar regras.
+2. Caio não conhece todos os personagens centrais no mesmo dia por conveniência.
+3. Elisa, Samira e Lucas precisam realizar ao menos uma ação relevante que não tenha Caio como finalidade.
+4. O Santuário deve possuir rotina e problemas que existiriam sem Caio.
+5. Pelo menos uma experiência sobrenatural do movimento deve provocar maravilhamento, não medo.
+6. Nem toda ocorrência termina em combate.
+7. Não transformar Samira em detector infalível de mistérios.
+8. Não transformar Lucas em alívio cômico permanente.
+9. Não iniciar romance Caio/Elisa aqui; construir respeito e familiaridade.
+10. Não restaurar confiança Caio/Maya cedo demais.
+11. Não fazer Ares parecer secretamente correto nem simplesmente maligno.
+12. A grande ocorrência precisa resolver um problema local e abrir uma pergunta maior.
+13. O fim do movimento pertence a uma **escolha de Caio**, não a uma nova convocação institucional.
+
+## Teste de remoção aplicado ao núcleo
+- **Elisa:** sem ela, Caio não possui contraponto vivo sobre preservação/irreversível nem avaliação vital independente; permanece.
+- **Samira:** sem ela, o mistério de Seshat depende de conveniência expositiva; permanece.
+- **Lucas:** sem ele, Caio não constrói vida nova fora de investigação/romance e o tema de liberdade perde preparação; permanece.
+- **Maya:** sem sua busca e recusa do nome, desaparecem promessa, culpa e tensão entre proteção/agência; permanece.
+- **Ares:** sem contato direto, responsabilidade institucional vira antagonismo abstrato; permanece.
+
+Cada personagem deve continuar justificando essa indispensabilidade na versão capítulo a capítulo.
