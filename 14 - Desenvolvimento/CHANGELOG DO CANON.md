@@ -877,3 +877,10 @@ Primeira consolidação do Vault.
 - Somente fatos concretizados promovidos ao [[Livro 1 - Log de Continuidade]], distinguindo relato de Maya, inferência de Caio e desconhecido: extração realizada; último avistamento vivas/juntas/falando; desvio deliberado do perseguidor; retorno e tentativas; fragmentos sem continuidade; estado e paradeiro atuais desconhecidos, sem evidência de morte.
 - “Alguém pegou elas” não promovido a fato narrativo. “Você prometeu” / “Eu sei” não repara confiança. Marcelo continua morto; Livro sem nova tentativa/resposta; Caio limitado; chegada funcional ao Santuário sem apresentação ampla.
 - Estado do Projeto v1.22: **CAPÍTULOS 1–12 FECHADOS; CAPÍTULO 13 NÃO INICIADO**. Auditorias acumuladas preservadas; produção parada.
+
+## 27/09/2026 — Fechamento do Capítulo 13 — O mundo não parou
+
+- Versão 1.1 canonizada por aprovação humana explícita, fonte 41d5749; corpo narrativo integralmente preservado (2348 segmentos).
+- Auditoria A–N e cinco gates especiais PASSAM; P0/P1 restantes zero. Calibragem da negociação de saída/consentimento aceita como preferência não bloqueadora, sem revisão.
+- Somente fatos concretizados promovidos ao Log: instituição em atividade própria, três faces funcionais, busca familiar ativa sem resultado, limites de conhecimento e consentimento, tarefas de Maya sem reparação da confiança, primeiro eco mundano de Marcelo, condição física limitada e Livro sem exame/resposta.
+- Elisa apenas anunciada para próxima avaliação. Estado do Projeto v1.24: capítulos 1–13 fechados, nenhum capítulo pendente, Capítulo 14 não iniciado. Auditorias acumuladas anteriores preservadas; próximo marco após o 15.

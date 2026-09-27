@@ -2,17 +2,17 @@
 id: livro1-cap13-auditoria
 tipo: auditoria
 schema_version: 1.1
-status: PROVISÓRIO
+status: CANON
 tags: [livro-1, capitulo-13, auditoria]
 ---
 
 # Capítulo 13 — O mundo não parou — Auditoria
 
-27/09/2026. Base canônica **9c877a7**; cartão/gate **3ad65da**; primeira versão **6bf4e2c**. Manuscrito v1.1 **PROVISÓRIO**, 2348 palavras por segmentos separados por espaço no corpo, conforme convenção atual. Não canonizado. Fontes superiores, capítulos 1–12 e auditorias acumuladas preservados. Fatos abaixo são candidatos à continuidade, não fatos promovidos ao Log.
+27/09/2026. Base canônica **9c877a7**; cartão/gate **3ad65da**; primeira versão **6bf4e2c**. Manuscrito v1.1 **CANON / FECHADO**, aprovado explicitamente em 27/09/2026, fonte 41d5749, sem alteração do corpo narrativo: 2348 palavras por segmentos separados por espaço no corpo. Fontes superiores, capítulos 1–12 e auditorias acumuladas preservados. Somente fatos concretizados aprovados promovidos ao [[Livro 1 - Log de Continuidade]].
 
 ## Resultado — PASSA
 
-**P0 restantes = 0; P1 restantes = 0.** Auditoria A–N e cinco gates especiais concluídos. P2 possível: calibrar a extensão da negociação sobre saída/consentimento caso o autor prefira uma passagem institucional mais breve. Não bloqueia: o conflito concretiza três funções distintas sem aula ou exame antecipado.
+**P0 restantes = 0; P1 restantes = 0.** Auditoria A–N e cinco gates especiais concluídos. Calibragem da negociação sobre saída/consentimento aceita pelo autor como preferência editorial não bloqueadora; nenhuma revisão adicional. O conflito concretiza três funções distintas sem aula ou exame antecipado.
 
 ## Auditoria A–N
 
@@ -84,9 +84,9 @@ O mundo sobrenatural já é ordinário para os demais pela integração de relat
 - Menção ao nome no Livro convertida em lembrança do ato de escrever, evitando alegação nova sobre estado da página ou regra de tinta.
 - P0 encontrados: zero. P0/P1 restantes: zero. Nenhuma revisão estrutural ou alteração do Outline.
 
-## Fatos candidatos à continuidade — NÃO PROMOVIDOS
+## Fatos aprovados e promovidos ao Log de Continuidade
 
-| Campo | Concretização provisória e limite |
+| Campo | Concretização aprovada e limite |
 |---|---|
 | Tempo | Noite fragmentada até primeira manhã após 12; sem hora exata ou diagnóstico temporal. |
 | Corpo/roupa | Curativo trocado, camisa azul, dor ao apoiar cotovelo e mover-se, cadeira/ajuda, palidez/suor ao permanecer fora. Sem cura, alta ou nova lesão. |
@@ -102,6 +102,6 @@ O mundo sobrenatural já é ordinário para os demais pela integração de relat
 
 ## Gate pós-escrita — PASSA
 
-Função, causalidade, personagens, poder, informação, emoção, prosa e estados conferidos. Fatos novos listados somente nesta auditoria. Nenhum fato do 13 canonizado; Log recebe apenas estado administrativo do ciclo. Capítulo 14 não iniciado. Auditorias acumuladas 1–5 e 1–10 preservadas, próximo marco após o 15.
+Função, causalidade, personagens, poder, informação, emoção, prosa e estados conferidos. Somente fatos concretizados aprovados promovidos ao Log, preservando fato, inferência e desconhecido. Corpo narrativo conferido integralmente contra 41d5749 e preservado. Capítulo 14 não iniciado. Auditorias acumuladas 1–5 e 1–10 preservadas, próximo marco após o 15.
 
-**AGUARDANDO APROVAÇÃO DO CAPÍTULO.**
+**CANON / FECHADO. Produção parada após o Capítulo 13.**

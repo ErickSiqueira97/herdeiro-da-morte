@@ -356,6 +356,36 @@ Caio continua fisicamente limitado; avaliação e limpeza não constituem alta o
 | Relação | “Eu perdi o rastro” / “Você prometeu” / “Eu sei”. Confiança rompida; necessidade de ajuda não equivale a absolvição, romance ou garantia de reencontro. |
 | Saída | Marcelo morto; Helena/Lívia desaparecidas, não confirmadas mortas; Maya sem rota confiável. Caio no Santuário, ferido, telefone à espera e Livro silencioso. Busca sem resultado, nenhum início do 13. |
 
+### Capítulo 13 — O mundo não parou — v1.1
+
+**CANON / FECHADO em 27/09/2026**, por aprovação humana explícita. Fonte: [[13 - O mundo não parou]], versão aprovada no commit 41d5749, sem alteração do corpo narrativo (2348 segmentos). [[Capítulo 13 - Auditoria]]: A–N e gates mundo que continua, três faces, família, Maya e exposição PASSAM; P0/P1 restantes zero. Calibragem da negociação sobre saída/consentimento aceita como preferência editorial não bloqueadora, sem nova revisão.
+
+#### Proteções explícitas e limites de conhecimento
+
+- Santuário já funciona independentemente de Caio: retornos, atendimento, descanso, abastecimento, arquivo e reparo material mantêm prioridades próprias. Não vira escola, cenário de recepção ou lar emocional conquistado.
+- Caio mantém Helena, Lívia e Marcelo como prioridade. Busca ativa: último ponto distribuído, verificação nas entradas solicitada, fotografia encaminhada; nenhum novo resultado. Irene pede notícia do atendimento à casa, ainda sem resposta.
+- FATO atribuído a Maya: último avistamento das duas vivas, juntas e falando junto à guarita. INFERÊNCIA de Caio: alguém as tirou dali. DESCONHECIDO: responsável, método, localização e estado atual. Raul não confirma que tenham saído com alguém. Nenhuma evidência nova de morte ou sobrevivência posterior.
+- Raul representa risco/sobrevivência e limita circulação nas saídas; Irene preserva direção/autonomia e consentimento sem criar direito aos recursos alheios; Beatriz pede evidência e aceita adiamento. Não há exame da Marca ou Livro nem diagnóstico de identidade.
+- Maya tem obrigações próprias: corrige relato e horário pelo aparelho e assume responder pelos disparos contra antigos colegas. Sem sanção definitiva ou estrutura superior revelada; cooperação não repara confiança.
+- Primeiro eco mundano de Marcelo: dois parafusos dentro da tampa de pote durante reparo, arruela e reação breve de Caio. Sem flashback, explicação do vínculo, voz moral ou substituição de Marcelo por Raul.
+- Marcelo permanece morto. Livro fechado, físico, sem resposta, abertura, teste, exame ou nova escrita. A lembrança do nome escrito não estabelece regra de tinta.
+- Caio continua com dor e mobilidade limitada, precisa de ajuda/cadeira e apresenta palidez/suor. Elisa apenas anunciada para próxima avaliação; nenhum atendimento dela, poder ou conteúdo do Capítulo 14 iniciado.
+
+
+| Campo | Concretização aprovada e limite |
+|---|---|
+| Tempo | Noite fragmentada até primeira manhã após 12; sem hora exata ou diagnóstico temporal. |
+| Corpo/roupa | Curativo trocado, camisa azul, dor ao apoiar cotovelo e mover-se, cadeira/ajuda, palidez/suor ao permanecer fora. Sem cura, alta ou nova lesão. |
+| Objetos | Maya deixou mochila aos pés do leito. Livro fechado vai nela até corredor e retorna à mesa; telefone acompanha Caio. Nenhuma abertura, nova escrita ou resposta. |
+| Espaço | Enfermaria, corredor contíguo com banco e porta para pátio. Não se fixa planta completa ou novo setor canônico. |
+| Família | Foto recente de Helena/Lívia enviada por Caio ao contato já estabelecido; encaminhamento à equipe confirmado. Nenhum contato bem-sucedido com elas. Pedido sobre atendimento à casa pendente. |
+| Irene | Direção; garante consentimento e não condiciona busca a permanência/exame. Solicita conferir atendimento na casa e promete avisar se vier resposta. |
+| Raul | Campo; recebe retornos, coordena verificação familiar, limita circulação nas saídas e mantém veículo em tarefa anterior. Nenhuma prisão ou proibição permanente de saída. |
+| Beatriz | Arquivo/Pesquisa; conhece relato de Maya, solicita exame, aceita adiamento. Nenhuma leitura de assinatura ou conclusão sobre objeto. |
+| Maya | Curativo novo, mesma calça; corrige sequência/horário pelo telefone e responde por disparos contra colegas. Sem sanção definida, novo destino ou confiança reparada. |
+| Vida própria | Feridos de outra ocorrência, conservação de bota, controle de descanso, pão pedido na folha errada, volume emprestado e carrinho em reparo. Anônimos; não criam elenco recorrente obrigatório. |
+| Saída | Caio de volta à cama, Livro/telefone à mesa, conversa de Lívia aberta; come um pedaço de pão. Avaliação com Elisa combinada, não realizada. |
+
 ## Estado do ciclo
 
-Capítulos 1 e 2 v1.2 e Capítulos 3–12 v1.1 CANON / FECHADOS. **Capítulo 13 — O mundo não parou, v1.1 PROVISÓRIA: AGUARDANDO APROVAÇÃO DO CAPÍTULO.** Base 9c877a7; cartão/gate 3ad65da; primeira versão 6bf4e2c. Auditoria A–N e cinco gates especiais PASSAM, P0/P1 restantes zero. Fatos candidatos registrados somente em [[Capítulo 13 - Auditoria]], sem promoção neste Log. Auditorias acumuladas 1–5 e 1–10 preservadas e encerradas; próximo marco após o 15. Capítulo 14 não iniciado. Produção parada.
+Capítulos 1 e 2 v1.2 e Capítulos 3–13 v1.1 CANON / FECHADOS. Sem capítulo pendente de aprovação. Auditorias acumuladas 1–5 e 1–10 preservadas e encerradas; próximo marco após o 15. **Capítulo 14 não iniciado. Produção parada.**
