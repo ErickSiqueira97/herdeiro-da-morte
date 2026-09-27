@@ -448,7 +448,7 @@ relacoes:
 **POV:** Caio  
 **Função:** maravilhamento e ética ecológica.
 
-**Premissa causal:** não é missão de combate “para Caio”. Ele acompanha saída controlada/observação por razão limitada aprovada por Raul, ou a ocorrência cruza rota segura.
+**Premissa causal:** não é missão de combate para Caio. Raul autoriza uma saída controlada de observação, sem função de combate, para comparar em campo uma característica perceptiva relatada por Caio que os instrumentos registraram apenas de forma incompleta. Maya acompanha por já conhecer a anomalia perceptiva; Lucas integra a saída por função operacional própria.
 
 **Sequência:**
 - Maya e Lucas presentes.
@@ -475,13 +475,13 @@ relacoes:
 - Caio pressiona para acessar material/seguir pista que Beatriz/Raul ainda não liberaram.
 - Recebe “não” por motivo real.
 - Em vez de aceitar, usa acesso indireto/insistência para forçar análise.
-- Não é crime monstruoso; consequência concreta: contamina cadeia de custódia, desloca equipe ou faz Maya perder tempo numa pista sem base.
+- A insistência tem consequência concreta: Caio convence Maya a verificar uma correlação insuficiente com Helena e Lívia. A pista não se sustenta e consome uma janela operacional; durante a ausência dela, uma trilha secundária real esfria a ponto de Perseguição não conseguir retomá-la. Nunca confirmar que essa trilha levaria à família.
 - Samira analisa evidência antiga relacionada e encontra duas explicações incompatíveis.
 - Pressionada por Campo:
   > — Não é possível concluir.
 - A decisão irrita Caio porque ele quer ação.
 - Um detalhe mostra que a insistência dele existia antes de qualquer Fúria.
-- Eco de Marcelo: frase/hábito ou Raul toma decisão que lembra o pai; Caio rejeita comparação.
+- Segundo eco de Marcelo: Raul separa em voz alta o que sabem, o que supõem e o custo de estarem errados, método que Marcelo usava em decisões domésticas. Caio reconhece a lógica do pai e rejeita emocionalmente a comparação, sem flashback completo.
 
 **Mudança:** primeira falha pequena de Caio custa algo.
 
@@ -497,7 +497,7 @@ relacoes:
 - Múltiplas criaturas convergem/deslocam-se por região urbana/periférica.
 - Aparência inicial: invasão.
 - Santuário precisa evacuar, observar, conter pontos de alta Aderência.
-- Caio está presente por consequência do alerta/posição e recebe função limitada, não liderança.
+- A Procissão começa enquanto Caio, Raul, Maya e Lucas retornam da saída controlada; a evacuação alcança a rota antes de o grupo voltar ao Santuário. Raul não leva Caio à crise: a crise alcança o grupo. Como já está no perímetro, Caio recebe função inicialmente de baixo risco — orientar civis por rota limpa, retransmitir informação e observar o padrão que motivou a saída — sem assumir liderança.
 - Elisa trabalha triagem/sustentação.
 - Maya rastreia movimento.
 - Lucas atua fisicamente na proteção/evacuação sem definição cosmológica adicional.
