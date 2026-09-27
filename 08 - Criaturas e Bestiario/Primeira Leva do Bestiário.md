@@ -61,3 +61,65 @@ A identidade dessa criatura permanece em aberto.
 - folclore real exige pesquisa antes de adaptação definitiva;
 - missões com criaturas devem alterar personagens, informação, relações ou trama;
 - o bestiário não será estruturado como sequência de “monstros da semana”.
+
+
+## Ritmo de encontros ao longo da trilogia
+
+O bestiário deve permanecer presente sem transformar a saga em uma sequência de combates episódicos.
+
+Direção canônica de ritmo:
+
+| Livro | Encontros relevantes com criaturas | Batalhas completas | Função dominante |
+|---|---:|---:|---|
+| Livro 1 | 7–8 | 3–4 | descoberta e aprendizado |
+| Livro 2 | 5–7 | cerca de 3 | instabilidade e consequências |
+| Livro 3 | 3–5 | 2–3 | colapso do Véu e integração à guerra maior |
+
+A trilogia mira aproximadamente **18–20 encontros relevantes** com criaturas e **8–10 batalhas completas**. Os números são parâmetros narrativos, não obrigação matemática de outline; podem variar se ritmo e causalidade exigirem.
+
+### Livro 1
+O bestiário tem maior presença porque Caio está descobrindo o mundo sobrenatural. Os encontros devem variar entre perseguição, primeira batalha de Aderência, investigação/horror, contenção ou resgate, contato com criatura inteligente, caçada invertida e grande ocorrência coletiva.
+
+A sequência deve inicialmente permitir que Caio e o leitor suponham que “Santuário → missão → criatura → luta” é a estrutura da história, para depois romper essa expectativa quando Ares, Hereges, a falsa Seshat, a família e o Livro assumirem progressivamente o centro.
+
+### Livro 2
+A quantidade de confrontos isolados diminui. Criaturas passam a integrar diretamente conflitos maiores: deslocamentos territoriais, Remanescentes, Hereges, informações históricas e alterações de Aderência.
+
+A leitura muda de “criaturas estão causando uma crise” para a possibilidade de que **criaturas estejam reagindo à crise**.
+
+### Livro 3
+Missões isoladas de caça deixam de ser apropriadas ao ritmo. Criaturas aparecem dentro do colapso geral do Véu, da guerra e das consequências das manifestações divinas.
+
+O foco passa a incluir migração, exposição pública, alianças, fuga, seres Vinculados escolhendo posições e retorno de criaturas anteriormente protegidas/encontradas.
+
+## Formas de confronto
+Encontro com criatura não equivale a batalha. O repertório deve incluir:
+- caçada;
+- perseguição;
+- fuga;
+- contenção;
+- resgate;
+- investigação;
+- conflito territorial;
+- negociação;
+- proteção da própria criatura;
+- predação entre criaturas;
+- migração;
+- surto Mitogênico;
+- desequilíbrio ecológico.
+
+## Encontros de personagem
+Cada protagonista central deve possuir ao menos um encontro com criatura que pressione sua identidade, falha ou modo de usar poder, sem exigir batalha solo.
+
+- **Maya:** Perseguição confrontada por criatura capaz de tornar rastros não confiáveis, exigindo competência além da Autoridade.
+- **Elisa:** Florescer diante de existência cuja relação com vida biológica não é evidente.
+- **Samira:** evidência presente contradizindo séculos de arquivo, pressionando sua relação com registro e verdade.
+- **Lucas:** condição de aprisionamento/rota em que romper a limitação possa também libertar algo perigoso; a execução depende da futura resolução cosmológica de Insurgência.
+- **Caio:** progressiva destruição da associação “criatura = monstro / humano = vítima”.
+
+## Foreshadowing do Livro
+Uma criatura morta por Caio não produz registro de Autoridade. Em contraste, uma morte humana/divina válida pode produzir:
+
+> **REGISTRO CONCLUÍDO**
+
+A diferença deve funcionar como pista precoce de que o propósito do Livro nunca foi recompensar Caio por caçar monstros.
