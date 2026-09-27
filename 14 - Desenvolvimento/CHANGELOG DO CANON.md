@@ -703,3 +703,14 @@ Primeira consolidação do Vault.
 - Encerramento mantém prioridade humana: “Agora eu encontro minha família.”
 - Fechamento temático: Caio não conquista resolução; conquista agência. Essa agência já foi usada tanto para preservar uma vida quanto para remover uma possibilidade de sobrevivência.
 - Pergunta de saga reforçada: “Até onde ele irá para impedir um Fim que se recusa a aceitar?”
+
+
+## 27/09/2026 — Auditoria horizontal geral do Livro 1
+- Fechada a auditoria vertical dos cinco movimentos v2.0 e criada a Auditoria Geral de Melhoria do Livro 1.
+- Macroarquitetura aprovada sem necessidade de reconstrução.
+- Principal risco restante identificado como densidade de vida, distribuição de informação e continuidade emocional, não cosmologia.
+- Auditados horizontalmente Caio, Marcelo, Helena/Lívia, Maya, Nádia, Elisa, Samira, Lucas, Santuário, Ares, Hereges, Morte e Livro.
+- Formalizadas progressões de exposição, mistério de Seshat, releitura, setup/payoff, ritmo, humor, maravilhamento e romance.
+- Definidas cadeias mecânicas que precisam ser concretizadas antes do outline: desaparecimento Helena/Lívia e morte causal de Nádia.
+- Fixadas dez melhorias obrigatórias antes do outline e critérios de aprovação para a Arquitetura Definitiva v2.
+- Direção editorial: o próximo salto de qualidade deve vir de vida, especificidade e execução, não da adição de nova mitologia.
