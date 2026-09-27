@@ -345,3 +345,78 @@ O desaparecimento de Helena e Lívia torna-se também parte do arco pessoal de M
 Isso conversa diretamente com sua contradição central: Maya não sabe abandonar aquilo que decidiu que importa.
 
 A progressão temática deve preservar a diferença entre **não abandonar** e **não aceitar o irreversível**. A virtude de Caio pode se deformar ao longo da trilogia até ele confundir aceitar uma perda com abandonar uma pessoa.
+
+
+## Segunda morte de Caio — CANON
+
+A criatura responsável pela segunda morte de [[Caio Valença]] é o [[Rasga-Véu]].
+
+O Rasga-Véu não se aproxima originalmente para devorar Caio. Ele percebe uma incongruência na existência do jovem: Caio está vivo, mas sua alma carrega a consequência metafísica de já ter alcançado um Fim verdadeiro na infância. A criatura não compreende a Morte, a Cicatriz da Alma ou o significado cosmológico disso; reage instintivamente a uma presença impossível de classificar.
+
+Maya interpreta inicialmente a aproximação como caça.
+
+Quando [[Maya Ferraz]] interfere diretamente, sua Marca e Autoridade constituem uma presença sobrenatural muito mais legível para a criatura. O confronto escala e Maya fica em perigo.
+
+Maya manda Caio correr. Ele obedece inicialmente, olha para trás, percebe que ela ficou em risco e retorna. A essência do diálogo deve preservar:
+
+> — Eu mandei você correr!
+>
+> — **Você ficou.**
+
+Caio não desperta poder nem derrota a criatura. Usa o ambiente de maneira mundana para chamar sua atenção e criar uma oportunidade para Maya. Para atacar fisicamente, o Rasga-Véu aumenta sua Aderência e se torna tocável, demonstrando pela primeira vez em ação a regra: **para tocar o mundo, precisa aceitar ser tocado por ele**.
+
+Caio consegue alterar a trajetória do confronto e permitir a sobrevivência/reação de Maya, mas sofre trauma físico fatal, preferencialmente torácico. Maya afasta a criatura e chega até ele antes da morte.
+
+A redação definitiva permanece para o capítulo, mas a cena deve evitar discurso heroico prolongado. Caio morre ainda humano, tendo escolhido retornar por alguém.
+
+## Encontro com a Morte e falsa Sucessão — CANON
+
+Após a morte, Caio encontra uma mulher que lhe causa sensação inexplicável de familiaridade. Ele não recupera conscientemente a memória da infância.
+
+A primeira fala da Morte é:
+
+> **— Demorou.**
+
+No Livro 1, a frase pode ser entendida como comentário sobre sua chegada à morte/encontro com a suposta deusa. Posteriormente será recontextualizada: Morte o reconhece desde a morte infantil.
+
+Caio confirma que morreu e imediatamente pergunta por Maya e pela família. Ao saber que estão vivos, quer retornar. Sua reação já expressa a incapacidade de aceitar o irreversível.
+
+A Morte apresenta a Succession de forma parcialmente verdadeira: deuses podem escolher humanos para carregar expressão de sua natureza. Ela conduz Caio à crença de que é Seshat sem exigir que a narração minta.
+
+A formulação central deve preservar a ideia:
+
+> **O nome que importa para você é Seshat.**
+
+Morte pode mentir diretamente; a narração não. Sempre que possível, porém, a cena usa verdades incompletas, omissões e formulações de duplo sentido.
+
+A Morte apresenta o Livro como parte da possibilidade de retorno. Caio pergunta por que foi escolhido. A resposta aparente aponta para sua decisão de voltar por Maya; a verdade profunda remonta à morte infantil e à Cicatriz da Alma.
+
+A essência do diálogo inclui:
+
+> — Qual é o preço?
+>
+> — **Continuar.**
+>
+> — Isso não é preço.
+>
+> — **Ainda não.**
+
+Caio recebe escolha real. Se recusar, seu Fim permanece. A Morte não controla sua decisão.
+
+Ele aceita retornar.
+
+A verdadeira Marca da Morte é estabelecida primeiro e não é compreendida por Caio. Em seguida, a Sobreposição reproduz a estrutura da antiga Marca de Seshat. A narração deve descrever apenas a experiência perceptível de Caio e pode usar a formulação conceitual **“alguma coisa foi escrita sobre ele”**, nunca afirmar falsamente que Seshat o marcou.
+
+O Livro aparece negro e inicialmente vazio. A Morte não fornece manual completo sobre sua função.
+
+O encontro deve permitir que o leitor goste/confie parcialmente na suposta Seshat. O afeto da Morte por Caio pode ser genuíno e coexistir com sua instrumentalização dele.
+
+Antes do retorno, a essência do callback pode preservar:
+
+> — Da próxima vez que alguém mandar você correr...
+>
+> — Eu corro.
+>
+> — **Mentiroso.**
+
+As linhas intermediárias permanecem sujeitas à prosa final. São canônicos os fatos, perguntas, omissões, duplos sentidos e callbacks estruturais, não cada formulação provisória.
