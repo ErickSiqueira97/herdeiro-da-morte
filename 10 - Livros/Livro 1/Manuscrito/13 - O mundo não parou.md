@@ -3,7 +3,7 @@ id: livro1-manuscrito-cap13
 tipo: capitulo
 schema_version: 1.1
 status: PROVISÓRIO
-versao: 1.0
+versao: 1.1
 tags: [livro-1, capitulo-13, manuscrito]
 ---
 
@@ -187,13 +187,13 @@ Do corredor veio uma mulher carregando uma pasta larga, com uma tira de tecido s
 
 — Me dá o nome de quem pediu, Beatriz. Eu falo com ele.
 
-A mulher passou-lhe uma folha e reparou em Caio. Olhou a mochila, depois a camisa fechada até onde ele conseguira.
+A mulher passou-lhe uma folha e reparou em Caio. Olhou a mochila, depois a camisa azul.
 
 — É o Caio?
 
 Irene confirmou. Beatriz acomodou a pasta no banco, tomando cuidado para não encostar na pessoa adormecida.
 
-— Eu cuido do arquivo e da pesquisa. Pedi para falar com você quando fosse possível. Recebi o relato sobre a marca e o livro. Quero examinar os dois.
+— Eu cuido do arquivo e da pesquisa. Pedi para falar com você quando fosse possível. Maya relatou a marca e o livro quando chegou. Quero examinar os dois.
 
 Caio puxou a mochila para mais perto do corpo. A borda pressionou seu peito e ele teve de soltá-la.
 
@@ -217,7 +217,7 @@ Ela abriu a pasta apenas para tirar uma folha em branco. As outras tinham numera
 
 — Ela pode? — Irene perguntou a Caio.
 
-Ele olhou para a própria manga. A marca estava escondida. Não queria desabotoar mais nada, tirar o livro, explicar a mulher, ouvir que precisava tentar de outro jeito. O nome do pai estava lá dentro. Não ia pôr aquilo no banco entre uma pasta e alguém dormindo.
+Ele olhou para a própria manga. A marca estava escondida. Não queria desabotoar mais nada, tirar o livro, explicar a mulher, ouvir que precisava tentar de outro jeito. Tinha escrito o nome do pai ali. Não ia pôr aquilo no banco entre uma pasta e alguém dormindo.
 
 — Agora não.
 
@@ -239,7 +239,7 @@ Raul tornou a olhar a folha que segurava.
 
 — Porque alguém tirou elas de lá.
 
-— Pode ter acontecido. Não tenho como afirmar quem saiu dali com elas.
+— Pode ter acontecido. Não sei se saíram com alguém.
 
 Caio sentiu vontade de arrancar o papel da mão dele. Estavam procurando e não sabiam. Sabiam perguntar e não sabiam responder.
 

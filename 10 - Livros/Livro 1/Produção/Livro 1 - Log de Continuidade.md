@@ -358,4 +358,4 @@ Caio continua fisicamente limitado; avaliação e limpeza não constituem alta o
 
 ## Estado do ciclo
 
-Capítulos 1 e 2 v1.2 e Capítulos 3–12 v1.1 CANON / FECHADOS. Sem capítulo pendente de aprovação. Auditorias acumuladas 1–5 e 1–10 preservadas e encerradas. **Capítulo 13 não iniciado. Produção parada.**
+Capítulos 1 e 2 v1.2 e Capítulos 3–12 v1.1 CANON / FECHADOS. **Capítulo 13 — O mundo não parou, v1.1 PROVISÓRIA: AGUARDANDO APROVAÇÃO DO CAPÍTULO.** Base 9c877a7; cartão/gate 3ad65da; primeira versão 6bf4e2c. Auditoria A–N e cinco gates especiais PASSAM, P0/P1 restantes zero. Fatos candidatos registrados somente em [[Capítulo 13 - Auditoria]], sem promoção neste Log. Auditorias acumuladas 1–5 e 1–10 preservadas e encerradas; próximo marco após o 15. Capítulo 14 não iniciado. Produção parada.
