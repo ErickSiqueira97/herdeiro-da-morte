@@ -159,3 +159,91 @@ Quatro elementos devem ser desenvolvidos em conjunto antes de fechar a cena:
 4. local e circunstância concreta do incidente.
 
 Esses pontos permanecem deliberadamente abertos e não devem ser preenchidos retroativamente sem nova decisão canônica.
+
+
+## Ponte canônica — segunda morte, invasão e chegada ao Santuário
+
+A criatura/fenômeno responsável pelo fim do Movimento I causa a **segunda morte de Caio**. A morte de [[Marcelo Valença]] ocorre depois e possui causa distinta: ele é morto deliberadamente por um Successor ligado à Elite de [[Ares]] durante a operação posterior ao retorno de Caio.
+
+### Movimento II — retorno
+Após morrer ao voltar para ajudar alguém, Caio encontra [[Morte]], recebe a falsa explicação de sucessão de Seshat, a Sobreposição/Marca e o Livro, e retorna.
+
+[[Maya Ferraz]] reencontra Caio vivo depois de tê-lo visto morto ou confirmado sua morte. A anomalia muda de natureza: o humano aparentemente sem Marca agora retornou da morte apresentando uma assinatura que, superficialmente, corresponde a Seshat.
+
+A magnitude da mudança torna impossível para Maya simplesmente manter o caso oculto. Ares é informado.
+
+### Escalada de Ares
+A sequência conhecida por Ares passa a ser:
+
+> humano anômalo sem Marca → morte → retorno → aparente Marca de Seshat.
+
+A investigação deixa de ser mera observação. Ares ordena que Caio seja recolhido/localizado para identificação, contenção se necessária e esclarecimento do ocorrido.
+
+**A ordem original não é exterminar Caio nem sua família.**
+
+### Operação na casa dos Valença
+Caio retorna para casa ainda sem compreender adequadamente Sucessão, Santuário, Ares ou a dimensão do que ocorreu.
+
+A Elite chega até os Valença para obter Caio.
+
+Marcelo interpreta a situação pelo que consegue observar: pessoas perigosas invadiram/ameaçam sua casa e pretendem levar seu filho. Ele reage e protege Caio.
+
+Marcelo consegue oferecer resistência real e pode atingir o Successor, apesar da disparidade sobrenatural.
+
+O Successor responsável pela escalada possui oportunidade de não matar Marcelo e **escolhe usar força letal**. A morte não é acidente, golpe perdido ou simples consequência de Marcelo entrar na frente.
+
+Assim, as responsabilidades permanecem distintas:
+- Ares ordena uma operação perigosa;
+- o Successor escolhe escalá-la para força letal;
+- Marcelo escolhe defender o filho;
+- Maya participa da cadeia que levou a Elite até Caio;
+- Caio passa a carregar a culpa subjetiva de ter trazido aquilo para casa.
+
+### Paralelo pai–filho
+As mortes de Caio e Marcelo espelham o mesmo valor por ameaças diferentes.
+
+Caio morre porque volta para alguém que ficou em perigo.
+
+Marcelo morre porque permanece entre o perigo e o próprio filho.
+
+O paralelo reforça que **não abandonar pessoas** não é apenas uma característica declarada de Caio, mas um valor vivido dentro de sua família.
+
+### Ruptura de Maya
+A morte deliberada de Marcelo é o ponto em que Maya considera que a operação ultrapassou o que estava disposta a cumprir.
+
+Ela rompe com a execução prática da missão e cria a oportunidade para Caio escapar. Caio não derrota sozinho Successores experientes imediatamente após despertar.
+
+A ruptura de Maya progride organicamente:
+1. observa Caio;
+2. suaviza informação no relatório;
+3. tenta impedir que a investigação o destrua;
+4. após a escalada letal, escolhe permitir/provocar sua fuga.
+
+A decisão não exige amor consolidado; nasce de consciência, vínculo crescente e rejeição à escalada.
+
+### Helena e Lívia
+[[Helena Valença]] e [[Lívia Valença]] escapam do núcleo imediato do confronto, mas são posteriormente interceptadas pela facção de Ares. Caio não recebe confirmação de suas mortes e, emocionalmente, passa a lidar com o desaparecimento como perda potencial.
+
+### Ponte para o Santuário
+Maya é a causa direta da rota de fuga que leva Caio ao [[Santuário]].
+
+Ela não precisa explicar todo o mundo sobrenatural no local do confronto. Pode fornecer endereço, rota, contato ou outro meio concreto de chegar à instituição; a forma operacional exata permanece aberta.
+
+Maya conhece o Santuário como instituição relevante do mundo dos Successores e sabe que seu princípio de autonomia — **“O Legado pertence ao deus. A escolha pertence ao homem.”** — oferece a Caio uma proteção institucional que dificulta que Ares simplesmente o recolha sem consequências políticas e sobrenaturais maiores.
+
+Caio chega ao Santuário sem confiar plenamente em Maya.
+
+### Leitura da Marca no Santuário
+Caio acredita ser Successor de Seshat porque essa foi a explicação dada pela Morte.
+
+A leitura superficial confirma a assinatura de Seshat. A leitura profunda encontra arquitetura espiritual incompatível/indeterminada, conforme a regra já estabelecida de A07.
+
+A explicação institucional inicialmente mais plausível associa a anomalia ao fato de Caio ter morrido e retornado. O teste não falha: a causa é interpretada incorretamente.
+
+### Consequência estrutural
+A entrada de Caio no Santuário não acontece por coincidência nem porque a instituição funciona como uma escola obrigatória do gênero.
+
+Ela é consequência direta de:
+Ares escalar a investigação → Elite ir à casa → Marcelo resistir → Successor matar Marcelo → Maya romper com a operação → Caio fugir → Maya direcioná-lo ao Santuário.
+
+Isso conecta organicamente os Movimentos II e III ao início da vida sobrenatural institucional de Caio.
