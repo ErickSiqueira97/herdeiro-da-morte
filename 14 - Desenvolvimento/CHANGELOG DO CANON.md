@@ -730,3 +730,17 @@ Primeira consolidação do Vault.
 - Elisa, Samira e Lucas recebem ações independentes e consequências próprias.
 - Mapa preliminar de pressão fechado em 32 capítulos como base de ritmo; ainda não é outline definitivo.
 - Próxima etapa: incorporação documental/limpeza e Arquitetura Definitiva v2.
+
+
+## 27/09/2026 — Fechamento da auditoria pré-Arquitetura Definitiva v2
+- Auditoria pré-fechamento aprovada integralmente e promovida a CANON.
+- Correções P0 passam a ser obrigatórias na consolidação da Arquitetura Definitiva v2.
+- Regras P1 passam a orientar o outline definitivo.
+- Diretora do Santuário será renomeada de Helena “Lena” Arantes para **Irene Arantes**, preservando ficha e função.
+- A morte de Nádia deverá tornar inequívoco que Caio sabe que esperar poucos segundos ainda permitiria sua fuga e fecha a comporta antes mesmo assim.
+- Confronto filosófico completo com Nádia será anterior ao colapso; a comporta usará callback curto.
+- Logística de coleta do Vestígio será plantada antes do payoff.
+- Investigação será distribuída entre Beatriz, Samira, Maya, Caio e Ares.
+- Interceptação completa de Helena/Lívia não será mostrada ao leitor no momento em que ocorre.
+- Encerramento será redistribuído para preservar a última prioridade humana de Caio.
+- Bíblia Canônica limpa: removida duplicação da regra de Registro e normalizada a formulação Expressão Sucessória → Fonte.
