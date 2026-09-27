@@ -41,15 +41,15 @@ Os percentuais medem prontidão estrutural e editorial, não quantidade de notas
 ## Estado editorial
 A macroarquitetura e o outline capítulo por capítulo do Livro 1 estão congelados em CANON. O [[Livro 1 - Outline Definitivo v1]] possui 32 capítulos e passou por auditoria integral, correções e verificação pós-correções. Não há pendência estrutural ativa que impeça a preparação da redação.
 
-**Estado do Livro 1: PRONTO PARA PACOTE DE PRODUÇÃO.** O próximo trabalho é transformar o cânone já fechado em um conjunto enxuto de referência para redação e preparar o prompt mestre/fluxo de produção capítulo por capítulo.
+**Estado do Livro 1: PRONTO PARA PRODUÇÃO DO CAPÍTULO 1.** O pacote operacional foi criado e auditado: Bíblia de Produção, Regras Invioláveis, Mapa de Revelações e Payoffs, Protocolo de Produção, Prompt Mestre e Auditoria Final. Não há P0/P1 aberto que impeça a redação.
 
 ## Próximos blocos
-1. Montar a **Bíblia concisa de produção do Livro 1**, contendo apenas o que a redação precisa consultar constantemente.
-2. Consolidar as **regras invioláveis de redação/continuidade**.
-3. Extrair o **mapa operacional de revelações, setups e payoffs** do outline canônico.
-4. Preparar o **prompt mestre para Codex/Word** e o protocolo capítulo → auditoria → revisão → canonização da prosa → próximo capítulo.
-5. Fazer uma auditoria final do pacote de produção para eliminar contradições e excesso de contexto.
-6. Iniciar a redação do capítulo 1 somente após esse gate.
+1. Iniciar o **Capítulo 1** pelo Protocolo de Produção.
+2. Auditar e revisar o capítulo antes de aprovação humana.
+3. Canonizar apenas os fatos concretizados na prosa aprovada.
+4. Atualizar o log de continuidade.
+5. Só então iniciar o Capítulo 2.
+6. Executar auditoria acumulada após o Capítulo 5.
 
 Ver [[EM ABERTO]] e [[PROCESSO]].
 
