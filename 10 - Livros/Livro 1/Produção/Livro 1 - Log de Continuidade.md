@@ -292,4 +292,4 @@ Caio continua fisicamente limitado; avaliação e limpeza não constituem alta o
 
 ## Estado do ciclo
 
-Capítulos 1 e 2 v1.2 e Capítulos 3–10 v1.1 CANON / FECHADOS. Sem capítulo pendente de aprovação. Auditoria acumulada 1–5 preservada e encerrada; [[Livro 1 - Auditoria Acumulada 01–10]] CANON / ENCERRADA, PASSA, P0/P1 restantes zero, sem divergência introduzida pelo fechamento do 10. **Capítulo 11 não iniciado. Produção parada.**
+Capítulos 1 e 2 v1.2 e Capítulos 3–10 v1.1 CANON / FECHADOS. Auditorias acumuladas 1–5 e 1–10 preservadas e encerradas, P0/P1 restantes zero. Capítulo 11 — Marcelo Valença v1.1 **PROVISÓRIO**, em **AGUARDANDO APROVAÇÃO DO CAPÍTULO**. Fatos novos somente em [[Capítulo 11 - Auditoria]], sem promoção ao Log. **Capítulo 12 não iniciado.**

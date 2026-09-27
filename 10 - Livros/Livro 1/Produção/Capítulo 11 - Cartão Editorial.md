@@ -53,3 +53,7 @@ Marcelo morto; Nádia viva; Caio ferido removido por rota diferente; Maya com He
 ## Gate pré-escrita — PASSA
 
 Repositório/branch/base/working tree compreendidos; anterior aprovado; leituras obrigatórias completas; cartão anterior à prosa; função, geografia de entrada, saída, regras e limites conhecidos. Defasagem de fichas resolvida pela hierarquia explícita, sem alteração silenciosa. Nenhum P0/P1 impeditivo identificado. Produzir somente 11 PROVISÓRIO; depois auditoria A–N e gates Marcelo, Nádia, Livro, separação e continuidade física, com correção de todos os P0/P1 antes da entrega.
+
+## Conferência após a revisão v1.1
+
+O gate pré-escrita permanece válido. A execução especifica auxílio do vizinho solicitado por Helena/Lívia antes da entrada; carro na margem oposta da rua de trás e portão lateral junto à passagem, ambos preparados por telefonema. Terceiro invasor contorna por ordem ouvida e corta a travessia depois de Caio ser embarcado; Maya permanece com as duas e usa o acesso lateral. Nenhum poder ou nova organização foi necessário. Alternativa não letal materializada pela contenção estável de Marcelo e pela tira aberta/oferta do colega de assumir sua guarda. Promessa canônica posterior à morte e ao silêncio do Livro. Ver [[Capítulo 11 - Auditoria]]; P0/P1 restantes zero. Nenhum desses fatos foi canonizado.

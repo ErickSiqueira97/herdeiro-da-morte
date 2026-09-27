@@ -3,7 +3,7 @@ id: livro1-manuscrito-cap11
 tipo: capitulo
 schema_version: 1.1
 status: PROVISÓRIO
-versao: 1.0
+versao: 1.1
 tags: [livro-1, capitulo-11, manuscrito]
 ---
 
@@ -39,7 +39,7 @@ Helena continuava ao telefone, repetindo que já tinham entrado pelo portão. Co
 
 — Liga pro vizinho. Pede pra abrir e ajudar seu irmão. Pelo fundo, fala.
 
-Lívia apoiou a bolsa da mãe no ombro e procurou o contato no próprio aparelho. Caio tentou passar por ela.
+Lívia apoiou a bolsa da mãe no ombro e procurou o contato no próprio aparelho. Pediu que o vizinho trouxesse o carro à rua de trás e deixasse aberto o portão lateral da casa dele, junto à passagem. Caio tentou passar por ela.
 
 — Eu consigo andar.
 
@@ -47,7 +47,7 @@ Helena segurou sua camisa, longe do curativo.
 
 — Então anda pra lá.
 
-Uma pancada curta sacudiu a porta. Não foi um chute. Caio viu o batente afastar-se da parede junto à fechadura, devagar, enquanto a madeira rangia. Marcelo tirou a mão que havia posto no móvel. Deixou espaço para a folha abrir.
+Uma pancada curta sacudiu a porta, seguida de pressão contínua. Caio viu o batente afastar-se da parede junto à fechadura, devagar, enquanto a madeira rangia. Marcelo tirou a mão que havia posto no móvel. Deixou espaço para a folha abrir.
 
 Maya chegou a dizer o começo de alguma coisa. O batente cedeu.
 
@@ -83,7 +83,7 @@ O homem entrou pela abertura que sobrara e segurou Marcelo pelo ombro. Maya puxo
 
 — Não encosta nele.
 
-O homem reconheceu quem o segurava antes de reagir. Por um instante, ficou olhando para Maya. Depois tirou a mão dela de seu casaco.
+O homem voltou o rosto para quem o segurava. Por um instante, ficou olhando para Maya. Depois tirou a mão dela de seu casaco.
 
 — Você está fazendo o quê?
 
@@ -231,19 +231,19 @@ Helena levou a mão à camisa de Marcelo. Ficou ali por um segundo, com os dedos
 
 — Me ajuda a tirar sua irmã daqui.
 
-Ele não conseguiu se levantar de primeira. A mãe passou seu braço pelos próprios ombros; Lívia pegou a mochila e o caderno, deixando a caneta no chão. O livro continuava aberto na mão de Caio. Ele o segurava pela capa, sem olhar onde pisava.
+Ele não conseguiu se levantar de primeira. A mãe passou seu braço pelos próprios ombros; Lívia guardou o caderno na mochila e a pegou, deixando a caneta no chão. O livro continuava aberto na mão de Caio. Ele o segurava pela capa, sem olhar onde pisava.
 
 Maya recuou pelo corredor depois deles, com o arco apontado para a sala. Uma tentativa de avanço do homem a fez parar e puxar a corda de novo. Ele se escondeu atrás da parede.
 
 Caio perdeu o pai de vista quando Helena o levou para a área de serviço.
 
-Uma camiseta molhada roçou seu rosto. Lívia afastou o varal e abriu a passagem. No fundo, o portão dava para o caminho estreito até a outra rua. O vizinho esperava ao fim, junto ao carro com a porta traseira aberta.
+Uma camiseta molhada roçou seu rosto. Lívia afastou o varal e abriu a passagem. No fundo, o portão dava para o caminho estreito até a outra rua. O vizinho esperava ao fim. Seu carro estava do outro lado da rua, com a porta traseira aberta. O portão lateral que Lívia pedira estava encostado, poucos passos antes da calçada.
 
 — Vem. Eu ajudo.
 
-Entrou na passagem para receber Caio. Helena transferiu o peso do filho para o ombro dele e voltou dois passos para Lívia, que tinha prendido a alça da bolsa num prego do portão. Desenganchou-a com um puxão.
+Entrou na passagem para receber Caio. Lívia lhe passou a mochila; ele a pôs no ombro livre enquanto Helena transferia o peso do filho para o outro. A mãe ficou com Lívia junto ao portão, segurando a folha para Maya passar com o arco. Maya ainda cobria o caminho de onde tinham vindo.
 
-O homem levou Caio até o banco de trás. Ele sentou de lado, com os pés ainda no chão. Tinha visto aquele carro muitas vezes estacionado ali; agora não sabia onde apoiar o livro sem fechá-lo.
+O homem atravessou a rua sustentando Caio, deixou a mochila no banco e o ajudou a sentar ao lado. Caio ficou com os pés ainda no chão. Tinha visto aquele carro muitas vezes estacionado ali; agora não sabia onde apoiar o livro sem fechá-lo.
 
 Maya chegou à boca da passagem. Helena e Lívia vinham atrás dela.
 
@@ -251,7 +251,7 @@ Na esquina, alguém correu para dentro da rua.
 
 — Ali! — gritou.
 
-Caio reconheceu a direção de onde vinha: a frente de sua casa, pelo contorno do quarteirão. A terceira pessoa deixara o carro.
+Caio reconheceu a direção de onde vinha: a frente de sua casa, pelo contorno do quarteirão. Devia ser a pessoa que ficara no carro.
 
 Maya empurrou Helena de volta para trás do muro. O vizinho se abaixou junto à porta aberta. Um disparo arrancou pó do canto da passagem, acima do ombro dela.
 
@@ -259,7 +259,7 @@ Maya respondeu com uma flecha. A pessoa na esquina recuou para trás de um veíc
 
 Helena tentou sair do caminho para chegar ao filho. Maya a segurou.
 
-— Ele está olhando o carro. Por aqui vocês ficam na frente dele.
+— Não atravessa. Ele está esperando vocês saírem do muro.
 
 Lívia puxou a mãe para dentro. O arco passou diante das duas quando Maya tornou a mirar a esquina.
 
@@ -267,7 +267,7 @@ Caio pôs um pé fora do carro. A perna não sustentou o peso; ele ficou agarrad
 
 — Vem com elas!
 
-Maya recuou até ele por trás da lataria, sem baixar a arma. Da passagem, Helena podia ouvi-los.
+Maya ficou na boca da passagem, do outro lado da rua, com a flecha apontada para o veículo atrás do qual o homem se escondera.
 
 — Eles vieram por você, Caio.
 
@@ -275,11 +275,11 @@ Maya recuou até ele por trás da lataria, sem baixar a arma. Da passagem, Helen
 
 — Eu tiro as duas daqui.
 
-Ele olhou a ponta da flecha. Era a mesma mão que segurara o telefone para mandar suas informações.
+Caio viu o arco se mover quando ela ajustou a posição. Aquela mão segurara o telefone para mandar suas informações.
 
 — Por quê?
 
-Maya olhou para ele.
+Maya respondeu sem tirar os olhos da esquina.
 
 — Porque você voltou por mim. Agora deixa eu voltar por você.
 
@@ -287,19 +287,21 @@ Da passagem, Helena chamou seu nome. Não pedia que saísse do carro.
 
 — Vai. Eu estou com a Lívia.
 
-Caio procurou a irmã por cima do ombro de Maya. Viu sua mão fechada na alça da bolsa, os dedos brancos. Lívia fez um gesto para que tirasse o pé do chão.
+Caio procurou a irmã atrás de Maya. Lívia apareceu apenas o suficiente para fazer um gesto: que ele tirasse o pé do chão. Recolheu-se junto da mãe.
 
 — Promete? — perguntou a Maya.
 
 — Prometo.
 
-Ela falou ao motorista, indicando que seguisse para longe da esquina e parasse no posto duas ruas adiante. O homem assentiu sem se virar.
+O homem na esquina se deslocou atrás do veículo. Maya acompanhou-o com a ponta da flecha e gritou ao motorista que seguisse para longe dali e parasse no posto duas ruas adiante.
 
-Maya ajudou Caio a recolher a perna e fechou a porta. Tornou a erguer o arco antes que a pessoa na esquina saísse de trás do veículo.
+— Fecha, menino — disse o vizinho.
+
+Caio precisou puxar a própria calça para recolher a perna. A porta se fechou na segunda tentativa.
 
 O carro arrancou. A curva da rua tirou a esquina da linha de visão do motorista. Caio tentou se virar no banco; o peito o fez apoiar a mão no assento e procurar um ângulo menor.
 
-Pelo vidro traseiro, viu Maya alcançar Helena e Lívia. As três passaram rente ao muro, para o lado oposto ao que o carro tomava. Lívia segurava a mão da mãe. Maya ia atrás delas, voltada para a esquina.
+Pelo vidro traseiro, viu Lívia empurrar o portão lateral do vizinho e passar com Helena. Maya recuou atrás das duas, ainda voltada para a esquina, e desapareceu pelo mesmo acesso. O carro de Caio já se afastava pela rua.
 
 Caio quis pedir ao vizinho que esperasse. Sentiu o livro escorregar e o prendeu contra a perna.
 

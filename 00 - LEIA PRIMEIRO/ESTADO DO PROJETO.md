@@ -19,7 +19,7 @@ relacoes:
     tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-versao: 1.18
+versao: 1.19
 ---
 
 # Estado do Projeto
@@ -45,12 +45,15 @@ A macroarquitetura e o outline capítulo por capítulo do Livro 1 estão congela
 
 Caio continua fisicamente limitado; avaliação e limpeza não constituem alta ou cura. Marcelo, Helena e Lívia preservam tarefas, opiniões e decisões próprias. O cuidado do pai não resolve o atrito com Caio. A cooperação prática com Maya não repara a confiança rompida. Existe saída real pela área de serviço até a rua de trás, com corredor livre e ajuda oferecida; Caio escolhe conscientemente permanecer com a família, sem fuga ou extração concretizada. Marcelo interpreta uma ameaça humana, sem conhecer a natureza dos agentes. Família junta e Marcelo vivo no corte da maçaneta; nenhum combate, nova lesão ou morte.
 
-O pacote operacional continua vigente: Bíblia de Produção, Regras Invioláveis, Mapa de Revelações e Payoffs, Protocolo de Produção, Prompt Mestre e Auditoria Final. Capítulos 1 e 2 v1.2 e Capítulos 3–10 v1.1 CANON / FECHADOS. Sem capítulo pendente de aprovação. Auditoria acumulada 1–5 preservada e encerrada; [[Livro 1 - Auditoria Acumulada 01–10]] CANON / ENCERRADA, PASSA, P0/P1 restantes zero, sem divergência introduzida pelo fechamento do 10. **Capítulo 11 não iniciado. Produção parada.** Os percentuais históricos acima não foram recalculados neste fechamento.
+O pacote operacional continua vigente: Bíblia de Produção, Regras Invioláveis, Mapa de Revelações e Payoffs, Protocolo de Produção, Prompt Mestre e Auditoria Final. [[Livro 1 - Auditoria Acumulada 01–05]] e [[Livro 1 - Auditoria Acumulada 01–10]] preservadas e encerradas, P0/P1 restantes zero. Os percentuais históricos acima não foram recalculados.
+
+**Capítulo 11 — Marcelo Valença v1.1 PROVISÓRIO**, produzido e auditado em 27/09/2026 a partir da base canônica 1c86daf. 2485 palavras pela convenção atual. Cartão e gate pré-escrita PASSAM; auditoria A–N e gates Marcelo, Nádia, Livro, separação e continuidade física PASSAM, P0/P1 restantes zero. Fatos novos listados apenas em [[Capítulo 11 - Auditoria]], sem canonização. Preferência P2 não bloqueadora: extensão da troca final junto ao carro sob cobertura do arco. **AGUARDANDO APROVAÇÃO DO CAPÍTULO. Capítulo 12 não iniciado.**
 
 ## Próximos blocos
-1. Aguardar instrução humana para iniciar o ciclo do Capítulo 11.
-2. Não iniciar o Capítulo 11 neste fechamento; manter produção de um capítulo por vez.
-3. Preservar auditorias acumuladas 1–5 e 1–10 encerradas; próximo marco após o Capítulo 15.
+1. Aguardar aprovação humana do **Capítulo 11 — Marcelo Valença v1.1**.
+2. Somente após aprovação, canonizar a versão aprovada e promover fatos concretizados ao Log.
+3. Não iniciar o Capítulo 12 neste ciclo; manter produção de um capítulo por vez.
+4. Preservar auditorias acumuladas 1–5 e 1–10 encerradas; próximo marco após o Capítulo 15.
 
 Ver [[EM ABERTO]] e [[PROCESSO]].
 
