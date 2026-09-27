@@ -3,7 +3,7 @@ id: livro1-manuscrito-cap10
 tipo: capitulo
 schema_version: 1.1
 status: PROVISÓRIO
-versao: 1.0
+versao: 1.1
 tags: [livro-1, capitulo-10, manuscrito]
 ---
 
@@ -325,7 +325,7 @@ Maya mostrou a tela.
 
 *Permaneça no local. Vamos recolhê-lo.*
 
-Não havia nome visível. Caio leu a última palavra outra vez. Recolher era o que se fazia com as vasilhas, as ferramentas que o pai deixava no chão. Olhou para a sala.
+Não havia nome visível. Caio leu a última palavra outra vez, depois olhou para a sala.
 
 — Você passou o endereço?
 
@@ -342,6 +342,10 @@ Maya guardou o telefone.
 O pai olhou para ela e depois para o filho, esperando uma negativa. Caio não tinha uma.
 
 — Dá pra sair pelos fundos? — perguntou Maya a ele.
+
+— Pela área de serviço — disse Caio. — Tem uma passagem até a rua de trás.
+
+Maya olhou o corredor desimpedido e se moveu para ajudá-lo a levantar.
 
 Helena voltou com a bolsa.
 

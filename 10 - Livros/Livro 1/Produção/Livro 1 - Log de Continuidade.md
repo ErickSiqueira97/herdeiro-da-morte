@@ -267,4 +267,4 @@ A manifestação visual do arco segue integralmente o Outline canônico e não c
 
 ## Estado do ciclo
 
-Capítulos 1 e 2 v1.2 e Capítulos 3–9 v1.1 canonizados e fechados. Nenhum capítulo pendente de aprovação. Auditoria acumulada 1–5 encerrada. **Capítulo 10 não iniciado**; produção parada após este fechamento por instrução do autor.
+Capítulos 1 e 2 v1.2 e Capítulos 3–9 v1.1 canonizados e fechados. Capítulo 10 — Casa v1.1 PROVISÓRIA, em AGUARDANDO APROVAÇÃO DO CAPÍTULO. Fatos novos apenas em [[Capítulo 10 - Auditoria]], sem promoção canônica. Auditoria acumulada 1–5 encerrada; [[Livro 1 - Auditoria Acumulada 01–10]] PROVISÓRIA. **Capítulo 11 não iniciado**.
