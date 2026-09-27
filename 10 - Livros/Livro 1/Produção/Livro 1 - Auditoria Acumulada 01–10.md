@@ -2,7 +2,7 @@
 id: livro1-auditoria-acumulada-01-10
 tipo: auditoria
 schema_version: 1.1
-status: PROVISÓRIO
+status: CANON
 tags: [livro-1, auditoria-acumulada, capitulos-01-10]
 ---
 
@@ -10,9 +10,9 @@ tags: [livro-1, auditoria-acumulada, capitulos-01-10]
 
 ## Escopo e resultado
 
-27/09/2026. Marco obrigatório do Protocolo. Capítulos 1–9 CANON, base 08824e3; Capítulo 10 v1.1 PROVISÓRIO. Leitura acumulada nesta conversa dos manuscritos, Log vigente e auditoria 1–5; releitura integral de 1/6/7/8/9 neste ciclo, confrontada com o 10 e Outline 10–12. Nenhum capítulo canonizado foi alterado; preferências editoriais já aceitas não reabertas.
+27/09/2026. Marco obrigatório do Protocolo. Capítulos 1–10 CANON / FECHADOS. Base anterior 08824e3; Capítulo 10 v1.1 aprovado explicitamente, fonte 4ecd87d, canonizado sem alteração do corpo narrativo. Leitura acumulada nesta conversa dos manuscritos, Log vigente e auditoria 1–5; releitura integral de 1/6/7/8/9 neste ciclo, confrontada com o 10 e Outline 10–12. Nenhum capítulo canonizado foi alterado; preferências editoriais já aceitas não reabertas.
 
-**PASSA, com observações não bloqueadoras. P0/P1 restantes zero.** O resultado não aprova nem canoniza o Capítulo 10 e não autoriza o 11. A auditoria acumulada 1–5 continua encerrada, sem alteração retrospectiva.
+**PASSA, com observações não bloqueadoras. P0/P1 restantes zero.** Auditoria finalizada após aprovação humana e canonização do 10. Conferência do fechamento e da promoção ao Log sem divergência acumulada; nenhuma correção estrutural realizada. Não autoriza iniciar o 11. A auditoria acumulada 1–5 continua encerrada, sem alteração retrospectiva.
 
 ## Leitura acumulada
 
@@ -21,7 +21,7 @@ tags: [livro-1, auditoria-acumulada, capitulos-01-10]
 | Ritmo global | 1–2 constroem vida e custos; 3–4 relação/discrepância; 5 desloca conhecimento para leitor; 6 retoma vida e converte percepção em resposta da ameaça; 7 rompe; 8 suspende espaço e oferece escolha; 9 torna retorno corporal/relacional; 10 volta à rotina antes de ameaça concreta. Não são dez capítulos de suspense contínuo. |
 | Densidade de vida | Trabalho/estudo/dinheiro têm consequência em 1–2 e retomada no 6; projeto real e colegas de Maya em 3–5; no 10, varal, refeição, roupa e edição de vídeo independem de cosmologia. 7–9 concentram trauma sem apagar família como prioridade. |
 | Continuidade temporal | 1–3: mesmo dia. 4: seguinte. 5: dia posterior. 6: manhã seguinte e noite; 7–10 seguem dessa noite, sem hora exata ou duração externa do encontro pós-morte. Atendimento sumário e viagem cabem como transição, sem inventar dias de recuperação. |
-| Continuidade espacial/material | Casa e pia continuam; objetos cotidianos atravessam cenas. Mochila largada no 7 é recolhida no 9; Livro manifesta no 8, existe fisicamente no 9 e segue fechado dentro da mochila no 10. Curativos/roupa não apagam trauma. Nova passagem pelos fundos está explícita e aguarda aprovação, não extração já realizada. |
+| Continuidade espacial/material | Casa e pia continuam; objetos cotidianos atravessam cenas. Mochila largada no 7 é recolhida no 9; Livro manifesta no 8, existe fisicamente no 9 e segue fechado dentro da mochila no 10. Curativos/roupa não apagam trauma. Passagem real pelos fundos aprovada e registrada no Log; nenhuma extração já realizada. |
 | Repetição | Insistência tem custos diferentes: dinheiro/ônibus, pausa alheia, retorno fatal, recusa de encaminhamento e casa. Fotos deixam de dominar após 5. Perguntas concentram-se em 8–9 por mudança legítima de informação; 10 as interrompe com vida familiar e não repete aula. |
 | Relação Caio/Maya | Contato escolhido por Caio em 3, leveza/confiança no 4/6, omissão protetora no 5, intervenção no 6/7; retorno surpreende Maya, admissão no 9 rompe confiança. No 10 ambos cooperam, mas não se reconciliam; família não funciona como atalho de aceitação romântica. |
 | Maya como pessoa | Projeto, colega, critérios, gostos e humor precedem perigo. Sua atuação no 7 preserva competência; choque no 9 não a transforma em incapaz. No 10 alerta com conhecimento operacional, sem poder conveniente ou onisciência. |
@@ -50,7 +50,7 @@ Contagem uniforme atual por segmentos separados por espaço, excluídos YAML e t
 | 7 — Você ficou | CANON 1.1 | 1684 |
 | 8 — Demorou | CANON 1.1 | 1864 |
 | 9 — Continuar | CANON 1.1 | 2316 |
-| 10 — Casa | PROVISÓRIO 1.1 | 2334 |
+| 10 — Casa | CANON 1.1 | 2334 |
 | Total |  | 20141 |
 
 9 e 10 são os mais longos por margem pequena sobre 1/3/6, compatível com suas duplas funções. 5 é curto por POV operacional; 7 não prolonga combate/morte. Não há razão para uniformizar extensão.
@@ -58,10 +58,12 @@ Contagem uniforme atual por segmentos separados por espaço, excluídos YAML e t
 ## P2 não bloqueadores e cuidados
 
 1. Perguntas e respostas têm alta presença em 8–9; preferência sobre extensão do 9 já aceita no fechamento. Não reabrir capítulos para reduzir por simetria.
-2. No 10, bloco de troca de roupa/refeição pode receber calibragem por gosto do autor, mas sustenta humanidade e limitações; não é gordura funcional demonstrada.
-3. Passagem pelos fundos precisa ser respeitada no próximo ciclo autorizado, sem presumir garantia universal de saída ou concluir agora a extração. É detalhe provisório do 10, não autorização para modificar o Outline.
+2. Calibragem do bloco roupa/refeição do 10 aceita pelo autor como preferência editorial não bloqueadora; sustenta humanidade e limitações. Sem nova revisão.
+3. Passagem pelos fundos precisa ser respeitada no próximo ciclo autorizado, sem presumir garantia universal de saída ou concluir agora a extração. É fato concretizado e canonizado no 10, não autorização para modificar o Outline.
 4. Recusa de transporte hospitalar no 10 não pode virar alta médica em resumo futuro; nova intenção familiar de buscar atendimento é interrompida pela ameaça.
 
 ## Estado
 
-Capítulos 1–9 permanecem CANON; 10 e esta auditoria acumulada permanecem PROVISÓRIOS. Fatos novos apenas na auditoria individual. **AGUARDANDO APROVAÇÃO DO CAPÍTULO. Capítulo 11 não iniciado.**
+Capítulos 1 e 2 v1.2 e Capítulos 3–10 v1.1 CANON / FECHADOS. Sem capítulo pendente de aprovação. Auditoria acumulada 1–5 preservada e encerrada; [[Livro 1 - Auditoria Acumulada 01–10]] CANON / ENCERRADA, PASSA, P0/P1 restantes zero, sem divergência introduzida pelo fechamento do 10. **Capítulo 11 não iniciado. Produção parada.**
+
+Finalização em 27/09/2026: **PASSA; P0 = 0 e P1 = 0 restantes.** Próximo marco acumulado após o Capítulo 15.

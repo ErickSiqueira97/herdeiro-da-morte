@@ -855,3 +855,10 @@ Primeira consolidação do Vault.
 - Registrados surpresa genuína e desconhecimento de Maya sobre retorno/Livro, admissão da observação anterior à abordagem, comunicação operacional do retorno e confiança ainda não reparada.
 - Caio reconhece risco de ir para casa, aceita avaliação física antes do transporte e escolhe conscientemente priorizar a família. Atendimento e chegada não narrados.
 - Estado do Projeto: **CAPÍTULOS 1–9 FECHADOS; CAPÍTULO 10 NÃO INICIADO**. Produção parada neste fechamento por instrução expressa do autor.
+
+## 27/09/2026 — Fechamento do Capítulo 10 — Casa v1.1 e Auditoria Acumulada 1–10
+- Aprovação humana explícita; manuscrito promovido a **CANON**, sem alteração do corpo narrativo aprovado em 4ecd87d (2334 segmentos pela convenção atual).
+- Auditoria A–N, família, presságio e verdade narrativa encerradas: P0/P1 restantes zero. Calibragem do bloco roupa/refeição aceita como preferência editorial não bloqueadora, sem nova revisão.
+- Somente fatos concretizados promovidos ao [[Livro 1 - Log de Continuidade]]. Caio continua fisicamente limitado; avaliação e limpeza não constituem alta ou cura. Marcelo, Helena e Lívia preservam tarefas, opiniões e decisões próprias. O cuidado do pai não resolve o atrito com Caio. A cooperação prática com Maya não repara a confiança rompida. Existe saída real pela área de serviço até a rua de trás, com corredor livre e ajuda oferecida; Caio escolhe conscientemente permanecer com a família, sem fuga ou extração concretizada. Marcelo interpreta uma ameaça humana, sem conhecer a natureza dos agentes. Família junta e Marcelo vivo no corte da maçaneta; nenhum combate, nova lesão ou morte.
+- [[Livro 1 - Auditoria Acumulada 01–10]] finalizada e promovida a **CANON / ENCERRADA**: **PASSA; P0 = 0 e P1 = 0 restantes**. Nenhuma divergência introduzida e nenhuma correção estrutural realizada. Auditoria 1–5 preservada.
+- Estado do Projeto v1.18: **CAPÍTULOS 1–10 FECHADOS; CAPÍTULO 11 NÃO INICIADO**. Produção parada por instrução expressa do autor.

@@ -19,7 +19,7 @@ relacoes:
     tipo: referencia
 projeto: O Herdeiro da Morte
 status: CANON
-versao: 1.17
+versao: 1.18
 ---
 
 # Estado do Projeto
@@ -41,15 +41,16 @@ Os percentuais medem prontidão estrutural e editorial, não quantidade de notas
 ## Estado editorial
 A macroarquitetura e o outline capítulo por capítulo do Livro 1 estão congelados em CANON. O [[Livro 1 - Outline Definitivo v1]] possui 32 capítulos e passou por auditoria integral, correções e verificação pós-correções. Não há pendência estrutural ativa que impeça a preparação da redação.
 
-**Estado do Livro 1: CAPÍTULOS 1–9 CANONIZADOS / FECHADOS.** Capítulos 1 e 2 na versão 1.2; Capítulos 3–9 na versão 1.1. Capítulo 9 aprovado explicitamente em 26/09/2026, sem alteração do corpo narrativo (2316 palavras). Auditoria A–N, verdade narrativa e relação encerradas; P0/P1 restantes zero. Calibragem das perguntas sobre a observação aceita como preferência editorial não bloqueadora. Fatos concretizados promovidos ao [[Livro 1 - Log de Continuidade]]: leitura superficial correta de Maya, inferências de Caio sem confirmação cosmológica, surpresa e desconhecimento de Maya, observação admitida, comunicação operacional e confiança ainda rompida. Caio reconhece risco, aceita avaliação física antes do transporte e prioriza conscientemente a família. Capítulo 10 — Casa v1.1 PROVISÓRIA, produzido e auditado em 27/09/2026: 2334 palavras pela convenção atual; A–N, família, presságio e verdade narrativa PASSAM; P0/P1 restantes zero. Fatos novos apenas na auditoria, sem promoção ao Log. AGUARDANDO APROVAÇÃO DO CAPÍTULO.
+**Estado do Livro 1: CAPÍTULOS 1–10 CANONIZADOS / FECHADOS.** Capítulos 1 e 2 v1.2; 3–10 v1.1. Capítulo 10 aprovado e fechado em 27/09/2026, sem alteração do corpo narrativo aprovado em 4ecd87d (2334 segmentos pela convenção atual). Auditoria A–N, família, presságio e verdade narrativa encerradas; P0/P1 restantes zero. Calibragem do bloco roupa/refeição aceita como preferência editorial não bloqueadora, sem nova revisão. Somente fatos concretizados promovidos ao [[Livro 1 - Log de Continuidade]].
 
-O pacote operacional continua vigente: Bíblia de Produção, Regras Invioláveis, Mapa de Revelações e Payoffs, Protocolo de Produção, Prompt Mestre e Auditoria Final. [[Livro 1 - Auditoria Acumulada 01–05]] concluída e encerrada com os cinco capítulos canonizados, sem P0/P1 restantes. [[Livro 1 - Auditoria Acumulada 01–10]] produzida, PROVISÓRIA, sem P0/P1 restantes. **Capítulo 10 aguarda aprovação; Capítulo 11 não iniciado.** Os percentuais históricos acima não foram recalculados neste ciclo.
+Caio continua fisicamente limitado; avaliação e limpeza não constituem alta ou cura. Marcelo, Helena e Lívia preservam tarefas, opiniões e decisões próprias. O cuidado do pai não resolve o atrito com Caio. A cooperação prática com Maya não repara a confiança rompida. Existe saída real pela área de serviço até a rua de trás, com corredor livre e ajuda oferecida; Caio escolhe conscientemente permanecer com a família, sem fuga ou extração concretizada. Marcelo interpreta uma ameaça humana, sem conhecer a natureza dos agentes. Família junta e Marcelo vivo no corte da maçaneta; nenhum combate, nova lesão ou morte.
+
+O pacote operacional continua vigente: Bíblia de Produção, Regras Invioláveis, Mapa de Revelações e Payoffs, Protocolo de Produção, Prompt Mestre e Auditoria Final. Capítulos 1 e 2 v1.2 e Capítulos 3–10 v1.1 CANON / FECHADOS. Sem capítulo pendente de aprovação. Auditoria acumulada 1–5 preservada e encerrada; [[Livro 1 - Auditoria Acumulada 01–10]] CANON / ENCERRADA, PASSA, P0/P1 restantes zero, sem divergência introduzida pelo fechamento do 10. **Capítulo 11 não iniciado. Produção parada.** Os percentuais históricos acima não foram recalculados neste fechamento.
 
 ## Próximos blocos
-1. Aguardar aprovação humana do **Capítulo 10 — Casa v1.1**.
-2. Somente após aprovação, canonizar o 10, promover fatos concretizados e encerrar a auditoria acumulada 1–10.
-3. Não iniciar o Capítulo 11 neste ciclo; manter produção de um capítulo por vez.
-4. Preservar a auditoria acumulada 1–5; marco 1–10 auditado provisoriamente, próximo marco previsto após o Capítulo 15.
+1. Aguardar instrução humana para iniciar o ciclo do Capítulo 11.
+2. Não iniciar o Capítulo 11 neste fechamento; manter produção de um capítulo por vez.
+3. Preservar auditorias acumuladas 1–5 e 1–10 encerradas; próximo marco após o Capítulo 15.
 
 Ver [[EM ABERTO]] e [[PROCESSO]].
 

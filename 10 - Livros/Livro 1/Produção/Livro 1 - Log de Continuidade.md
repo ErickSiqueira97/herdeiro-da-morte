@@ -265,6 +265,31 @@ A manifestação visual do arco segue integralmente o Outline canônico e não c
 | Comunicação operacional | Maya afirma ter avisado morte; envia retorno consciente e assinatura, recebe “Recebido”. Destinatário sem nome/cargo; endereço familiar não transmitido em cena. |
 | Relação/decisões | Observação admitida; confiança rompida sem perdão. Caio exige informação prévia de riscos; Maya concorda. Ele aceita cuidado e prioriza casa sobre Santuário. Nenhuma promessa de segurança ou romance resolvido. |
 
+### Capítulo 10 — Casa — v1.1
+
+**CANON / FECHADO em 27/09/2026**, por aprovação humana explícita. Fonte: [[10 - Casa]], versão aprovada no commit 4ecd87d, sem alteração do corpo narrativo (2334 segmentos pela convenção atual). [[Capítulo 10 - Auditoria]]: A–N, família, presságio e verdade narrativa PASSAM; P0/P1 restantes zero. Calibragem do bloco roupa/refeição aceita como preferência editorial não bloqueadora, sem nova revisão.
+
+#### Proteções explícitas de continuidade
+
+Caio continua fisicamente limitado; avaliação e limpeza não constituem alta ou cura. Marcelo, Helena e Lívia preservam tarefas, opiniões e decisões próprias. O cuidado do pai não resolve o atrito com Caio. A cooperação prática com Maya não repara a confiança rompida. Existe saída real pela área de serviço até a rua de trás, com corredor livre e ajuda oferecida; Caio escolhe conscientemente permanecer com a família, sem fuga ou extração concretizada. Marcelo interpreta uma ameaça humana, sem conhecer a natureza dos agentes. Família junta e Marcelo vivo no corte da maçaneta; nenhum combate, nova lesão ou morte.
+
+| Campo | Fato concretizado na v1.1 aprovada e limite |
+|---|---|
+| Tempo | Continuação da noite dos capítulos 6–9, sem duração exata, data ficcional ou hora de chegada. |
+| Atendimento/transporte | Equipe atende na lanchonete, examina/limpa ferimentos, recomenda continuar atendimento; Caio recusa transporte, leva papel registrando recusa. Maya também recomendara ir. Chegam em carro de aplicativo, sem nome de motorista/preço/hospital fixados. |
+| Estado físico | Caio sente dor ao soltar cinto, levantar, andar, rir e vestir; curativo no peito, dor no cotovelo, sem cura completa. Maya tem curativo no braço e roupa ainda com sangue. Nenhum diagnóstico ou medicação novo. |
+| Roupa/objetos | Camiseta rasgada retirada com ajuda de Marcelo e posta em saco; Caio veste camisa azul de botão. Livro fechado na mochila junto ao caderno; mochila deixada junto ao armário da cozinha. Papel guardado por Helena com documentos. |
+| Família | Helena lida com varal e armazenamento de comida; Lívia pendura duas peças e concluiu vídeo, recusa nova edição pedida por Júlia. Marcelo preparou ovos com tomate que grudaram; comenta vídeo e volume do telefone. Todos têm ação própria. |
+| Comida | Arroz e ovos com tomate, porção pequena para Caio; Maya aceita água. Sem novo gasto, SSD, reembolso ou reposição de pão estabelecidos. |
+| Conhecimento familiar | Veem ferimentos, sabem de recusa e relato fragmentário de ameaça na rua. Helena conhece nome Maya pelo relato anterior de Caio. Marcelo desconfia das respostas dela. Não sabem morte/retorno, deuses ou origem dos objetos. |
+| Relações | Atrito Caio/Marcelo preservado. Cooperação prática com Maya sem perdão, declaração ou reconciliação. Maya cumpre pedido de avisar diante de sinais de risco. |
+| Plano de cuidado | Helena decide sair com Caio para atendimento após trocar roupa; busca bolsa e pede chave. Saída para atendimento não ocorre antes da ameaça. |
+| Operação | Maya vê carro/pessoa conhecida e mostra mensagem de permanecer para recolhê-lo. Nomes/estrutura/método de localização não revelados. Afirma que informações já existiam, não que endereço foi transmitido naquele diálogo. |
+| Decisão | Maya propõe retirar Caio; ele identifica passagem pela área de serviço até rua de trás e escolhe não deixar a família atendendo desconhecidos sem explicação/proteção. |
+| Geografia/defesa | Sala entre entrada e corredor; janela, porta trancada, pequeno móvel deslocado para estreitar acesso. Marcelo fora do eixo do vidro da janela, chave no bolso; Caio atrás, limitado; Maya perto da entrada da sala. Não se fixa porta envidraçada. |
+| Helena/Lívia na saída | Helena liga para polícia com telefone desbloqueado de Marcelo; Lívia junto dela no corredor segura bolsa. Não deixam casa nem se separam em rotas distintas. |
+| Ameaça/saída | Marcelo conta duas pessoas no portão e outra no carro. Voz chama Caio pelo nome completo; portão abre após som metálico; passos no espaço até casa e maçaneta da porta desce. Nenhum invasor identificado, golpe, ferimento novo ou morte. |
+
 ## Estado do ciclo
 
-Capítulos 1 e 2 v1.2 e Capítulos 3–9 v1.1 canonizados e fechados. Capítulo 10 — Casa v1.1 PROVISÓRIA, em AGUARDANDO APROVAÇÃO DO CAPÍTULO. Fatos novos apenas em [[Capítulo 10 - Auditoria]], sem promoção canônica. Auditoria acumulada 1–5 encerrada; [[Livro 1 - Auditoria Acumulada 01–10]] PROVISÓRIA. **Capítulo 11 não iniciado**.
+Capítulos 1 e 2 v1.2 e Capítulos 3–10 v1.1 CANON / FECHADOS. Sem capítulo pendente de aprovação. Auditoria acumulada 1–5 preservada e encerrada; [[Livro 1 - Auditoria Acumulada 01–10]] CANON / ENCERRADA, PASSA, P0/P1 restantes zero, sem divergência introduzida pelo fechamento do 10. **Capítulo 11 não iniciado. Produção parada.**

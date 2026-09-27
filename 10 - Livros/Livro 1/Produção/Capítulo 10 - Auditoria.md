@@ -2,13 +2,13 @@
 id: livro1-cap10-auditoria
 tipo: auditoria
 schema_version: 1.1
-status: PROVISÓRIO
+status: CANON
 tags: [livro-1, capitulo-10, auditoria]
 ---
 
 # Capítulo 10 — Casa — Auditoria
 
-27/09/2026. Base canônica 08824e3. Cartão/gate 80e5de9; primeira versão abfcb4e. Manuscrito v1.1 PROVISÓRIO, 2334 palavras no corpo, por segmentos separados por espaço. Capítulos anteriores não alterados. Fatos novos aguardam aprovação.
+27/09/2026. Base canônica 08824e3. Cartão/gate 80e5de9; primeira versão abfcb4e. Manuscrito v1.1 CANON / FECHADO, 2334 palavras no corpo, por segmentos separados por espaço. Capítulos anteriores não alterados. Aprovado explicitamente e fechado em 27/09/2026, fonte 4ecd87d, sem alteração do corpo narrativo. Somente fatos concretizados promovidos ao [[Livro 1 - Log de Continuidade]].
 
 ## Auditoria A–N
 
@@ -73,11 +73,11 @@ Nenhuma frase depende do conhecimento autoral da morte no 11. Nenhum evento dess
 - P1 corrigido na v1.1: pergunta sobre saída pelos fundos precisava de resposta concreta para a escolha de ficar não depender de saída apenas abstrata. Caio indica passagem da área de serviço para rua de trás; Maya olha corredor livre e se dispõe a ajudá-lo. Não há fuga nem extração nesta cena.
 - P2 corrigido: retirada comparação entre “recolher” Caio e recolher objetos, que explicava o efeito já obtido pela mensagem.
 - P0 encontrados: zero. P0/P1 restantes: zero.
-- P2 não bloqueador: possível preferência de calibragem do tamanho do bloco roupa/refeição. Mantido para sustentar o pedido de vida doméstica e as limitações físicas. Não exige revisão de capítulos fechados.
+- P2 não bloqueador: calibragem do bloco roupa/refeição aceita pelo autor como preferência editorial não bloqueadora, sem nova revisão.
 
-## Fatos propostos para continuidade — NÃO CANONIZADOS
+## Fatos aprovados e promovidos ao Log de Continuidade
 
-| Campo | Fato na versão provisória e limite |
+| Campo | Fato concretizado na v1.1 aprovada e limite |
 |---|---|
 | Tempo | Continuação da noite dos capítulos 6–9, sem duração exata, data ficcional ou hora de chegada. |
 | Atendimento/transporte | Equipe atende na lanchonete, examina/limpa ferimentos, recomenda continuar atendimento; Caio recusa transporte, leva papel registrando recusa. Maya também recomendara ir. Chegam em carro de aplicativo, sem nome de motorista/preço/hospital fixados. |
@@ -96,6 +96,6 @@ Nenhuma frase depende do conhecimento autoral da morte no 11. Nenhum evento dess
 
 ## Gate pós-escrita — PASSA
 
-Auditoria A–N, família, presságio e verdade narrativa concluídas; P0/P1 restantes zero. Vida doméstica, emoção, causalidade, agência, regras e continuidade verificadas. Auditoria acumulada 1–10 produzida separadamente, ainda PROVISÓRIA. Nenhum fato novo promovido ao Log. Capítulo 11 não iniciado.
+Auditoria A–N, família, presságio e verdade narrativa concluídas; P0/P1 restantes zero. Vida doméstica, emoção, causalidade, agência, regras e continuidade verificadas. Auditoria acumulada 1–10 finalizada e promovida a CANON: PASSA, P0/P1 restantes zero, sem divergência introduzida pelo fechamento. Somente fatos concretizados promovidos ao Log. Capítulo 11 não iniciado.
 
-**AGUARDANDO APROVAÇÃO DO CAPÍTULO.**
+**CANON / FECHADO. Produção parada.**
