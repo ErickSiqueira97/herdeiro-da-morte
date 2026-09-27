@@ -3,7 +3,7 @@ id: livro1-manuscrito-cap14
 tipo: capitulo
 schema_version: 1.1
 status: PROVISÓRIO
-versao: 1.0
+versao: 1.1
 tags: [livro-1, capitulo-14, manuscrito]
 ---
 
@@ -159,13 +159,13 @@ Mas a cabeça do pai tinha virado daquele jeito. Caio viu de novo apenas o trech
 
 — Eu voltei — disse.
 
-— Me contaram.
+— Li isso no relato que me passaram.
 
 — Então dá.
 
 Elisa não respondeu logo. Caio ouviu o papel se mover debaixo da mão dela quando tornou a pegar a prancheta.
 
-— Eu não sei como você voltou. Não fui eu que fiz isso. Não posso prometer repetir.
+— Eu não sei como você voltou. Não fui eu que fiz isso. Florescer não traz quem morreu de volta.
 
 Não ofereceu levá-lo a alguém melhor. Caio esperou mesmo assim.
 
@@ -201,7 +201,7 @@ Caio baixou os olhos para o peito. O tecido da camisa estava dobrado dos dois la
 
 — Então é só esperar?
 
-— Agora é cuidar do ferimento, descansar e não tratar como pequeno um movimento que está te fazendo passar mal. Depois a gente acompanha o que você consegue recuperar. Não vou te dar alta porque você consegue conversar comigo.
+— Agora é cuidar do ferimento, descansar e não tratar como pequeno um movimento que está te fazendo passar mal. Depois a gente acompanha o que você consegue recuperar. Conseguir conversar comigo não basta para receber alta.
 
 A mulher ao lado se afastou para buscar material. Elisa ajudou Caio a fechar a camisa antes de recolher a prancheta.
 
@@ -253,7 +253,7 @@ Elisa anotou alguma coisa, riscou a linha de baixo e dobrou a faixa que não che
 
 — A transferência dele primeiro — disse, apontando Caio. — Depois volto ao braço. O exercício fica para outro horário.
 
-Caio acompanhou-a até o banco. Havia outra folha presa atrás da primeira, com pequenos desenhos de posições e uma tabela preenchida a lápis. Elisa conferiu uma medida, apagou um número e escreveu de novo. A borracha estava quase no metal do lápis.
+Caio acompanhou-a com os olhos até o banco. Havia outra folha presa atrás da primeira, com pequenos desenhos de posições e uma tabela preenchida a lápis. Elisa conferiu uma medida, apagou um número e escreveu de novo. A borracha estava quase no metal do lápis.
 
 — Ela podia ter tentado — disse ele.
 

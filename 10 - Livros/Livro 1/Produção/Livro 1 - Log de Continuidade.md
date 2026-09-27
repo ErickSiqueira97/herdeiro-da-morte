@@ -388,4 +388,4 @@ Caio continua fisicamente limitado; avaliação e limpeza não constituem alta o
 
 ## Estado do ciclo
 
-Capítulos 1 e 2 v1.2 e Capítulos 3–13 v1.1 CANON / FECHADOS. Sem capítulo pendente de aprovação. Auditorias acumuladas 1–5 e 1–10 preservadas e encerradas; próximo marco após o 15. **Capítulo 14 não iniciado. Produção parada.**
+Capítulos 1 e 2 v1.2 e Capítulos 3–13 v1.1 CANON / FECHADOS. **Capítulo 14 — Florescer, v1.1 PROVISÓRIA: AGUARDANDO APROVAÇÃO DO CAPÍTULO.** Base e41d13f; cartão/gate a24d37c; primeira versão 0e50d5d. Auditoria A–N e cinco gates especiais PASSAM, P0/P1 restantes zero. Fatos candidatos somente em [[Capítulo 14 - Auditoria]], sem promoção neste Log. Auditorias acumuladas 1–5 e 1–10 preservadas e encerradas; próximo marco após o 15. Capítulo 15 não iniciado. Produção parada.
