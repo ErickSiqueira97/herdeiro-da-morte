@@ -12,7 +12,7 @@ relacoes:
 
 # Auditoria Final — Arquitetura Definitiva v2
 
-> **Status:** PROVISÓRIO. Auditoria de congelamento da macroarquitetura. Não promove a v2 a CANON até aprovação explícita.
+> **Status:** PROVISÓRIO PARA FECHAMENTO. Os quatro ajustes foram aprovados e aplicados à Arquitetura Definitiva v2 em 27/09/2026. A promoção da arquitetura a CANON/congelamento para outline ainda aguarda fechamento explícito.
 
 # 1. Veredito
 
@@ -439,14 +439,14 @@ Sem prever vendas, a arquitetura possui elementos de alta legibilidade:
 
 O diferencial não deve ser quantidade de conceitos, e sim o conflito moral entre **impedir perdas** e **aceitar limites**.
 
-# 26. Quatro ajustes finais antes do CANON
+# 26. Quatro ajustes finais — APLICADOS
 
 1. **Cicatriz:** não nomear/diagnosticar para leitor no Livro 1.
 2. **Fúria:** bastidor chama Registro; “segunda Authority” apenas hipótese de personagens.
 3. **Caio × Nádia:** fixar confronto filosófico no capítulo 24/início do 25 para causar a exclusão da operação.
 4. **Morte/Seshat:** impedir qualquer resumo narrativo que transforme enquadramento em afirmação literal de identidade.
 
-Nenhum desses ajustes altera a macroestrutura.
+Nenhum desses ajustes altera a macroestrutura. **Todos os quatro foram incorporados à Arquitetura Definitiva v2.**
 
 # 27. Gate final
 
