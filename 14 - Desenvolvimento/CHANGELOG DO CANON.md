@@ -502,3 +502,13 @@ Primeira consolidação do Vault.
 - Maya direciona Caio ao Santuário, cuja proteção institucional impede que sua chegada dependa de coincidência.
 - No Santuário, a leitura superficial confirma Seshat e a leitura profunda encontra a incompatibilidade já prevista em A07, inicialmente atribuída à morte e retorno.
 - Estabelecido o paralelo: Caio morre voltando por alguém; Marcelo morre ficando diante do perigo por Caio.
+
+
+## 27/09/2026 — Promessa de Maya na invasão dos Valença
+- Fechado que Caio não aceita fugir deixando Helena e Lívia sem proteção.
+- Maya explica que a Elite veio por Caio e assume pessoalmente a retirada de mãe e irmã.
+- Caio parte apenas após Maya prometer ficar com as duas até estarem seguras.
+- Maya consegue retirá-las do confronto imediato; Helena e Lívia são interceptadas posteriormente.
+- A causa que impede Perseguição de manter/encontrar o rastro permanece aberta e deverá respeitar as regras da Autoridade.
+- A promessa quebrada torna o desaparecimento dos Valença parte do arco pessoal de Maya e cria uma razão concreta para a ruptura de confiança de Caio.
+- Fechado o espelho: Caio volta porque Maya ficou; depois Maya fica para que Caio possa partir.
