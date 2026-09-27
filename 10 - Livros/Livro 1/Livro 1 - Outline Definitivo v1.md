@@ -452,8 +452,8 @@ relacoes:
 **Premissa causal:** não é missão de combate para Caio. Raul autoriza uma saída controlada de observação, sem função de combate, para comparar em campo uma característica perceptiva relatada por Caio que os instrumentos registraram apenas de forma incompleta. Maya acompanha por já conhecer a anomalia perceptiva; Lucas integra a saída por função operacional própria.
 
 **Sequência:**
-- Maya e Lucas presentes.
-- Surge Luzeiro: cervídeo esguio, luminosidade bela e errada.
+- Raul conduz a saída; Maya e Lucas cumprem funções próprias e Caio permanece sob limites claros de participação.
+- O Luzeiro já ocupa a área observada e surge durante o trajeto, não porque a equipe o procurou nem porque a criatura escolheu Caio: cervídeo esguio, luminosidade bela e errada.
 - Caio espera ordem de combate.
 - Raul:
   > **NÃO INTERFERIR.**
@@ -473,9 +473,9 @@ relacoes:
 **Função:** pequeno erro de Caio + independência metodológica de Samira.
 
 **Sequência:**
-- Caio pressiona para acessar material/seguir pista que Beatriz/Raul ainda não liberaram.
-- Recebe “não” por motivo real.
-- Em vez de aceitar, usa acesso indireto/insistência para forçar análise.
+- Caio pressiona para usar uma referência de ocorrência/arquivo que Beatriz e Raul ainda não liberaram como pista familiar porque a correlação é insuficiente.
+- Recebe “não” por motivo real: o dado ainda não sustenta deslocamento nem conclusão.
+- Em vez de aceitar, usa o que já ouviu/viu para convencer Maya a verificar a possível conexão.
 - A insistência tem consequência concreta: Caio convence Maya a verificar uma correlação insuficiente com Helena e Lívia. A pista não se sustenta e consome uma janela operacional; durante a ausência dela, uma trilha secundária real esfria a ponto de Perseguição não conseguir retomá-la. Nunca confirmar que essa trilha levaria à família.
 - Samira analisa evidência antiga relacionada e encontra duas explicações incompatíveis.
 - Pressionada por Campo:
